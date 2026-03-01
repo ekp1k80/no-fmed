@@ -1,0 +1,24 @@
+[
+  {
+    "question": "¿Qué es la red linfocapilar profunda de la piel?",
+    "options": [
+      {"text": "Red de capilares linfáticos en la región profunda de la capa papilar", "isCorrect": true, "rationale": "La red linfocapilar profunda de la piel se ubica en la región profunda de la capa papilar de la dermis."},
+      {"text": "Vasos sanguíneos arteriales", "isCorrect": false, "rationale": "Son linfáticos, no arteriales."},
+      {"text": "Nervios sensitivos de la epidermis", "isCorrect": false, "rationale": "No son nervios, son vasos linfáticos."},
+      {"text": "Glándulas sudoríparas profundas", "isCorrect": false, "rationale": "No son glándulas, son vasos."}
+    ],
+    "hint": "Es una red de drenaje linfático en la dermis papilar profunda...",
+    "image": "imagen:red-linfocapilar-profunda-dermis"
+  },
+  {
+    "question": "¿Qué son las redes linfáticas subcutáneas?",
+    "options": [
+      {"text": "Redes de vasos linfáticos desde donde se conduce la linfa", "isCorrect": true, "rationale": "Las redes linfáticas subcutáneas son el punto desde donde la linfa es conducida hacia estructuras más profundas."},
+      {"text": "Arterias del tejido subcutáneo", "isCorrect": false, "rationale": "Son linfáticas, no arterias."},
+      {"text": "Nervios del sistema simpático", "isCorrect": false, "rationale": "No son nervios, son vasos linfáticos."},
+      {"text": "Células adiposas organizadas", "isCorrect": false, "rationale": "No son células grasas, son vasos."}
+    ],
+    "hint": "Son el punto de partida del drenaje linfático desde el tejido subcutáneo...",
+    "image": "imagen:redes-linfaticas-subcutaneas-drenaje"
+  }
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "question": "¿Qué es el tejido subcutáneo (hipodermis)?",
+    "options": [
+      {"text": "Tejido ubicado profundo a la dermis, compuesto por conectivo laxo", "isCorrect": true, "rationale": "El tejido subcutáneo está profundo a la dermis y está compuesto mayormente por tejido conectivo laxo."},
+      {"text": "La capa más superficial de la piel", "isCorrect": false, "rationale": "La más superficial es la epidermis."},
+      {"text": "Una glándula de la piel", "isCorrect": false, "rationale": "No es una glándula; es una capa de tejido."},
+      {"text": "Un músculo de la piel", "isCorrect": false, "rationale": "La hipodermis es tejido conectivo y adiposo, no músculo."}
+    ],
+    "hint": "Es la capa de grasa y tejido laxo debajo de la piel...",
+    "image": "imagen:tejido-subcutaneo-hipodermis-ubicacion"
+  },
+  {
+    "question": "¿Qué contiene el tejido subcutáneo?",
+    "options": [
+      {"text": "Porciones profundas de anexos, conectivo laxo, vasos y nervios", "isCorrect": true, "rationale": "El tejido subcutáneo contiene porciones profundas de anexos cutáneos, tejido conectivo laxo, vasos y nervios."},
+      {"text": "Solo células epiteliales", "isCorrect": false, "rationale": "Las células epiteliales están en la epidermis."},
+      {"text": "Solo músculos estriados", "isCorrect": false, "rationale": "No contiene músculos estriados."},
+      {"text": "Solo vasos linfáticos", "isCorrect": false, "rationale": "Contiene vasos sanguíneos y nervios también."}
+    ],
+    "hint": "Es una capa de transición con varios componentes..."
+  },
+  {
+    "question": "¿Qué es el panículo adiposo?",
+    "options": [
+      {"text": "La capa más superficial del tejido subcutáneo, principal almacén de grasa", "isCorrect": true, "rationale": "El panículo adiposo es la capa más superficial del tejido subcutáneo y el principal almacén de tejido adiposo del cuerpo."},
+      {"text": "Una glándula sudorípara", "isCorrect": false, "rationale": "No es una glándula; es tejido adiposo."},
+      {"text": "La capa más profunda del tejido subcutáneo", "isCorrect": false, "rationale": "Es la más superficial, no la más profunda."},
+      {"text": "Un músculo de la piel", "isCorrect": false, "rationale": "No es músculo; es tejido graso."}
+    ],
+    "hint": "Es la 'gordura' que está justo debajo de la piel...",
+    "image": "imagen:paniculo-adiposo-capa-superficial"
+  },
+  {
+    "question": "¿Cómo varía el espesor del panículo adiposo?",
+    "options": [
+      {"text": "Varía con el estado nutricional", "isCorrect": true, "rationale": "El grosor del panículo adiposo varía según el estado nutricional de la persona."},
+      {"text": "Es constante en todo el cuerpo", "isCorrect": false, "rationale": "No es constante; varía por región y nutrición."},
+      {"text": "Solo varía con la edad", "isCorrect": false, "rationale": "Varía principalmente con nutrición, aunque la edad también influye."},
+      {"text": "No varía nunca", "isCorrect": false, "rationale": "Sí varía considerablemente."}
+    ],
+    "hint": "Aumenta cuando engordamos y disminuye cuando adelgazamos..."
+  },
+  {
+    "question": "¿Cómo está estructurado el panículo adiposo?",
+    "options": [
+      {"text": "Dividido en lobulillos separados por tabiques de tejido fibroso", "isCorrect": true, "rationale": "El panículo adiposo está dividido en lobulillos separados por tabiques de tejido fibroso que contienen vasos."},
+      {"text": "Como una masa sólida sin divisiones", "isCorrect": false, "rationale": "No es sólido; está lobulillado."},
+      {"text": "Como una red de músculos", "isCorrect": false, "rationale": "No es tejido muscular; es adiposo."},
+      {"text": "Como una capa uniforme de células iguales", "isCorrect": false, "rationale": "Está dividido en lobulillos, no es uniforme."}
+    ],
+    "hint": "Está dividido en 'compartimentos' pequeños...",
+    "image": "imagen:lobulillos-paniculo-tabiques-fibrosos"
+  },
+  {
+    "question": "¿Qué son los tabiques de tejido fibroso del panículo adiposo?",
+    "options": [
+      {"text": "Estructuras que separan lobulillos y contienen vasos", "isCorrect": true, "rationale": "Los tabiques de tejido fibroso separan los lobulillos y en ellos se encuentran los vasos."},
+      {"text": "Células grasas", "isCorrect": false, "rationale": "No son células; son tejido conectivo."},
+      {"text": "Nervios sensoriales", "isCorrect": false, "rationale": "Aunque pueden contener nervios, su función principal es separar lobulillos."},
+      {"text": "Glándulas sudoríparas", "isCorrect": false, "rationale": "No son glándulas; son tejido fibroso."}
+    ],
+    "hint": "Son paredes divisorias que contienen vasos sanguíneos..."
+  },
+  {
+    "question": "¿Qué son los ligamentos cutáneos (retinacula cutis)?",
+    "options": [
+      {"text": "Estructuras que fijan la piel a planos profundos atravesando el tejido subcutáneo", "isCorrect": true, "rationale": "Los ligamentos cutáneos atraviesan el tejido subcutáneo y fijan la piel a los planos profundos."},
+      {"text": "Músculos que mueven la piel", "isCorrect": false, "rationale": "No son músculos; son ligamentos de tejido conectivo."},
+      {"text": "Nervios sensitivos de la piel", "isCorrect": false, "rationale": "No son nervios; son estructuras de sostén."},
+      {"text": "Vasos sanguíneos", "isCorrect": false, "rationale": "No son vasos; son bandas de tejido fibroso."}
+    ],
+    "hint": "Mantienen la piel unida a lo que está debajo...",
+    "image": "imagen:ligamentos-cutaneos-retinacula-fijacion"
+  },
+  {
+    "question": "¿Cuál es el efecto de ligamentos largos y escasos?",
+    "options": [
+      {"text": "Piel móvil", "isCorrect": true, "rationale": "Ligamentos largos y escasos permiten que la piel sea móvil."},
+      {"text": "Piel fija", "isCorrect": false, "rationale": "Eso lo producen ligamentos cortos y abundantes."},
+      {"text": "Piel gruesa", "isCorrect": false, "rationale": "El espesor no depende de los ligamentos."},
+      {"text": "Piel más pigmentada", "isCorrect": false, "rationale": "La pigmentación no está relacionada con los ligamentos."}
+    ],
+    "hint": "Menos anclas = más movilidad..."
+  },
+  {
+    "question": "¿Cuál es el efecto de ligamentos cortos y abundantes?",
+    "options": [
+      {"text": "Piel fija", "isCorrect": true, "rationale": "Ligamentos cortos y abundantes hacen que la piel sea fija."},
+      {"text": "Piel móvil", "isCorrect": false, "rationale": "La piel móvil resulta de ligamentos largos y escasos."},
+      {"text": "Piel delgada", "isCorrect": false, "rationale": "El espesor no depende de los ligamentos."},
+      {"text": "Mayor sudoración", "isCorrect": false, "rationale": "La sudoración no está relacionada con los ligamentos."}
+    ],
+    "hint": "Muchas anclas = menos movilidad..."
+  },
+  {
+    "question": "¿Cuál es un ejemplo de ligamentos cutáneos muy desarrollados?",
+    "options": [
+      {"text": "Ligamentos suspensorios de la mama", "isCorrect": true, "rationale": "Los ligamentos suspensorios de la mama (Cooper) son un ejemplo de ligamentos cutáneos muy desarrollados."},
+      {"text": "Tendones del brazo", "isCorrect": false, "rationale": "Los tendones unen músculo a hueso, no son ligamentos cutáneos."},
+      {"text": "Ligamentos de las articulaciones", "isCorrect": false, "rationale": "Los ligamentos articulares son diferentes; unen huesos."},
+      {"text": "Fascia muscular", "isCorrect": false, "rationale": "La fascia es diferente de los ligamentos cutáneos específicos."}
+    ],
+    "hint": "En el pecho hay ligamentos que sostienen el tejido glandular...",
+    "image": "imagen:ligamentos-suspensorios-mama"
+  },
+  {
+    "question": "¿Cuál es la primera función del tejido subcutáneo?",
+    "options": [
+      {"text": "Termorregulación como aislante térmico", "isCorrect": true, "rationale": "El tejido subcutáneo actúa como aislante térmico, reteniendo el calor corporal."},
+      {"text": "Producción de melanina", "isCorrect": false, "rationale": "La melanina se produce en la epidermis."},
+      {"text": "Síntesis de vitamina D", "isCorrect": false, "rationale": "La vitamina D se sintetiza en la epidermis."},
+      {"text": "Protección UV", "isCorrect": false, "rationale": "La protección UV es función de la melanina en la epidermis."}
+    ],
+    "hint": "La grasa retiene el calor..."
+  },
+  {
+    "question": "¿Cuál es la segunda función del tejido subcutáneo?",
+    "options": [
+      {"text": "Amortiguar compresiones sobre eminencias óseas", "isCorrect": true, "rationale": "El tejido subcutáneo amortigua las compresiones producidas por el apoyo sobre eminencias óseas."},
+      {"text": "Producir pelos", "isCorrect": false, "rationale": "Los pelos se originan en la epidermis."},
+      {"text": "Secretar sudor", "isCorrect": false, "rationale": "El sudor se produce en glándulas sudoríparas."},
+      {"text": "Fijar músculos a huesos", "isCorrect": false, "rationale": "Esa es función de los tendones."}
+    ],
+    "hint": "Actúa como colchón cuando nos apoyamos..."}
+]

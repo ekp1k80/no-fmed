@@ -1,0 +1,251 @@
+[
+  {
+    "question": "¿Qué tipo de epitelio es la epidermis?",
+    "options": [
+      {"text": "Epitelio estratificado escamoso queratinizado", "isCorrect": true, "rationale": "La epidermis es un epitelio estratificado (en capas), escamoso (células planas) y queratinizado (con queratina)."},
+      {"text": "Epitelio simple cúbico", "isCorrect": false, "rationale": "El epitelio simple cúbico es de una sola capa de células cúbicas, como en los túbulos renales."},
+      {"text": "Epitelio columnar pseudoestratificado", "isCorrect": false, "rationale": "Este tipo se encuentra en las vías respiratorias, no en la piel."},
+      {"text": "Epitelio de transición", "isCorrect": false, "rationale": "El epitelio de transición se encuentra en vejiga y uréteres, adaptándose a distensión."}
+    ],
+    "hint": "Pensá en las características: tiene capas, células planas, y produce una proteína dura...",
+    "image": "imagen:tipos-epitelios-epidermis"
+  },
+  {
+    "question": "¿La epidermis tiene vasos sanguíneos?",
+    "options": [
+      {"text": "No, carece de vasos sanguíneos y linfáticos", "isCorrect": true, "rationale": "La epidermis no tiene vasos sanguíneos ni linfáticos; recibe nutrientes por difusión desde la dermis."},
+      {"text": "Sí, tiene una densa red capilar", "isCorrect": false, "rationale": "Los vasos están en la dermis, no en la epidermis."},
+      {"text": "Solo tiene vasos linfáticos", "isCorrect": false, "rationale": "No tiene ni vasos sanguíneos ni linfáticos."},
+      {"text": "Tiene vasos sanguíneos solo en las capas profundas", "isCorrect": false, "rationale": "Ninguna capa de la epidermis tiene vasos; todos están en la dermis."}
+    ],
+    "hint": "Por eso una raspadura superficial no sangra..."
+  },
+  {
+    "question": "¿Cuál es la capa más profunda de la epidermis?",
+    "options": [
+      {"text": "Estrato basal", "isCorrect": true, "rationale": "El estrato basal es la capa más profunda de la epidermis, también llamado estrato germinativo."},
+      {"text": "Estrato córneo", "isCorrect": false, "rationale": "El estrato córneo es la capa más superficial, no la más profunda."},
+      {"text": "Estrato lúcido", "isCorrect": false, "rationale": "El estrato lúcido está entre el granuloso y el córneo, no es el más profundo."},
+      {"text": "Estrato espinoso", "isCorrect": false, "rationale": "El estrato espinoso está por encima del basal, no es el más profundo."}
+    ],
+    "hint": "Es donde se generan las nuevas células...",
+    "image": "imagen:capas-epidermis-orden"
+  },
+  {
+    "question": "¿Cuánto tarda la epidermis en regenerarse completamente?",
+    "options": [
+      {"text": "Aproximadamente 30 días", "isCorrect": true, "rationale": "Las células del estrato basal regeneran la epidermis en aproximadamente 30 días."},
+      {"text": "1 día", "isCorrect": false, "rationale": "Sería una regeneración extremadamente rápida, imposible para un tejido tan complejo."},
+      {"text": "6 meses", "isCorrect": false, "rationale": "Es demasiado tiempo; la piel se renueva mucho más frecuentemente."},
+      {"text": "2 años", "isCorrect": false, "rationale": "El tiempo de renovación es mucho menor, alrededor de un mes."}
+    ],
+    "hint": "Aproximadamente un mes..."
+  },
+  {
+    "question": "¿Dónde se ubican las células dendríticas de Langerhans?",
+    "options": [
+      {"text": "En el estrato espinoso", "isCorrect": true, "rationale": "Las células dendríticas de Langerhans se ubican en el estrato espinoso de la epidermis."},
+      {"text": "En el estrato basal", "isCorrect": false, "rationale": "En el estrato basal se encuentran los queratinocitos en división y melanocitos."},
+      {"text": "En el estrato córneo", "isCorrect": false, "rationale": "El estrato córneo tiene células muertas queratinizadas, sin células vivas."},
+      {"text": "En la dermis", "isCorrect": false, "rationale": "Las células de Langerhans son exclusivas de la epidermis, específicamente del estrato espinoso."}
+    ],
+    "hint": "Es una capa intermedia, entre el basal y el córneo...",
+    "image": "imagen:celulas-langerhans-ubicacion"
+  },
+  {
+    "question": "¿En qué tipo de piel se encuentra el estrato lúcido?",
+    "options": [
+      {"text": "Solo en piel gruesa", "isCorrect": true, "rationale": "El estrato lúcido solo está presente en la piel gruesa (palmas y plantas)."},
+      {"text": "En toda la piel del cuerpo", "isCorrect": false, "rationale": "La piel delgada (mayor parte del cuerpo) carece de estrato lúcido."},
+      {"text": "Solo en piel delgada", "isCorrect": false, "rationale": "Es al revés: la piel delgada NO tiene estrato lúcido."},
+      {"text": "En la dermis", "isCorrect": false, "rationale": "El estrato lúcido es una capa de la epidermis, no de la dermis."}
+    ],
+    "hint": "Está entre el granuloso y el córneo, pero solo en ciertas zonas..."
+  },
+  {
+    "question": "¿Cuál es la capa más superficial de la epidermis?",
+    "options": [
+      {"text": "Estrato córneo", "isCorrect": true, "rationale": "El estrato córneo es la capa más superficial, formada por células muertas queratinizadas."},
+      {"text": "Estrato basal", "isCorrect": false, "rationale": "El estrato basal es la capa más profunda, no la más superficial."},
+      {"text": "Estrato lúcido", "isCorrect": false, "rationale": "El estrato lúcido está debajo del córneo (cuando existe)."},
+      {"text": "Estrato granuloso", "isCorrect": false, "rationale": "El estrato granuloso está por debajo del lúcido y córneo."}
+    ],
+    "hint": "Es la que se desprende constantemente en forma de escamas...",
+    "image": "imagen:estrato-corneo-superficial"
+  },
+  {
+    "question": "¿Qué sucede con las células del estrato córneo?",
+    "options": [
+      {"text": "Se eliminan por descamación", "isCorrect": true, "rationale": "Las células maduras queratinizadas del estrato córneo se eliminan constantemente por descamación."},
+      {"text": "Se dividen constantemente", "isCorrect": false, "rationale": "Las células del córneo están muertas y no se dividen; la división ocurre en el estrato basal."},
+      {"text": "Producen melanina", "isCorrect": false, "rationale": "La melanina se produce en los melanocitos del estrato basal, no en el córneo."},
+      {"text": "Son receptores del tacto", "isCorrect": false, "rationale": "Los receptores táctiles están en capas más profundas (células de Merkel)."}
+    ],
+    "hint": "Es un proceso continuo de renovación superficial..."
+  },
+  {
+    "question": "¿Qué células forman la epidermis?",
+    "options": [
+      {"text": "Queratinocitos", "isCorrect": true, "rationale": "Los queratinocitos son las células que forman la epidermis, produciendo queratina."},
+      {"text": "Neuronas", "isCorrect": false, "rationale": "Las neuronas son células del sistema nervioso, no forman la epidermis."},
+      {"text": "Adipocitos", "isCorrect": false, "rationale": "Los adipocitos son células grasas del tejido subcutáneo, no de la epidermis."},
+      {"text": "Fibroblastos", "isCorrect": false, "rationale": "Los fibroblastos están en la dermis, produciendo colágeno, no en la epidermis."}
+    ],
+    "hint": "Su nombre indica que producen una proteína específica..."
+  },
+  {
+    "question": "¿Qué es la queratina?",
+    "options": [
+      {"text": "Proteína que protege del calor, materiales extraños y repele agua", "isCorrect": true, "rationale": "La queratina protege las capas profundas del calor, entrada de materiales extraños y repele agua."},
+      {"text": "Pigmento oscuro que protege de radiación UV", "isCorrect": false, "rationale": "Eso es la melanina, no la queratina."},
+      {"text": "Hormona que regula la temperatura", "isCorrect": false, "rationale": "La queratina es una proteína estructural, no una hormona."},
+      {"text": "Líquido que humecta la piel", "isCorrect": false, "rationale": "Eso sería el sebo o el sudor, no la queratina."}
+    ],
+    "hint": "Es una proteína fibrosa que da resistencia y protección..."
+  },
+  {
+    "question": "¿De qué origen son los melanocitos?",
+    "options": [
+      {"text": "Neuroectodermo", "isCorrect": true, "rationale": "Los melanocitos son células pigmentadas de origen neuroectodérmico."},
+      {"text": "Endodermo", "isCorrect": false, "rationale": "El endodermo forma el tubo digestivo y órganos asociados, no los melanocitos."},
+      {"text": "Mesodermo", "isCorrect": false, "rationale": "El mesodermo forma músculos, huesos y dermis, pero no melanocitos."},
+      {"text": "Ectodermo superficial únicamente", "isCorrect": false, "rationale": "Específicamente vienen del neuroectodermo, no del ectodermo general."}
+    ],
+    "hint": "Tienen origen neural, relacionado con el sistema nervioso...",
+    "image": "imagen:origen-melanocitos-neuroectodermo"
+  },
+  {
+    "question": "¿Dónde se ubican los melanocitos?",
+    "options": [
+      {"text": "En capas profundas de la epidermis", "isCorrect": true, "rationale": "Los melanocitos están ubicados en capas profundas de la epidermis, cerca del estrato basal."},
+      {"text": "En el estrato córneo", "isCorrect": false, "rationale": "El estrato córneo tiene células muertas sin melanocitos."},
+      {"text": "En la dermis", "isCorrect": false, "rationale": "Los melanocitos son exclusivos de la epidermis, no de la dermis."},
+      {"text": "En el tejido subcutáneo", "isCorrect": false, "rationale": "El tejido subcutáneo está por debajo de la dermis, sin melanocitos."}
+    ],
+    "hint": "Están cerca de donde se generan las nuevas células..."
+  },
+  {
+    "question": "¿Qué protege la melanina en la piel?",
+    "options": [
+      {"text": "Protege al estrato basal de radiaciones ultravioletas nocivas", "isCorrect": true, "rationale": "La melanina protege específicamente las células del estrato basal del daño UV."},
+      {"text": "Protege contra golpes físicos", "isCorrect": false, "rationale": "Esa protección mecánica la da el espesor de la piel y la dermis."},
+      {"text": "Evita la pérdida de agua", "isCorrect": false, "rationale": "Esa función la cumple el estrato córneo y los lípidos."},
+      {"text": "Regula la temperatura corporal", "isCorrect": false, "rationale": "Esa es función de los vasos sanguíneos y glándulas sudoríparas."}
+    ],
+    "hint": "Es el pigmento que nos broncea y protege del sol..."
+  },
+  {
+    "question": "¿De dónde se originan las células dendríticas de Langerhans?",
+    "options": [
+      {"text": "De la médula ósea", "isCorrect": true, "rationale": "Las células dendríticas de Langerhans se originan en la médula ósea."},
+      {"text": "Del estrato basal", "isCorrect": false, "rationale": "El estrato basal produce queratinocitos, no células inmunes."},
+      {"text": "Del neuroectodermo", "isCorrect": false, "rationale": "Ese es el origen de los melanocitos, no de las células de Langerhans."},
+      {"text": "De las glándulas sudoríparas", "isCorrect": false, "rationale": "Las glándulas producen sudor, no células dendríticas."}
+    ],
+    "hint": "Son células inmunes que vienen de la sangre..."
+  },
+  {
+    "question": "¿Cuál es la forma de las células dendríticas de Langerhans?",
+    "options": [
+      {"text": "Forma estrellada con muchas ramificaciones", "isCorrect": true, "rationale": "Las células dendríticas tienen forma estrellada con múltiples ramificaciones (de ahí su nombre)."},
+      {"text": "Forma cúbica regular", "isCorrect": false, "rationale": "Esa forma es típica de epitelios de revestimiento, no de células dendríticas."},
+      {"text": "Forma esférica", "isCorrect": false, "rationale": "Las células dendríticas se caracterizan por sus prolongaciones, no por ser esféricas."},
+      {"text": "Forma cilíndrica alargada", "isCorrect": false, "rationale": "Esa forma es típica de células musculares, no de Langerhans."}
+    ],
+    "hint": "Su nombre viene de las prolongaciones tipo 'dendritas'...",
+    "image": "imagen:forma-celulas-langerhans"
+  },
+  {
+    "question": "¿Qué función tienen las células dendríticas de Langerhans?",
+    "options": [
+      {"text": "Desencadenan respuestas inmunitarias primarias", "isCorrect": true, "rationale": "Las células dendríticas de Langerhans desencadenan respuestas inmunitarias primarias como células presentadoras de antígenos."},
+      {"text": "Producen melanina", "isCorrect": false, "rationale": "Esa es función de los melanocitos."},
+      {"text": "Generan nuevas células epidérmicas", "isCorrect": false, "rationale": "Esa es función de los queratinocitos del estrato basal."},
+      {"text": "Perciben el tacto", "isCorrect": false, "rationale": "Esa es función de las células de Merkel."}
+    ],
+    "hint": "Son células del sistema inmunológico..."
+  },
+  {
+    "question": "¿Dónde están las células de Merkel (epiteliocitos táctiles)?",
+    "options": [
+      {"text": "En contacto con la membrana basal", "isCorrect": true, "rationale": "Las células de Merkel (epiteliocitos táctiles) están en contacto con la membrana basal."},
+      {"text": "En el estrato córneo", "isCorrect": false, "rationale": "El estrato córneo tiene células muertas sin receptores."},
+      {"text": "En la dermis papilar", "isCorrect": false, "rationale": "Las células de Merkel son epidérmicas, aunque están en la base de la epidermis."},
+      {"text": "En el tejido subcutáneo", "isCorrect": false, "rationale": "El tejido subcutáneo está demasiado profundo para estas células."}
+    ],
+    "hint": "Están en la base de la epidermis, tocando la división con la dermis...",
+    "image": "imagen:celulas-merkel-ubicacion"
+  },
+  {
+    "question": "¿Qué función tienen las células de Merkel?",
+    "options": [
+      {"text": "Son receptores del tacto conectados a neuronas sensitivas", "isCorrect": true, "rationale": "Los epiteliocitos táctiles (células de Merkel) son receptores del tacto conectados a terminaciones nerviosas."},
+      {"text": "Producen queratina", "isCorrect": false, "rationale": "Esa es función de los queratinocitos."},
+      {"text": "Producen melanina", "isCorrect": false, "rationale": "Esa es función de los melanocitos."},
+      {"text": "Forman el estrato córneo", "isCorrect": false, "rationale": "El estrato córneo se forma de queratinocitos queratinizados."}
+    ],
+    "hint": "Son células sensoriales especializadas..."
+  },
+  {
+    "question": "¿Dónde se encuentra la piel gruesa?",
+    "options": [
+      {"text": "En palmas de las manos y plantas de los pies", "isCorrect": true, "rationale": "La piel gruesa está presente exclusivamente en palmas y plantas."},
+      {"text": "En todo el cuerpo", "isCorrect": false, "rationale": "La mayor parte del cuerpo tiene piel delgada."},
+      {"text": "Solo en el cuero cabelludo", "isCorrect": false, "rationale": "El cuero cabelludo tiene piel delgada con muchos folículos pilosos."},
+      {"text": "En los párpados", "isCorrect": false, "rationale": "Los párpados tienen la piel más delgada del cuerpo."}
+    ],
+    "hint": "Son las zonas que más fricción soportan...",
+    "image": "imagen:ubicacion-piel-gruesa-palmas-plantas"
+  },
+  {
+    "question": "¿Qué característica diferencia a la piel gruesa de la delgada?",
+    "options": [
+      {"text": "La piel gruesa tiene estrato lúcido", "isCorrect": true, "rationale": "La piel gruesa tiene estrato lúcido, mientras que la piel delgada carece de él."},
+      {"text": "La piel gruesa tiene melanocitos", "isCorrect": false, "rationale": "Ambos tipos de piel tienen melanocitos."},
+      {"text": "La piel gruesa tiene vasos sanguíneos", "isCorrect": false, "rationale": "Ninguna epidermis tiene vasos sanguíneos."},
+      {"text": "La piel gruesa tiene folículos pilosos", "isCorrect": false, "rationale": "La piel gruesa justamente NO tiene pelos; la delgada sí."}
+    ],
+    "hint": "Es una capa extra que solo existe en palmas y plantas..."
+  },
+  {
+    "question": "¿Cuál es el orden correcto de las capas de la epidermis de profundo a superficial?",
+    "options": [
+      {"text": "Basal → Espinoso → Granuloso → Lúcido → Córneo", "isCorrect": true, "rationale": "El orden correcto es: basal (profundo), espinoso, granuloso, lúcido (solo en piel gruesa), córneo (superficial)."},
+      {"text": "Córneo → Lúcido → Granuloso → Espinoso → Basal", "isCorrect": false, "rationale": "Este orden es de superficial a profundo, no de profundo a superficial."},
+      {"text": "Basal → Granuloso → Espinoso → Lúcido → Córneo", "isCorrect": false, "rationale": "El espinoso está antes que el granuloso, no después."},
+      {"text": "Espinoso → Basal → Granuloso → Lúcido → Córneo", "isCorrect": false, "rationale": "El basal es el más profundo, debe ir primero."}
+    ],
+    "hint": "Recordá: Las células nacen abajo y van subiendo hasta la superficie...",
+    "image": "imagen:orden-capas-epidermis"
+  },
+  {
+    "question": "¿Cuál de estas células NO pertenece a la epidermis?",
+    "options": [
+      {"text": "Fibroblasto", "isCorrect": true, "rationale": "Los fibroblastos están en la dermis, produciendo colágeno y elastina. Todas las demás son de la epidermis."},
+      {"text": "Queratinocito", "isCorrect": false, "rationale": "Los queratinocitos son las células principales de la epidermis."},
+      {"text": "Melanocito", "isCorrect": false, "rationale": "Los melanocitos están en la epidermis (capas profundas)."},
+      {"text": "Célula de Langerhans", "isCorrect": false, "rationale": "Las células de Langerhans están en el estrato espinoso de la epidermis."}
+    ],
+    "hint": "Una de estas células produce colágeno en la capa de abajo..."
+  },
+  {
+    "question": "¿Cuál es la función principal de los melanocitos?",
+    "options": [
+      {"text": "Producir melanina", "isCorrect": true, "rationale": "Los melanocitos producen melanina, el pigmento oscuro que protege del UV."},
+      {"text": "Formar el estrato córneo", "isCorrect": false, "rationale": "Esa es función de los queratinocitos."},
+      {"text": "Detectar patógenos", "isCorrect": false, "rationale": "Esa es función de las células de Langerhans."},
+      {"text": "Percibir el tacto", "isCorrect": false, "rationale": "Esa es función de las células de Merkel."}
+    ],
+    "hint": "Son las células que dan color a la piel..."
+  },
+  {
+    "question": "¿Por qué la epidermis no tiene vasos sanguíneos?",
+    "options": [
+      {"text": "Recibe nutrientes por difusión desde la dermis", "isCorrect": true, "rationale": "La epidermis carece de vasos propios y recibe nutrientes por difusión desde los vasos de la dermis."},
+      {"text": "No necesita nutrientes", "isCorrect": false, "rationale": "Todas las células vivas necesitan nutrientes."},
+      {"text": "Produce sus propios nutrientes", "isCorrect": false, "rationale": "Las células no producen sus propios nutrientes; los obtienen de la sangre."},
+      {"text": "Los vasos están en el estrato córneo", "isCorrect": false, "rationale": "El estrato córneo tiene células muertas, sin vasos."}
+    ],
+    "hint": "Las células de la epidermis están muy cerca de la dermis vascularizada..."
+  }
+]

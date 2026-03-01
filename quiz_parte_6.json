@@ -1,0 +1,74 @@
+[
+  {
+    "question": "¿Qué son las uñas (unguis)?",
+    "options": [
+      {"text": "Estructuras producidas por la epidermis que protegen los dedos", "isCorrect": true, "rationale": "Las uñas son producidas por la epidermis y protegen el extremo distal de los dedos."},
+      {"text": "Huesos pequeños de los dedos", "isCorrect": false, "rationale": "Las uñas no son huesos; son tejido epitelial queratinizado."},
+      {"text": "Músculos especializados", "isCorrect": false, "rationale": "Las uñas no son músculos."},
+      {"text": "Glándulas secretoras", "isCorrect": false, "rationale": "Las uñas no secretan sustancias."}
+    ],
+    "hint": "Son placas duras en las puntas de los dedos...",
+    "image": "imagen:estructura-uña-protección-dedo"
+  },
+  {
+    "question": "¿Cuál es la función principal de las uñas?",
+    "options": [
+      {"text": "Proteger el extremo distal de los dedos y aumentar resistencia a la presión", "isCorrect": true, "rationale": "Las uñas protegen el extremo distal de los dedos y aumentan la resistencia a la presión del pulpejo."},
+      {"text": "Producir melanina", "isCorrect": false, "rationale": "La melanina se produce en la epidermis."},
+      {"text": "Regular temperatura", "isCorrect": false, "rationale": "Las uñas no regulan temperatura."},
+      {"text": "Sintetizar vitamina D", "isCorrect": false, "rationale": "La vitamina D se sintetiza en la epidermis."}
+    ],
+    "hint": "Nos protegen cuando apoyamos o golpeamos los dedos..."
+  },
+  {
+    "question": "¿De qué están formadas las uñas?",
+    "options": [
+      {"text": "Escamas córneas aplicadas sobre el lecho ungueal", "isCorrect": true, "rationale": "Las uñas están formadas por escamas córneas que se aplican sobre el lecho ungueal."},
+      {"text": "Células óseas calcificadas", "isCorrect": false, "rationale": "No son células óseas, son queratinocitos queratinizados."},
+      {"text": "Tejido cartilaginoso", "isCorrect": false, "rationale": "No es cartílago; es queratina compactada."},
+      {"text": "Músculo estriado", "isCorrect": false, "rationale": "No contienen tejido muscular."}
+    ],
+    "hint": "Son capas de células muertas queratinizadas..."
+  },
+  {
+    "question": "¿Qué es el lecho ungueal?",
+    "options": [
+      {"text": "La superficie donde se aplican las escamas córneas de la uña", "isCorrect": true, "rationale": "El lecho ungueal es donde se aplican las escamas córneas que forman la uña."},
+      {"text": "La punta blanca de la uña", "isCorrect": false, "rationale": "Esa es la porción libre, no el lecho."},
+      {"text": "La cutícula de la base", "isCorrect": false, "rationale": "La cutícula es diferente del lecho ungueal."},
+      {"text": "El músculo que mueve la uña", "isCorrect": false, "rationale": "Las uñas no tienen músculos propios."}
+    ],
+    "hint": "Es la 'piel' que está debajo de la uña visible...",
+    "image": "imagen:lecho-ungeal-estructura-base"
+  },
+  {
+    "question": "¿Qué es la raíz ungueal?",
+    "options": [
+      {"text": "La porción proximal del lecho que cubre la matriz", "isCorrect": true, "rationale": "La raíz ungueal está en la región proximal del lecho y cubre la matriz ungueal."},
+      {"text": "La punta libre de la uña", "isCorrect": false, "rationale": "Esa es la porción distal, no la raíz."},
+      {"text": "El centro de la uña", "isCorrect": false, "rationale": "La raíz está en la base, no en el centro."},
+      {"text": "La cutícula lateral", "isCorrect": false, "rationale": "La cutícula lateral no es la raíz."}
+    ],
+    "hint": "Está en la base de la uña, bajo la piel..."
+  },
+  {
+    "question": "¿Qué función tiene la matriz ungueal?",
+    "options": [
+      {"text": "Es responsable del crecimiento continuo de la uña", "isCorrect": true, "rationale": "La matriz ungueal es responsable del crecimiento continuo de la uña."},
+      {"text": "Producir melanina", "isCorrect": false, "rationale": "La melanina de la uña (si existe) viene de la matriz, pero su función principal es el crecimiento."},
+      {"text": "Regular la temperatura del dedo", "isCorrect": false, "rationale": "No tiene función termorreguladora."},
+      {"text": "Secretar aceite para la uña", "isCorrect": false, "rationale": "No secreta aceite; las glándulas cercanas sí."}
+    ],
+    "hint": "Es donde se 'fabrica' la uña nueva...",
+    "image": "imagen:matriz-ungeal-crecimiento"
+  },
+  {
+    "question": "¿Hasta dónde se extiende la matriz ungueal?",
+    "options": [
+      {"text": "Hasta el arco de la lúnula", "isCorrect": true, "rationale": "La matriz ungueal se extiende hasta el arco de la lúnula (la zona blanquecina en la base)."},
+      {"text": "Hasta la punta de la uña", "isCorrect": false, "rationale": "La matriz no llega hasta la punta; la uña crece hacia allí."},
+      {"text": "Solo bajo la cutícula", "isCorrect": false, "rationale": "Se extiende más allá, hasta la lúnula visible."},
+      {"text": "Por toda la uña", "isCorrect": false, "rationale": "No, solo está en la porción proximal."}
+    ],
+    "hint": "La lúnula blanca marca el límite de la matriz..."}
+]

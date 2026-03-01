@@ -1,0 +1,95 @@
+{
+  "parte_actual": 9,
+  "total_partes": 9,
+  "estado": "completado",
+  "resumen_final": {
+    "parte_1": {
+      "categoria": "Tegumento + Piel",
+      "terminos": 12,
+      "preguntas": 17,
+      "imagenes": 5,
+      "archivo": "quiz_parte_1.json",
+      "estado": "completada"
+    },
+    "parte_2": {
+      "categoria": "Epidermis",
+      "terminos": 13,
+      "preguntas": 24,
+      "imagenes": 7,
+      "archivo": "quiz_parte_2.json",
+      "estado": "completada"
+    },
+    "parte_3": {
+      "categoria": "Dermis",
+      "terminos": 6,
+      "preguntas": 20,
+      "imagenes": 6,
+      "archivo": "quiz_parte_3.json",
+      "estado": "completada"
+    },
+    "parte_4": {
+      "categoria": "Glándulas Cutáneas",
+      "terminos": 4,
+      "preguntas": 17,
+      "imagenes": 5,
+      "archivo": "quiz_parte_4.json",
+      "estado": "completada"
+    },
+    "parte_5": {
+      "categoria": "Pelos",
+      "terminos": 10,
+      "preguntas": 26,
+      "imagenes": 7,
+      "archivo": "quiz_parte_5.json",
+      "estado": "completada"
+    },
+    "parte_6": {
+      "categoria": "Uñas",
+      "terminos": 7,
+      "preguntas": 10,
+      "imagenes": 4,
+      "archivo": "quiz_parte_6.json",
+      "estado": "completada"
+    },
+    "parte_7": {
+      "categoria": "Tejido Subcutáneo",
+      "terminos": 10,
+      "preguntas": 12,
+      "imagenes": 3,
+      "archivo": "quiz_parte_7.json",
+      "estado": "completada"
+    },
+    "parte_8": {
+      "categoria": "Vascularización e Inervación",
+      "terminos": 11,
+      "preguntas": 20,
+      "imagenes": 8,
+      "archivos": ["quiz_parte_8.json", "quiz_parte_8_complemento.json", "quiz_parte_8_complemento2.json"],
+      "estado": "completada"
+    },
+    "parte_9": {
+      "categoria": "Patologías + Mama",
+      "terminos": 5,
+      "preguntas": 13,
+      "imagenes": 2,
+      "archivo": "quiz_parte_9.json",
+      "estado": "completada"
+    }
+  },
+  "total_final": {
+    "terminos": 88,
+    "preguntas": 150,
+    "imagenes_placeholder": 42,
+    "archivos_generados": [
+      "quiz_parte_1.json",
+      "quiz_parte_2.json",
+      "quiz_parte_3.json",
+      "quiz_parte_4.json",
+      "quiz_parte_5.json",
+      "quiz_parte_6.json",
+      "quiz_parte_7.json",
+      "quiz_parte_8.json",
+      "quiz_parte_9.json"
+    ]
+  }
+}
