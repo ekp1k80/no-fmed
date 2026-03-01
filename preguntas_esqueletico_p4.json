@@ -1,0 +1,192 @@
+[
+  {
+    "question": "¿Cómo se clasifican los huesos según su forma general?",
+    "options": [
+      {"text": "Largos, planos, cortos, irregulares, neumáticos y sesamoideos", "isCorrect": true, "rationale": "Los huesos se clasifican según su forma en: largos, planos, cortos, irregulares, neumáticos y sesamoideos."},
+      {"text": "Axiales y apendiculares", "isCorrect": false, "rationale": "Esa es una clasificación por ubicación, no por forma."},
+      {"text": "Compactos y esponjosos", "isCorrect": false, "rationale": "Esa es una clasificación por estructura interna."},
+      {"text": "Membranosos y condrales", "isCorrect": false, "rationale": "Esa es una clasificación por origen."}
+    ],
+    "hint": "Hay 6 categorías según la morfología del hueso..."
+  },
+  {
+    "question": "¿Qué característica principal define a los huesos largos?",
+    "options": [
+      {"text": "Predomina la longitud sobre el grosor y el ancho", "isCorrect": true, "rationale": "En los huesos largos predomina la longitud por encima del grosor y el ancho."},
+      {"text": "Tienen forma de cubo", "isCorrect": false, "rationale": "Eso define a los huesos cortos."},
+      {"text": "Son muy delgados", "isCorrect": false, "rationale": "Eso es característico de los huesos planos."},
+      {"text": "Tienen cavidades con aire", "isCorrect": false, "rationale": "Eso define a los neumáticos."}
+    ],
+    "hint": "El nombre lo dice: una dimensión es mucho mayor..."
+  },
+  {
+    "question": "¿Qué partes tiene un hueso largo?",
+    "options": [
+      {"text": "Diáfisis (cuerpo), dos epífisis (extremos) y metáfisis (zona de unión)", "isCorrect": true, "rationale": "Los huesos largos presentan una diáfisis (cuerpo), dos epífisis (extremos) y la zona de unión se denomina metáfisis."},
+      {"text": "Solo diáfisis y epífisis", "isCorrect": false, "rationale": "Falta la metáfisis."},
+      {"text": "Cabeza, cuello y cuerpo", "isCorrect": false, "rationale": "No es la terminología correcta para huesos."},
+      {"text": "Tabla interna y externa", "isCorrect": false, "rationale": "Eso es de huesos planos craneales."}
+    ],
+    "hint": "Tiene tres partes principales con nombres específicos..."
+  },
+  {
+    "question": "¿Cuál es un ejemplo de hueso largo?",
+    "options": [
+      {"text": "Tibia", "isCorrect": true, "rationale": "La tibia es un ejemplo clásico de hueso largo."},
+      {"text": "Occipital", "isCorrect": false, "rationale": "El occipital es un hueso plano."},
+      {"text": "Huesos del carpo", "isCorrect": false, "rationale": "Los huesos del carpo son cortos."},
+      {"text": "Esfenoides", "isCorrect": false, "rationale": "El esfenoides es irregular/neumático."}
+    ],
+    "hint": "Es un hueso de la pierna..."
+  },
+  {
+    "question": "¿Qué caracteriza a los huesos planos?",
+    "options": [
+      {"text": "Grosor reducido, predominan el largo y el ancho", "isCorrect": true, "rationale": "En los huesos planos el grosor es reducido y predominan el largo y el ancho."},
+      {"text": "Son muy largos", "isCorrect": false, "rationale": "No, predomina el ancho, no la longitud."},
+      {"text": "Tienen forma de cubo", "isCorrect": false, "rationale": "Eso son los huesos cortos."},
+      {"text": "Tienen cavidades internas", "isCorrect": false, "rationale": "Eso son los neumáticos."}
+    ],
+    "hint": "Son como láminas o placas..."
+  },
+  {
+    "question": "¿Cuál es la función principal de los huesos planos?",
+    "options": [
+      {"text": "Constituyen paredes de cavidades corporales", "isCorrect": true, "rationale": "Los huesos planos constituyen paredes de las cavidades corporales y presentan superficies de inserción muscular amplias."},
+      {"text": "Forman articulaciones móviles", "isCorrect": false, "rationale": "No es su función principal."},
+      {"text": "Producen células sanguíneas", "isCorrect": false, "rationale": "Eso es función de la médula ósea."},
+      {"text": "Permiten movimientos de precisión", "isCorrect": false, "rationale": "No es característica de los planos."}
+    ],
+    "hint": "Protegen órganos formando 'paredes'..."
+  },
+  {
+    "question": "¿Cuál es un ejemplo de hueso plano?",
+    "options": [
+      {"text": "Occipital", "isCorrect": true, "rationale": "El occipital es un hueso plano del cráneo."},
+      {"text": "Tibia", "isCorrect": false, "rationale": "La tibia es un hueso largo."},
+      {"text": "Huesos del carpo", "isCorrect": false, "rationale": "Son huesos cortos."},
+      {"text": "Rótula", "isCorrect": false, "rationale": "La rótula es sesamoidea."}
+    ],
+    "hint": "Es un hueso de la parte posterior del cráneo..."
+  },
+  {
+    "question": "¿Qué caracteriza a los huesos cortos?",
+    "options": [
+      {"text": "Dimensiones semejantes en sus tres ejes, forma generalmente cuboide", "isCorrect": true, "rationale": "Los huesos cortos presentan dimensiones semejantes en sus tres ejes, con forma variable, generalmente cuboide."},
+      {"text": "Son muy largos y delgados", "isCorrect": false, "rationale": "No, son más bien 'equilibrados' en todas dimensiones."},
+      {"text": "Tienen forma de placa", "isCorrect": false, "rationale": "Eso son los planos."},
+      {"text": "Tienen cavidades con aire", "isCorrect": false, "rationale": "Eso son los neumáticos."}
+    ],
+    "hint": "Son como pequeños cubos o dados..."
+  },
+  {
+    "question": "¿Cuál es un ejemplo de hueso corto?",
+    "options": [
+      {"text": "Huesos del carpo", "isCorrect": true, "rationale": "Los huesos del carpo son un ejemplo de huesos cortos."},
+      {"text": "Fémur", "isCorrect": false, "rationale": "El fémur es largo."},
+      {"text": "Parietal", "isCorrect": false, "rationale": "El parietal es plano."},
+      {"text": "Vértebra", "isCorrect": false, "rationale": "Las vértebras son irregulares."}
+    ],
+    "hint": "Están en la muñeca..."
+  },
+  {
+    "question": "¿Qué son los huesos irregulares?",
+    "options": [
+      {"text": "Huesos con formas y proporciones variadas que no encajan en otras categorías", "isCorrect": true, "rationale": "Los huesos irregulares tienen formas y proporciones variadas."},
+      {"text": "Huesos que cambian de forma con la edad", "isCorrect": false, "rationale": "No, su forma es estable."},
+      {"text": "Huesos que no tienen función definida", "isCorrect": false, "rationale": "Todos los huesos tienen función."},
+      {"text": "Huesos que faltan en algunas personas", "isCorrect": false, "rationale": "No es esa la definición."}
+    ],
+    "hint": "Son los que no encajan en ninguna otra categoría por su forma..."
+  },
+  {
+    "question": "¿Cuál es un ejemplo de hueso irregular?",
+    "options": [
+      {"text": "Esfenoides", "isCorrect": true, "rationale": "El esfenoides es un ejemplo de hueso irregular."},
+      {"text": "Húmero", "isCorrect": false, "rationale": "El húmero es largo."},
+      {"text": "Frontal", "isCorrect": false, "rationale": "El frontal es plano."},
+      {"text": "Calcáneo", "isCorrect": false, "rationale": "El calcáneo es corto."}
+    ],
+    "hint": "Es un hueso de la base del cráneo con forma compleja..."
+  },
+  {
+    "question": "¿Qué caracteriza a los huesos neumáticos?",
+    "options": [
+      {"text": "Presentan cavidades rellenas de aire (celdas o senos)", "isCorrect": true, "rationale": "Los huesos neumáticos presentan cavidades rellenas de aire denominadas celdas o senos según su tamaño."},
+      {"text": "Son muy livianos porque no tienen médula", "isCorrect": false, "rationale": "Tienen aire en cavidades, pero la definición es por las cavidades."},
+      {"text": "Solo se encuentran en el oído", "isCorrect": false, "rationale": "No solo en el oído."},
+      {"text": "Son huecos por dentro", "isCorrect": false, "rationale": "Tienen cavidades con aire, pero no son huecos."}
+    ],
+    "hint": "Tienen 'aire' adentro..."
+  },
+  {
+    "question": "¿Qué son las celdas y senos en los huesos neumáticos?",
+    "options": [
+      {"text": "Cavidades llenas de aire, llamadas celdas si son pequeñas y senos si son grandes", "isCorrect": true, "rationale": "Las cavidades neumáticas se denominan celdas o senos de acuerdo con su tamaño."},
+      {"text": "Cavidades llenas de líquido", "isCorrect": false, "rationale": "No, están llenas de aire."},
+      {"text": "Espacios con médula ósea", "isCorrect": false, "rationale": "No contienen médula."},
+      {"text": "Conductos sanguíneos", "isCorrect": false, "rationale": "No son vasos sanguíneos."}
+    ],
+    "hint": "La diferencia está en el tamaño..."
+  },
+  {
+    "question": "¿Qué son los huesos sesamoideos?",
+    "options": [
+      {"text": "Huesos pequeños, anexos a un tendón o ligamento, con forma de semilla de sésamo", "isCorrect": true, "rationale": "Los huesos sesamoideos son pequeños, anexos a un tendón o ligamento. Su nombre se debe a su parecido con la semilla de sésamo."},
+      {"text": "Huesos que se forman después de los 50 años", "isCorrect": false, "rationale": "No, se forman antes."},
+      {"text": "Huesos que faltan en algunas personas", "isCorrect": false, "rationale": "Algunos son constantes, otros inconstantes."},
+      {"text": "Huesos del oído interno", "isCorrect": false, "rationale": "No son del oído."}
+    ],
+    "hint": "Su nombre viene de una semilla..."
+  },
+  {
+    "question": "¿Cuál es el único hueso sesamoideo constante?",
+    "options": [
+      {"text": "Rótula (patella)", "isCorrect": true, "rationale": "La rótula (patella) es el único sesamoide constante, siempre se osifica y se diferencia de los otros por su tamaño."},
+      {"text": "Hueso del pulgar", "isCorrect": false, "rationale": "El sesamoideo del pulgar es inconstante."},
+      {"text": "Astrágalo", "isCorrect": false, "rationale": "No es sesamoideo."},
+      {"text": "Pisiforme", "isCorrect": false, "rationale": "No es sesamoideo."}
+    ],
+    "hint": "Está en la rodilla..."
+  },
+  {
+    "question": "¿Dónde se encuentran los huesos sesamoideos inconstantes?",
+    "options": [
+      {"text": "Articulación metacarpofalángica del pulgar, metatarsofalángica del hallux, gastrocnemio y tendón del peroneo largo", "isCorrect": true, "rationale": "Los sesamoideos inconstantes se encuentran en esas ubicaciones."},
+      {"text": "En todas las articulaciones", "isCorrect": false, "rationale": "No en todas, solo en ubicaciones específicas."},
+      {"text": "Solo en el pie", "isCorrect": false, "rationale": "También en la mano y pierna."},
+      {"text": "En el cráneo", "isCorrect": false, "rationale": "No hay sesamoideos craneales."}
+    ],
+    "hint": "Pulgar, dedo gordo, gemelo y peroneo..."
+  },
+  {
+    "question": "¿Qué son los huesos supernumerarios o accesorios?",
+    "options": [
+      {"text": "Huesos que se desarrollan a partir de centros de osificación adicionales que no se unen", "isCorrect": true, "rationale": "Los huesos supernumerarios se desarrollan a partir de centros de osificación adicionales que pierden su unión con el resto."},
+      {"text": "Huesos extras que todas las personas tienen", "isCorrect": false, "rationale": "No todas las personas los tienen."},
+      {"text": "Huesos que crecen después de los 30 años", "isCorrect": false, "rationale": "No es así su origen."},
+      {"text": "Huesos artificiales implantados", "isCorrect": false, "rationale": "Son naturales, no artificiales."}
+    ],
+    "hint": "Son huesos 'extra' que se forman cuando algo no se fusiona..."
+  },
+  {
+    "question": "¿Qué tipos de huesos supernumerarios existen?",
+    "options": [
+      {"text": "Suturales (en suturas craneales), sesamoideos inconstantes y hueso trígono", "isCorrect": true, "rationale": "Los supernumerarios pueden ser suturales, sesamoideos inconstantes, y el hueso trígono."},
+      {"text": "Solo suturales", "isCorrect": false, "rationale": "Hay más tipos."},
+      {"text": "Solo en el cráneo", "isCorrect": false, "rationale": "También hay en otras partes del cuerpo."},
+      {"text": "Solo en el pie", "isCorrect": false, "rationale": "No solo en el pie."}
+    ],
+    "hint": "Pueden estar en el cráneo, articulaciones o pie..."
+  },
+  {
+    "question": "¿Qué es el hueso trígono?",
+    "options": [
+      {"text": "Un hueso supernumerario del pie, tubérculo lateral del astrágalo que aparece de manera independiente", "isCorrect": true, "rationale": "El hueso trígono es un tubérculo lateral de la apófisis posterior del astrágalo que aparece de manera independiente y no debe confundirse con patología."},
+      {"text": "Un hueso del cráneo", "isCorrect": false, "rationale": "No, está en el pie."},
+      {"text": "Un hueso de la mano", "isCorrect": false, "rationale": "Está en el astrágalo del pie."},
+      {"text": "Un tipo de fractura", "isCorrect": false, "rationale": "No es patología, es una variante normal."}
+    ],
+    "hint": "Está en el astrágalo del pie..."
+  }
+]

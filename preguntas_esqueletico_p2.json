@@ -1,0 +1,129 @@
+[
+  {
+    "question": "¿Dónde está ubicado el esqueleto axial?",
+    "options": [
+      {"text": "En relación con el eje longitudinal del cuerpo", "isCorrect": true, "rationale": "El esqueleto axial está ubicado en relación con el eje longitudinal del cuerpo."},
+      {"text": "En los miembros superiores e inferiores", "isCorrect": false, "rationale": "Eso es el esqueleto apendicular."},
+      {"text": "Solo en el cráneo", "isCorrect": false, "rationale": "No solo el cráneo, también incluye columna y tórax."},
+      {"text": "En la pared abdominal", "isCorrect": false, "rationale": "No forma parte del esqueleto axial."}
+    ],
+    "hint": "Es la parte central del cuerpo...",
+    "image": "imagen:esqueleto-axial-ubicacion"
+  },
+  {
+    "question": "¿Qué húesos forman parte del esqueleto axial?",
+    "options": [
+      {"text": "Cráneo, columna vertebral y tórax", "isCorrect": true, "rationale": "El esqueleto axial está constituido por el cráneo, la columna vertebral y el tórax (esternón y costillas)."},
+      {"text": "Escápula, clavícula y coxal", "isCorrect": false, "rationale": "Esos son cinturas del esqueleto apendicular."},
+      {"text": "Húmero, fémur y tibia", "isCorrect": false, "rationale": "Esos son huesos de la porción libre del esqueleto apendicular."},
+      {"text": "Carpo, tarso y falanges", "isCorrect": false, "rationale": "Esos son huesos de la porción libre de los miembros."}
+    ],
+    "hint": "Incluye la cabeza, la columna y la caja torácica..."
+  },
+  {
+    "question": "¿Qué es el cingulum en el esqueleto de cada miembro?",
+    "options": [
+      {"text": "La porción (cintura) que lo relaciona con el esqueleto axial", "isCorrect": true, "rationale": "El esqueleto de cada miembro tiene dos porciones: una cingulum (cintura) que lo relaciona con el esqueleto axial, y una porción libre."},
+      {"text": "Los huesos largos de los miembros", "isCorrect": false, "rationale": "No, es la parte que conecta con el tronco."},
+      {"text": "Las articulaciones de los miembros", "isCorrect": false, "rationale": "No son las articulaciones, son los huesos de la cintura."},
+      {"text": "La porción libre del miembro", "isCorrect": false, "rationale": "Es lo contrario, cingulum es la parte que conecta, no la libre."}
+    ],
+    "hint": "Es la 'cintura' que une el miembro al tronco..."
+  },
+  {
+    "question": "¿Qué húesos forman el cingulum del miembro superior?",
+    "options": [
+      {"text": "Escápula y clavícula", "isCorrect": true, "rationale": "La escápula y la clavícula forman la cintura pectoral (cingulum) del miembro superior."},
+      {"text": "Húmero y radio", "isCorrect": false, "rationale": "Esos son de la porción libre."},
+      {"text": "Coxal", "isCorrect": false, "rationale": "Esa es la cintura del miembro inferior."},
+      {"text": "Fémur y tibia", "isCorrect": false, "rationale": "Esos son de la porción libre del miembro inferior."}
+    ],
+    "hint": "Son dos huesos que conectan el brazo con el tronco...",
+    "image": "imagen:cintura-pectoral-escapula-clavicula"
+  },
+  {
+    "question": "¿Qué húeso forma el cingulum del miembro inferior?",
+    "options": [
+      {"text": "Coxal (ilion, isquion y pubis fusionados)", "isCorrect": true, "rationale": "El coxal, formado por la fusión del ilion, isquion y pubis, constituye la cintura pelviana."},
+      {"text": "Escápula y clavícula", "isCorrect": false, "rationale": "Esa es la cintura del miembro superior."},
+      {"text": "Fémur y rótula", "isCorrect": false, "rationale": "Esos son de la porción libre."},
+      {"text": "Sacrúm y cóccix", "isCorrect": false, "rationale": "Esos son parte de la columna vertebral (axial)."}
+    ],
+    "hint": "Es el hueso de la cadera, resultado de la fusión de tres huesos...",
+    "image": "imagen:cintura-pelviana-coxal"
+  },
+  {
+    "question": "¿Qué es la porción libre del miembro?",
+    "options": [
+      {"text": "La parte del esqueleto del miembro que corresponde al resto de sus huesos después de la cintura", "isCorrect": true, "rationale": "La porción libre del miembro corresponde al resto de sus huesos después de la cintura (cingulum)."},
+      {"text": "La cintura que conecta con el tronco", "isCorrect": false, "rationale": "Eso es el cingulum/cintura."},
+      {"text": "Los músculos del miembro", "isCorrect": false, "rationale": "No son músculos, son huesos."},
+      {"text": "Las articulaciones del miembro", "isCorrect": false, "rationale": "No son articulaciones, son los huesos propiamente dichos."}
+    ],
+    "hint": "Es todo lo que está después de la cintura..."
+  },
+  {
+    "question": "¿Cuáles son las dos porciones del esqueleto de cada miembro?",
+    "options": [
+      {"text": "Cingulum (cintura) y porción libre", "isCorrect": true, "rationale": "El esqueleto de cada miembro tiene dos porciones: cingulum (cintura) que lo relaciona con el esqueleto axial, y porción libre que corresponde al resto de sus huesos."},
+      {"text": "Epífisis y diáfisis", "isCorrect": false, "rationale": "Esas son partes de los huesos largos, no del miembro."},
+      {"text": "Hueso compacto y esponjoso", "isCorrect": false, "rationale": "Esos son tipos de tejido óseo, no porciones del miembro."},
+      {"text": "Axial y apendicular", "isCorrect": false, "rationale": "Esas son divisiones del esqueleto completo, no de cada miembro."}
+    ],
+    "hint": "Una parte conecta con el tronco, la otra es el resto del miembro..."
+  },
+  {
+    "question": "¿Qué huesos forman la porción libre del miembro superior?",
+    "options": [
+      {"text": "Húmero, cúbito, radio, carpo, metacarpo y falanges", "isCorrect": true, "rationale": "La porción libre del miembro superior incluye: húmero, cúbito (ulna), radio, huesos del carpo, metacarpianos y falanges."},
+      {"text": "Escápula y clavícula", "isCorrect": false, "rationale": "Esos forman la cintura (cingulum)."},
+      {"text": "Coxal", "isCorrect": false, "rationale": "Ese es de la cintura inferior."},
+      {"text": "Sacro y cóccix", "isCorrect": false, "rationale": "Esos son de la columna vertebral (axial)."}
+    ],
+    "hint": "Todo el brazo, antebrazo y mano...",
+    "image": "imagen:porcion-libre-miembro-superior"
+  },
+  {
+    "question": "¿Qué huesos forman la porción libre del miembro inferior?",
+    "options": [
+      {"text": "Fémur, rótula, tibia, peroné, tarso, metatarso y falanges", "isCorrect": true, "rationale": "La porción libre del miembro inferior incluye: fémur, rótula (patela), tibia, peroné (fíbula), huesos del tarso, metatarsianos y falanges."},
+      {"text": "Coxal", "isCorrect": false, "rationale": "Ese es la cintura (cingulum)."},
+      {"text": "Húmero y radio", "isCorrect": false, "rationale": "Esos son del miembro superior."},
+      {"text": "Escápula y clavícula", "isCorrect": false, "rationale": "Esos son la cintura del miembro superior."}
+    ],
+    "hint": "Todo el muslo, pierna y pie...",
+    "image": "imagen:porcion-libre-miembro-inferior"
+  },
+  {
+    "question": "¿Qué forman el neurocráneo?",
+    "options": [
+      {"text": "Frontal, etmoides, esfenoides, parietal, temporal, occipital y huesecillos del oído", "isCorrect": true, "rationale": "El neurocráneo está formado por: frontal, etmoides, esfenoides, parietal, temporal, occipital y huesecillos del oído."},
+      {"text": "Maxilar, mandíbula y cigomático", "isCorrect": false, "rationale": "Esos forman parte del viscerocráneo."},
+      {"text": "Solo el cráneo y la cara", "isCorrect": false, "rationale": "El neurocráneo es la bóveda craneal, no la cara."},
+      {"text": "Todas las costillas y el esternón", "isCorrect": false, "rationale": "Esos son parte del tórax."}
+    ],
+    "hint": "Es la parte ósea que protege el encéfalo..."
+  },
+  {
+    "question": "¿Qué forman el viscerocráneo?",
+    "options": [
+      {"text": "Maxilar, nasal, lagrimal, cigomático, palatino, cornete nasal inferior, vómer, mandíbula e hioides", "isCorrect": true, "rationale": "El viscerocráneo está formado por: maxilar, nasal, lagrimal, cigomático, palatino, cornete nasal inferior, vómer, mandíbula e hioides."},
+      {"text": "Frontal, parietal y occipital", "isCorrect": false, "rationale": "Esos son del neurocráneo."},
+      {"text": "Vértebras y sacro", "isCorrect": false, "rationale": "Esos son de la columna vertebral."},
+      {"text": "Costillas y esternón", "isCorrect": false, "rationale": "Esos son del tórax."}
+    ],
+    "hint": "Es la parte ósea de la cara...",
+    "image": "imagen:viscerocraneo-huesos-cara"
+  },
+  {
+    "question": "¿Qué forman la columna vertebral?",
+    "options": [
+      {"text": "Vértebras cervicales, torácicas, lumbares, sacro y cóccix", "isCorrect": true, "rationale": "La columna vertebral está formada por vértebras cervicales, torácicas, lumbares, sacro y cóccix."},
+      {"text": "Solo las vértebras lumbares", "isCorrect": false, "rationale": "Son todas las regiones, no solo las lumbares."},
+      {"text": "Costillas y esternón", "isCorrect": false, "rationale": "Esos son parte del tórax."},
+      {"text": "Cráneo y mandíbula", "isCorrect": false, "rationale": "Esos son parte del cráneo, no de la columna."}
+    ],
+    "hint": "Incluye las 5 regiones desde el cuello hasta el coxis...",
+    "image": "imagen:columna-vertebral-regiones"
+  }
+]

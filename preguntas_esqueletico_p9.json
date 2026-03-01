@@ -1,0 +1,182 @@
+[
+  {
+    "question": "¿Qué es una fractura?",
+    "options": [
+      {"text": "Solución de continuidad del hueso producida por golpe o contracción muscular intensa", "isCorrect": true, "rationale": "Las fracturas se definen como la solución de continuidad de un hueso, que se produce bruscamente por un golpe exterior o por una contracción muscular intensa."},
+      {"text": "Una inflamación del hueso", "isCorrect": false, "rationale": "No es inflamación."},
+      {"text": "Un golpe en el hueso sin romperlo", "isCorrect": false, "rationale": "Hay solución de continuidad."},
+      {"text": "Una enfermedad del cartílago", "isCorrect": false, "rationale": "Es del hueso."}
+    ],
+    "hint": "Es cuando el hueso se 'rompe'..."
+  },
+  {
+    "question": "¿Qué se requiere para la consolidación de una fractura?",
+    "options": [
+      {"text": "Aposición de los fragmentos e inmovilización de la región afectada", "isCorrect": true, "rationale": "Para que la lesión se consolide es necesario que los bordes o fragmentos estén en posición próxima (reducción) y la posterior inmovilización."},
+      {"text": "Solo reposo en cama", "isCorrect": false, "rationale": "Se requiere reducción e inmovilización."},
+      {"text": "Solo medicación", "isCorrect": false, "rationale": "No es suficiente."},
+      {"text": "No requiere tratamiento", "isCorrect": false, "rationale": "Sí requiere reducción e inmovilización."}
+    ],
+    "hint": "Hay que 'juntar' las partes y 'quietar' la zona..."
+  },
+  {
+    "question": "¿Qué es el callo óseo?",
+    "options": [
+      {"text": "Sustancia osteoide producida por osteoblastos vecinos que une los fragmentos de la fractura", "isCorrect": true, "rationale": "Durante la consolidación proliferan los osteoblastos vecinos y producen sustancia osteoide que ocupa el espacio interfragmentario, formando el callo óseo."},
+      {"text": "Una infección del hueso", "isCorrect": false, "rationale": "No es infección."},
+      {"text": "El cartílago de la fractura", "isCorrect": false, "rationale": "Es hueso nuevo."},
+      {"text": "Un tipo de fractura", "isCorrect": false, "rationale": "Es parte del proceso de curación."}
+    ],
+    "hint": "Es el 'pegamento óseo' que une los fragmentos..."
+  },
+  {
+    "question": "¿Qué es la remodelación del callo óseo?",
+    "options": [
+      {"text": "Proceso donde el callo sufre reorganización según líneas de fuerza, formando el callo definitivo", "isCorrect": true, "rationale": "El callo sufre un proceso de remodelación donde se refuerzan algunas zonas y se reabsorben otras, orientándose según las líneas de fuerza."},
+      {"text": "El endurecimiento del callo", "isCorrect": false, "rationale": "Es más que endurecimiento, es reorganización."},
+      {"text": "La eliminación del callo", "isCorrect": false, "rationale": "Se remodela, no se elimina."},
+      {"text": "La formación de nuevo cartílago", "isCorrect": false, "rationale": "Se forma hueso definitivo."}
+    ],
+    "hint": "El hueso se 'reorganiza' según las fuerzas que soporta..."
+  },
+  {
+    "question": "¿Qué es el hueso heterotópico?",
+    "options": [
+      {"text": "Tejido óseo en tejidos blandos que normalmente no lo tienen", "isCorrect": true, "rationale": "El hueso heterotópico es tejido óseo desarrollado en tejidos blandos que normalmente no contienen hueso."},
+      {"text": "Un hueso fuera de lugar", "isCorrect": false, "rationale": "Es hueso donde no debería haber."},
+      {"text": "Un hueso supernumerario", "isCorrect": false, "rationale": "No es lo mismo."},
+      {"text": "Un tipo de tumor", "isCorrect": false, "rationale": "No es tumor, es hueso normal en lugar anormal."}
+    ],
+    "hint": "Hueso donde NO debería haber hueso..."
+  },
+  {
+    "question": "¿Qué causa la formación de hueso heterotópico?",
+    "options": [
+      {"text": "Traumatismos repetidos y hemorragias que calcifican y osifican", "isCorrect": true, "rationale": "El hueso heterotópico se desarrolla en tejidos que sufren traumatismos repetidamente, y las zonas de hemorragia se calcifican y osifican."},
+      {"text": "Infecciones", "isCorrect": false, "rationale": "No es la causa principal."},
+      {"text": "Enfermedades genéticas", "isCorrect": false, "rationale": "Es causado por traumatismos."},
+      {"text": "La edad avanzada", "isCorrect": false, "rationale": "No está relacionado con la edad."}
+    ],
+    "hint": "Ocurre en atletas y jinetes por ejemplo..."
+  },
+  {
+    "question": "¿En qué grupos es común el hueso heterotópico?",
+    "options": [
+      {"text": "Atletas con distensiones repetidas y jinetes (muslo)", "isCorrect": true, "rationale": "Ocurre en atletas que sufren distensiones y desgarros repetidamente, y en los músculos del muslo de los jinetes."},
+      {"text": "Solo en ancianos", "isCorrect": false, "rationale": "No es típico de ancianos."},
+      {"text": "Solo en niños", "isCorrect": false, "rationale": "No es típico de niños."},
+      {"text": "En personas sedentarias", "isCorrect": false, "rationale": "Es más común en personas activas."}
+    ],
+    "hint": "Gente con actividad física repetitiva..."
+  },
+  {
+    "question": "¿Qué es la calcificación ectópica?",
+    "options": [
+      {"text": "Depósito de calcio en tejidos que normalmente no lo presentan", "isCorrect": true, "rationale": "La calcificación ectópica es un trastorno caracterizado por depósito de calcio en tejidos que normalmente no lo presentan."},
+      {"text": "Formación de hueso en tejidos blandos", "isCorrect": false, "rationale": "Es depósito de calcio, no formación de hueso."},
+      {"text": "Calcificación normal del hueso", "isCorrect": false, "rationale": "Es en tejidos que no deberían tener calcio."},
+      {"text": "Un tipo de fractura", "isCorrect": false, "rationale": "No es fractura."}
+    ],
+    "hint": "Calcio donde NO debería haber..."
+  },
+  {
+    "question": "¿En qué tejidos puede ocurrir calcificación ectópica?",
+    "options": [
+      {"text": "Músculos, tendones y tejido subcutáneo", "isCorrect": true, "rationale": "La calcificación ectópica puede presentarse en músculos, tendones y tejido subcutáneo."},
+      {"text": "Solo en el hueso", "isCorrect": false, "rationale": "Es fuera del hueso."},
+      {"text": "Solo en el cerebro", "isCorrect": false, "rationale": "No es la ubicación típica."},
+      {"text": "Solo en la piel", "isCorrect": false, "rationale": "Puede estar en múltiples tejidos."}
+    ],
+    "hint": "Tejidos que normalmente no tienen calcio..."
+  },
+  {
+    "question": "¿Qué puede causar calcificación ectópica?",
+    "options": [
+      {"text": "Enfermedades con calcio elevado en sangre y cicatrices", "isCorrect": true, "rationale": "Puede presentarse en enfermedades con valores elevados de calcio en sangre, y también sobre cicatrices."},
+      {"text": "Solo traumatismos", "isCorrect": false, "rationale": "Hay otras causas."},
+      {"text": "Solo infecciones", "isCorrect": false, "rationale": "No es la causa principal."},
+      {"text": "La edad avanzada exclusivamente", "isCorrect": false, "rationale": "No es la única causa."}
+    ],
+    "hint": "Puede ser por enfermedades sistémicas o locales..."
+  },
+  {
+    "question": "¿Qué es la osteoporosis?",
+    "options": [
+      {"text": "Disminución de la masa de tejido óseo conservando la calidad de la matriz ósea", "isCorrect": true, "rationale": "La osteoporosis se presenta como una disminución de la masa de tejido óseo conservando la calidad de la estructura de la matriz ósea."},
+      {"text": "Aumento de la masa ósea", "isCorrect": false, "rationale": "Es disminución."},
+      {"text": "Cambio en la calidad del hueso", "isCorrect": false, "rationale": "La calidad se conserva, disminuye la masa."},
+      {"text": "Una infección del hueso", "isCorrect": false, "rationale": "No es infección."}
+    ],
+    "hint": "Hay menos hueso, pero lo que queda está bien..."
+  },
+  {
+    "question": "¿Por qué se produce la osteoporosis?",
+    "options": [
+      {"text": "Por predominio de la destrucción del hueso sobre su formación", "isCorrect": true, "rationale": "La osteoporosis se produce por el predominio de la destrucción del hueso."},
+      {"text": "Por exceso de formación ósea", "isCorrect": false, "rationale": "Es lo contrario."},
+      {"text": "Por infección", "isCorrect": false, "rationale": "No es infecciosa."},
+      {"text": "Por falta de calcio en la dieta exclusivamente", "isCorrect": false, "rationale": "No es la única causa."}
+    ],
+    "hint": "Se destruye más hueso del que se forma..."
+  },
+  {
+    "question": "¿A quiénes afecta principalmente la osteoporosis senil?",
+    "options": [
+      {"text": "Mujeres mayores de 50 años y hombres mayores de 70 años", "isCorrect": true, "rationale": "La osteoporosis afecta a las mujeres a partir de los cincuenta años y a los hombres a partir de los setenta (osteoporosis senil)."},
+      {"text": "Solo a hombres", "isCorrect": false, "rationale": "Afecta a ambos sexos."},
+      {"text": "Solo a niños", "isCorrect": false, "rationale": "Es de adultos."},
+      {"text": "Por igual a todos los adultos", "isCorrect": false, "rationale": "Las mujeres la sufren antes."}
+    ],
+    "hint": "Las mujeres antes que los hombres..."
+  },
+  {
+    "question": "¿Qué porcentaje de mujeres mayores de 80 años presenta osteoporosis?",
+    "options": [
+      {"text": "90%", "isCorrect": true, "rationale": "Esta patología se presenta en el 90% de las mujeres mayores de 80 años."},
+      {"text": "50%", "isCorrect": false, "rationale": "Es más alto."},
+      {"text": "30%", "isCorrect": false, "rationale": "Es mucho más alto."},
+      {"text": "10%", "isCorrect": false, "rationale": "Es mucho más alto."}
+    ],
+    "hint": "Casi todas las mujeres muy ancianas..."
+  },
+  {
+    "question": "¿Qué fracturas son más frecuentes en la osteoporosis?",
+    "options": [
+      {"text": "Cuello del fémur y aplastamientos vertebrales", "isCorrect": true, "rationale": "Existe una mayor predisposición a las fracturas, las más frecuentes son las del cuello del fémur y los aplastamientos vertebrales."},
+      {"text": "Fracturas de cráneo", "isCorrect": false, "rationale": "No son las más frecuentes."},
+      {"text": "Fracturas de manos", "isCorrect": false, "rationale": "No son las más frecuentes."},
+      {"text": "Fracturas de costillas", "isCorrect": false, "rationale": "No son las más frecuentes."}
+    ],
+    "hint": "Huesos que soportan peso..."
+  },
+  {
+    "question": "¿Qué son los tumores óseos primarios?",
+    "options": [
+      {"text": "Tumores infrecuentes (2% de todos los tumores) que producen hueso o cartílago", "isCorrect": true, "rationale": "Los tumores óseos primarios son infrecuentes y constituyen el 2% de todos los tumores del cuerpo humano. La mayoría producen hueso o cartílago."},
+      {"text": "Tumores muy frecuentes", "isCorrect": false, "rationale": "Son infrecuentes."},
+      {"text": "Tumores que vienen de otros órganos", "isCorrect": false, "rationale": "Esos son metastásicos."},
+      {"text": "Tumores benignos exclusivamente", "isCorrect": false, "rationale": "Pueden ser malignos."}
+    ],
+    "hint": "Son poco comunes y nacen en el hueso..."
+  },
+  {
+    "question": "¿Cuál es la causa más frecuente de lesión tumoral ósea?",
+    "options": [
+      {"text": "Metástasis de tumores de tiroides, pulmón, mama o próstata", "isCorrect": true, "rationale": "Las metástasis son la causa más frecuente de lesión tumoral ósea, y con frecuencia provienen de tumores primitivos de tiroides, pulmón, mama o próstata."},
+      {"text": "Tumores primarios del hueso", "isCorrect": false, "rationale": "Son menos frecuentes."},
+      {"text": "Traumatismos", "isCorrect": false, "rationale": "No causan tumores."},
+      {"text": "Infecciones", "isCorrect": false, "rationale": "No son causa de tumores."}
+    ],
+    "hint": "Vienen de otros órganos al hueso..."
+  },
+  {
+    "question": "¿Cómo se pueden manifestar los tumores óseos?",
+    "options": [
+      {"text": "Dolor, tumefacción y a veces fractura patológica o espontánea", "isCorrect": true, "rationale": "Los tumores óseos se caracterizan por presentar dolor y tumefacción y, en ocasiones, pueden manifestarse mediante fractura patológica o espontánea."},
+      {"text": "Solo asintomáticos", "isCorrect": false, "rationale": "Tienen síntomas."},
+      {"text": "Solo fiebre", "isCorrect": false, "rationale": "El dolor y tumefacción son más característicos."},
+      {"text": "Solo anemia", "isCorrect": false, "rationale": "No es el síntoma principal."}
+    ],
+    "hint": "Dolor, hinchazón, y a veces fracturas sin trauma..."
+  }
+]

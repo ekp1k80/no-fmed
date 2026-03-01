@@ -1,0 +1,192 @@
+[
+  {
+    "question": "¿Qué es la osificación?",
+    "options": [
+      {"text": "Proceso por el cual los osteoblastos y osteocitos producen la matriz ósea", "isCorrect": true, "rationale": "La osificación es el proceso por el cual los osteoblastos y osteocitos producen la matriz ósea."},
+      {"text": "La formación de cartílago", "isCorrect": false, "rationale": "No es formación de cartílago, es de hueso."},
+      {"text": "La destrucción del hueso", "isCorrect": false, "rationale": "Eso es reabsorción ósea, no osificación."},
+      {"text": "El depósito de calcio en tejidos blandos", "isCorrect": false, "rationale": "Eso es calcificación ectópica."}
+    ],
+    "hint": "Es cómo se forma el tejido óseo..."
+  },
+  {
+    "question": "¿Cuáles son los dos tipos principales de osificación?",
+    "options": [
+      {"text": "Osificación membranosa y osificación condral", "isCorrect": true, "rationale": "Los dos tipos principales son osificación membranosa y osificación condral."},
+      {"text": "Osificación primaria y secundaria", "isCorrect": false, "rationale": "Eso se refiere a centros de osificación, no a tipos."},
+      {"text": "Osificación interna y externa", "isCorrect": false, "rationale": "No existen esos términos."},
+      {"text": "Osificación rápida y lenta", "isCorrect": false, "rationale": "No se clasifican por velocidad."}
+    ],
+    "hint": "Una parte de tejido conectivo, la otra de cartílago..."
+  },
+  {
+    "question": "¿Qué es la osificación membranosa?",
+    "options": [
+      {"text": "El hueso se forma a partir de un molde de tejido conectivo mesenquimatoso vascularizado", "isCorrect": true, "rationale": "En la osificación membranosa el hueso se forma a partir de un molde de tejido conectivo mesenquimatoso ricamente vascularizado."},
+      {"text": "El hueso se forma a partir de cartílago", "isCorrect": false, "rationale": "Eso es la osificación condral."},
+      {"text": "El hueso se forma a partir de otro hueso", "isCorrect": false, "rationale": "No, se forma desde tejido conectivo."},
+      {"text": "Solo ocurre en el feto", "isCorrect": false, "rationale": "Puede ocurrir en otras etapas también."}
+    ],
+    "hint": "No hay cartílago previo, solo tejido conectivo..."
+  },
+  {
+    "question": "¿Cuáles son las etapas de la osificación membranosa?",
+    "options": [
+      {"text": "Diferenciación en células osteogénicas → producción de matriz osteoide → calcificación", "isCorrect": true, "rationale": "Las células se diferencian en osteoblastos, producen matriz osteoide y luego se calcifica formando la matriz ósea."},
+      {"text": "Formación de cartílago → calcificación → reemplazo por hueso", "isCorrect": false, "rationale": "Eso es osificación condral."},
+      {"text": "Fractura → callo óseo → consolidación", "isCorrect": false, "rationale": "Eso es consolidación de fractura."},
+      {"text": "Solo una etapa: depósito de calcio", "isCorrect": false, "rationale": "Son múltiples etapas."}
+    ],
+    "hint": "Hay diferenciación celular, producción de matriz y luego calcificación..."
+  },
+  {
+    "question": "¿Qué huesos se forman por osificación membranosa?",
+    "options": [
+      {"text": "Huesos planos de la calvaria, mandíbula y clavícula", "isCorrect": true, "rationale": "La osificación membranosa se produce en los huesos planos que rodean la cavidad craneal, la mandíbula y la clavícula."},
+      {"text": "Todos los huesos largos", "isCorrect": false, "rationale": "Los huesos largos son de osificación condral."},
+      {"text": "Solo el fémur", "isCorrect": false, "rationale": "El fémur es de osificación condral."},
+      {"text": "Las vértebras", "isCorrect": false, "rationale": "Las vértebras son de osificación condral."}
+    ],
+    "hint": "Son los huesos que NO tienen cartílago previo..."
+  },
+  {
+    "question": "¿Qué es la matriz osteoide?",
+    "options": [
+      {"text": "Matriz preósea producida por osteoblastos antes de la calcificación", "isCorrect": true, "rationale": "La sustancia osteoide es la matriz preósea que inicialmente no tiene depósitos de calcio, hasta que se calcifica."},
+      {"text": "El hueso completamente formado", "isCorrect": false, "rationale": "No, es previa a la calcificación."},
+      {"text": "El cartílago de crecimiento", "isCorrect": false, "rationale": "No es cartílago."},
+      {"text": "La médula ósea", "isCorrect": false, "rationale": "No es médula."}
+    ],
+    "hint": "Es la matriz 'pre-hueso', sin mineralizar aún..."
+  },
+  {
+    "question": "¿Qué es la osificación condral?",
+    "options": [
+      {"text": "El esbozo inicial del hueso es de tejido cartilaginoso revestido de pericondrio", "isCorrect": true, "rationale": "En la osificación condral el esbozo inicial del hueso es de tejido cartilaginoso revestido de pericondrio."},
+      {"text": "El hueso se forma directamente del tejido conectivo", "isCorrect": false, "rationale": "Eso es la osificación membranosa."},
+      {"text": "Solo ocurre en el cráneo", "isCorrect": false, "rationale": "Ocurre en la mayoría de los huesos."},
+      {"text": "No hay pericondrio involucrado", "isCorrect": false, "rationale": "Sí hay pericondrio."}
+    ],
+    "hint": "El hueso reemplaza a un modelo de cartílago..."
+  },
+  {
+    "question": "¿Cuáles son los subtipos de osificación condral?",
+    "options": [
+      {"text": "Osificación pericondral y osificación endocondral", "isCorrect": true, "rationale": "La osificación condral tiene dos subtipos: pericondral (desde el pericondrio) y endocondral (desde centros dentro del cartílago)."},
+      {"text": "Primaria y secundaria", "isCorrect": false, "rationale": "Esos son centros de osificación, no subtipos."},
+      {"text": "Interna y externa", "isCorrect": false, "rationale": "No existen esos términos."},
+      {"text": "Solo hay un tipo de osificación condral", "isCorrect": false, "rationale": "Hay dos subtipos."}
+    ],
+    "hint": "Una desde afuera (pericondrio), otra desde adentro..."
+  },
+  {
+    "question": "¿Qué caracteriza a la osificación pericondral?",
+    "options": [
+      {"text": "Se desarrolla desde el pericondrio, característica de la diáfisis de huesos largos", "isCorrect": true, "rationale": "La osificación pericondral se desarrolla desde el pericondrio y es característica de las diáfisis de los huesos largos."},
+      {"text": "Se desarrolla dentro del cartílago", "isCorrect": false, "rationale": "Eso es la endocondral."},
+      {"text": "Ocurre solo en huesos planos", "isCorrect": false, "rationale": "Ocurre en huesos largos."},
+      {"text": "No hay pericondrio involucrado", "isCorrect": false, "rationale": "El pericondrio es fundamental."}
+    ],
+    "hint": "El pericondrio se transforma en periostio osteogénico..."
+  },
+  {
+    "question": "¿Qué caracteriza a la osificación endocondral?",
+    "options": [
+      {"text": "Se desarrolla desde centros de osificación en el espesor del cartílago", "isCorrect": true, "rationale": "La osificación endocondral se desarrolla a partir de centros de osificación bien definidos, localizados en el espesor del cartílago."},
+      {"text": "Se desarrolla desde el pericondrio", "isCorrect": false, "rationale": "Eso es la pericondral."},
+      {"text": "Ocurre sin participación de vasos", "isCorrect": false, "rationale": "Los vasos penetran desde el periostio."},
+      {"text": "Solo forma hueso compacto", "isCorrect": false, "rationale": "Forma ambos tipos de hueso."}
+    ],
+    "hint": "Los vasos penetran al interior del cartílago..."
+  },
+  {
+    "question": "¿Qué son los centros de osificación?",
+    "options": [
+      {"text": "Lugares donde se inicia el proceso de osificación en huesos de origen cartilaginoso", "isCorrect": true, "rationale": "Los centros de osificación son los lugares donde se inicia el proceso de osificación en los huesos de origen cartilaginoso."},
+      {"text": "Las articulaciones", "isCorrect": false, "rationale": "No son articulaciones."},
+      {"text": "Las fracturas", "isCorrect": false, "rationale": "No son fracturas."},
+      {"text": "Los vasos nutricios", "isCorrect": false, "rationale": "No son vasos."}
+    ],
+    "hint": "Son los 'puntos de partida' donde empieza a formarse hueso..."
+  },
+  {
+    "question": "¿Qué diferencia hay entre centros de osificación primarios y secundarios?",
+    "options": [
+      {"text": "Los primarios aparecen primero (diafisarios), los secundarios después del nacimiento (epifisarios y apofisarios)", "isCorrect": true, "rationale": "Los centros primarios son diafisarios. Los secundarios son epifisarios y apofisarios, aparecen después del nacimiento."},
+      {"text": "No hay diferencia", "isCorrect": false, "rationale": "Difieren en momento de aparición y ubicación."},
+      {"text": "Los primarios forman epífisis, los secundarios diáfisis", "isCorrect": false, "rationale": "Es al revés."},
+      {"text": "Los primarios están en adultos, los secundarios en niños", "isCorrect": false, "rationale": "Ambos están en desarrollo."}
+    ],
+    "hint": "Primero aparece uno, después el otro..."
+  },
+  {
+    "question": "¿Qué excepción hay respecto a los centros de osificación secundarios?",
+    "options": [
+      {"text": "La epífisis distal del fémur y proximal de la tibia aparecen antes del nacimiento", "isCorrect": true, "rationale": "Los centros secundarios se originan después del nacimiento, excepto en la epífisis distal del fémur y proximal de la tibia."},
+      {"text": "No hay excepciones", "isCorrect": false, "rationale": "Sí hay excepciones."},
+      {"text": "Todas las epífisis aparecen antes del nacimiento", "isCorrect": false, "rationale": "No, la mayoría después."},
+      {"text": "Ningún centro secundario aparece antes del nacimiento", "isCorrect": false, "rationale": "Hay dos excepciones."}
+    ],
+    "hint": "Son dos huesos de la rodilla..."
+  },
+  {
+    "question": "¿Qué función tiene el cartílago epifisario en el crecimiento?",
+    "options": [
+      {"text": "Permite el crecimiento en longitud del hueso hasta su osificación", "isCorrect": true, "rationale": "El cartílago epifisario permite, mediante su osificación, el agregado de material óseo a la diáfisis, aumentando su longitud."},
+      {"text": "Permite el crecimiento en grosor", "isCorrect": false, "rationale": "El crecimiento en grosor es por el periostio."},
+      {"text": "No tiene función en el crecimiento", "isCorrect": false, "rationale": "Es fundamental para el crecimiento."},
+      {"text": "Solo forma articulaciones", "isCorrect": false, "rationale": "No es su función principal."}
+    ],
+    "hint": "Es la 'placa de crecimiento' que permite al hueso alargarse..."
+  },
+  {
+    "question": "¿Qué función tiene el periostio diafisario en el crecimiento?",
+    "options": [
+      {"text": "Reforma el hueso endocondral dando forma cilíndrica a la diáfisis", "isCorrect": true, "rationale": "El periostio diafisario reforma al hueso endocondral dando la forma cilíndrica a la diáfisis."},
+      {"text": "Permite el crecimiento en longitud", "isCorrect": false, "rationale": "Eso es función del cartílago epifisario."},
+      {"text": "No participa en el crecimiento", "isCorrect": false, "rationale": "Sí participa activamente."},
+      {"text": "Solo nutre al hueso", "isCorrect": false, "rationale": "No solo nutre, también remodela."}
+    ],
+    "hint": "Da la forma cilíndrica característica..."
+  },
+  {
+    "question": "¿Por qué la metáfisis es un punto crítico del hueso durante el crecimiento?",
+    "options": [
+      {"text": "Porque allí está el cartílago epifisario responsable del crecimiento en longitud", "isCorrect": true, "rationale": "La metáfisis es crítica porque allí se ubica el cartílago epifisario que permite el crecimiento."},
+      {"text": "Porque es la zona más frágil", "isCorrect": false, "rationale": "No es la razón principal."},
+      {"text": "Porque no tiene irrigación", "isCorrect": false, "rationale": "Sí tiene irrigación."},
+      {"text": "Porque es donde se producen fracturas", "isCorrect": false, "rationale": "No es la razón principal."}
+    ],
+    "hint": "Es donde ocurre el crecimiento activo..."
+  },
+  {
+    "question": "¿Qué huesos se denominan 'membranosos'?",
+    "options": [
+      {"text": "Los que se forman por osificación membranosa: huesos planos de calvaria, mandíbula y clavícula", "isCorrect": true, "rationale": "Los huesos que se forman mediante osificación membranosa se denominan huesos membranosos."},
+      {"text": "Todos los huesos del cuerpo", "isCorrect": false, "rationale": "Solo algunos son membranosos."},
+      {"text": "Los huesos largos", "isCorrect": false, "rationale": "Los huesos largos son de osificación condral."},
+      {"text": "Las vértebras", "isCorrect": false, "rationale": "Las vértebras son de osificación condral."}
+    ],
+    "hint": "Son los que NO pasaron por etapa cartilaginosa..."
+  },
+  {
+    "question": "¿Cómo se distingue el hueso reticular del hueso laminar?",
+    "options": [
+      {"text": "El reticular es embrionario con organización reticular; el laminar es del adulto con capas cilíndricas", "isCorrect": true, "rationale": "El hueso reticular es de tipo embrionario. El hueso laminar es del adulto, con organización en laminillas cilíndricas."},
+      {"text": "No hay diferencia", "isCorrect": false, "rationale": "Tienen organización diferente."},
+      {"text": "El reticular es del adulto", "isCorrect": false, "rationale": "Es al revés, el reticular es embrionario."},
+      {"text": "El laminar es más débil", "isCorrect": false, "rationale": "No, ambos son resistentes."}
+    ],
+    "hint": "Uno es inmaduro, el otro maduro..."
+  },
+  {
+    "question": "¿Qué son los huesos del carpo y su relación con la edad?",
+    "options": [
+      {"text": "Los 8 huesos del carpo se osifican entre el 1° y 9° año, sirviendo para calcular la edad radiológica", "isCorrect": true, "rationale": "Los ocho huesos del carpo se osifican progresivamente entre el primero y el noveno año, lo que sirve para calcular radiológicamente la edad."},
+      {"text": "Se osifican todos al nacer", "isCorrect": false, "rationale": "No, se osifican gradualmente."},
+      {"text": "Se osifican en la adolescencia", "isCorrect": false, "rationale": "Es entre el 1° y 9° año."},
+      {"text": "No tienen relación con la edad", "isCorrect": false, "rationale": "Sí se usan para calcular edad."}
+    ],
+    "hint": "Empieza por el grande y termina con el pisiforme..."
+  }
+]

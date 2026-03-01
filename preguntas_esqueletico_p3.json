@@ -1,0 +1,192 @@
+[
+  {
+    "question": "¿Cuáles son las dos porciones con aspecto diferente en la estructura interna del hueso adulto?",
+    "options": [
+      {"text": "Hueso compacto y hueso esponjoso (trabecular)", "isCorrect": true, "rationale": "En la estructura interna del hueso adulto se reconocen dos porciones: el hueso compacto y el hueso esponjoso (o trabecular)."},
+      {"text": "Epidermis y dermis", "isCorrect": false, "rationale": "Esas son capas de la piel, no del hueso."},
+      {"text": "Cartílago y hueso", "isCorrect": false, "rationale": "Son tejidos diferentes, no partes del mismo hueso."},
+      {"text": "Periostio y endostio", "isCorrect": false, "rationale": "Son membranas de revestimiento, no la estructura interna propiamente dicha."}
+    ],
+    "hint": "Uno es sólido y denso, el otro tiene aspecto de esponja..."
+  },
+  {
+    "question": "¿Qué es el hueso compacto?",
+    "options": [
+      {"text": "Capa periférica y continua que cubre el hueso esponjoso", "isCorrect": true, "rationale": "El hueso compacto forma una capa periférica y continua, cubierta externamente por el periostio."},
+      {"text": "La parte interna esponjosa", "isCorrect": false, "rationale": "Eso es el hueso esponjoso."},
+      {"text": "La médula ósea", "isCorrect": false, "rationale": "La médula está dentro de la cavidad medular, no es hueso compacto."},
+      {"text": "El cartílago que recubre el hueso", "isCorrect": false, "rationale": "El cartílago es diferente del hueso compacto."}
+    ],
+    "hint": "Es la capa dura y densa que forma la superficie del hueso..."
+  },
+  {
+    "question": "¿Qué es la osteona o sistema de Havers?",
+    "options": [
+      {"text": "La unidad funcional del hueso compacto", "isCorrect": true, "rationale": "La osteona constituye la unidad funcional del tejido óseo compacto (sistema de Havers)."},
+      {"text": "Una articulación del hueso", "isCorrect": false, "rationale": "No es una articulación, es una unidad estructural del hueso."},
+      {"text": "Un tipo de cartílago", "isCorrect": false, "rationale": "No es cartílago, es hueso."},
+      {"text": "La cavidad medular", "isCorrect": false, "rationale": "No, es una estructura del hueso compacto."}
+    ],
+    "hint": "Es la unidad básica estructural del hueso compacto..."
+  },
+  {
+    "question": "¿Cómo están dispuestas las fibras de colágeno en las laminillas óseas de la osteona?",
+    "options": [
+      {"text": "Dirección oblicua, alternada entre capas consecutivas", "isCorrect": true, "rationale": "En cada laminilla las fibras de colágeno tienen dirección oblicua paralela entre sí, y entre capas están dispuestas en dirección opuesta alternada."},
+      {"text": "Todas en la misma dirección", "isCorrect": false, "rationale": "No, están alternadas para mayor resistencia."},
+      {"text": "En forma radial", "isCorrect": false, "rationale": "No es radial la disposición."},
+      {"text": "No tienen fibras de colágeno", "isCorrect": false, "rationale": "Sí tienen fibras de colágeno organizadas."}
+    ],
+    "hint": "Este patrón alternado da mayor resistencia a la compresión..."
+  },
+  {
+    "question": "¿Qué son los conductos de Volkmann?",
+    "options": [
+      {"text": "Conductos transversales que conectan los conductos centrales de las osteonas entre sí", "isCorrect": true, "rationale": "Los conductos transversales [de Volkmann] conectan los conductos centrales de las osteonas entre sí y con la superficie."},
+      {"text": "Los conductos centrales de la osteona", "isCorrect": false, "rationale": "Esos son los conductos de Havers, no de Volkmann."},
+      {"text": "Conductos que llevan sangre al corazón", "isCorrect": false, "rationale": "No, son estructuras óseas internas."},
+      {"text": "Conductos del tejido esponjoso", "isCorrect": false, "rationale": "Se encuentran en el hueso compacto."}
+    ],
+    "hint": "Son conductos que conectan horizontalmente las osteonas..."
+  },
+  {
+    "question": "¿Qué son las laminillas intersticiales?",
+    "options": [
+      {"text": "Restos de osteonas antiguas que quedan entre las osteonas actuales", "isCorrect": true, "rationale": "Entre las osteonas se encuentran las laminillas intersticiales constituidas por restos de osteonas más antiguas."},
+      {"text": "Las laminillas más externas del hueso", "isCorrect": false, "rationale": "Esas son las laminillas circunferenciales externas."},
+      {"text": "Las laminillas del hueso esponjoso", "isCorrect": false, "rationale": "Están en el hueso compacto."},
+      {"text": "Las laminillas que forman el periostio", "isCorrect": false, "rationale": "El periostio es membrana, no tiene laminillas."}
+    ],
+    "hint": "Son como 'vestigios' de osteonas pasadas..."
+  },
+  {
+    "question": "¿Qué es el hueso esponjoso o trabecular?",
+    "options": [
+      {"text": "Está constituido por trabéculas que delimitan espacios con médula ósea", "isCorrect": true, "rationale": "El hueso esponjoso está constituido por una serie de laminillas o trabéculas que delimitan espacios comunicados ocupados por la médula ósea."},
+      {"text": "Es la capa densa del hueso", "isCorrect": false, "rationale": "Eso es el hueso compacto."},
+      {"text": "Es cartílago dentro del hueso", "isCorrect": false, "rationale": "No es cartílago, es tejido óseo."},
+      {"text": "Es la médula ósea propiamente dicha", "isCorrect": false, "rationale": "La médula ocupa los espacios, pero el tejido es óseo esponjoso."}
+    ],
+    "hint": "Tiene aspecto de esponja con muchos pequeños espacios..."
+  },
+  {
+    "question": "¿Qué es la trabécula ósea?",
+    "options": [
+      {"text": "La unidad funcional del tejido óseo esponjoso", "isCorrect": true, "rationale": "La trabécula ósea es la unidad funcional del tejido óseo esponjoso."},
+      {"text": "La unidad del hueso compacto", "isCorrect": false, "rationale": "La unidad del hueso compacto es la osteona."},
+      {"text": "Un tipo de célula ósea", "isCorrect": false, "rationale": "Es una estructura, no una célula."},
+      {"text": "El conducto central del hueso", "isCorrect": false, "rationale": "No, es una estructura laminar del hueso esponjoso."}
+    ],
+    "hint": "Es el equivalente a la osteona pero en el hueso esponjoso..."
+  },
+  {
+    "question": "¿Qué forma tienen las trabéculas óseas?",
+    "options": [
+      {"text": "Placas curvas, barras y cilindros que se dividen y unen entre sí", "isCorrect": true, "rationale": "Las trabéculas presentan forma de placas curvas, barras y cilindros que se dividen y se unen entre sí."},
+      {"text": "Forma esférica perfecta", "isCorrect": false, "rationale": "No tienen forma esférica."},
+      {"text": "Son estructuras lineales rectas", "isCorrect": false, "rationale": "Son curvas y ramificadas."},
+      {"text": "Forma hexagonal como un panal", "isCorrect": false, "rationale": "No tienen organización hexagonal."}
+    ],
+    "hint": "Son estructuras tridimensionales irregulares que forman una red..."
+  },
+  {
+    "question": "¿Cómo se orientan las trabéculas del hueso esponjoso?",
+    "options": [
+      {"text": "A lo largo de las líneas de tensión que soporta cada porción del hueso", "isCorrect": true, "rationale": "Las trabéculas se disponen y orientan a lo largo de las líneas de tensión que soporta cada porción del hueso."},
+      {"text": "Aleatoriamente sin dirección preferencial", "isCorrect": false, "rationale": "No, tienen orientación según las líneas de tensión."},
+      {"text": "Todas paralelas entre sí", "isCorrect": false, "rationale": "Varían según la dirección de las fuerzas."},
+      {"text": "Perpendiculares a la superficie", "isCorrect": false, "rationale": "No necesariamente perpendiculares."}
+    ],
+    "hint": "Siguen el patrón de las fuerzas que actúan sobre el hueso..."
+  },
+  {
+    "question": "¿Cómo se nutren las trabéculas del hueso esponjoso?",
+    "options": [
+      {"text": "Por difusión desde la médula ósea (no tienen vasos propios)", "isCorrect": true, "rationale": "No hay vasos recorriendo el interior de las trabéculas, los osteocitos se nutren por difusión desde la médula ósea."},
+      {"text": "Por arterias que penetran las trabéculas", "isCorrect": false, "rationale": "No tienen vasos propios."},
+      {"text": "Por el periostio", "isCorrect": false, "rationale": "El periostio está en la superficie externa."},
+      {"text": "Por imbibición como el cartílago", "isCorrect": false, "rationale": "No es imbibición, es difusión desde la médula."}
+    ],
+    "hint": "A diferencia del hueso compacto, no tiene conductos vasculares internos..."
+  },
+  {
+    "question": "¿Qué reviste el endostio?",
+    "options": [
+      {"text": "La superficie de las trabéculas y la cavidad medular", "isCorrect": true, "rationale": "La superficie de las trabéculas está cubierta por el endostio, que también reviste la cavidad medular."},
+      {"text": "Solo la superficie externa del hueso", "isCorrect": false, "rationale": "Eso es el periostio."},
+      {"text": "Solo el cartílago articular", "isCorrect": false, "rationale": "No reviste cartílago."},
+      {"text": "Las arterias nutricias", "isCorrect": false, "rationale": "No reviste vasos."}
+    ],
+    "hint": "Es el revestimiento interno del hueso..."
+  },
+  {
+    "question": "¿Dónde se encuentra ubicado el periostio?",
+    "options": [
+      {"text": "Rodeando la superficie exterior del hueso", "isCorrect": true, "rationale": "El periostio es una membrana fibrosa que rodea la superficie exterior del hueso."},
+      {"text": "Dentro de la cavidad medular", "isCorrect": false, "rationale": "Dentro está el endostio."},
+      {"text": "En las superficies articulares", "isCorrect": false, "rationale": "En las articulares hay cartílago articular."},
+      {"text": "Entre las trabéculas", "isCorrect": false, "rationale": "No, es externo."}
+    ],
+    "hint": "Es la membrana que envuelve al hueso por fuera..."
+  },
+  {
+    "question": "¿Qué características tiene el periostio?",
+    "options": [
+      {"text": "Es ricamente vascularizado e inervado", "isCorrect": true, "rationale": "El periostio es una membrana fibrosa, ricamente vascularizada e inervada."},
+      {"text": "Es avascular como el cartílago", "isCorrect": false, "rationale": "Al contrario, muy vascularizado."},
+      {"text": "No tiene inervación", "isCorrect": false, "rationale": "Sí tiene inervación."},
+      {"text": "Es una capa de cartílago", "isCorrect": false, "rationale": "No es cartílago, es tejido conectivo fibroso."}
+    ],
+    "hint": "Por eso duele cuando se lastima la superficie del hueso..."
+  },
+  {
+    "question": "¿Qué es el diploe?",
+    "options": [
+      {"text": "El hueso esponjoso ubicado entre las láminas de los huesos planos del cráneo", "isCorrect": true, "rationale": "En los huesos de la calvaria, al hueso esponjoso se lo denomina diploe."},
+      {"text": "Una enfermedad ósea", "isCorrect": false, "rationale": "No es una enfermedad, es estructura normal."},
+      {"text": "El hueso compacto externo", "isCorrect": false, "rationale": "Eso es la tabla externa."},
+      {"text": "La cavidad medular", "isCorrect": false, "rationale": "No, es el hueso esponjoso de la calvaria."}
+    ],
+    "hint": "Es el nombre específico del hueso esponjoso craneal..."
+  },
+  {
+    "question": "¿Qué son la tabla interna y tabla externa?",
+    "options": [
+      {"text": "Las dos láminas de hueso compacto que rodean el diploe en los huesos planos del cráneo", "isCorrect": true, "rationale": "A las láminas de hueso compacto que rodean el diploe se las denomina lámina [tabla] interna y lámina [tabla] externa."},
+      {"text": "Las dos partes de la epífisis", "isCorrect": false, "rationale": "Son estructuras de huesos planos craneales."},
+      {"text": "Las capas del periostio", "isCorrect": false, "rationale": "No son capas del periostio."},
+      {"text": "Las divisiones del hueso esponjoso", "isCorrect": false, "rationale": "Son de hueso compacto, no esponjoso."}
+    ],
+    "hint": "Están en la bóveda craneal..."
+  },
+  {
+    "question": "¿Dónde se produce la hematopoyesis en el hueso?",
+    "options": [
+      {"text": "En la médula ósea de la cavidad medular y espacios del hueso esponjoso", "isCorrect": true, "rationale": "En la cavidad medular de los huesos largos y en las cavidades del hueso esponjoso se encuentra la médula ósea donde se produce la hematopoyesis."},
+      {"text": "En el periostio", "isCorrect": false, "rationale": "El periostio no produce células sanguíneas."},
+      {"text": "En el hueso compacto", "isCorrect": false, "rationale": "El hueso compacto no tiene médula."},
+      {"text": "En el cartílago articular", "isCorrect": false, "rationale": "El cartílago no produce sangre."}
+    ],
+    "hint": "Es la función de formación de células de la sangre..."
+  },
+  {
+    "question": "¿Qué diferencia hay entre médula ósea roja y amarilla?",
+    "options": [
+      {"text": "La roja es hematopoyética (activa), la amarilla acumula tejido adiposo (inactiva)", "isCorrect": true, "rationale": "En niños la médula es rojiza (hematopoyética). En adultos está inactiva y acumula tejido adiposo, siendo amarilla."},
+      {"text": "La roja está en adultos, la amarilla en niños", "isCorrect": false, "rationale": "Es al revés: roja en niños, amarilla en adultos."},
+      {"text": "La roja es patológica, la amarilla es normal", "isCorrect": false, "rationale": "Ambas son normales en distintas etapas."},
+      {"text": "No hay diferencia funcional", "isCorrect": false, "rationale": "Tienen funciones muy diferentes."}
+    ],
+    "hint": "Una produce sangre, la otra acumula grasa..."
+  },
+  {
+    "question": "¿Qué es el hueso cortical?",
+    "options": [
+      {"text": "Otro nombre para el hueso compacto que forma la capa externa", "isCorrect": true, "rationale": "El hueso compacto también se denomina hueso cortical, forma la lámina que rodea los huesos cortos."},
+      {"text": "El hueso esponjoso", "isCorrect": false, "rationale": "No, es el compacto."},
+      {"text": "El hueso que forma la corteza cerebral", "isCorrect": false, "rationale": "No tiene relación con el cerebro."},
+      {"text": "Un tipo de hueso patológico", "isCorrect": false, "rationale": "Es estructura normal."}
+    ],
+    "hint": "Término alternativo para la capa externa densa..."
+  }
+]

@@ -1,0 +1,232 @@
+[
+  {
+    "question": "¿Qué son los accidentes de la superficie del hueso?",
+    "options": [
+      {"text": "Irregularidades en la superficie ósea: protrusiones, depresiones o superficies ásperas", "isCorrect": true, "rationale": "En la superficie de los huesos existen irregularidades denominadas accidentes óseos: protrusiones (salientes), depresiones (fosas) o superficies ásperas."},
+      {"text": "Fracturas y lesiones del hueso", "isCorrect": false, "rationale": "No son lesiones, son estructuras normales."},
+      {"text": "Solo las articulaciones", "isCorrect": false, "rationale": "Los accidentes pueden ser articulares o extraarticulares."},
+      {"text": "Las cavidades internas del hueso", "isCorrect": false, "rationale": "Son estructuras de la superficie, no internas."}
+    ],
+    "hint": "Son las 'irregularidades' que se ven en la superficie ósea..."
+  },
+  {
+    "question": "¿Qué son las salientes articulares?",
+    "options": [
+      {"text": "Protrusiones con forma regular relacionada con la superficie articular que soportan", "isCorrect": true, "rationale": "Las salientes articulares presentan una forma regular, relacionada con la forma geométrica de la superficie articular que soportan."},
+      {"text": "Protuberancias para inserción muscular", "isCorrect": false, "rationale": "Esas son salientes extraarticulares."},
+      {"text": "Depresiones en el hueso", "isCorrect": false, "rationale": "No son depresiones, son salientes."},
+      {"text": "Agujeros en el hueso", "isCorrect": false, "rationale": "No son perforaciones."}
+    ],
+    "hint": "Están relacionadas con las articulaciones..."
+  },
+  {
+    "question": "¿Qué es un cóndilo?",
+    "options": [
+      {"text": "Saliente articular en un complejo articular", "isCorrect": true, "rationale": "El cóndilo es una saliente articular en un complejo articular."},
+      {"text": "Una depresión articular", "isCorrect": false, "rationale": "No es depresión, es saliente."},
+      {"text": "Un agujero en el hueso", "isCorrect": false, "rationale": "No es perforación."},
+      {"text": "Un tubérculo muscular", "isCorrect": false, "rationale": "No es saliente extraarticular."}
+    ],
+    "hint": "Es una prominencia redondeada que articula..."
+  },
+  {
+    "question": "¿Qué es la cabeza de un hueso?",
+    "options": [
+      {"text": "Extremo abultado articular", "isCorrect": true, "rationale": "La cabeza es un extremo abultado articular."},
+      {"text": "La parte central del hueso", "isCorrect": false, "rationale": "Eso es la diáfisis."},
+      {"text": "Una depresión", "isCorrect": false, "rationale": "Es una saliente, no depresión."},
+      {"text": "El orificio nutricio", "isCorrect": false, "rationale": "No es un orificio."}
+    ],
+    "hint": "Es el 'extremo redondeado' que articula..."
+  },
+  {
+    "question": "¿Qué es el capítulo?",
+    "options": [
+      {"text": "Extremo abultado articular como una cabeza pero de menor tamaño", "isCorrect": true, "rationale": "El capítulo es un extremo abultado articular como una cabeza, pero de menor tamaño."},
+      {"text": "Una cavidad articular", "isCorrect": false, "rationale": "No es cavidad, es saliente."},
+      {"text": "El cuerpo del hueso", "isCorrect": false, "rationale": "No es el cuerpo."},
+      {"text": "Un tipo de fractura", "isCorrect": false, "rationale": "No es patología."}
+    ],
+    "hint": "Es como una 'cabeza pequeña'..."
+  },
+  {
+    "question": "¿Qué son las salientes extraarticulares?",
+    "options": [
+      {"text": "Protuberancias irregulares y rugosas destinadas a inserciones de músculos o ligamentos", "isCorrect": true, "rationale": "Las salientes extraarticulares tienen formas variables, generalmente irregulares y rugosas, destinadas a inserciones de músculos o ligamentos."},
+      {"text": "Superficies que articulan con otros huesos", "isCorrect": false, "rationale": "Esas son articulares, no extraarticulares."},
+      {"text": "Cavidades dentro del hueso", "isCorrect": false, "rationale": "No son cavidades."},
+      {"text": "Agujeros vasculares", "isCorrect": false, "rationale": "No son perforaciones."}
+    ],
+    "hint": "Sirven para que se inserten músculos y ligamentos..."
+  },
+  {
+    "question": "¿Qué es una tuberosidad?",
+    "options": [
+      {"text": "Protuberancia redondeada con relieve rugoso", "isCorrect": true, "rationale": "La tuberosidad es una protuberancia ósea más bien redondeada con un relieve rugoso."},
+      {"text": "Una depresión profunda", "isCorrect": false, "rationale": "No es depresión, es saliente."},
+      {"text": "Un agujero pequeño", "isCorrect": false, "rationale": "No es perforación."},
+      {"text": "Una superficie articular lisa", "isCorrect": false, "rationale": "Tiene relieve rugoso."}
+    ],
+    "hint": "Es una protuberancia 'gruesa y rugosa'..."
+  },
+  {
+    "question": "¿Qué diferencia hay entre tuberosidad y tubérculo?",
+    "options": [
+      {"text": "El tubérculo es de menor tamaño que la tuberosidad", "isCorrect": true, "rationale": "El tubérculo es una protuberancia de menor tamaño que la tuberosidad."},
+      {"text": "El tubérculo es articular y la tuberosidad no", "isCorrect": false, "rationale": "Ambos son extraarticulares."},
+      {"text": "El tubérculo es depresión y la tuberosidad saliente", "isCorrect": false, "rationale": "Ambos son salientes."},
+      {"text": "No hay diferencia", "isCorrect": false, "rationale": "La diferencia es el tamaño."}
+    ],
+    "hint": "La diferencia principal es el tamaño..."
+  },
+  {
+    "question": "¿Qué es una eminencia?",
+    "options": [
+      {"text": "Prominencia más bien alargada", "isCorrect": true, "rationale": "La eminencia es una prominencia más bien alargada."},
+      {"text": "Una depresión", "isCorrect": false, "rationale": "No es depresión."},
+      {"text": "Un agujero", "isCorrect": false, "rationale": "No es perforación."},
+      {"text": "Una cavidad", "isCorrect": false, "rationale": "No es cavidad."}
+    ],
+    "hint": "Es como una 'elevación alargada'..."
+  },
+  {
+    "question": "¿Qué es una apófisis o proceso?",
+    "options": [
+      {"text": "Protrusión desarrollada en una epífisis, con un centro de osificación propio", "isCorrect": true, "rationale": "La apófisis es una protrusión desarrollada en una epífisis, con un centro de osificación propio."},
+      {"text": "Una depresión profunda", "isCorrect": false, "rationale": "No es depresión."},
+      {"text": "El cuerpo del hueso", "isCorrect": false, "rationale": "No es el cuerpo."},
+      {"text": "Una articulación", "isCorrect": false, "rationale": "No es articulación."}
+    ],
+    "hint": "Tiene su propio centro de osificación..."
+  },
+  {
+    "question": "¿Qué es un epicóndilo?",
+    "options": [
+      {"text": "Relieve óseo relacionado por proximidad con un cóndilo", "isCorrect": true, "rationale": "El epicóndilo es un relieve óseo relacionado por proximidad con un cóndilo."},
+      {"text": "Un cóndilo grande", "isCorrect": false, "rationale": "No es el cóndilo mismo, está relacionado con él."},
+      {"text": "Una depresión", "isCorrect": false, "rationale": "No es depresión."},
+      {"text": "Un agujero", "isCorrect": false, "rationale": "No es perforación."}
+    ],
+    "hint": "Está 'al lado' del cóndilo..."
+  },
+  {
+    "question": "¿Qué es una cresta ósea?",
+    "options": [
+      {"text": "Reborde óseo elevado", "isCorrect": true, "rationale": "La cresta es un reborde óseo elevado."},
+      {"text": "Una depresión lineal", "isCorrect": false, "rationale": "No es depresión, es elevación."},
+      {"text": "Un agujero", "isCorrect": false, "rationale": "No es perforación."},
+      {"text": "Una cavidad", "isCorrect": false, "rationale": "No es cavidad."}
+    ],
+    "hint": "Es como una 'elevación lineal' en el hueso..."
+  },
+  {
+    "question": "¿Qué diferencia hay entre cresta y línea?",
+    "options": [
+      {"text": "La cresta es un reborde elevado, la línea es una protrusión ósea lineal menos elevada", "isCorrect": true, "rationale": "La cresta es un reborde óseo elevado. La línea es una protrusión ósea lineal, menos prominente."},
+      {"text": "No hay diferencia", "isCorrect": false, "rationale": "La diferencia está en la elevación."},
+      {"text": "La cresta es articular y la línea no", "isCorrect": false, "rationale": "Ambas son extraarticulares."},
+      {"text": "La línea es depresión y la cresta saliente", "isCorrect": false, "rationale": "Ambas son salientes."}
+    ],
+    "hint": "Una es más 'levantada' que la otra..."
+  },
+  {
+    "question": "¿Qué es una espina ósea?",
+    "options": [
+      {"text": "Protrusión puntiaguda", "isCorrect": true, "rationale": "La espina es una protrusión puntiaguda."},
+      {"text": "Una depresión profunda", "isCorrect": false, "rationale": "No es depresión."},
+      {"text": "Un agujero", "isCorrect": false, "rationale": "No es perforación."},
+      {"text": "Una superficie plana", "isCorrect": false, "rationale": "No es plana, es puntiaguda."}
+    ],
+    "hint": "Es como una 'punta' en el hueso..."
+  },
+  {
+    "question": "¿Qué es una fosa?",
+    "options": [
+      {"text": "Depresión o excavación en la superficie del hueso", "isCorrect": true, "rationale": "La fosa es una depresión o excavación en la superficie ósea."},
+      {"text": "Una saliente", "isCorrect": false, "rationale": "No es saliente, es depresión."},
+      {"text": "Un agujero que atraviesa el hueso", "isCorrect": false, "rationale": "No lo atraviesa, es excavación."},
+      {"text": "Una articulación", "isCorrect": false, "rationale": "No es articulación."}
+    ],
+    "hint": "Es una 'hendidura' en la superficie..."
+  },
+  {
+    "question": "¿Qué es una escotadura o incisura?",
+    "options": [
+      {"text": "Muesca entrante en el borde del hueso", "isCorrect": true, "rationale": "La escotadura o incisura es una muesca entrante en un borde del hueso."},
+      {"text": "Una saliente", "isCorrect": false, "rationale": "No es saliente, es muesca."},
+      {"text": "Un agujero central", "isCorrect": false, "rationale": "Está en el borde, no en el centro."},
+      {"text": "Una cavidad profunda", "isCorrect": false, "rationale": "Es una muesca, no cavidad profunda."}
+    ],
+    "hint": "Es como un 'recorte' en el borde del hueso..."
+  },
+  {
+    "question": "¿Qué es un surco?",
+    "options": [
+      {"text": "Depresión lineal en la superficie del hueso", "isCorrect": true, "rationale": "El surco es una depresión lineal en la superficie ósea."},
+      {"text": "Una saliente alargada", "isCorrect": false, "rationale": "No es saliente, es depresión."},
+      {"text": "Un agujero", "isCorrect": false, "rationale": "No es perforación."},
+      {"text": "Una articulación", "isCorrect": false, "rationale": "No es articulación."}
+    ],
+    "hint": "Es como un 'canal' poco profundo..."
+  },
+  {
+    "question": "¿Qué son las cavidades articulares?",
+    "options": [
+      {"text": "Depresiones esferoidales, elipsoidales o cupuliformes cubiertas por cartílago articular", "isCorrect": true, "rationale": "Las cavidades articulares son depresiones esferoidales, elipsoidales o cupuliformes, con superficies lisas cubiertas por cartílago articular."},
+      {"text": "Agujeros que atraviesan el hueso", "isCorrect": false, "rationale": "No son perforaciones."},
+      {"text": "Cavidades con aire", "isCorrect": false, "rationale": "No contienen aire."},
+      {"text": "Depresiones para inserción muscular", "isCorrect": false, "rationale": "Son articulares, no de inserción."}
+    ],
+    "hint": "Reciben la saliente del hueso con el que se articulan..."
+  },
+  {
+    "question": "¿Qué tipos de cavidades no articulares existen?",
+    "options": [
+      {"text": "De inserción, de recepción y de ampliación (celdas y senos)", "isCorrect": true, "rationale": "Las cavidades no articulares pueden ser de inserción muscular, de recepción (paso de estructuras), o de ampliación (celdas y senos)."},
+      {"text": "Solo cavidades con aire", "isCorrect": false, "rationale": "Hay más tipos."},
+      {"text": "Solo cavidades articulares", "isCorrect": false, "rationale": "Esas son articulares, no extraarticulares."},
+      {"text": "Solo forámenes", "isCorrect": false, "rationale": "Los forámenes son perforaciones."}
+    ],
+    "hint": "Tienen funciones variadas: inserción, paso, ampliación..."
+  },
+  {
+    "question": "¿Qué es un foramen?",
+    "options": [
+      {"text": "Agujero o perforación en el hueso", "isCorrect": true, "rationale": "El foramen es un agujero o perforación en el hueso."},
+      {"text": "Una depresión", "isCorrect": false, "rationale": "No es depresión, es perforación."},
+      {"text": "Una saliente", "isCorrect": false, "rationale": "No es saliente."},
+      {"text": "Una articulación", "isCorrect": false, "rationale": "No es articulación."}
+    ],
+    "hint": "Es un 'agujero' que atraviesa o llega al hueso..."
+  },
+  {
+    "question": "¿Qué es el foramen nutricio?",
+    "options": [
+      {"text": "Orificio por donde pasa la arteria nutricia principal del hueso", "isCorrect": true, "rationale": "El foramen nutricio es el orificio por donde pasan los vasos que irrigan el hueso, principalmente la arteria nutricia."},
+      {"text": "Una articulación", "isCorrect": false, "rationale": "No es articulación."},
+      {"text": "Una depresión", "isCorrect": false, "rationale": "No es depresión, es perforación."},
+      {"text": "Una saliente", "isCorrect": false, "rationale": "No es saliente."}
+    ],
+    "hint": "Por ahí entra el vaso que nutre al hueso..."
+  },
+  {
+    "question": "¿Qué son los conductos de transmisión?",
+    "options": [
+      {"text": "Orificios que comunican una cara del hueso con la opuesta, permitiendo el pasaje de estructuras", "isCorrect": true, "rationale": "Los conductos de transmisión comunican una de las caras del hueso con la cara opuesta, permitiendo el pasaje de estructuras anatómicas."},
+      {"text": "Conductos dentro de la cavidad medular", "isCorrect": false, "rationale": "Atraviesan el hueso de lado a lado."},
+      {"text": "Conductos articulares", "isCorrect": false, "rationale": "No son articulares."},
+      {"text": "Conductos para médula ósea", "isCorrect": false, "rationale": "No son para médula."}
+    ],
+    "hint": "Son túneles que cruzan el hueso de lado a lado..."
+  },
+  {
+    "question": "¿Cómo se clasifican los forámenes según su calibre?",
+    "options": [
+      {"text": "De primer orden (arteria nutricia principal), segundo orden (cerca de articulaciones) y tercer orden (más numerosos, superficies no articulares)", "isCorrect": true, "rationale": "Los más amplios son de primer orden, los intermedios de segundo orden, y los más estrechos de tercer orden."},
+      {"text": "Solo grandes y pequeños", "isCorrect": false, "rationale": "Hay tres categorías."},
+      {"text": "Articulares y extraarticulares", "isCorrect": false, "rationale": "No se clasifican así."},
+      {"text": "No hay clasificación", "isCorrect": false, "rationale": "Sí hay clasificación por calibre."}
+    ],
+    "hint": "Hay tres tamaños según el vaso que atraviesan..."
+  }
+]

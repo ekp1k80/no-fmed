@@ -1,0 +1,182 @@
+[
+  {
+    "question": "¿Cómo se clasifican las arterias de los huesos largos?",
+    "options": [
+      {"text": "En tres sistemas: diafisario, perióstico y epifisometafisario", "isCorrect": true, "rationale": "En los huesos largos las arterias se clasifican en tres sistemas: sistema diafisario, sistema perióstico y sistema epifisometafisario."},
+      {"text": "En arterias grandes y pequeñas", "isCorrect": false, "rationale": "No es la clasificación correcta."},
+      {"text": "En arterias internas y externas", "isCorrect": false, "rationale": "No es la terminología usada."},
+      {"text": "Solo hay un tipo de arteria", "isCorrect": false, "rationale": "Hay tres sistemas."}
+    ],
+    "hint": "Cada sistema tiene origen y distribución diferente..."
+  },
+  {
+    "question": "¿Qué es la arteria nutricia?",
+    "options": [
+      {"text": "La arteria principal del hueso que penetra por el foramen nutricio de mayor calibre", "isCorrect": true, "rationale": "La arteria nutricia es la principal del hueso, penetra por el foramen nutricio de mayor calibre."},
+      {"text": "Una arteria pequeña del periostio", "isCorrect": false, "rationale": "Es la arteria principal."},
+      {"text": "Una arteria que nutre el cartílago", "isCorrect": false, "rationale": "El cartílago es avascular."},
+      {"text": "Una vena", "isCorrect": false, "rationale": "Es una arteria."}
+    ],
+    "hint": "Es la arteria 'principal' que nutre al hueso..."
+  },
+  {
+    "question": "¿Cómo penetra la arteria nutricia a la diáfisis?",
+    "options": [
+      {"text": "En dirección oblicua a través del hueso compacto, formando el conducto nutricio", "isCorrect": true, "rationale": "La arteria nutricia ingresa en dirección oblicua a través del hueso compacto de la diáfisis, formando el conducto nutricio."},
+      {"text": "Verticalmente desde arriba", "isCorrect": false, "rationale": "Penetra oblicuamente."},
+      {"text": "Desde la epífisis", "isCorrect": false, "rationale": "Penetra en la diáfisis."},
+      {"text": "Horizontalmente recto", "isCorrect": false, "rationale": "Penetra oblicuamente."}
+    ],
+    "hint": "No entra recto, entra en ángulo..."
+  },
+  {
+    "question": "¿Hacia dónde se dirigen las arterias nutricias del miembro superior e inferior?",
+    "options": [
+      {"text": "En el MS hacia el codo, en el MI alejándose de la rodilla", "isCorrect": true, "rationale": "En el miembro superior las arterias nutricias se dirigen hacia el codo y en el miembro inferior se alejan de la rodilla."},
+      {"text": "Siempre hacia arriba", "isCorrect": false, "rationale": "Depende del miembro."},
+      {"text": "Siempre hacia abajo", "isCorrect": false, "rationale": "Depende del miembro."},
+      {"text": "Horizontalmente", "isCorrect": false, "rationale": "Tienen dirección oblicua."}
+    ],
+    "hint": "Hay una regla: 'hacia el codo, lejos de la rodilla'..."
+  },
+  {
+    "question": "¿Cómo se distribuye la arteria nutricia en el hueso?",
+    "options": [
+      {"text": "En el tejido compacto por conductos centrales y transversos, y en la médula ósea", "isCorrect": true, "rationale": "La arteria nutricia se distribuye en el tejido óseo compacto por los conductos centrales y transversos de la osteona, y en la médula ósea."},
+      {"text": "Solo en el periostio", "isCorrect": false, "rationale": "También irriga el interior."},
+      {"text": "Solo en la epífisis", "isCorrect": false, "rationale": "Irriga diáfisis y médula."},
+      {"text": "No irriga la médula", "isCorrect": false, "rationale": "Sí irriga la médula."}
+    ],
+    "hint": "Llega a todo: compacto y médula..."
+  },
+  {
+    "question": "¿Qué es el sistema perióstico de irrigación?",
+    "options": [
+      {"text": "Red vascular del periostio proveniente de arterias de proximidad (músculos, ligamentos)", "isCorrect": true, "rationale": "El periostio está ricamente vascularizado por arterias de la proximidad que dan origen a una abundante red vascular arterial."},
+      {"text": "Las arterias que salen del hueso", "isCorrect": false, "rationale": "Son arterias que llegan al hueso."},
+      {"text": "Solo venas", "isCorrect": false, "rationale": "Son arterias."},
+      {"text": "El sistema de la médula", "isCorrect": false, "rationale": "Es de la superficie externa."}
+    ],
+    "hint": "Es la red vascular que rodea al hueso por fuera..."
+  },
+  {
+    "question": "¿Qué ocurre si se separa el periostio?",
+    "options": [
+      {"text": "Se produce una abundante hemorragia en la superficie del hueso", "isCorrect": true, "rationale": "Cuando se separa el periostio, se produce una abundante hemorragia en la superficie por su rica vascularización."},
+      {"text": "No pasa nada", "isCorrect": false, "rationale": "Hay sangrado por la rica vascularización."},
+      {"text": "El hueso se debilita", "isCorrect": false, "rationale": "El problema inmediato es el sangrado."},
+      {"text": "Se forma nuevo hueso", "isCorrect": false, "rationale": "Eso ocurre después, no inmediatamente."}
+    ],
+    "hint": "Por eso es tan vascularizado..."
+  },
+  {
+    "question": "¿Qué es el sistema epifisometafisario?",
+    "options": [
+      {"text": "Arterias que irrigan epífisis y metáfisis, provenientes de arterias articulares y musculotendinosas", "isCorrect": true, "rationale": "El sistema epifisometafisario se origina en las arterias articulares, las arterias musculotendinosas vecinas y algunas arterias propias."},
+      {"text": "Las arterias de la diáfisis", "isCorrect": false, "rationale": "Esas son del sistema diafisario."},
+      {"text": "Las venas del hueso", "isCorrect": false, "rationale": "Son arterias."},
+      {"text": "Solo irriga la metáfisis", "isCorrect": false, "rationale": "Irriga epífisis y metáfisis."}
+    ],
+    "hint": "Irriga los extremos del hueso largo..."
+  },
+  {
+    "question": "¿Qué son las arterias médulares?",
+    "options": [
+      {"text": "Arterias que proceden de la arteria nutricia diafisaria y se capilarizan en sinusoides", "isCorrect": true, "rationale": "Las arterias de la médula ósea proceden de la arteria nutricia diafisaria. Estas arterias se capilarizan, continuándose en sinusoides."},
+      {"text": "Arterias del periostio", "isCorrect": false, "rationale": "Son de la médula."},
+      {"text": "Venas del hueso", "isCorrect": false, "rationale": "Son arterias."},
+      {"text": "Arterias que salen del hueso", "isCorrect": false, "rationale": "Van hacia la médula."}
+    ],
+    "hint": "Están dentro de la cavidad medular..."
+  },
+  {
+    "question": "¿Cómo se irrigan los huesos planos?",
+    "options": [
+      {"text": "Por arterias periósticas (red perióstica) y arterias orificiales (orificios mayores, trayecto oblicuo)", "isCorrect": true, "rationale": "Los huesos planos se irrigan por arterias periósticas y arterias orificiales que penetran por orificios de mayor tamaño."},
+      {"text": "Solo por una arteria nutricia", "isCorrect": false, "rationale": "Tienen múltiples fuentes."},
+      {"text": "No tienen irrigación propia", "isCorrect": false, "rationale": "Sí tienen irrigación."},
+      {"text": "Solo por vasos de la médula", "isCorrect": false, "rationale": "Tienen arterias periósticas y orificiales."}
+    ],
+    "hint": "Tienen dos tipos de arterias según el orificio de entrada..."
+  },
+  {
+    "question": "¿Cómo se irrigan los huesos cortos?",
+    "options": [
+      {"text": "Por arterias periósticas de vecindad y arterias orificiales propias", "isCorrect": true, "rationale": "La irrigación de los huesos cortos procede de arterias periósticas de la vecindad y arterias orificiales propias del hueso."},
+      {"text": "Solo por una arteria central", "isCorrect": false, "rationale": "Tienen múltiples fuentes."},
+      {"text": "No tienen irrigación", "isCorrect": false, "rationale": "Sí tienen irrigación."},
+      {"text": "Solo por difusión", "isCorrect": false, "rationale": "Tienen vasos sanguíneos."}
+    ],
+    "hint": "Similar a los huesos planos pero adaptado a su forma..."
+  },
+  {
+    "question": "¿Qué importancia tienen los pedículos vasculares en algunos huesos cortos?",
+    "options": [
+      {"text": "Su integridad es fundamental para mantener una correcta nutrición ósea", "isCorrect": true, "rationale": "En algunos huesos cortos ciertas arterias constituyentes forman pedículos bien definidos cuya integridad es fundamental para la nutrición ósea."},
+      {"text": "No tienen importancia", "isCorrect": false, "rationale": "Son fundamentales."},
+      {"text": "Solo sirven para cirugía", "isCorrect": false, "rationale": "Son importantes para la nutrición normal."},
+      {"text": "No existen pedículos en huesos cortos", "isCorrect": false, "rationale": "Sí existen en algunos."}
+    ],
+    "hint": "Si se dañan, el hueso puede sufrir..."
+  },
+  {
+    "question": "¿Qué son las venas diploicas?",
+    "options": [
+      {"text": "Venas ensanchadas con trayecto sinuoso en el tejido esponjoso de los huesos planos", "isCorrect": true, "rationale": "En los huesos planos las venas ensanchadas ubicadas en el tejido óseo esponjoso se denominan venas diploicas. Poseen un trayecto sinuoso."},
+      {"text": "Venas del corazón", "isCorrect": false, "rationale": "Son venas óseas."},
+      {"text": "Venas del cerebro", "isCorrect": false, "rationale": "Están en el hueso, no en el cerebro."},
+      {"text": "Arterias del diploe", "isCorrect": false, "rationale": "Son venas, no arterias."}
+    ],
+    "hint": "Están en el diploe de los huesos craneales..."
+  },
+  {
+    "question": "¿Qué es la vena centromedular?",
+    "options": [
+      {"text": "Vena única o ramificada que inicia la circulación de retorno en la cavidad medular", "isCorrect": true, "rationale": "La circulación venosa de un hueso largo se inicia en una vena centromedular única o ramificada y ensanchada."},
+      {"text": "Una arteria", "isCorrect": false, "rationale": "Es una vena."},
+      {"text": "La vena del periostio", "isCorrect": false, "rationale": "Está en la cavidad medular."},
+      {"text": "Un conducto arterial", "isCorrect": false, "rationale": "Es una vena."}
+    ],
+    "hint": "Es el inicio del drenaje venoso del hueso..."
+  },
+  {
+    "question": "¿Por qué hay sangrado abundante en las fracturas?",
+    "options": [
+      {"text": "Porque la circulación sanguínea de los huesos es abundante", "isCorrect": true, "rationale": "La circulación sanguínea de los huesos es abundante, lo que explica el sangrado en fracturas desde cavidad medular, médula, hueso compacto y periostio."},
+      {"text": "Porque los huesos tienen muchas arterias pero pocas venas", "isCorrect": false, "rationale": "Tienen ambos sistemas desarrollados."},
+      {"text": "Porque la sangre está a presión", "isCorrect": false, "rationale": "Es por la abundancia de circulación."},
+      {"text": "No hay sangrado abundante en fracturas", "isCorrect": false, "rationale": "Sí lo hay."}
+    ],
+    "hint": "Los huesos están muy vascularizados..."
+  },
+  {
+    "question": "¿Qué son las anastomosis entre sistemas vasculares óseos?",
+    "options": [
+      {"text": "Conexiones entre el sistema óseo y las arterias médulares", "isCorrect": true, "rationale": "Los sistemas que irrigan el tejido óseo de los huesos largos y las arterias que irrigan la médula ósea se anastomosan entre sí."},
+      {"text": "Conexiones entre huesos vecinos", "isCorrect": false, "rationale": "Son conexiones dentro del mismo hueso."},
+      {"text": "Comunicaciones entre arterias y venas", "isCorrect": false, "rationale": "Son conexiones arteriales."},
+      {"text": "No existen anastomosis en el hueso", "isCorrect": false, "rationale": "Sí existen."}
+    ],
+    "hint": "Los sistemas se comunican entre sí..."
+  },
+  {
+    "question": "¿Qué es la necrosis avascular?",
+    "options": [
+      {"text": "Muerte celular por isquemia cuando un fragmento óseo pierde su irrigación", "isCorrect": true, "rationale": "La necrosis avascular es la muerte celular por isquemia, cuando un fragmento óseo separado no recibe irrigación de la arteria nutricia."},
+      {"text": "Muerte del hueso por infección", "isCorrect": false, "rationale": "Es por falta de irrigación, no infección."},
+      {"text": "Fractura del hueso", "isCorrect": false, "rationale": "No es fractura, es muerte del tejido."},
+      {"text": "Crecimiento anormal del hueso", "isCorrect": false, "rationale": "Es muerte, no crecimiento."}
+    ],
+    "hint": "Muerte del tejido por falta de sangre..."
+  },
+  {
+    "question": "¿En qué fracturas es típica la necrosis avascular?",
+    "options": [
+      {"text": "Fracturas de escafoides, astrágalo, cuello femoral y cuello del húmero", "isCorrect": true, "rationale": "La necrosis avascular ocurre típicamente en fracturas del escafoides, astrágalo, cuello femoral y cuello del húmero."},
+      {"text": "Fracturas de costillas", "isCorrect": false, "rationale": "No es típico ahí."},
+      {"text": "Fracturas de dedos", "isCorrect": false, "rationale": "No es típico ahí."},
+      {"text": "Todas las fracturas", "isCorrect": false, "rationale": "Solo en ubicaciones específicas."}
+    ],
+    "hint": "Huesos con irrigación vulnerable..."
+  }
+]

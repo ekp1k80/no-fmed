@@ -1,0 +1,114 @@
+{
+  "id": "anato-esqueletico",
+  "titulo": "Sistema Esquelético",
+  "descripcion": "Huesos, articulaciones, estructura ósea",
+  "partes": [
+    {
+      "id": 1,
+      "nombre": "Generalidades del Sistema Esquelético",
+      "data": [
+        {
+          "question": "¿Cuáles son las funciones principales del sistema esquelético?",
+          "options": [
+            {"text": "Soporte, protección, movimiento, hematopoyesis y almacén de minerales", "isCorrect": true, "rationale": "El sistema esquelético tiene 5 funciones: soporte del cuerpo, protección de órganos, movimiento junto con músculos, hematopoyesis (producción de células sanguíneas) y almacén de calcio/fósforo."},
+            {"text": "Solo soporte y protección", "isCorrect": false, "rationale": "Faltan movimiento, hematopoyesis y reserva mineral."},
+            {"text": "Protección y producción de hormonas", "isCorrect": false, "rationale": "Las hormonas las producen glándulas, no los huesos."},
+            {"text": "Movimiento y conducción nerviosa", "isCorrect": false, "rationale": "La conducción nerviosa es del sistema nervioso."}
+          ],
+          "hint": "Piensa en todo lo que hacen los huesos además de sostener..."
+        },
+        {
+          "question": "¿Cuántos huesos tiene un adulto humano?",
+          "options": [
+            {"text": "206 huesos", "isCorrect": true, "rationale": "El esqueleto humano adulto tiene 206 huesos."},
+            {"text": "300 huesos", "isCorrect": false, "rationale": "Ese es el número aproximado al nacer, pero muchos se fusionan."},
+            {"text": "150 huesos", "isCorrect": false, "rationale": "Es muy poco, hay más huesos en solo el cráneo y columna."},
+            {"text": "250 huesos", "isCorrect": false, "rationale": "No es el número estándar anatómico."}
+          ],
+          "hint": "Es menos de lo que tenemos de bebés..."
+        },
+        {
+          "question": "¿Cuántos huesos tiene un recién nacido aproximadamente?",
+          "options": [
+            {"text": "Aproximadamente 270 huesos", "isCorrect": true, "rationale": "Al nacer hay ~270 huesos. Muchos se fusionan durante el desarrollo, llegando a 206 en el adulto."},
+            {"text": "206 ya al nacer", "isCorrect": false, "rationale": "La fusión ósea ocurre durante el crecimiento."},
+            {"text": "100 huesos", "isCorrect": false, "rationale": "Es muy poco."},
+            {"text": "350 huesos", "isCorrect": false, "rationale": "Es más de lo real."}
+          ],
+          "hint": "Con el tiempo muchos huesos pequeños se fusionan..."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nombre": "Clasificación de los Huesos",
+      "data": [
+        {
+          "question": "¿Cuál es la clasificación de los huesos según su forma?",
+          "options": [
+            {"text": "Largos, cortos, planos, irregulares y sesamoides", "isCorrect": true, "rationale": "Los 5 tipos son: largos (fémur), cortos (carpianos), planos (parietales), irregulares (vertebras) y sesamoides (rótula)."},
+            {"text": "Solo largos y cortos", "isCorrect": false, "rationale": "Faltan planos, irregulares y sesamoides."},
+            {"text": "Grandes, medianos y pequeños", "isCorrect": false, "rationale": "No es la clasificación anatómica correcta."},
+            {"text": "Compactos y esponjosos", "isCorrect": false, "rationale": "Esa es clasificación según estructura interna, no forma."}
+          ],
+          "hint": "Hay cinco tipos según su forma externa..."
+        },
+        {
+          "question": "¿Qué caracteriza a los huesos largos?",
+          "options": [
+            {"text": "Tienen cuerpo largo (diáfisis) y dos extremos (epífisis)", "isCorrect": true, "rationale": "Los huesos largos tienen diáfisis (eje largo) y epífisis (extremos). Ej: fémur, húmero."},
+            {"text": "Son delgados y planos", "isCorrect": false, "rationale": "Eso describen los huesos planos."},
+            {"text": "Tienen forma cúbica", "isCorrect": false, "rationale": "Eso son los cortos."},
+            {"text": "Son irregulares y asimétricos", "isCorrect": false, "rationale": "Esos son los huesos irregulares."}
+          ],
+          "hint": "Piensa en el fémur, tiene cuerpo y dos cabezas..."
+        },
+        {
+          "question": "¿Dónde se encuentran los huesos cortos?",
+          "options": [
+            {"text": "En muñeca (carpianos) y tobillo (tarsianos)", "isCorrect": true, "rationale": "Los huesos cortos (cuboides) se encuentran en carpo (8) y tarso (7)."},
+            {"text": "En el cráneo", "isCorrect": false, "rationale": "El cráneo tiene huesos planos e irregulares."},
+            {"text": "En los dedos", "isCorrect": false, "rationale": "Los dedos tienen falanges (huesos largos cortos)."},
+            {"text": "En la columna vertebral", "isCorrect": false, "rationale": "Las vértebras son huesos irregulares."}
+          ],
+          "hint": "Son huesos cúbicos en las articulaciones distales de miembros..."
+        },
+        {
+          "question": "¿Cuál es un ejemplo de hueso sesamoide?",
+          "options": [
+            {"text": "La rótula (patela)", "isCorrect": true, "rationale": "La rótula es el ejemplo clásico de hueso sesamoide (se forma en tendones)."},
+            {"text": "El fémur", "isCorrect": false, "rationale": "El fémur es un hueso largo."},
+            {"text": "El esternón", "isCorrect": false, "rationale": "El esternón es un hueso plano."},
+            {"text": "La mandíbula", "isCorrect": false, "rationale": "La mandíbula es un hueso irregular."}
+          ],
+          "hint": "Es el hueso que protege la rodilla y se desarrolla en el tendón..."}
+      ]
+    },
+    {
+      "id": 3,
+      "nombre": "Estructura del Hueso",
+      "data": [
+        {
+          "question": "¿Qué es la diáfisis de un hueso largo?",
+          "options": [
+            {"text": "El cuerpo o eje central del hueso", "isCorrect": true, "rationale": "La diáfisis es el cuerpo tubular del hueso largo, formado por hueso compacto."},
+            {"text": "Los extremos del hueso", "isCorrect": false, "rationale": "Eso es la epífisis, no la diáfisis."},
+            {"text": "La membrana que recubre el hueso", "isCorrect": false, "rationale": "Eso es el periostio."},
+            {"text": "La zona de crecimiento", "isCorrect": false, "rationale": "La zona de crecimiento es la metáfisis/meta-fisis."}
+          ],
+          "hint": "Es la parte del medio, larga y cilíndrica..."
+        },
+        {
+          "question": "¿Qué son las epífisis?",
+          "options": [
+            {"text": "Los extremos de los huesos largos", "isCorrect": true, "rationale": "Las epífisis son los extremos dilatados de los huesos largos, cubiertas de cartílago articular."},
+            {"text": "El centro del hueso", "isCorrect": false, "rationale": "Eso es la diáfisis."},
+            {"text": "La cavidad medular", "isCorrect": false, "rationale": "Es el espacio interior que contiene médula."},
+            {"text": "Las articulaciones", "isCorrect": false, "rationale": "Las articulaciones son las uniones entre huesos."}
+          ],
+          "hint": "Son las partes de los extremos que articulan..."
+        },
+        {
+          "question": "¿Dónde se encuentra el cartílago de crecimiento (metafisis)?",
+          "options": [
+            {"text": "Entre la diáfisis y la epífisis", "isCorrect": true, "rationale": "La metáfisis es la zona entre diáfisis y epífisis, donde está la lá

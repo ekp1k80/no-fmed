@@ -1,0 +1,148 @@
+[
+  {
+    "question": "¿Cuál es el tejido conectivo especializado que forma el sistema de sostén corporal junto con el hueso?",
+    "options": [
+      {"text": "El cartílago", "isCorrect": true, "rationale": "El sistema de sostén corporal está formado por tejidos conectivos especializados: el hueso y el cartílago."},
+      {"text": "El músculo", "isCorrect": false, "rationale": "Los músculos forman parte del sistema muscular, no del esquelético."},
+      {"text": "El tejido adiposo", "isCorrect": false, "rationale": "El tejido adiposo es parte del tejido conectivo pero no forma el sistema de sostén."},
+      {"text": "El tejido epitelial", "isCorrect": false, "rationale": "El tejido epitelial cubre y reveste, no forma sostén estructural."}
+    ],
+    "hint": "Es un tejido flexible que complementa al hueso rígido...",
+    "image": "imagen:sistema-sosten-hueso-cartilago"
+  },
+  {
+    "question": "¿Qué porcentaje de agua tiene la sustancia intercelular del cartílago?",
+    "options": [
+      {"text": "70%", "isCorrect": true, "rationale": "La sustancia intercelular del cartílago está muy hidratada, con 70% de agua."},
+      {"text": "30%", "isCorrect": false, "rationale": "Es mucho más, el cartílago está altamente hidratado."},
+      {"text": "50%", "isCorrect": false, "rationale": "No, es más hidratado que eso."},
+      {"text": "90%", "isCorrect": false, "rationale": "Es alto pero no tanto, es 70%."}
+    ],
+    "hint": "El cartílago necesita mucha hidratación para su función de amortiguación...",
+    "image": "imagen:composicion-cartilago-agua"
+  },
+  {
+    "question": "¿Cómo se nutren las células del tejido cartilaginoso si prácticamente no tiene vasos sanguíneos?",
+    "options": [
+      {"text": "Por imbibición", "isCorrect": true, "rationale": "El tejido cartilaginoso es avascular y sus células se nutren por imbibición (difusión desde el pericondrio)."},
+      {"text": "Por vasos sanguíneos propios", "isCorrect": false, "rationale": "El cartílago no tiene vasos propios."},
+      {"text": "Por el sistema linfático", "isCorrect": false, "rationale": "No es el mecanismo principal de nutrición."},
+      {"text": "Por conductos nerviosos", "isCorrect": false, "rationale": "Los nervios no nutren, transmiten señales."}
+    ],
+    "hint": "Es un proceso de difusión pasiva desde la membrana que lo rodea..."
+  },
+  {
+    "question": "¿Qué es el pericondrio?",
+    "options": [
+      {"text": "La membrana conectiva que envuelve y nutre el cartílago", "isCorrect": true, "rationale": "El pericondrio es la membrana conectiva que envuelve el cartílago, lo nutre y protege."},
+      {"text": "El tejido que rodea el hueso", "isCorrect": false, "rationale": "Eso es el periostio, no el pericondrio."},
+      {"text": "La capa de cartílago que cubre las articulaciones", "isCorrect": false, "rationale": "Eso es cartílago articular, no pericondrio."},
+      {"text": "Un tipo de cartílago especial", "isCorrect": false, "rationale": "No es un tipo de cartílago, es una membrana."}
+    ],
+    "hint": "Es el equivalente al periostio pero para el cartílago...",
+    "image": "imagen:pericondrio-membrana-cartilago"
+  },
+  {
+    "question": "¿Cuántos tipos de cartílagos hay en el organismo según sus características?",
+    "options": [
+      {"text": "Tres", "isCorrect": true, "rationale": "Hay tres tipos: hialino, fibroso y elástico."},
+      {"text": "Dos", "isCorrect": false, "rationale": "Son tres, no dos."},
+      {"text": "Cuatro", "isCorrect": false, "rationale": "No hay cuatro tipos principales."},
+      {"text": "Cinco", "isCorrect": false, "rationale": "Es menos, solo tres."}
+    ],
+    "hint": "Hialino, fibroso y elástico..."
+  },
+  {
+    "question": "¿Cuál es el color del cartílago hialino?",
+    "options": [
+      {"text": "Translúcido y algo azulado", "isCorrect": true, "rationale": "El cartílago hialino es translúcido y algo azulado."},
+      {"text": "Blanquecino", "isCorrect": false, "rationale": "Ese es el color del cartílago fibroso."},
+      {"text": "Amarillento", "isCorrect": false, "rationale": "Ese es el color del cartílago elástico."},
+      {"text": "Rojizo", "isCorrect": false, "rationale": "No es ese el color del cartílago hialino."}
+    ],
+    "hint": "Es el más abundante, translúcido...",
+    "image": "imagen:tipos-cartilagos-colores"
+  },
+  {
+    "question": "¿Dónde se encuentra el cartílago fibroso?",
+    "options": [
+      {"text": "En discos articulares y meniscos", "isCorrect": true, "rationale": "El cartílago fibroso es blanquecino, resistente, y se encuentra en discos articulares y meniscos."},
+      {"text": "En la matriz embrionaria de los huesos", "isCorrect": false, "rationale": "Eso es cartílago hialino."},
+      {"text": "En el cartílago auricular y epiglotis", "isCorrect": false, "rationale": "Eso es cartílago elástico."},
+      {"text": "En las costillas y tráquea", "isCorrect": false, "rationale": "Esas tienen cartílago hialino."}
+    ],
+    "hint": "Está en estructuras que necesitan resistencia a la compresión...",
+    "image": "imagen:ubicacion-cartilago-fibroso"
+  },
+  {
+    "question": "¿Cuál es el color del cartílago elástico?",
+    "options": [
+      {"text": "Amarillento", "isCorrect": true, "rationale": "El cartílago elástico es de color amarillento, flexible y con abundantes fibras elásticas."},
+      {"text": "Translúcido y azulado", "isCorrect": false, "rationale": "Eso es el hialino."},
+      {"text": "Blanquecino", "isCorrect": false, "rationale": "Eso es el fibroso."},
+      {"text": "Transparente", "isCorrect": false, "rationale": "No es transparente, es amarillento."}
+    ],
+    "hint": "Está en lugares que necesitan flexibilidad y elasticidad como la oreja...",
+    "image": "imagen:cartilago-elastico-auricular"
+  },
+  {
+    "question": "¿Dónde se encuentra el cartílago elástico?",
+    "options": [
+      {"text": "En el cartílago auricular, trompa auditiva y epiglotis", "isCorrect": true, "rationale": "El cartílago elástico forma el cartílago auricular, la trompa auditiva y la epiglotis."},
+      {"text": "En los meniscos de la rodilla", "isCorrect": false, "rationale": "Eso es cartílago fibroso."},
+      {"text": "En las superficies articulares", "isCorrect": false, "rationale": "Eso es cartílago hialino articular."},
+      {"text": "En las costillas", "isCorrect": false, "rationale": "Esas tienen cartílago hialino."}
+    ],
+    "hint": "Piensa en orejas y garganta..."
+  },
+  {
+    "question": "¿Cuál es la función del cartílago hialino?",
+    "options": [
+      {"text": "Constituye la matriz embrionaria de los huesos", "isCorrect": true, "rationale": "El cartílago hialino constituye la matriz embrionaria de los huesos."},
+      {"text": "Proteger de impactos externos", "isCorrect": false, "rationale": "Esa es más función del hueso."},
+      {"text": "Producir células sanguíneas", "isCorrect": false, "rationale": "Eso es función de la médula ósea."},
+      {"text": "Almacenar calcio", "isCorrect": false, "rationale": "Eso es función del hueso."}
+    ],
+    "hint": "Es el precursor del hueso durante el desarrollo fetal..."
+  },
+  {
+    "question": "¿Cómo se nutren los huesos?",
+    "options": [
+      {"text": "Por vascularización directa (arterias nutricias)", "isCorrect": true, "rationale": "Los huesos se nutren por vascularización directa mediante arterias nutricias que penetran por forámenes y se distribuyen por todo el hueso."},
+      {"text": "Por imbibición como el cartílago", "isCorrect": false, "rationale": "El hueso es vascularizado, no se nutre por imbibición."},
+      {"text": "Por difusión desde la piel", "isCorrect": false, "rationale": "No, tienen su propio sistema vascular."},
+      {"text": "Por linfa exclusivamente", "isCorrect": false, "rationale": "Tienen irrigación sanguínea directa."}
+    ],
+    "hint": "A diferencia del cartílago, el hueso tiene vasos sanguíneos..."
+  },
+  {
+    "question": "¿Cuántos huesos tiene el esqueleto óseo de un adulto?",
+    "options": [
+      {"text": "206 huesos constantes", "isCorrect": true, "rationale": "El esqueleto óseo está formado por 206 huesos constantes (200 huesos + 6 huesecillos del oído)."},
+      {"text": "200 huesos", "isCorrect": false, "rationale": "Faltan los 6 huesecillos del oído."},
+      {"text": "270 huesos", "isCorrect": false, "rationale": "Esa es la cantidad al nacer, antes de la fusión."},
+      {"text": "180 huesos", "isCorrect": false, "rationale": "Es muy poco, hay más huesos."}
+    ],
+    "hint": "Incluye los huesecillos del oído..."
+  },
+  {
+    "question": "¿Qué porcentaje del calcio corporal se encuentra en los huesos?",
+    "options": [
+      {"text": "99%", "isCorrect": true, "rationale": "El 99% del calcio corporal se almacena en los huesos, que actúan como el principal reservorio mineral del organismo."},
+      {"text": "50%", "isCorrect": false, "rationale": "Es mucho más, casi todo el calcio está en huesos."},
+      {"text": "75%", "isCorrect": false, "rationale": "Es más alto, 99%."},
+      {"text": "25%", "isCorrect": false, "rationale": "Es muy poco, la mayor parte está en huesos."}
+    ],
+    "hint": "Los huesos son el principal reservorio de calcio del organismo..."
+  },
+  {
+    "question": "¿Qué es el endoesqueleto osteocartilaginoso y membranoso?",
+    "options": [
+      {"text": "El esqueleto interno del ser humano formado por hueso y cartílago", "isCorrect": true, "rationale": "El hombre posee un endoesqueleto osteocartilaginoso y membranoso que integra el conjunto de estructuras rígidas del cuerpo y permite su movilidad."},
+      {"text": "Una capa externa de protección", "isCorrect": false, "rationale": "No es externo, es interno (endo-)."},
+      {"text": "Solo el cráneo y la columna", "isCorrect": false, "rationale": "Incluye todo el esqueleto."},
+      {"text": "Los tendones y ligamentos", "isCorrect": false, "rationale": "No son huesos ni cartílago."}
+    ],
+    "hint": "Endo = interno; osteo = hueso; el esqueleto propio del cuerpo..."
+  }
+]

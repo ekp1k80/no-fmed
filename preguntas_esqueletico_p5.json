@@ -1,0 +1,152 @@
+[
+  {
+    "question": "¿Qué es la diáfisis de un hueso largo?",
+    "options": [
+      {"text": "El cuerpo del hueso, porción central aproximadamente cilíndrica", "isCorrect": true, "rationale": "La diáfisis forma el cuerpo del hueso, es la porción central, aproximadamente cilíndrica y con diámetro prácticamente uniforme."},
+      {"text": "El extremo del hueso", "isCorrect": false, "rationale": "Eso es la epífisis."},
+      {"text": "La zona de transición", "isCorrect": false, "rationale": "Eso es la metáfisis."},
+      {"text": "La superficie articular", "isCorrect": false, "rationale": "No es la diáfisis."}
+    ],
+    "hint": "Es la parte más larga, el 'cuerpo' del hueso..."
+  },
+  {
+    "question": "¿De qué tejido está formada la diáfisis?",
+    "options": [
+      {"text": "Hueso compacto que rodea la cavidad medular", "isCorrect": true, "rationale": "La diáfisis está constituida por hueso compacto que rodea la cavidad medular."},
+      {"text": "Hueso esponjoso", "isCorrect": false, "rationale": "El hueso esponjoso está en las epífisis."},
+      {"text": "Cartílago hialino", "isCorrect": false, "rationale": "El cartílago está en las superficies articulares."},
+      {"text": "Tejido adiposo", "isCorrect": false, "rationale": "La médula puede tener tejido adiposo, pero la diáfisis es hueso compacto."}
+    ],
+    "hint": "Es la parte más dura y densa del hueso largo..."
+  },
+  {
+    "question": "¿Qué es la cavidad medular?",
+    "options": [
+      {"text": "Espacio central, amplio y hueco que se ubica a lo largo de la diáfisis", "isCorrect": true, "rationale": "La cavidad medular es el espacio central, amplio y hueco, como un conducto, que se ubica a lo largo de la diáfisis."},
+      {"text": "El espacio dentro de la epífisis", "isCorrect": false, "rationale": "No se encuentra en las epífisis."},
+      {"text": "Un agujero en la superficie del hueso", "isCorrect": false, "rationale": "Es un conducto interno central."},
+      {"text": "El espacio entre dos huesos", "isCorrect": false, "rationale": "Es dentro del hueso."}
+    ],
+    "hint": "Es el 'túnel' central del hueso largo..."
+  },
+  {
+    "question": "¿Qué es la epífisis?",
+    "options": [
+      {"text": "Los extremos abultados del hueso donde se ubican las superficies articulares", "isCorrect": true, "rationale": "Las epífisis se encuentran en ambos extremos del hueso largo y constituyen los abultamientos donde se ubican las superficies articulares."},
+      {"text": "El cuerpo del hueso", "isCorrect": false, "rationale": "Eso es la diáfisis."},
+      {"text": "La zona media del hueso", "isCorrect": false, "rationale": "No, están en los extremos."},
+      {"text": "El cartílago de crecimiento", "isCorrect": false, "rationale": "Eso es el cartílago epifisario."}
+    ],
+    "hint": "Son los 'extremos' ensanchados del hueso largo..."
+  },
+  {
+    "question": "¿De qué tejido están formadas principalmente las epífisis?",
+    "options": [
+      {"text": "Hueso esponjoso rodeado por una delgada lámina de hueso compacto", "isCorrect": true, "rationale": "Las epífisis están constituidas por hueso esponjoso y rodeadas por una delgada lámina de hueso compacto."},
+      {"text": "Solo hueso compacto", "isCorrect": false, "rationale": "Tienen hueso esponjoso principalmente."},
+      {"text": "Solo cartílago", "isCorrect": false, "rationale": "Tienen cartílago solo en la superficie articular."},
+      {"text": "Tejido conectivo laxo", "isCorrect": false, "rationale": "No, es tejido óseo."}
+    ],
+    "hint": "Son más esponjosas que la diáfisis..."
+  },
+  {
+    "question": "¿Qué cubre las superficies articulares de las epífisis?",
+    "options": [
+      {"text": "Cartílago articular, superficies lisas", "isCorrect": true, "rationale": "Las epífisis tienen superficies articulares lisas cubiertas por cartílago articular."},
+      {"text": "Periostio", "isCorrect": false, "rationale": "El periostio no cubre superficies articulares."},
+      {"text": "Piel", "isCorrect": false, "rationale": "No hay piel sobre las articulaciones."},
+      {"text": "Endostio", "isCorrect": false, "rationale": "El endostio está dentro del hueso."}
+    ],
+    "hint": "Es un tejido liso que permite el movimiento articular..."
+  },
+  {
+    "question": "¿Qué es la metáfisis?",
+    "options": [
+      {"text": "Zona de transición con forma de cono truncado entre la diáfisis y la epífisis", "isCorrect": true, "rationale": "La metáfisis tiene forma de cono truncado o embudo y se ubica entre la diáfisis y la epífisis."},
+      {"text": "El cuerpo del hueso", "isCorrect": false, "rationale": "Eso es la diáfisis."},
+      {"text": "El extremo del hueso", "isCorrect": false, "rationale": "Eso es la epífisis."},
+      {"text": "La cavidad interna", "isCorrect": false, "rationale": "Eso es la cavidad medular."}
+    ],
+    "hint": "Es la zona de 'empalme' entre el cuerpo y los extremos..."
+  },
+  {
+    "question": "¿Qué se encuentra en la unión entre la epífisis y la metáfisis?",
+    "options": [
+      {"text": "El cartílago epifisario (placa de crecimiento)", "isCorrect": true, "rationale": "En la unión entre la epífisis y la metáfisis se ubica el cartílago epifisario, responsable del crecimiento en longitud."},
+      {"text": "El periostio", "isCorrect": false, "rationale": "El periostio está en la superficie externa."},
+      {"text": "La cavidad medular", "isCorrect": false, "rationale": "La cavidad medular está en la diáfisis."},
+      {"text": "El endostio", "isCorrect": false, "rationale": "El endostio está dentro de la cavidad medular."}
+    ],
+    "hint": "Es el 'cartílago de crecimiento'..."
+  },
+  {
+    "question": "¿Qué función cumple el cartílago epifisario?",
+    "options": [
+      {"text": "Permite el crecimiento en longitud del hueso hasta su osificación", "isCorrect": true, "rationale": "El cartílago epifisario es responsable del crecimiento en longitud de estos huesos, hasta su osificación."},
+      {"text": "Permite el movimiento articular", "isCorrect": false, "rationale": "Eso es el cartílago articular."},
+      {"text": "Protege la médula ósea", "isCorrect": false, "rationale": "No es su función."},
+      {"text": "Produce células sanguíneas", "isCorrect": false, "rationale": "No es función del cartílago."}
+    ],
+    "hint": "Es fundamental para que el hueso crezca en largo..."
+  },
+  {
+    "question": "¿Qué sucede con el cartílago epifisario en el adulto?",
+    "options": [
+      {"text": "Se osifica y es reemplazado por la línea epifisaria", "isCorrect": true, "rationale": "Cuando el cartílago epifisario se osifica, es reemplazado por la línea epifisaria."},
+      {"text": "Sigue siendo cartílago toda la vida", "isCorrect": false, "rationale": "No, se osifica en el adulto."},
+      {"text": "Desaparece completamente sin dejar rastro", "isCorrect": false, "rationale": "Deja la línea epifisaria."},
+      {"text": "Se transforma en periostio", "isCorrect": false, "rationale": "No, se osifica."}
+    ],
+    "hint": "El crecimiento termina cuando este cartílago se 'cierra'..."
+  },
+  {
+    "question": "¿Qué es el cuello anatómico?",
+    "options": [
+      {"text": "Porción más estrecha ubicada entre la superficie articular y los tubérculos", "isCorrect": true, "rationale": "El cuello anatómico es una porción más estrecha del hueso, ubicada entre la superficie articular y los tubérculos."},
+      {"text": "La zona de fractura más común", "isCorrect": false, "rationale": "Eso es el cuello quirúrgico."},
+      {"text": "La parte media de la diáfisis", "isCorrect": false, "rationale": "No está en la diáfisis."},
+      {"text": "La unión con el cartílago", "isCorrect": false, "rationale": "No es esa la definición."}
+    ],
+    "hint": "Es la parte más 'fina' cerca de la articulación..."
+  },
+  {
+    "question": "¿Qué es el cuello quirúrgico?",
+    "options": [
+      {"text": "Zona ubicada entre los tubérculos y la diáfisis, sitio frecuente de fracturas", "isCorrect": true, "rationale": "El cuello quirúrgico está ubicado entre los tubérculos y la diáfisis."},
+      {"text": "La parte más estrecha del hueso", "isCorrect": false, "rationale": "Eso es el cuello anatómico."},
+      {"text": "La zona de crecimiento", "isCorrect": false, "rationale": "Eso es la metáfisis."},
+      {"text": "La superficie articular", "isCorrect": false, "rationale": "No es superficie articular."}
+    ],
+    "hint": "Su nombre viene de que es sitio común de fracturas que requieren cirugía..."
+  },
+  {
+    "question": "¿Qué es el endostio?",
+    "options": [
+      {"text": "Revestimiento interno de la cavidad medular y superficie de trabéculas", "isCorrect": true, "rationale": "El endostio es el revestimiento interno de la cavidad medular y de la superficie de las trabéculas."},
+      {"text": "La membrana externa del hueso", "isCorrect": false, "rationale": "Eso es el periostio."},
+      {"text": "El cartílago articular", "isCorrect": false, "rationale": "No es cartílago."},
+      {"text": "La médula ósea", "isCorrect": false, "rationale": "No es la médula, es su revestimiento."}
+    ],
+    "hint": "Es el equivalente interno del periostio..."
+  },
+  {
+    "question": "¿Qué función tiene el periostio?",
+    "options": [
+      {"text": "Participa en el crecimiento del hueso y en su irrigación", "isCorrect": true, "rationale": "El periostio participa en el crecimiento del hueso y en su irrigación, además de estar ricamente vascularizado e inervado."},
+      {"text": "Solo protege el hueso", "isCorrect": false, "rationale": "No solo protege, también participa en crecimiento e irrigación."},
+      {"text": "Produce células sanguíneas", "isCorrect": false, "rationale": "Eso es función de la médula."},
+      {"text": "Forma el cartílago articular", "isCorrect": false, "rationale": "No forma cartílago."}
+    ],
+    "hint": "Tiene roles activos en nutrición y crecimiento..."
+  },
+  {
+    "question": "¿Qué diferencia hay entre médula ósea roja y amarilla según su ubicación etaria?",
+    "options": [
+      {"text": "La roja predomina en niños (hematopoyética), la amarilla en adultos (inactiva, con grasa)", "isCorrect": true, "rationale": "En niños la médula es rojiza por su función hematopoyética. En adultos está inactiva y acumula tejido adiposo (amarilla)."},
+      {"text": "La roja está en adultos, la amarilla en niños", "isCorrect": false, "rationale": "Es al revés."},
+      {"text": "Ambas están presentes en igual proporción toda la vida", "isCorrect": false, "rationale": "La proporción cambia con la edad."},
+      {"text": "La roja es patológica", "isCorrect": false, "rationale": "No, es normal en niños."}
+    ],
+    "hint": "El color refleja su actividad: roja = activa, amarilla = grasa..."
+  }
+]
