@@ -1,0 +1,262 @@
+[
+  {
+    "question": "¿Qué es la cápsula articular?",
+    "options": [
+      {"text": "Manguito fibroso que une los huesos y asegura el contacto entre las superficies articulares", "isCorrect": true, "rationale": "La cápsula articular constituye un dispositivo que asegura el contacto entre las superficies articulares. Se inserta en el hueso en la vecindad del revestimiento del cartílago articular."},
+      {"text": "El cartílago que cubre el hueso", "isCorrect": false, "rationale": "Eso es el cartílago articular."},
+      {"text": "El líquido dentro de la articulación", "isCorrect": false, "rationale": "Ese es el líquido sinovial."},
+      {"text": "El menisco articular", "isCorrect": false, "rationale": "La cápsula es una membrana fibrosa."}
+    ],
+    "hint": "Es como una 'fundas' que rodea la articulación..."
+  },
+  {
+    "question": "¿Dónde se inserta la cápsula articular?",
+    "options": [
+      {"text": "En el hueso en la vecindad del revestimiento del cartílago articular", "isCorrect": true, "rationale": "La cápsula se inserta en el hueso en la vecindad del revestimiento del cartílago articular."},
+      {"text": "En el centro del hueso", "isCorrect": false, "rationale": "Se inserta cerca del cartílago articular."},
+      {"text": "En el cartílago mismo", "isCorrect": false, "rationale": "Se inserta en el hueso, cerca del cartílago."},
+      {"text": "En el ligamento", "isCorrect": false, "rationale": "Se inserta en el hueso."}
+    ],
+    "hint": "Se fija en el hueso, cerca de la superficie articular..."
+  },
+  {
+    "question": "¿Qué ocurre si la cápsula se fija a distancia del cartílago articular?",
+    "options": [
+      {"text": "Parte del cartílago epifisario puede ubicarse dentro de los límites de la cápsula", "isCorrect": true, "rationale": "Si la cápsula se fija a distancia del cartílago, puede ocurrir que una parte o la totalidad del cartílago epifisario se ubique dentro de los límites de la cápsula articular."},
+      {"text": "No pasa nada diferente", "isCorrect": false, "rationale": "Tiene implicaciones para el desarrollo."},
+      {"text": "La articulación es más móvil", "isCorrect": false, "rationale": "No es la consecuencia principal."},
+      {"text": "No puede haber movimiento", "isCorrect": false, "rationale": "No es la consecuencia."}
+    ],
+    "hint": "Puede incluir el 'cartílago de crecimiento'..."
+  },
+  {
+    "question": "¿Cómo se relaciona el grosor de la cápsula con los movimientos?",
+    "options": [
+      {"text": "Su grosor es variable y depende de los movimientos de cada articulación", "isCorrect": true, "rationale": "La disposición de la cápsula articular en forma de un manguito fibroso está relacionada con la característica de las superficies articulares. Su grosor es variable y depende de los movimientos de cada articulación."},
+      {"text": "Siempre tiene el mismo grosor", "isCorrect": false, "rationale": "El grosor varía."},
+      {"text": "Es más gruesa donde más se mueve", "isCorrect": false, "rationale": "Es más delgada donde hay más movimiento."},
+      {"text": "No tiene relación con el movimiento", "isCorrect": false, "rationale": "Sí está relacionado."}
+    ],
+    "hint": "El grosor 'adapta' a las necesidades mecánicas..."
+  },
+  {
+    "question": "¿Qué son los ligamentos en relación con la cápsula articular?",
+    "options": [
+      {"text": "Engrosamientos de la cápsula en los lugares donde se ejercen fuerzas de tracción", "isCorrect": true, "rationale": "La cápsula articular presenta engrosamientos en los lugares donde se ejercen fuerzas de tracción, que constituyen los ligamentos."},
+      {"text": "Estructuras separadas de la cápsula", "isCorrect": false, "rationale": "Son engrosamientos de la cápsula o estructuras que se le agregan."},
+      {"text": "Músculos que rodean la articulación", "isCorrect": false, "rationale": "No son músculos."},
+      {"text": "Partes del cartílago", "isCorrect": false, "rationale": "Son tejido fibroso."}
+    ],
+    "hint": "Son como 'refuerzos' de la cápsula..."
+  },
+  {
+    "question": "¿Dónde están mejor diferenciados los ligamentos?",
+    "options": [
+      {"text": "En la articulación del codo y la articulación talocrural, en sus partes lateral y medial", "isCorrect": true, "rationale": "En la articulación del codo y en la articulación talocrural, los ligamentos están bien diferenciados y son gruesos en sus partes lateral y medial."},
+      {"text": "En todas las articulaciones por igual", "isCorrect": false, "rationale": "Varía según la articulación."},
+      {"text": "Solo en la rodilla", "isCorrect": false, "rationale": "También en codo y tobillo."},
+      {"text": "En las articulaciones inmóviles", "isCorrect": false, "rationale": "En las móviles."}
+    ],
+    "hint": "En el codo y el tobillo son muy evidentes..."
+  },
+  {
+    "question": "¿Por qué la cápsula es más delgada adelante y atrás en el codo y tobillo?",
+    "options": [
+      {"text": "Por la amplitud de los movimientos de flexión y extensión", "isCorrect": true, "rationale": "La cápsula es más delgada adelante y atrás por la amplitud de los movimientos de flexión y de extensión."},
+      {"text": "Porque ahí no hay ligamentos", "isCorrect": false, "rationale": "Hay menos refuerzo por el movimiento."},
+      {"text": "Porque es más frágil", "isCorrect": false, "rationale": "Es por la amplitud del movimiento."},
+      {"text": "No es más delgada en esos sitios", "isCorrect": false, "rationale": "Sí es más delgada."}
+    ],
+    "hint": "Donde más se 'estira' la cápsula es más delgada..."
+  },
+  {
+    "question": "¿Qué formas pueden tener los ligamentos?",
+    "options": [
+      {"text": "Banda, cinta, cordón separado o engrosamiento adherido a la cápsula", "isCorrect": true, "rationale": "Los ligamentos poseen formas variables: banda, cinta, cordón separado o engrosamiento adherido a la cápsula."},
+      {"text": "Solo forma de cuerda", "isCorrect": false, "rationale": "Tienen formas variables."},
+      {"text": "Solo forma de lámina", "isCorrect": false, "rationale": "Tienen formas variables."},
+      {"text": "Siempre son redondos", "isCorrect": false, "rationale": "Tienen formas variables."}
+    ],
+    "hint": "Pueden tener diferentes 'aspectos'..."
+  },
+  {
+    "question": "¿Qué función principal tienen los ligamentos?",
+    "options": [
+      {"text": "Su resistencia le confiere firmeza a la articulación", "isCorrect": true, "rationale": "Los ligamentos poseen resistencia que le confiere firmeza a la articulación."},
+      {"text": "Producir movimiento", "isCorrect": false, "rationale": "Los músculos producen movimiento."},
+      {"text": "Producir líquido sinovial", "isCorrect": false, "rationale": "Eso es función de la sinovial."},
+      {"text": "Nutrir el cartílago", "isCorrect": false, "rationale": "No es su función."}
+    ],
+    "hint": "Dan 'estabilidad' a la articulación..."
+  },
+  {
+    "question": "¿Qué tipos de ligamentos hay según su elasticidad?",
+    "options": [
+      {"text": "Ligamentos fibrosos (prácticamente inextensibles) y ligamentos elásticos (más extensibles)", "isCorrect": true, "rationale": "Hay ligamentos fibrosos, prácticamente inextensibles, cuya extensión limita el movimiento. Hay ligamentos elásticos, algo más extensibles."},
+      {"text": "Solo ligamentos fibrosos", "isCorrect": false, "rationale": "También hay elásticos."},
+      {"text": "Solo ligamentos elásticos", "isCorrect": false, "rationale": "También hay fibrosos."},
+      {"text": "No hay clasificación por elasticidad", "isCorrect": false, "rationale": "Sí hay dos tipos."}
+    ],
+    "hint": "Unos son 'rígidos' y otros se pueden estirar algo..."
+  },
+  {
+    "question": "¿Qué ejemplo caracteriza a los ligamentos elásticos?",
+    "options": [
+      {"text": "Los ligamentos amarillos de las articulaciones vertebrales", "isCorrect": true, "rationale": "Ejemplo de ligamentos elásticos son los ligamentos amarillos de las articulaciones vertebrales."},
+      {"text": "El ligamento cruzado de la rodilla", "isCorrect": false, "rationale": "Ese es fibroso."},
+      {"text": "El ligamento lateral del codo", "isCorrect": false, "rationale": "Ese es fibroso."},
+      {"text": "El ligamento de la cabeza del fémur", "isCorrect": false, "rationale": "Ese es fibroso."}
+    ],
+    "hint": "Son los 'amarillos' de la columna..."
+  },
+  {
+    "question": "¿Qué ocurre con los ligamentos con la edad?",
+    "options": [
+      {"text": "Pierden elasticidad y flexibilidad, volviéndose más rígidos con tendencia a acortarse", "isCorrect": true, "rationale": "Con la edad, los ligamentos pierden su elasticidad y flexibilidad volviéndose más rígidos y con mayor tendencia a acortarse."},
+      {"text": "Se vuelven más elásticos", "isCorrect": false, "rationale": "Pierden elasticidad."},
+      {"text": "No cambian", "isCorrect": false, "rationale": "Sí cambian con la edad."},
+      {"text": "Desaparecen", "isCorrect": false, "rationale": "Se vuelven más rígidos."}
+    ],
+    "hint": "Se ponen más 'rígidos' y menos flexibles..."
+  },
+  {
+    "question": "¿Qué ayuda a mantener la flexibilidad de los ligamentos en edad avanzada?",
+    "options": [
+      {"text": "El ejercicio físico tiende a mantener la flexibilidad", "isCorrect": true, "rationale": "El ejercicio físico tiende a mantener la flexibilidad aun en individuos de edad avanzada."},
+      {"text": "El reposo absoluto", "isCorrect": false, "rationale": "El ejercicio ayuda a mantener la flexibilidad."},
+      {"text": "No se puede mantener", "isCorrect": false, "rationale": "El ejercicio ayuda."},
+      {"text": "Solo la medicación", "isCorrect": false, "rationale": "El ejercicio es clave."}
+    ],
+    "hint": "Mantenerse activo ayuda..."
+  },
+  {
+    "question": "¿Qué son los músculos yuxtaarticulares?",
+    "options": [
+      {"text": "Músculos que se aplican a la cápsula y actúan como 'ligamentos activos'", "isCorrect": true, "rationale": "La cápsula está cubierta por un tejido conectivo periarticular al cual se aplican músculos. Se los denomina músculos yuxtaarticulares y desempeñan una acción de 'ligamentos activos'."},
+      {"text": "Músculos dentro de la articulación", "isCorrect": false, "rationale": "Están alrededor de la articulación."},
+      {"text": "Ligamentos verdaderos", "isCorrect": false, "rationale": "Son músculos que actúan como ligamentos."},
+      {"text": "Partes del cartílago", "isCorrect": false, "rationale": "Son músculos."}
+    ],
+    "hint": "Son músculos que 'refuerzan' la articulación..."
+  },
+  {
+    "question": "¿Qué es la membrana sinovial?",
+    "options": [
+      {"text": "Membrana delgada que tapiza la cápsula articular por su superficie interior", "isCorrect": true, "rationale": "La sinovial es una membrana delgada que tapiza la cápsula articular por su superficie interior."},
+      {"text": "La cápsula fibrosa", "isCorrect": false, "rationale": "La sinovial está dentro de la cápsula fibrosa."},
+      {"text": "El cartílago articular", "isCorrect": false, "rationale": "Es una membrana diferente."},
+      {"text": "El líquido dentro de la articulación", "isCorrect": false, "rationale": "Es la membrana que produce el líquido."}
+    ],
+    "hint": "Es la 'pared interna' de la articulación..."
+  },
+  {
+    "question": "¿Dónde se inserta la membrana sinovial?",
+    "options": [
+      {"text": "En el contorno del revestimiento cartilaginoso de las superficies articulares", "isCorrect": true, "rationale": "La sinovial se inserta por sus extremos en el contorno del revestimiento cartilaginoso de las superficies articulares."},
+      {"text": "En el centro del hueso", "isCorrect": false, "rationale": "Se inserta en el borde del cartílago."},
+      {"text": "En los ligamentos", "isCorrect": false, "rationale": "Se inserta en el contorno del cartílago."},
+      {"text": "En el periostio", "isCorrect": false, "rationale": "Se inserta en el contorno del cartílago."}
+    ],
+    "hint": "Se fija donde termina el cartílago articular..."
+  },
+  {
+    "question": "¿Qué origen embriológico comparte la sinovial con el cartílago articular?",
+    "options": [
+      {"text": "Comparten el mismo origen embriológico", "isCorrect": true, "rationale": "La sinovial se inserta en el contorno del revestimiento cartilaginoso, con el que comparte su origen embriológico."},
+      {"text": "Tienen orígenes diferentes", "isCorrect": false, "rationale": "Comparten origen embriológico."},
+      {"text": "La sinovial no tiene relación con el cartílago", "isCorrect": false, "rationale": "Comparten origen."},
+      {"text": "Solo en algunas articulaciones", "isCorrect": false, "rationale": "Siempre comparten origen."}
+    ],
+    "hint": "Se desarrollan 'juntos' desde el embrión..."
+  },
+  {
+    "question": "¿Qué es un receso articular?",
+    "options": [
+      {"text": "Cuando la sinovial tapiza una superficie ósea entre la cápsula y el cartílago", "isCorrect": true, "rationale": "Cuando la cápsula se inserta a distancia de la superficie articular, la sinovial tapiza toda la superficie ósea interpuesta, reflejándose a partir de la cápsula y formando un receso articular."},
+      {"text": "Una cavidad dentro del hueso", "isCorrect": false, "rationale": "Es un espacio dentro de la articulación."},
+      {"text": "Una depresión en el cartílago", "isCorrect": false, "rationale": "Es un espacio sinovial."},
+      {"text": "Un agujero en la cápsula", "isCorrect": false, "rationale": "Es un espacio formado por la sinovial."}
+    ],
+    "hint": "Es como un 'bolsillo' de la membrana sinovial..."
+  },
+  {
+    "question": "¿Qué son los pliegues sinoviales?",
+    "options": [
+      {"text": "Prolongaciones de la sinovial que rellenan los espacios libres de la articulación", "isCorrect": true, "rationale": "La sinovial presenta, a veces, prolongaciones de volumen variable en el interior de la articulación. Se las denomina pliegues sinoviales y se encuentran frente a las interlíneas articulares rellenando los espacios libres."},
+      {"text": "Pliegues del cartílago", "isCorrect": false, "rationale": "Son pliegues de la sinovial."},
+      {"text": "Pliegues de la cápsula fibrosa", "isCorrect": false, "rationale": "Son de la sinovial."},
+      {"text": "Fracturas", "isCorrect": false, "rationale": "Son estructuras normales."}
+    ],
+    "hint": "Son 'dobles' de la membrana que llenan espacios..."
+  },
+  {
+    "question": "¿Qué característica vascular tiene la sinovial?",
+    "options": [
+      {"text": "Es la parte más ricamente vascularizada de la articulación", "isCorrect": true, "rationale": "La sinovial es la parte más ricamente vascularizada de la articulación."},
+      {"text": "No tiene vascularización", "isCorrect": false, "rationale": "Muy vascularizada."},
+      {"text": "Tiene poca vascularización", "isCorrect": false, "rationale": "Es la más vascularizada."},
+      {"text": "Solo tiene vasos linfáticos", "isCorrect": false, "rationale": "Tiene abundantes vasos sanguíneos."}
+    ],
+    "hint": "Tiene 'mucha sangre' comparada con el resto..."
+  },
+  {
+    "question": "¿Qué secreta la membrana sinovial?",
+    "options": [
+      {"text": "Líquido sinovial", "isCorrect": true, "rationale": "La sinovial secrega líquido sinovial."},
+      {"text": "Cartílago", "isCorrect": false, "rationale": "Segrega líquido."},
+      {"text": "Hueso", "isCorrect": false, "rationale": "Segrega líquido."},
+      {"text": "Ligamentos", "isCorrect": false, "rationale": "Segrega líquido."}
+    ],
+    "hint": "Produce el 'lubricante' de la articulación..."
+  },
+  {
+    "question": "¿Qué es el líquido sinovial?",
+    "options": [
+      {"text": "Líquido transparente constituido por agua, materias proteicas, mucina, grasas y sales minerales", "isCorrect": true, "rationale": "El líquido sinovial es un líquido transparente que existe en escasa cantidad en estado normal. Se encuentra constituido por agua, materias proteicas, algo de mucina, trazas de grasas y sales minerales."},
+      {"text": "Solo agua", "isCorrect": false, "rationale": "Tiene más componentes."},
+      {"text": "Sangre", "isCorrect": false, "rationale": "No es sangre."},
+      {"text": "Linfa", "isCorrect": false, "rationale": "No es linfa."}
+    ],
+    "hint": "Es un líquido 'complejo' con varios componentes..."
+  },
+  {
+    "question": "¿Qué células se pueden observar en el líquido sinovial?",
+    "options": [
+      {"text": "Células deterioradas y descamadas del cartílago y de la sinovial", "isCorrect": true, "rationale": "En el líquido sinovial también se observan células deterioradas y descamadas del cartílago y de la sinovial."},
+      {"text": "Solo glóbulos rojos", "isCorrect": false, "rationale": "Hay células descamadas del cartílago y sinovial."},
+      {"text": "Solo glóbulos blancos", "isCorrect": false, "rationale": "Hay células descamadas del cartílago y sinovial."},
+      {"text": "No hay células", "isCorrect": false, "rationale": "Hay células descamadas."}
+    ],
+    "hint": "Tiene 'restos' de células del cartílago y la sinovial..."
+  },
+  {
+    "question": "¿Por qué es vulnerable la sinovial?",
+    "options": [
+      {"text": "Es sensible a infecciones (artritis septicémicas) y a modificaciones del medio interno (reumatismo, gota)", "isCorrect": true, "rationale": "Constituye una porción vulnerable de la articulación. Es sensible a las infecciones aportadas por la sangre (artritis septicémicas) o a las modificaciones del medio interno (reumatismo, gota)."},
+      {"text": "No es vulnerable", "isCorrect": false, "rationale": "Sí es vulnerable."},
+      {"text": "Solo a traumatismos", "isCorrect": false, "rationale": "También a infecciones y enfermedades sistémicas."},
+      {"text": "Porque no tiene vascularización", "isCorrect": false, "rationale": "Tiene mucha vascularización."}
+    ],
+    "hint": "Puede afectarse por infecciones y enfermedades sistémicas..."
+  },
+  {
+    "question": "¿Qué provocan los traumatismos que desgarran la sinovial?",
+    "options": [
+      {"text": "Hemorragias intraarticulares (hemartrosis)", "isCorrect": true, "rationale": "Los traumatismos que la desgarran provocan hemorragias intraarticulares (hemartrosis)."},
+      {"text": "Solo dolor", "isCorrect": false, "rationale": "Provocan hemartrosis."},
+      {"text": "Nada", "isCorrect": false, "rationale": "Provocan hemartrosis."},
+      {"text": "Aumento del líquido sinovial", "isCorrect": false, "rationale": "Provocan hemartrosis."}
+    ],
+    "hint": "Sangrado dentro de la articulación..."
+  },
+  {
+    "question": "¿Qué consecuencias tienen las alteraciones de la sinovial?",
+    "options": [
+      {"text": "Repercuten siempre sobre el movimiento articular (dolor, rigidez)", "isCorrect": true, "rationale": "Las alteraciones que asientan en la sinovial repercuten siempre sobre el movimiento articular (dolor, rigidez)."},
+      {"text": "No afectan el movimiento", "isCorrect": false, "rationale": "Sí afectan el movimiento."},
+      {"text": "Solo afectan la piel", "isCorrect": false, "rationale": "Afectan la articulación."},
+      {"text": "No tienen consecuencias", "isCorrect": false, "rationale": "Causan dolor y rigidez."}
+    ],
+    "hint": "Dolor y rigidez son síntomas típicos..."
+  }
+]

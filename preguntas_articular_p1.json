@@ -1,0 +1,122 @@
+[
+  {
+    "question": "¿Qué son las articulaciones?",
+    "options": [
+      {"text": "Conexiones interóseas que vinculan las partes del esqueleto mediante diferentes tejidos", "isCorrect": true, "rationale": "Las articulaciones son las conexiones interóseas, es decir, las distintas partes que constituyen el esqueleto se vinculan entre sí mediante diferentes tejidos y estructuras."},
+      {"text": "Solo uniones entre huesos", "isCorrect": false, "rationale": "No solo son uniones, son conexiones con tejidos y estructuras específicas."},
+      {"text": "Solo las articulaciones móviles", "isCorrect": false, "rationale": "Incluyen también las semimóviles e inmóviles."},
+      {"text": "Los músculos que unen huesos", "isCorrect": false, "rationale": "Los músculos no son articulaciones."}
+    ],
+    "hint": "Son las 'conexiones' del esqueleto..."
+  },
+  {
+    "question": "¿Qué es una articulación simple?",
+    "options": [
+      {"text": "Aquella en la que intervienen solamente dos huesos", "isCorrect": true, "rationale": "Una articulación simple es aquella en la que intervienen solamente dos huesos."},
+      {"text": "Una articulación fácil de mover", "isCorrect": false, "rationale": "Simple refiere al número de huesos, no a la dificultad."},
+      {"text": "Una articulación sin movimiento", "isCorrect": false, "rationale": "No tiene que ver con la movilidad."},
+      {"text": "Una articulación pequeña", "isCorrect": false, "rationale": "El tamaño no define la simplicidad."}
+    ],
+    "hint": "El número de huesos es la clave..."
+  },
+  {
+    "question": "¿Qué es un complejo articular o articulación compuesta?",
+    "options": [
+      {"text": "Una articulación en la que intervienen más de dos huesos", "isCorrect": true, "rationale": "Un complejo articular (articulación compuesta) es una articulación en la que intervienen más de dos huesos."},
+      {"text": "Una articulación difícil de mover", "isCorrect": false, "rationale": "Compuesta refiere al número de huesos, no a la complejidad de movimiento."},
+      {"text": "Una articulación muy móvil", "isCorrect": false, "rationale": "No tiene que ver con la movilidad."},
+      {"text": "Una articulación grande", "isCorrect": false, "rationale": "El tamaño no la define."}
+    ],
+    "hint": "Más de dos huesos participan..."
+  },
+  {
+    "question": "¿Cómo se clasifican las articulaciones según el grado de movilidad?",
+    "options": [
+      {"text": "Móviles, semimóviles (anfiartrosis) e inmóviles", "isCorrect": true, "rationale": "Las articulaciones pueden diferenciarse según el grado de movilidad: móviles, semimóviles (anfiartrosis) e inmóviles."},
+      {"text": "Grandes y pequeñas", "isCorrect": false, "rationale": "No se clasifican por tamaño."},
+      {"text": "Superficiales y profundas", "isCorrect": false, "rationale": "No es una clasificación por movilidad."},
+      {"text": "Superiores e inferiores", "isCorrect": false, "rationale": "No se clasifican por ubicación."}
+    ],
+    "hint": "Hay tres grados según cuánto se mueven..."
+  },
+  {
+    "question": "¿Qué son los grados de libertad de una articulación?",
+    "options": [
+      {"text": "La cantidad de ejes alrededor de los cuales se pueden mover las partes de una articulación", "isCorrect": true, "rationale": "Los grados de libertad son la cantidad de ejes alrededor de los cuales se pueden mover las partes de una articulación."},
+      {"text": "El número de huesos que participan", "isCorrect": false, "rationale": "No es el número de huesos."},
+      {"text": "La amplitud del movimiento", "isCorrect": false, "rationale": "Es la cantidad de ejes, no la amplitud."},
+      {"text": "La fuerza que puede ejercer", "isCorrect": false, "rationale": "No tiene que ver con la fuerza."}
+    ],
+    "hint": "Está relacionado con los ejes de movimiento..."
+  },
+  {
+    "question": "¿Qué caracteriza a una articulación uniaxial?",
+    "options": [
+      {"text": "El movimiento está limitado a rotación sobre un solo eje, posee un grado de libertad", "isCorrect": true, "rationale": "Cuando el movimiento está limitado a la rotación sobre un solo eje, se llama uniaxial y posee sólo un grado de libertad."},
+      {"text": "Se mueve en dos ejes", "isCorrect": false, "rationale": "Eso es biaxial."},
+      {"text": "Se mueve en todos los ejes", "isCorrect": false, "rationale": "Eso es multiaxial."},
+      {"text": "No tiene movimiento", "isCorrect": false, "rationale": "Tiene movimiento, pero en un solo eje."}
+    ],
+    "hint": "Solo puede rotar alrededor de un eje..."
+  },
+  {
+    "question": "¿Qué caracteriza a una articulación biaxial?",
+    "options": [
+      {"text": "Presenta movimientos independientes alrededor de dos ejes, tiene dos grados de libertad", "isCorrect": true, "rationale": "Si presenta movimientos independientes alrededor de dos ejes, la articulación será biaxial y tendrá dos grados de libertad."},
+      {"text": "Se mueve en un solo eje", "isCorrect": false, "rationale": "Eso es uniaxial."},
+      {"text": "Se mueve en tres ejes", "isCorrect": false, "rationale": "Eso sería tres grados de libertad."},
+      {"text": "No tiene movimiento", "isCorrect": false, "rationale": "Tiene movimiento en dos ejes."}
+    ],
+    "hint": "Puede moverse en dos direcciones diferentes..."
+  },
+  {
+    "question": "¿Qué caracteriza a una articulación multiaxial?",
+    "options": [
+      {"text": "Se mueve alrededor de muchos ejes de posición intermedia", "isCorrect": true, "rationale": "Si se mueve alrededor de muchos ejes de posición intermedia, la articulación será multiaxial."},
+      {"text": "Se mueve en un solo eje", "isCorrect": false, "rationale": "Eso es uniaxial."},
+      {"text": "Se mueve solo en dos ejes", "isCorrect": false, "rationale": "Eso es biaxial."},
+      {"text": "Tiene tres grados de libertad exactamente", "isCorrect": false, "rationale": "Multiaxial implica muchos ejes, no solo tres."}
+    ],
+    "hint": "Puede moverse en muchas direcciones..."
+  },
+  {
+    "question": "¿Cómo se clasifican las articulaciones según el tejido interpuesto?",
+    "options": [
+      {"text": "En sinartrosis (tejido continuo) y diartrosis (cavidad con líquido sinovial)", "isCorrect": true, "rationale": "Las articulaciones se clasifican según el tejido interpone: sinartrosis (continuidad de tejido) o diartrosis (discontinuo, con cavidad articular y líquido sinovial)."},
+      {"text": "En grandes y pequeñas", "isCorrect": false, "rationale": "No se clasifican por tamaño."},
+      {"text": "En móviles e inmóviles", "isCorrect": false, "rationale": "Esa es la clasificación por movilidad."},
+      {"text": "En óseas y musculares", "isCorrect": false, "rationale": "No existe esa clasificación."}
+    ],
+    "hint": "Depende de si hay cavidad articular o no..."
+  },
+  {
+    "question": "¿Qué es una sinartrosis?",
+    "options": [
+      {"text": "Unión entre huesos mediante tejido conectivo sólido o semisólido, sin cavidad articular", "isCorrect": true, "rationale": "Las sinartrosis son uniones entre los huesos mediante tejido conectivo sólido o semisólido. Los tejidos interóseos presentan continuidad."},
+      {"text": "Una articulación muy móvil", "isCorrect": false, "rationale": "Las sinartrosis son poco móviles o inmóviles."},
+      {"text": "Una articulación con líquido sinovial", "isCorrect": false, "rationale": "Eso es diartrosis."},
+      {"text": "Una articulación entre tres huesos", "isCorrect": false, "rationale": "No tiene que ver con el número de huesos."}
+    ],
+    "hint": "No hay cavidad articular, el tejido es continuo..."
+  },
+  {
+    "question": "¿Qué es una diartrosis?",
+    "options": [
+      {"text": "Articulación con cavidad interpuesta que contiene líquido sinovial", "isCorrect": true, "rationale": "Las diartrosis son uniones que presentan, entre las superficies articulares, una cavidad interpuesta con líquido sinovial en su interior."},
+      {"text": "Una articulación inmóvil", "isCorrect": false, "rationale": "Las diartrosis son móviles."},
+      {"text": "Una articulación sin cavidad", "isCorrect": false, "rationale": "Tienen cavidad articular."},
+      {"text": "Una articulación entre dos huesos solamente", "isCorrect": false, "rationale": "No tiene que ver con el número de huesos."}
+    ],
+    "hint": "Tienen cavidad con líquido sinovial..."
+  },
+  {
+    "question": "¿Qué tipos de sinartrosis existen según el tejido conectivo principal?",
+    "options": [
+      {"text": "Fibrosas, cartilaginosas y óseas", "isCorrect": true, "rationale": "Las sinartrosis se clasifican en: fibrosas (tejido fibroso), cartilaginosas (cartílago) y óseas (tejido óseo)."},
+      {"text": "Móviles e inmóviles", "isCorrect": false, "rationale": "Esa es otra clasificación."},
+      {"text": "Simples y compuestas", "isCorrect": false, "rationale": "Esa clasificación es por número de huesos."},
+      {"text": "Grandes y pequeñas", "isCorrect": false, "rationale": "No existe esa clasificación."}
+    ],
+    "hint": "Según el tipo de tejido que las forma..."
+  }
+]

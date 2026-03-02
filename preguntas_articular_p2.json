@@ -1,0 +1,292 @@
+[
+  {
+    "question": "¿Qué son las articulaciones fibrosas o sinfibrosis?",
+    "options": [
+      {"text": "Articulaciones con tejido fibroso interpuesto entre los huesos", "isCorrect": true, "rationale": "Las articulaciones fibrosas [sinfibrosis] tienen tejido fibroso interpuesto entre las superficies articulares."},
+      {"text": "Articulaciones con cartílago interpuesto", "isCorrect": false, "rationale": "Esas son cartilaginosas."},
+      {"text": "Articulaciones con hueso interpuesto", "isCorrect": false, "rationale": "Esas son óseas."},
+      {"text": "Articulaciones con líquido sinovial", "isCorrect": false, "rationale": "Esas son diartrosis."}
+    ],
+    "hint": "El nombre lo dice: fibroso..."
+  },
+  {
+    "question": "¿Qué es una sindesmosis?",
+    "options": [
+      {"text": "Huesos unidos por ligamentos (fibras elásticas o de colágeno en forma de banda o cinta)", "isCorrect": true, "rationale": "En las sindesmosis los huesos se encuentran unidos por estructuras compuestas por fibras elásticas o de colágeno adoptando la forma de ligamento."},
+      {"text": "Huesos unidos por cartílago", "isCorrect": false, "rationale": "Eso es sincondrosis."},
+      {"text": "Huesos unidos por hueso", "isCorrect": false, "rationale": "Eso es sinostosis."},
+      {"text": "Huesos unidos por músculos", "isCorrect": false, "rationale": "No es el tipo de unión correcto."}
+    ],
+    "hint": "Viene de 'desmos' que significa ligamento en griego..."
+  },
+  {
+    "question": "¿Cómo influye la longitud del ligamento en una sindesmosis?",
+    "options": [
+      {"text": "Si es corto el movimiento está muy limitado; si es largo permite mayor movilidad", "isCorrect": true, "rationale": "Si el ligamento es corto, el movimiento se encuentra muy limitado. Si es de mayor longitud, permite una movilidad más amplia."},
+      {"text": "La longitud no afecta el movimiento", "isCorrect": false, "rationale": "Sí afecta la movilidad."},
+      {"text": "Un ligamento largo limita más el movimiento", "isCorrect": false, "rationale": "Es al revés."},
+      {"text": "Solo afecta la resistencia, no el movimiento", "isCorrect": false, "rationale": "Afecta directamente el movimiento."}
+    ],
+    "hint": "Más largo = más movimiento posible..."
+  },
+  {
+    "question": "¿Qué es una membrana interósea?",
+    "options": [
+      {"text": "Lámina de tejido conectivo fibroso con fuertes fibras de colágeno que une huesos", "isCorrect": true, "rationale": "Las membranas interóseas unen los huesos a través de una lámina de tejido conectivo fibroso con fuertes fibras de colágeno."},
+      {"text": "Una membrana dentro del hueso", "isCorrect": false, "rationale": "Une dos huesos entre sí."},
+      {"text": "La médula ósea", "isCorrect": false, "rationale": "No es médula."},
+      {"text": "El periostio interno", "isCorrect": false, "rationale": "No es periostio."}
+    ],
+    "hint": "Es una lámina entre dos huesos..."
+  },
+  {
+    "question": "¿Qué ejemplo caracteriza a una membrana interósea?",
+    "options": [
+      {"text": "La membrana interósea radiocubital", "isCorrect": true, "rationale": "Un ejemplo de membrana interósea es la membrana interósea radiocubital."},
+      {"text": "El ligamento de la cabeza del fémur", "isCorrect": false, "rationale": "Eso es un ligamento redondo."},
+      {"text": "El menisco de la rodilla", "isCorrect": false, "rationale": "Eso es un fibrocartílago intraarticular."},
+      {"text": "El disco intervertebral", "isCorrect": false, "rationale": "Eso es una sínfisis."}
+    ],
+    "hint": "Está en el antebrazo..."
+  },
+  {
+    "question": "¿Qué es una gonfosis?",
+    "options": [
+      {"text": "Prolongación en forma de clavija que se introduce en un alvéolo, mantenida por fibras cortas", "isCorrect": true, "rationale": "Una gonfosis es una prolongación en forma de clavija que se introduce en un hueco o alvéolo y es mantenida por fibras cortas en su posición."},
+      {"text": "Una articulación sinovial", "isCorrect": false, "rationale": "Es una sinartrosis fibrosa."},
+      {"text": "Una articulación cartilaginosa", "isCorrect": false, "rationale": "Es fibrosa, no cartilaginosa."},
+      {"text": "Una articulación móvil", "isCorrect": false, "rationale": "Es inmóvil."}
+    ],
+    "hint": "Piensa en los dientes..."
+  },
+  {
+    "question": "¿Qué ejemplo caracteriza a una gonfosis?",
+    "options": [
+      {"text": "La unión entre la raíz del diente y el alvéolo dentario", "isCorrect": true, "rationale": "Un ejemplo de gonfosis es la unión entre la raíz del diente y el alvéolo."},
+      {"text": "La unión entre vértebras", "isCorrect": false, "rationale": "Esa es una sínfisis."},
+      {"text": "La unión del fémur con la pelvis", "isCorrect": false, "rationale": "Esa es una diartrosis."},
+      {"text": "La unión del radio con el cúbito", "isCorrect": false, "rationale": "Esa es una membrana interósea."}
+    ],
+    "hint": "Está en la boca..."
+  },
+  {
+    "question": "¿Qué son las suturas?",
+    "options": [
+      {"text": "Articulaciones donde los huesos están unidos por tejido fibroso de fibras cortas, quedando inmovilizados", "isCorrect": true, "rationale": "En las suturas los huesos, que están unidos por tejido fibroso de fibras cortas, quedan inmovilizados. Se encuentran entre los huesos del cráneo."},
+      {"text": "Articulaciones móviles del cráneo", "isCorrect": false, "rationale": "Son inmóviles."},
+      {"text": "Articulaciones cartilaginosas", "isCorrect": false, "rationale": "Son fibrosas."},
+      {"text": "Articulaciones sinoviales", "isCorrect": false, "rationale": "No tienen cavidad articular."}
+    ],
+    "hint": "Son las 'costuras' del cráneo..."
+  },
+  {
+    "question": "¿Dónde se encuentran principalmente las suturas?",
+    "options": [
+      {"text": "Entre los huesos del cráneo", "isCorrect": true, "rationale": "Este tipo de articulación se encuentra entre los huesos del cráneo."},
+      {"text": "Entre las vértebras", "isCorrect": false, "rationale": "Esas son sínfisis."},
+      {"text": "En las articulaciones de los miembros", "isCorrect": false, "rationale": "No hay suturas en los miembros."},
+      {"text": "En el tórax", "isCorrect": false, "rationale": "No hay suturas en el tórax."}
+    ],
+    "hint": "En la cabeza..."
+  },
+  {
+    "question": "¿Qué es una sutura plana o armónica?",
+    "options": [
+      {"text": "Sutura donde se ponen en contacto superficies planas y lineales", "isCorrect": true, "rationale": "En la sutura plana [armónica] se ponen en contacto superficies planas y lineales, como entre los huesos nasales."},
+      {"text": "Sutura con dientes que encajan", "isCorrect": false, "rationale": "Esa es la sutura dentada."},
+      {"text": "Sutura tallada en bisel", "isCorrect": false, "rationale": "Esa es la sutura escamosa."},
+      {"text": "Sutura con cresta y ranura", "isCorrect": false, "rationale": "Esa es la esquindilesis."}
+    ],
+    "hint": "Superficies planas que se tocan..."
+  },
+  {
+    "question": "¿Qué ejemplo caracteriza a una sutura plana?",
+    "options": [
+      {"text": "La sutura entre los huesos nasales", "isCorrect": true, "rationale": "Un ejemplo de sutura plana [armónica] es la que se encuentra entre los huesos nasales."},
+      {"text": "La sutura coronal", "isCorrect": false, "rationale": "Esa es dentada."},
+      {"text": "La sutura temporoparietal", "isCorrect": false, "rationale": "Esa es escamosa."},
+      {"text": "La sutura entre vómer y esfenoides", "isCorrect": false, "rationale": "Esa es esquindilesis."}
+    ],
+    "hint": "Está en la nariz..."
+  },
+  {
+    "question": "¿Qué es una sutura escamosa?",
+    "options": [
+      {"text": "Sutura donde las superficies en contacto están talladas en bisel", "isCorrect": true, "rationale": "En la sutura escamosa las superficies en contacto están talladas en bisel, como la sutura temporoparietal."},
+      {"text": "Sutura con superficies planas", "isCorrect": false, "rationale": "Esa es la sutura plana."},
+      {"text": "Sutura con dientes que encajan", "isCorrect": false, "rationale": "Esa es la sutura dentada."},
+      {"text": "Sutura con cresta y ranura", "isCorrect": false, "rationale": "Esa es la esquindilesis."}
+    ],
+    "hint": "Las superficies están en 'bisel' como escamas..."
+  },
+  {
+    "question": "¿Qué ejemplo caracteriza a una sutura escamosa?",
+    "options": [
+      {"text": "La sutura temporoparietal", "isCorrect": true, "rationale": "Un ejemplo de sutura escamosa es la sutura temporoparietal."},
+      {"text": "La sutura entre los huesos nasales", "isCorrect": false, "rationale": "Esa es plana."},
+      {"text": "La sutura coronal", "isCorrect": false, "rationale": "Esa es dentada."},
+      {"text": "La sutura sagital", "isCorrect": false, "rationale": "Esa es aserrada."}
+    ],
+    "hint": "Está entre el temporal y el parietal..."
+  },
+  {
+    "question": "¿Qué es una sutura dentada?",
+    "options": [
+      {"text": "Sutura que presenta engranamientos o dientes que encajan entre sí", "isCorrect": true, "rationale": "La sutura dentada presenta engranamientos o dientes que encajan entre sí, como la sutura coronal."},
+      {"text": "Sutura con superficies planas", "isCorrect": false, "rationale": "Esa es la sutura plana."},
+      {"text": "Sutura tallada en bisel", "isCorrect": false, "rationale": "Esa es la sutura escamosa."},
+      {"text": "Sutura con cresta y ranura", "isCorrect": false, "rationale": "Esa es la esquindilesis."}
+    ],
+    "hint": "Tiene 'dientes' que encajan..."
+  },
+  {
+    "question": "¿Qué ejemplo caracteriza a una sutura dentada?",
+    "options": [
+      {"text": "La sutura coronal (frontoparietal)", "isCorrect": true, "rationale": "Un ejemplo de sutura dentada es la sutura coronal."},
+      {"text": "La sutura temporoparietal", "isCorrect": false, "rationale": "Esa es escamosa."},
+      {"text": "La sutura entre los huesos nasales", "isCorrect": false, "rationale": "Esa es plana."},
+      {"text": "La sutura entre vómer y esfenoides", "isCorrect": false, "rationale": "Esa es esquindilesis."}
+    ],
+    "hint": "Está entre el frontal y los parietales..."
+  },
+  {
+    "question": "¿Qué es una sutura aserrada?",
+    "options": [
+      {"text": "Sutura con bordes irregulares como sierra, similar a la dentada pero más fina", "isCorrect": true, "rationale": "La sutura aserrada presenta bordes irregulares como sierra, como la sutura sagital."},
+      {"text": "Sutura con superficies planas", "isCorrect": false, "rationale": "Esa es la sutura plana."},
+      {"text": "Sutura tallada en bisel", "isCorrect": false, "rationale": "Esa es la sutura escamosa."},
+      {"text": "Sutura con cresta y ranura", "isCorrect": false, "rationale": "Esa es la esquindilesis."}
+    ],
+    "hint": "Como los dientes de una sierra..."
+  },
+  {
+    "question": "¿Qué ejemplo caracteriza a una sutura aserrada?",
+    "options": [
+      {"text": "La sutura sagital (interparietal)", "isCorrect": true, "rationale": "Un ejemplo de sutura aserrada es la sutura sagital."},
+      {"text": "La sutura coronal", "isCorrect": false, "rationale": "Esa es dentada."},
+      {"text": "La sutura temporoparietal", "isCorrect": false, "rationale": "Esa es escamosa."},
+      {"text": "La sutura entre los huesos nasales", "isCorrect": false, "rationale": "Esa es plana."}
+    ],
+    "hint": "Está entre los dos parietales..."
+  },
+  {
+    "question": "¿Qué es una esquindilesis?",
+    "options": [
+      {"text": "Sutura donde una superficie en forma de cresta se articula con una ranura", "isCorrect": true, "rationale": "En la esquindilesis una superficie en forma de cresta se articula con una ranura, como entre el vómer y el esfenoides."},
+      {"text": "Sutura con dientes que encajan", "isCorrect": false, "rationale": "Esa es la sutura dentada."},
+      {"text": "Sutura tallada en bisel", "isCorrect": false, "rationale": "Esa es la sutura escamosa."},
+      {"text": "Sutura con superficies planas", "isCorrect": false, "rationale": "Esa es la sutura plana."}
+    ],
+    "hint": "Una cresta que entra en una ranura..."
+  },
+  {
+    "question": "¿Qué ejemplo caracteriza a una esquindilesis?",
+    "options": [
+      {"text": "La articulación entre el vómer y el esfenoides", "isCorrect": true, "rationale": "Un ejemplo de esquindilesis es la articulación entre el vómer y el esfenoides."},
+      {"text": "La sutura coronal", "isCorrect": false, "rationale": "Esa es dentada."},
+      {"text": "La sutura temporoparietal", "isCorrect": false, "rationale": "Esa es escamosa."},
+      {"text": "La sutura entre los huesos nasales", "isCorrect": false, "rationale": "Esa es plana."}
+    ],
+    "hint": "Está en la base del cráneo..."
+  },
+  {
+    "question": "¿Qué son las articulaciones cartilaginosas?",
+    "options": [
+      {"text": "Articulaciones con cartílago hialino o fibrocartílago interpuesto, sin cavidad sinovial", "isCorrect": true, "rationale": "Las articulaciones cartilaginosas poseen formaciones de cartílago hialino o fibrocartílago interpuesto, carecen de cavidad sinovial."},
+      {"text": "Articulaciones con tejido fibroso", "isCorrect": false, "rationale": "Esas son fibrosas."},
+      {"text": "Articulaciones con líquido sinovial", "isCorrect": false, "rationale": "Esas son diartrosis."},
+      {"text": "Articulaciones con hueso interpuesto", "isCorrect": false, "rationale": "Esas son óseas."}
+    ],
+    "hint": "El cartílago está entre los huesos..."
+  },
+  {
+    "question": "¿Qué es una sincondrosis?",
+    "options": [
+      {"text": "Articulación con cartílago hialino que une los huesos", "isCorrect": true, "rationale": "En las sincondrosis, entre las superficies articulares se encuentra cartílago hialino que une los huesos."},
+      {"text": "Articulación con fibrocartílago", "isCorrect": false, "rationale": "Esa es una sínfisis."},
+      {"text": "Articulación con tejido fibroso", "isCorrect": false, "rationale": "Esa es fibrosa."},
+      {"text": "Articulación con hueso", "isCorrect": false, "rationale": "Esa es sinostosis."}
+    ],
+    "hint": "'Condro' significa cartílago..."
+  },
+  {
+    "question": "¿Qué ejemplo caracteriza a una sincondrosis?",
+    "options": [
+      {"text": "Las articulaciones condrocostales (costillas con esternón)", "isCorrect": true, "rationale": "Un ejemplo de sincondrosis son las articulaciones condrocostales."},
+      {"text": "La sínfisis pubiana", "isCorrect": false, "rationale": "Esa es una sínfisis."},
+      {"text": "El disco intervertebral", "isCorrect": false, "rationale": "Esa es una sínfisis."},
+      {"text": "Las suturas craneales", "isCorrect": false, "rationale": "Esas son fibrosas."}
+    ],
+    "hint": "Están entre las costillas y el esternón..."
+  },
+  {
+    "question": "¿Qué es una sínfisis?",
+    "options": [
+      {"text": "Articulación con fibrocartílago interpuesto entre las superficies articulares", "isCorrect": true, "rationale": "Las sínfisis presentan un fibrocartílago interpuesto entre las superficies articulares."},
+      {"text": "Articulación con cartílago hialino", "isCorrect": false, "rationale": "Esa es una sincondrosis."},
+      {"text": "Articulación con tejido fibroso", "isCorrect": false, "rationale": "Esa es fibrosa."},
+      {"text": "Articulación con hueso", "isCorrect": false, "rationale": "Esa es sinostosis."}
+    ],
+    "hint": "Tiene fibrocartílago, no cartílago hialino..."
+  },
+  {
+    "question": "¿Qué tipo de movimiento tienen las sínfisis?",
+    "options": [
+      {"text": "Movimientos limitados y de poca amplitud individual, son anfiartrosis", "isCorrect": true, "rationale": "En las sínfisis los movimientos son limitados y de poca amplitud individual, son anfiartrosis."},
+      {"text": "Son completamente inmóviles", "isCorrect": false, "rationale": "Tienen algo de movimiento."},
+      {"text": "Son muy móviles", "isCorrect": false, "rationale": "Son poco móviles."},
+      {"text": "No tienen movimiento", "isCorrect": false, "rationale": "Tienen movimiento limitado."}
+    ],
+    "hint": "Son 'semimóviles'..."
+  },
+  {
+    "question": "¿Qué función cumplen los discos fibrocartilaginosos en las sínfisis?",
+    "options": [
+      {"text": "Proveen absorción de fuerzas de choque y flexibilidad", "isCorrect": true, "rationale": "Los discos fibrocartilaginosos proveen absorción de fuerzas de choque y flexibilidad."},
+      {"text": "Permiten gran movilidad", "isCorrect": false, "rationale": "No, limitan la movilidad."},
+      {"text": "Producen líquido sinovial", "isCorrect": false, "rationale": "No tienen líquido sinovial."},
+      {"text": "No tienen función específica", "isCorrect": false, "rationale": "Tienen función de amortiguación."}
+    ],
+    "hint": "Actúan como 'amortiguadores'..."
+  },
+  {
+    "question": "¿Qué ejemplos caracterizan a una sínfisis?",
+    "options": [
+      {"text": "El disco intervertebral y la sínfisis pubiana", "isCorrect": true, "rationale": "Ejemplos de sínfisis son el disco intervertebral y la sínfisis pubiana."},
+      {"text": "Las suturas craneales", "isCorrect": false, "rationale": "Esas son fibrosas."},
+      {"text": "Las articulaciones condrocostales", "isCorrect": false, "rationale": "Esas son sincondrosis."},
+      {"text": "La unión diente-alvéolo", "isCorrect": false, "rationale": "Esa es gonfosis."}
+    ],
+    "hint": "Una está en la columna y otra en la pelvis..."
+  },
+  {
+    "question": "¿Qué es el cartílago epifisario como articulación?",
+    "options": [
+      {"text": "Una articulación transitoria entre la epífisis y la diáfisis mediante cartílago hialino", "isCorrect": true, "rationale": "El cartílago epifisario [cartílago de crecimiento] es una articulación transitoria. Es la unión entre la epífisis y la diáfisis mediante una lámina de cartílago hialino."},
+      {"text": "Una articulación permanente", "isCorrect": false, "rationale": "Es transitoria, desaparece al crecer."},
+      {"text": "Una articulación sinovial", "isCorrect": false, "rationale": "No tiene cavidad sinovial."},
+      {"text": "Una articulación fibrosa", "isCorrect": false, "rationale": "Es cartilaginosa."}
+    ],
+    "hint": "Es el 'cartílago de crecimiento' que desaparece..."
+  },
+  {
+    "question": "¿Qué son las sinostosis?",
+    "options": [
+      {"text": "Soldaduras óseas entre huesos, articulaciones completamente inmóviles", "isCorrect": true, "rationale": "Las soldaduras óseas entre huesos se denominan sinostosis. Estas articulaciones óseas son completamente inmóviles."},
+      {"text": "Articulaciones cartilaginosas", "isCorrect": false, "rationale": "Son óseas, no cartilaginosas."},
+      {"text": "Articulaciones móviles", "isCorrect": false, "rationale": "Son completamente inmóviles."},
+      {"text": "Articulaciones con cartílago", "isCorrect": false, "rationale": "No tienen cartílago, tienen hueso."}
+    ],
+    "hint": "Hueso con hueso directamente..."
+  },
+  {
+    "question": "¿Qué ejemplos caracterizan a las sinostosis?",
+    "options": [
+      {"text": "Entre el esfenoides y el occipital, y entre los cuerpos vertebrales del sacro", "isCorrect": true, "rationale": "Ejemplos de sinostosis son entre el esfenoides y el occipital y entre los cuerpos vertebrales del sacro."},
+      {"text": "Las suturas craneales", "isCorrect": false, "rationale": "Esas son fibrosas."},
+      {"text": "Los discos intervertebrales", "isCorrect": false, "rationale": "Esas son sínfisis."},
+      {"text": "La sínfisis pubiana", "isCorrect": false, "rationale": "Esa es cartilaginosa."}
+    ],
+    "hint": "Una está en el cráneo y otra en la pelvis..."
+  }
+]

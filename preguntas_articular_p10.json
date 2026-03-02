@@ -1,0 +1,332 @@
+[
+  {
+    "question": "¿Qué es una luxación?",
+    "options": [
+      {"text": "La pérdida de las relaciones anatómicas de las superficies articulares enfrentadas", "isCorrect": true, "rationale": "Recibe el nombre de luxación la pérdida de las relaciones anatómicas de las superficies articulares enfrentadas."},
+      {"text": "La inflamación de la articulación", "isCorrect": false, "rationale": "Eso es la artritis."},
+      {"text": "El desgarro de ligamentos", "isCorrect": false, "rationale": "Eso es el esguince."},
+      {"text": "La fractura del hueso", "isCorrect": false, "rationale": "Es la pérdida de relaciones articulares."}
+    ],
+    "hint": "Es cuando los huesos se 'salen de lugar'..."
+  },
+  {
+    "question": "¿Qué es una subluxación?",
+    "options": [
+      {"text": "Cuando la pérdida de la relación entre superficies articulares no es completa", "isCorrect": true, "rationale": "Si la pérdida de la relación no es completa recibe el nombre de subluxación."},
+      {"text": "Una luxación completa", "isCorrect": false, "rationale": "Es incompleta."},
+      {"text": "Una fractura", "isCorrect": false, "rationale": "Es una luxación parcial."},
+      {"text": "Un esguince", "isCorrect": false, "rationale": "Es una luxación parcial."}
+    ],
+    "hint": "Es una luxación 'parcial'..."
+  },
+  {
+    "question": "¿Qué se requiere para que una luxación sea posible?",
+    "options": [
+      {"text": "Un daño importante del aparato capsuloligamentario", "isCorrect": true, "rationale": "Para que una luxación sea posible se requiere un daño importante del aparato capsuloligamentario."},
+      {"text": "Solo un pequeño golpe", "isCorrect": false, "rationale": "Requiere daño capsuloligamentario importante."},
+      {"text": "Una fractura previa", "isCorrect": false, "rationale": "Requiere daño capsuloligamentario."},
+      {"text": "Una enfermedad articular", "isCorrect": false, "rationale": "Requiere daño capsuloligamentario."}
+    ],
+    "hint": "Tiene que haber 'rotura' de la cápsula y ligamentos..."
+  },
+  {
+    "question": "¿Cuándo debe efectuarse la reducción de una luxación?",
+    "options": [
+      {"text": "Lo más temprano posible", "isCorrect": true, "rationale": "En términos generales la reducción debe efectuarse lo más temprano posible."},
+      {"text": "Después de varias semanas", "isCorrect": false, "rationale": "Debe ser lo más temprano posible."},
+      {"text": "Solo después de reducir la inflamación", "isCorrect": false, "rationale": "Debe ser temprano."},
+      {"text": "No es urgente", "isCorrect": false, "rationale": "Debe ser lo más temprano posible."}
+    ],
+    "hint": "Es una 'urgencia'..."
+  },
+  {
+    "question": "¿Cómo debe ser el camino que recorre el extremo luxado durante la reducción?",
+    "options": [
+      {"text": "El mismo camino que recorrió para luxarse, pero en sentido inverso", "isCorrect": true, "rationale": "Se debe tratar de que el extremo luxado recorra el mismo camino que tuvo que recorrer para luxarse, pero en sentido inverso."},
+      {"text": "Cualquier camino", "isCorrect": false, "rationale": "Debe ser el mismo en sentido inverso."},
+      {"text": "El camino más corto", "isCorrect": false, "rationale": "Debe ser el mismo en sentido inverso."},
+      {"text": "El camino más cómodo", "isCorrect": false, "rationale": "Debe ser el mismo en sentido inverso."}
+    ],
+    "hint": "Hay que 'desandar' el camino de la lesión..."
+  },
+  {
+    "question": "¿Qué complicaciones agudas pueden tener las luxaciones?",
+    "options": [
+      {"text": "Compresión de estructuras vasculares o nerviosas vecinas", "isCorrect": true, "rationale": "Las complicaciones agudas de una luxación suelen deberse a compresión de estructuras vasculares o nerviosas vecinas."},
+      {"text": "Solo dolor", "isCorrect": false, "rationale": "Puede haber compresión vascular o nerviosa."},
+      {"text": "Solo inflamación", "isCorrect": false, "rationale": "Puede haber compresión vascular o nerviosa."},
+      {"text": "No hay complicaciones agudas", "isCorrect": false, "rationale": "Puede haber compresión de estructuras."}
+    ],
+    "hint": "Pueden afectarse 'vasos y nervios' cercanos..."
+  },
+  {
+    "question": "¿Qué es un esguince?",
+    "options": [
+      {"text": "Lesiones provocadas por la distensión del aparato capsuloligamentario que rodea una articulación", "isCorrect": true, "rationale": "Los esguinces son lesiones provocadas por la distensión del aparato capsuloligamentario que rodea a una articulación."},
+      {"text": "La pérdida de relación entre superficies articulares", "isCorrect": false, "rationale": "Eso es la luxación."},
+      {"text": "La inflamación de la articulación", "isCorrect": false, "rationale": "Eso es la artritis."},
+      {"text": "La fractura del hueso", "isCorrect": false, "rationale": "Es lesión de ligamentos."}
+    ],
+    "hint": "Es cuando se 'estiran o rompen' los ligamentos..."
+  },
+  {
+    "question": "¿Qué limita la amplitud de movimientos de una articulación?",
+    "options": [
+      {"text": "La tensión de ligamentos y otros tejidos blandos periarticulares", "isCorrect": true, "rationale": "Las articulaciones tienen una amplitud de movimientos limitados por la tensión de ligamentos y otros tejidos blandos periarticulares."},
+      {"text": "Solo el tamaño del hueso", "isCorrect": false, "rationale": "Son los ligamentos y tejidos blandos."},
+      {"text": "Solo el cartílago", "isCorrect": false, "rationale": "Son los ligamentos y tejidos blandos."},
+      {"text": "El líquido sinovial", "isCorrect": false, "rationale": "Son los ligamentos y tejidos blandos."}
+    ],
+    "hint": "Los 'ligamentos' frenan el movimiento..."
+  },
+  {
+    "question": "¿Qué ocurre cuando la fuerza sobre una articulación supera la resistencia de las estructuras?",
+    "options": [
+      {"text": "Se produce distensión, desgarro o ruptura de las estructuras", "isCorrect": true, "rationale": "Cuando la fuerza ejercida sobre una determinada articulación supera la resistencia de dichas estructuras, se produce su distensión, desgarro o ruptura."},
+      {"text": "Nada", "isCorrect": false, "rationale": "Se lesionan las estructuras."},
+      {"text": "Solo dolor", "isCorrect": false, "rationale": "Hay lesión estructural."},
+      {"text": "La articulación se hace más móvil", "isCorrect": false, "rationale": "Se lesionan las estructuras."}
+    ],
+    "hint": "Hay 'lesión' de los tejidos..."
+  },
+  {
+    "question": "¿Pueden acompañarse los esguinces de lesiones óseas?",
+    "options": [
+      {"text": "Sí, pueden acompañarse de lesiones óseas", "isCorrect": true, "rationale": "Los esguinces pueden acompañarse de lesiones óseas."},
+      {"text": "No, nunca", "isCorrect": false, "rationale": "Sí pueden acompañarse de lesiones óseas."},
+      {"text": "Solo en ancianos", "isCorrect": false, "rationale": "Pueden acompañarse de lesiones óseas."},
+      {"text": "Solo en niños", "isCorrect": false, "rationale": "Pueden acompañarse de lesiones óseas."}
+    ],
+    "hint": "Pueden asociarse con 'fracturas'..."
+  },
+  {
+    "question": "¿Qué es un esguince grado I?",
+    "options": [
+      {"text": "Ruptura intraligamentosa de fibras, con dolor selectivo, incapacidad y tumefacción mínimas, sin inestabilidad", "isCorrect": true, "rationale": "El esguince grado I es una ruptura intraligamentosa de fibras que cursa con dolor selectivo en la zona de lesión, incapacidad y tumefacción mínimas y ausencia de inestabilidad."},
+      {"text": "Ruptura completa del ligamento", "isCorrect": false, "rationale": "Eso es el grado III."},
+      {"text": "Ruptura parcial moderada", "isCorrect": false, "rationale": "Eso es el grado II."},
+      {"text": "Sin lesión ligamentaria", "isCorrect": false, "rationale": "Hay ruptura de fibras."}
+    ],
+    "hint": "Es el más 'leve'..."
+  },
+  {
+    "question": "¿Qué es un esguince grado II?",
+    "options": [
+      {"text": "Lesión intermedia entre el grado I y el grado III", "isCorrect": true, "rationale": "El grado II es intermedio entre el grado I y el grado III."},
+      {"text": "El más leve", "isCorrect": false, "rationale": "Es intermedio."},
+      {"text": "Ruptura completa", "isCorrect": false, "rationale": "Eso es el grado III."},
+      {"text": "Sin lesión", "isCorrect": false, "rationale": "Hay lesión parcial."}
+    ],
+    "hint": "Es de 'gravedad media'..."
+  },
+  {
+    "question": "¿Qué es un esguince grado III?",
+    "options": [
+      {"text": "Lesión ligamentosa completa con dolor intenso, tumefacción, incapacidad marcada e inestabilidad franca", "isCorrect": true, "rationale": "El grado III es una lesión ligamentosa completa con dolor intenso, tumefacción e incapacidad marcadas e inestabilidad franca."},
+      {"text": "El más leve", "isCorrect": false, "rationale": "Es el más grave."},
+      {"text": "Lesión parcial", "isCorrect": false, "rationale": "Es ruptura completa."},
+      {"text": "Sin inestabilidad", "isCorrect": false, "rationale": "Hay inestabilidad franca."}
+    ],
+    "hint": "Es el más 'grave', ruptura completa..."
+  },
+  {
+    "question": "¿Qué zona es más afectada por los esguinces?",
+    "options": [
+      {"text": "El tobillo, seguido del carpo, la rodilla y el hombro", "isCorrect": true, "rationale": "La zona más afectada por los esguinces es el tobillo, al que le siguen el carpo, la rodilla y el hombro."},
+      {"text": "Solo el hombro", "isCorrect": false, "rationale": "El tobillo es el más afectado."},
+      {"text": "Solo la rodilla", "isCorrect": false, "rationale": "El tobillo es el más afectado."},
+      {"text": "La columna vertebral", "isCorrect": false, "rationale": "El tobillo es el más afectado."}
+    ],
+    "hint": "Es el 'tobillo' el más frecuente..."
+  },
+  {
+    "question": "¿Qué es la artrosis?",
+    "options": [
+      {"text": "La enfermedad articular degenerativa que sufre el cartílago articular", "isCorrect": true, "rationale": "La artrosis es la enfermedad articular degenerativa que sufre el cartílago articular."},
+      {"text": "La inflamación de la articulación", "isCorrect": false, "rationale": "Eso es la artritis."},
+      {"text": "La infección de la articulación", "isCorrect": false, "rationale": "Es degeneración del cartílago."},
+      {"text": "La luxación de la articulación", "isCorrect": false, "rationale": "Es degeneración del cartílago."}
+    ],
+    "hint": "Es 'desgaste' del cartílago..."
+  },
+  {
+    "question": "¿Cómo puede presentarse la artrosis?",
+    "options": [
+      {"text": "En forma primaria o secundaria a alteraciones patológicas preexistentes", "isCorrect": true, "rationale": "La artrosis se presenta en forma primaria o secundaria a alteraciones patológicas preexistentes (por ejemplo: luxación congénita de la cadera)."},
+      {"text": "Solo primaria", "isCorrect": false, "rationale": "Puede ser primaria o secundaria."},
+      {"text": "Solo secundaria", "isCorrect": false, "rationale": "Puede ser primaria o secundaria."},
+      {"text": "Solo congénita", "isCorrect": false, "rationale": "Puede ser primaria o secundaria."}
+    ],
+    "hint": "Puede aparecer 'sola' o por otra enfermedad previa..."
+  },
+  {
+    "question": "¿Qué articulaciones afecta predominantemente la artrosis?",
+    "options": [
+      {"text": "Las articulaciones que soportan peso, como la coxofemoral y la rodilla", "isCorrect": true, "rationale": "La artrosis afecta predominantemente las articulaciones que soportan peso, tales como la coxofemoral y la rodilla."},
+      {"text": "Las articulaciones de la mano", "isCorrect": false, "rationale": "Predominan las que soportan peso."},
+      {"text": "Las articulaciones del cuello", "isCorrect": false, "rationale": "Predominan las que soportan peso."},
+      {"text": "Todas por igual", "isCorrect": false, "rationale": "Predominan las que soportan peso."}
+    ],
+    "hint": "Afecta más las que 'cargan peso'..."
+  },
+  {
+    "question": "¿Qué personas son más afectadas por la artrosis?",
+    "options": [
+      {"text": "Adultos, generalmente de entre 40 y 60 años", "isCorrect": true, "rationale": "Las personas más afectadas son adultos, generalmente de entre 40 y 60 años."},
+      {"text": "Niños", "isCorrect": false, "rationale": "Afecta a adultos."},
+      {"text": "Adolescentes", "isCorrect": false, "rationale": "Afecta a adultos."},
+      {"text": "Solo ancianos mayores de 80", "isCorrect": false, "rationale": "Generalmente entre 40 y 60 años."}
+    ],
+    "hint": "Es enfermedad de 'adultos'..."
+  },
+  {
+    "question": "¿Cómo se manifiesta clínicamente la artrosis?",
+    "options": [
+      {"text": "Dolor y disminución de la movilidad, dolor durante la marcha, inestabilidad articular y alteraciones del apoyo", "isCorrect": true, "rationale": "La artrosis se manifiesta clínicamente por dolor y disminución de la movilidad, con dolor durante la marcha, inestabilidad articular y alteraciones del apoyo."},
+      {"text": "Solo inflamación", "isCorrect": false, "rationale": "Hay dolor y rigidez."},
+      {"text": "Solo dolor en reposo", "isCorrect": false, "rationale": "Hay dolor con el movimiento."},
+      {"text": "Sin síntomas", "isCorrect": false, "rationale": "Hay síntomas claros."}
+    ],
+    "hint": "Dolor, rigidez y problemas para caminar..."
+  },
+  {
+    "question": "¿Hacia qué puede evolucionar la artrosis sin tratamiento?",
+    "options": [
+      {"text": "Hacia la anquilosis articular", "isCorrect": true, "rationale": "La artrosis puede evolucionar hacia la anquilosis articular si no se aplica el tratamiento adecuado."},
+      {"text": "Mejora espontáneamente", "isCorrect": false, "rationale": "Puede empeorar hacia anquilosis."},
+      {"text": "No evoluciona", "isCorrect": false, "rationale": "Puede empeorar."},
+      {"text": "Hacia mayor movilidad", "isCorrect": false, "rationale": "Hacia rigidez (anquilosis)."}
+    ],
+    "hint": "Puede llegar a 'fusionar' la articulación..."
+  },
+  {
+    "question": "¿Qué es la artritis?",
+    "options": [
+      {"text": "La inflamación de una o más articulaciones", "isCorrect": true, "rationale": "La artritis es la inflamación de una o más articulaciones que se manifiesta clínicamente con dolor, tumefacción, rigidez y limitación del movimiento."},
+      {"text": "La degeneración del cartílago", "isCorrect": false, "rationale": "Eso es la artrosis."},
+      {"text": "La luxación de la articulación", "isCorrect": false, "rationale": "Es inflamación."},
+      {"text": "El esguince", "isCorrect": false, "rationale": "Es inflamación."}
+    ],
+    "hint": "Es 'inflamación' de la articulación..."
+  },
+  {
+    "question": "¿Cómo se manifiesta clínicamente la artritis?",
+    "options": [
+      {"text": "Dolor, tumefacción, rigidez y limitación del movimiento de la articulación", "isCorrect": true, "rationale": "La artritis se manifiesta clínicamente con dolor, tumefacción, rigidez y limitación del movimiento de la articulación comprometida."},
+      {"text": "Solo dolor", "isCorrect": false, "rationale": "Hay más síntomas."},
+      {"text": "Solo rigidez", "isCorrect": false, "rationale": "Hay más síntomas."},
+      {"text": "Sin síntomas", "isCorrect": false, "rationale": "Hay síntomas claros."}
+    ],
+    "hint": "Dolor, hinchazón y rigidez..."
+  },
+  {
+    "question": "¿Qué involucra la artritis a nivel del cartílago?",
+    "options": [
+      {"text": "Involucra la degradación del cartílago articular", "isCorrect": true, "rationale": "La artritis involucra la degradación del cartílago articular."},
+      {"text": "No afecta el cartílago", "isCorrect": false, "rationale": "Sí lo degrada."},
+      {"text": "Regenera el cartílago", "isCorrect": false, "rationale": "Lo degrada."},
+      {"text": "No tiene relación con el cartílago", "isCorrect": false, "rationale": "Lo degrada."}
+    ],
+    "hint": "Daña el 'cartílago'..."
+  },
+  {
+    "question": "¿Qué puede causar la artritis?",
+    "options": [
+      {"text": "Origen autoinmune, fracturas, desgaste, procesos infecciosos o precipitación de cristales", "isCorrect": true, "rationale": "Las causas de artritis pueden ser de origen autoinmune, por fracturas óseas, por desgaste, por procesos infecciosos o por precipitación de cristales (por ejemplo: gota)."},
+      {"text": "Solo infecciones", "isCorrect": false, "rationale": "Hay múltiples causas."},
+      {"text": "Solo traumatismos", "isCorrect": false, "rationale": "Hay múltiples causas."},
+      {"text": "Solo gota", "isCorrect": false, "rationale": "Hay múltiples causas."}
+    ],
+    "hint": "Hay muchas 'causas posibles'..."
+  },
+  {
+    "question": "¿Dónde se presenta con mayor frecuencia la artritis?",
+    "options": [
+      {"text": "Cadera, rodillas y dedos de la mano", "isCorrect": true, "rationale": "La artritis se presenta con mayor frecuencia a nivel de la cadera, las rodillas y los dedos de la mano."},
+      {"text": "Solo en el hombro", "isCorrect": false, "rationale": "Cadera, rodillas y manos son más frecuentes."},
+      {"text": "Solo en la columna", "isCorrect": false, "rationale": "Cadera, rodillas y manos son más frecuentes."},
+      {"text": "En todas las articulaciones por igual", "isCorrect": false, "rationale": "Hay zonas más afectadas."}
+    ],
+    "hint": "Cadera, rodillas y manos..."
+  },
+  {
+    "question": "¿Qué es la bursitis?",
+    "options": [
+      {"text": "La inflamación de las bolsas que se encuentran entre tendones y piel o entre tendones y hueso", "isCorrect": true, "rationale": "La bursitis es la inflamación de las bolsas que se encuentran entre los tendones y la piel o entre los tendones y el hueso."},
+      {"text": "Inflamación de la articulación", "isCorrect": false, "rationale": "Es inflamación de las bolsas sinoviales."},
+      {"text": "Inflamación del tendón", "isCorrect": false, "rationale": "Es inflamación de las bolsas."},
+      {"text": "Inflamación del músculo", "isCorrect": false, "rationale": "Es inflamación de las bolsas."}
+    ],
+    "hint": "Es inflamación de las 'bolsas' sinoviales..."
+  },
+  {
+    "question": "¿Qué función tienen las bolsas sinoviales?",
+    "options": [
+      {"text": "Ayudar al movimiento reduciendo la fricción entre las partes móviles", "isCorrect": true, "rationale": "La función de las bolsas es ayudar al movimiento reduciendo la fricción entre las partes móviles."},
+      {"text": "Producir movimiento", "isCorrect": false, "rationale": "Reducen la fricción."},
+      {"text": "Unir los huesos", "isCorrect": false, "rationale": "Reducen la fricción."},
+      {"text": "Producir líquido sinovial", "isCorrect": false, "rationale": "Reducen la fricción."}
+    ],
+    "hint": "Sirven como 'almohadillas' que evitan el roce..."
+  },
+  {
+    "question": "¿Qué puede causar la bursitis?",
+    "options": [
+      {"text": "Sobrecargas crónicas, traumatismos, artritis reumatoidea, gota o procesos infecciosos", "isCorrect": true, "rationale": "Las causas de bursitis pueden ser: sobrecargas crónicas, traumatismos, artritis reumatoidea, gota o procesos infecciosos."},
+      {"text": "Solo traumatismos", "isCorrect": false, "rationale": "Hay múltiples causas."},
+      {"text": "Solo infecciones", "isCorrect": false, "rationale": "Hay múltiples causas."},
+      {"text": "Solo artritis", "isCorrect": false, "rationale": "Hay múltiples causas."}
+    ],
+    "hint": "Hay varias causas posibles..."
+  },
+  {
+    "question": "¿Dónde se presentan habitualmente las bursitis?",
+    "options": [
+      {"text": "Hombro, rodilla, codo y cadera", "isCorrect": true, "rationale": "Las bursitis habitualmente se presentan a nivel del hombro, la rodilla, el codo y la cadera."},
+      {"text": "Solo en el hombro", "isCorrect": false, "rationale": "También en rodilla, codo y cadera."},
+      {"text": "Solo en la rodilla", "isCorrect": false, "rationale": "También en hombro, codo y cadera."},
+      {"text": "En todas las articulaciones por igual", "isCorrect": false, "rationale": "Hay zonas más frecuentes."}
+    ],
+    "hint": "Hombro, rodilla, codo y cadera..."
+  },
+  {
+    "question": "¿Cómo se manifiesta clínicamente la bursitis?",
+    "options": [
+      {"text": "Sensibilidad y dolor articular, tumefacción y calor a nivel articular", "isCorrect": true, "rationale": "La bursitis clínicamente se manifiesta con sensibilidad y dolor articular, tumefacción y calor a nivel articular."},
+      {"text": "Solo dolor", "isCorrect": false, "rationale": "Hay más síntomas."},
+      {"text": "Solo inflamación", "isCorrect": false, "rationale": "Hay más síntomas."},
+      {"text": "Sin síntomas", "isCorrect": false, "rationale": "Hay síntomas claros."}
+    ],
+    "hint": "Dolor, hinchazón y calor..."
+  },
+  {
+    "question": "¿Qué es la artroscopia?",
+    "options": [
+      {"text": "Un procedimiento quirúrgico que permite examinar la cavidad de una articulación sinovial con un artroscopio", "isCorrect": true, "rationale": "La cavidad de una articulación sinovial puede examinarse insertando un artroscopio. La artroscopia es un procedimiento quirúrgico que permite al traumatólogo examinar las articulaciones en busca de anomalías."},
+      {"text": "Una radiografía", "isCorrect": false, "rationale": "Es un procedimiento con cámara."},
+      {"text": "Una operación a cielo abierto", "isCorrect": false, "rationale": "Es mínimamente invasiva."},
+      {"text": "Un análisis de sangre", "isCorrect": false, "rationale": "Es un procedimiento visual."}
+    ],
+    "hint": "Es mirar 'dentro' de la articulación con una cámara..."
+  },
+  {
+    "question": "¿Qué anomalías se pueden buscar durante una artroscopia?",
+    "options": [
+      {"text": "Desgarros de los meniscos, lesiones de ligamentos y otras anomalías intraarticulares", "isCorrect": true, "rationale": "Durante la artroscopia se puede buscar anomalías como desgarros de los meniscos (discos articulares parciales de la rodilla) y otras lesiones."},
+      {"text": "Solo fracturas", "isCorrect": false, "rationale": "Se pueden ver múltiples anomalías."},
+      {"text": "Solo infecciones", "isCorrect": false, "rationale": "Se pueden ver múltiples anomalías."},
+      {"text": "Solo tumores", "isCorrect": false, "rationale": "Se pueden ver múltiples anomalías."}
+    ],
+    "hint": "Se pueden ver lesiones de meniscos, ligamentos, etc..."
+  },
+  {
+    "question": "¿Qué se puede hacer durante una artroscopia además de examinar?",
+    "options": [
+      {"text": "Pueden realizarse intervenciones quirúrgicas", "isCorrect": true, "rationale": "Durante la artroscopia pueden realizarse intervenciones quirúrgicas."},
+      {"text": "Solo examinar", "isCorrect": false, "rationale": "También se puede operar."},
+      {"text": "Solo tomar fotos", "isCorrect": false, "rationale": "Se pueden hacer intervenciones."},
+      {"text": "Solo extraer líquido", "isCorrect": false, "rationale": "Se pueden hacer intervenciones."}
+    ],
+    "hint": "No solo 'mira', también puede 'operar'..."
+  }
+]

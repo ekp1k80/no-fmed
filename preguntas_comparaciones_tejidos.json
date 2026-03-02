@@ -1,0 +1,212 @@
+[
+  {
+    "question": "¿Cuál es la diferencia principal entre tendón y ligamento?",
+    "options": [
+      {"text": "El tendón une músculo con hueso, el ligamento une hueso con hueso", "isCorrect": true, "rationale": "El tendón conecta el músculo al hueso para transmitir la fuerza de contracción. El ligamento conecta huesos entre sí para dar estabilidad a las articulaciones."},
+      {"text": "El tendón une hueso con hueso, el ligamento une músculo con hueso", "isCorrect": false, "rationale": "Es al revés."},
+      {"text": "Ambos unen músculo con hueso", "isCorrect": false, "rationale": "Tienen funciones diferentes."},
+      {"text": "Ambos unen hueso con hueso", "isCorrect": false, "rationale": "Tienen funciones diferentes."}
+    ],
+    "hint": "Uno transmite fuerza muscular, el otro estabiliza articulaciones..."
+  },
+  {
+    "question": "¿Qué diferencia hay en la composición de fibras entre tendón y ligamento?",
+    "options": [
+      {"text": "El tendón tiene fibras de colágeno paralelas, el ligamento tiene fibras más variadas (pueden ser elásticas)", "isCorrect": true, "rationale": "Los tendones tienen fibras de colágeno densamente empaquetadas en paralelo para resistir tracción en una dirección. Los ligamentos pueden tener fibras elásticas (como los ligamentos amarillos) y organización menos regular."},
+      {"text": "Ambos tienen la misma organización de fibras", "isCorrect": false, "rationale": "El tendón es más regular y paralelo."},
+      {"text": "El ligamento tiene fibras más paralelas", "isCorrect": false, "rationale": "El tendón tiene fibras más paralelas."},
+      {"text": "El tendón tiene fibras elásticas", "isCorrect": false, "rationale": "Los ligamentos pueden tener fibras elásticas."}
+    ],
+    "hint": "El tendón resiste tracción en una dirección, el ligamento puede necesitar cierta elasticidad..."
+  },
+  {
+    "question": "¿Qué diferencia hay en el color entre tendón y ligamento?",
+    "options": [
+      {"text": "El tendón es blanco nacarado brillante, el ligamento es blanco amarillento u opaco", "isCorrect": true, "rationale": "Los tendones tienen un color blanco nacarado brillante por la disposición regular de las fibras de colágeno. Los ligamentos son más blancos opacos o amarillentos (si tienen fibras elásticas)."},
+      {"text": "Ambos tienen el mismo color", "isCorrect": false, "rationale": "El tendón es más brillante."},
+      {"text": "El ligamento es más brillante", "isCorrect": false, "rationale": "El tendón es más brillante."},
+      {"text": "El tendón es amarillento", "isCorrect": false, "rationale": "El tendón es blanco nacarado."}
+    ],
+    "hint": "Uno brilla más por la disposición de sus fibras..."
+  },
+  {
+    "question": "¿Qué son los ligamentos amarillos y por qué tienen ese color?",
+    "options": [
+      {"text": "Ligamentos elásticos de las vértebras, amarillos por la elastina que contienen", "isCorrect": true, "rationale": "Los ligamentos amarillos (flavos) se encuentran entre las láminas vertebrales. Su color amarillento se debe al alto contenido de fibras elásticas (elastina)."},
+      {"text": "Ligamentos envejecidos", "isCorrect": false, "rationale": "Su color es normal, no por edad."},
+      {"text": "Ligamentos inflamados", "isCorrect": false, "rationale": "Es su color normal por la elastina."},
+      {"text": "Ligamentos del hígado", "isCorrect": false, "rationale": "Están en la columna vertebral."}
+    ],
+    "hint": "El color viene de un tipo de fibra diferente al colágeno..."
+  },
+  {
+    "question": "¿Cuál es la diferencia entre periostio y pericondrio?",
+    "options": [
+      {"text": "El periostio envuelve el hueso, el pericondrio envuelve el cartílago", "isCorrect": true, "rationale": "El periostio es la membrana fibrosa que rodea la superficie exterior del hueso. El pericondrio es la membrana conectiva que envuelve el cartílago."},
+      {"text": "Ambos envuelven el hueso", "isCorrect": false, "rationale": "El pericondrio envuelve el cartílago."},
+      {"text": "Ambos envuelven el cartílago", "isCorrect": false, "rationale": "El periostio envuelve el hueso."},
+      {"text": "No hay diferencia", "isCorrect": false, "rationale": "Envuelven tejidos diferentes."}
+    ],
+    "hint": "'osteo' = hueso, 'condro' = cartílago..."
+  },
+  {
+    "question": "¿Qué diferencia hay entre periostio y endostio?",
+    "options": [
+      {"text": "El periostio está en la superficie externa del hueso, el endostio reviste la cavidad medular interna", "isCorrect": true, "rationale": "El periostio rodea la superficie externa del hueso. El endostio es el revestimiento interno de la cavidad medular y de las trabéculas del hueso esponjoso."},
+      {"text": "Ambos están en el exterior del hueso", "isCorrect": false, "rationale": "El endostio está dentro."},
+      {"text": "Ambos están dentro del hueso", "isCorrect": false, "rationale": "El periostio está fuera."},
+      {"text": "No hay diferencia", "isCorrect": false, "rationale": "Están en ubicaciones opuestas."}
+    ],
+    "hint": "'peri' = alrededor (afuera), 'endo' = dentro..."
+  },
+  {
+    "question": "¿Qué diferencia hay en la vascularización entre periostio y cartílago articular?",
+    "options": [
+      {"text": "El periostio es ricamente vascularizado, el cartílago articular es avascular", "isCorrect": true, "rationale": "El periostio es ricamente vascularizado e inervado. El cartílago articular no tiene vasos sanguíneos y se nutre por imbibición del líquido sinovial."},
+      {"text": "Ambos son avasculares", "isCorrect": false, "rationale": "El periostio tiene muchos vasos."},
+      {"text": "Ambos son muy vascularizados", "isCorrect": false, "rationale": "El cartílago articular es avascular."},
+      {"text": "El cartílago es más vascularizado", "isCorrect": false, "rationale": "El cartílago es avascular."}
+    ],
+    "hint": "Por eso duele cuando se lastima el periostio, y el cartílago se nutre del líquido sinovial..."
+  },
+  {
+    "question": "¿Cuál es la diferencia entre fascia y aponeurosis?",
+    "options": [
+      {"text": "La fascia es una lámina de tejido conectivo que envuelve músculos, la aponeurosis es una lámina tendinosa plana de inserción muscular", "isCorrect": true, "rationale": "La fascia es una lámina de tejido conectivo que envuelve y separa músculos. La aponeurosis es una expansión tendinosa plana que sirve como medio de inserción muscular."},
+      {"text": "Son lo mismo", "isCorrect": false, "rationale": "Tienen funciones diferentes."},
+      {"text": "La aponeurosis envuelve músculos", "isCorrect": false, "rationale": "La aponeurosis es de inserción muscular."},
+      {"text": "La fascia sirve de inserción muscular", "isCorrect": false, "rationale": "La fascia envuelve y separa."}
+    ],
+    "hint": "Una 'envuelve', la otra 'sirve de inserción'..."
+  },
+  {
+    "question": "¿Qué característica distingue a una aponeurosis de un tendón?",
+    "options": [
+      {"text": "La aponeurosis es una lámina plana, el tendón es un cordón cilíndrico o aplanado", "isCorrect": true, "rationale": "La aponeurosis es una lámina tendinosa plana y delgada. El tendón es una estructura más cilíndrica o de cordón."},
+      {"text": "No hay diferencia", "isCorrect": false, "rationale": "La forma es diferente."},
+      {"text": "El tendón es plano", "isCorrect": false, "rationale": "El tendón es más cilíndrico."},
+      {"text": "La aponeurosis es cilíndrica", "isCorrect": false, "rationale": "La aponeurosis es plana."}
+    ],
+    "hint": "Una es una 'lámina', el otro es un 'cordón'..."
+  },
+  {
+    "question": "¿Cuál es la diferencia entre cartílago hialino y fibrocartílago?",
+    "options": [
+      {"text": "El cartílago hialino es liso y transparente, el fibrocartílago tiene fibras de colágeno visibles y es más resistente", "isCorrect": true, "rationale": "El cartílago hialino es liso, translúcido y de aspecto vidrioso. El fibrocartílago contiene haces de fibras de colágeno visibles, es más opaco y resistente a la tensión."},
+      {"text": "Son iguales", "isCorrect": false, "rationale": "Tienen aspecto y propiedades diferentes."},
+      {"text": "El fibrocartílago es más liso", "isCorrect": false, "rationale": "El hialino es más liso."},
+      {"text": "El cartílago hialino es más opaco", "isCorrect": false, "rationale": "El hialino es más translúcido."}
+    ],
+    "hint": "'Hialino' significa 'vidrioso', el fibrocartílago se ve más fibroso..."
+  },
+  {
+    "question": "¿Dónde se encuentra principalmente el cartílago hialino?",
+    "options": [
+      {"text": "Superficies articulares, costillas (cartílago costal), nariz, tráquea y bronquios", "isCorrect": true, "rationale": "El cartílago hialino se encuentra en las superficies articulares, cartílagos costales, nariz, tráquea y bronquios."},
+      {"text": "Solo en los meniscos", "isCorrect": false, "rationale": "Los meniscos son fibrocartílago."},
+      {"text": "Solo en los discos intervertebrales", "isCorrect": false, "rationale": "Los discos son fibrocartílago."},
+      {"text": "Solo en el pabellón auricular", "isCorrect": false, "rationale": "La oreja tiene cartílago elástico."}
+    ],
+    "hint": "Es el tipo más común de cartílago..."
+  },
+  {
+    "question": "¿Dónde se encuentra principalmente el fibrocartílago?",
+    "options": [
+      {"text": "Discos intervertebrales, meniscos, sínfisis pubiana, labrum y disco temporomandibular", "isCorrect": true, "rationale": "El fibrocartílago se encuentra en discos intervertebrales, meniscos de la rodilla, sínfisis pubiana, labrum articular y disco de la ATM."},
+      {"text": "Superficies articulares", "isCorrect": false, "rationale": "Esas tienen cartílago hialino."},
+      {"text": "Tráquea y bronquios", "isCorrect": false, "rationale": "Esos tienen cartílago hialino."},
+      {"text": "Pabellón auricular", "isCorrect": false, "rationale": "Ese tiene cartílago elástico."}
+    ],
+    "hint": "Está donde se necesita resistencia a la tensión y compresión..."
+  },
+  {
+    "question": "¿Qué tipo de cartílago tiene el pabellón auricular (oreja)?",
+    "options": [
+      {"text": "Cartílago elástico, por eso es flexible y vuelve a su forma", "isCorrect": true, "rationale": "El pabellón auricular tiene cartílago elástico, que contiene fibras elásticas que le dan flexibilidad y capacidad de recuperar su forma."},
+      {"text": "Cartílago hialino", "isCorrect": false, "rationale": "Ese es más rígido."},
+      {"text": "Fibrocartílago", "isCorrect": false, "rationale": "Ese es más resistente a tensión."},
+      {"text": "No tiene cartílago", "isCorrect": false, "rationale": "Tiene cartílago elástico."}
+    ],
+    "hint": "Por eso la oreja se puede doblar y vuelve a su forma..."
+  },
+  {
+    "question": "¿Cuál es la diferencia en vascularización entre el pericondrio y el cartílago que envuelve?",
+    "options": [
+      {"text": "El pericondrio es vascularizado, el cartílago es avascular", "isCorrect": true, "rationale": "El pericondrio tiene vasos sanguíneos. El cartílago es avascular y se nutre por difusión desde el pericondrio."},
+      {"text": "Ambos son vascularizados", "isCorrect": false, "rationale": "El cartílago es avascular."},
+      {"text": "Ambos son avasculares", "isCorrect": false, "rationale": "El pericondrio tiene vasos."},
+      {"text": "El cartílago es más vascularizado", "isCorrect": false, "rationale": "El cartílago es avascular."}
+    ],
+    "hint": "El cartílago se nutre por difusión, igual que el cartílago articular..."
+  },
+  {
+    "question": "¿Qué diferencia hay en la nutrición entre tendón y músculo?",
+    "options": [
+      {"text": "El músculo es muy vascularizado, el tendón tiene vascularización pobre", "isCorrect": true, "rationale": "El músculo esquelético es muy vascularizado. El tendón tiene una vascularización relativamente pobre, lo que hace que su cicatrización sea más lenta."},
+      {"text": "Ambos tienen la misma vascularización", "isCorrect": false, "rationale": "El músculo es mucho más vascularizado."},
+      {"text": "El tendón es más vascularizado", "isCorrect": false, "rationale": "El músculo es más vascularizado."},
+      {"text": "El tendón es avascular", "isCorrect": false, "rationale": "Tiene algo de vascularización, pero pobre."}
+    ],
+    "hint": "Por eso las lesiones de tendón tardan más en curar..."
+  },
+  {
+    "question": "¿Qué diferencia hay entre un tendón y una vaina sinovial?",
+    "options": [
+      {"text": "El tendón es tejido conectivo denso que transmite fuerza, la vaina sinovial es una membrana que rodea y lubrica el tendón", "isCorrect": true, "rationale": "El tendón es la estructura de tejido conectivo que transmite la fuerza muscular. La vaina sinovial es una membrana que rodea ciertos tendones y contiene líquido sinovial para reducir la fricción."},
+      {"text": "Son lo mismo", "isCorrect": false, "rationale": "Son estructuras diferentes."},
+      {"text": "La vaina sinovial transmite fuerza", "isCorrect": false, "rationale": "El tendón transmite la fuerza."},
+      {"text": "El tendón lubrica", "isCorrect": false, "rationale": "La vaina sinovial lubrica."}
+    ],
+    "hint": "Una es la 'cuerda', la otra es el 'túnel lubricado' por donde pasa..."
+  },
+  {
+    "question": "¿Qué diferencia hay entre hueso compacto y hueso esponjoso en cuanto a vascularización?",
+    "options": [
+      {"text": "El hueso compacto se nutre por conductos centrales (Havers), el esponjoso por difusión desde la médula", "isCorrect": true, "rationale": "El hueso compacto tiene osteonas con conductos centrales que llevan vasos. El hueso esponjoso no tiene conductos, los osteocitos se nutren por difusión desde la médula ósea de los espacios medulares."},
+      {"text": "Ambos se nutren igual", "isCorrect": false, "rationale": "Tienen mecanismos diferentes."},
+      {"text": "El esponjoso tiene más conductos", "isCorrect": false, "rationale": "El compacto tiene los conductos de Havers."},
+      {"text": "El compacto es avascular", "isCorrect": false, "rationale": "Tiene conductos con vasos."}
+    ],
+    "hint": "El compacto tiene 'túneles' con vasos, el esponjoso no..."
+  },
+  {
+    "question": "¿Cuál es la diferencia funcional entre ligamento fibroso y ligamento elástico?",
+    "options": [
+      {"text": "El fibroso limita el movimiento (inextensible), el elástico permite cierto estiramiento y retorno", "isCorrect": true, "rationale": "Los ligamentos fibrosos son prácticamente inextensibles y limitan el movimiento. Los elásticos pueden estirarse algo y volver a su posición (como los ligamentos amarillos)."},
+      {"text": "No hay diferencia funcional", "isCorrect": false, "rationale": "Tienen comportamiento mecánico diferente."},
+      {"text": "El elástico limita más el movimiento", "isCorrect": false, "rationale": "El fibroso es más rígido."},
+      {"text": "El fibroso se estira más", "isCorrect": false, "rationale": "El fibroso es inextensible."}
+    ],
+    "hint": "Uno es 'rígido', el otro puede 'estirarse' un poco..."
+  },
+  {
+    "question": "¿Qué diferencia hay entre una sincondrosis y una sínfisis?",
+    "options": [
+      {"text": "La sincondrosis tiene cartílago hialino, la sínfisis tiene fibrocartílago", "isCorrect": true, "rationale": "La sincondrosis es una articulación cartilaginosa con cartílago hialino interpuesto. La sínfisis tiene fibrocartílago entre las superficies articulares."},
+      {"text": "Ambas tienen el mismo tipo de cartílago", "isCorrect": false, "rationale": "Tienen diferentes tipos de cartílago."},
+      {"text": "La sínfisis tiene cartílago hialino", "isCorrect": false, "rationale": "Tiene fibrocartílago."},
+      {"text": "La sincondrosis tiene fibrocartílago", "isCorrect": false, "rationale": "Tiene cartílago hialino."}
+    ],
+    "hint": "'Condro' puede referirse a cualquier cartílago, pero sincondrosis = hialino..."
+  },
+  {
+    "question": "¿Qué diferencia hay en la movilidad entre sincondrosis y sínfisis?",
+    "options": [
+      {"text": "La sincondrosis es generalmente menos móvil que la sínfisis (que es anfiartrosis)", "isCorrect": true, "rationale": "La sincondrosis es generalmente inmóvil o con movimiento muy limitado. La sínfisis es una anfiartrosis, con movimientos limitados pero de mayor amplitud que la sincondrosis."},
+      {"text": "Ambas tienen la misma movilidad", "isCorrect": false, "rationale": "La sínfisis es más móvil."},
+      {"text": "La sincondrosis es más móvil", "isCorrect": false, "rationale": "La sínfisis tiene más movimiento."},
+      {"text": "Ninguna tiene movimiento", "isCorrect": false, "rationale": "La sínfisis tiene algo de movimiento."}
+    ],
+    "hint": "La sínfisis (como el disco intervertebral) permite más movimiento..."
+  },
+  {
+    "question": "¿Cuál es la diferencia entre menisco y disco articular?",
+    "options": [
+      {"text": "El menisco tiene forma de medialuna, el disco es completo y divide la articulación en dos cavidades", "isCorrect": true, "rationale": "El menisco tiene forma de medialuna y no divide completamente la articulación. El disco articular es completo y divide la articulación en dos cavidades secundarias separadas."},
+      {"text": "Son lo mismo", "isCorrect": false, "rationale": "Tienen forma diferente."},
+      {"text": "El disco tiene forma de medialuna", "isCorrect": false, "rationale": "El disco es completo."},
+      {"text": "El menisco divide la articulación", "isCorrect": false, "rationale": "El disco divide la articulación."}
+    ],
+    "hint": "Uno es 'media luna', el otro es 'completo'..."
+  }
+]

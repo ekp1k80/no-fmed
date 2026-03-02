@@ -1,0 +1,212 @@
+[
+  {
+    "question": "¿Qué son las palancas en el contexto del aparato locomotor?",
+    "options": [
+      {"text": "Las piezas del esqueleto que poseen un punto de apoyo, una potencia y una resistencia", "isCorrect": true, "rationale": "Las diversas piezas del esqueleto son semejantes a palancas y poseen como ellas un punto de apoyo, una potencia y una resistencia."},
+      {"text": "Solo los músculos", "isCorrect": false, "rationale": "Los huesos funcionan como palancas."},
+      {"text": "Las articulaciones", "isCorrect": false, "rationale": "Los huesos son las palancas."},
+      {"text": "Los tendones", "isCorrect": false, "rationale": "Los huesos funcionan como palancas."}
+    ],
+    "hint": "Los 'huesos' funcionan como barras de palanca..."
+  },
+  {
+    "question": "¿Qué es el punto de apoyo en una palanca del cuerpo?",
+    "options": [
+      {"text": "El punto inmóvil en torno del cual gira la palanca: la articulación", "isCorrect": true, "rationale": "El punto de apoyo es el punto inmóvil en torno del cual gira la palanca. En el hombre lo constituye la articulación."},
+      {"text": "El músculo", "isCorrect": false, "rationale": "El músculo es la potencia."},
+      {"text": "El peso del cuerpo", "isCorrect": false, "rationale": "Eso puede ser la resistencia."},
+      {"text": "El hueso", "isCorrect": false, "rationale": "El hueso es la palanca."}
+    ],
+    "hint": "Es donde la palanca se 'apoya' para girar..."
+  },
+  {
+    "question": "¿Qué es la potencia en una palanca del cuerpo?",
+    "options": [
+      {"text": "La fuerza que impulsa a la palanca a desplazarse: el músculo", "isCorrect": true, "rationale": "La potencia es la fuerza que impulsa a la palanca a desplazarse, está representada por el músculo o los músculos que se insertan en ella."},
+      {"text": "La articulación", "isCorrect": false, "rationale": "Esa es el punto de apoyo."},
+      {"text": "El peso a levantar", "isCorrect": false, "rationale": "Eso es la resistencia."},
+      {"text": "El hueso", "isCorrect": false, "rationale": "El hueso es la palanca."}
+    ],
+    "hint": "Es la 'fuerza' que mueve la palanca..."
+  },
+  {
+    "question": "¿Qué es la resistencia en una palanca del cuerpo?",
+    "options": [
+      {"text": "La fuerza que se debe vencer", "isCorrect": true, "rationale": "La resistencia es la fuerza que se debe vencer."},
+      {"text": "El músculo", "isCorrect": false, "rationale": "Ese es la potencia."},
+      {"text": "La articulación", "isCorrect": false, "rationale": "Ese es el punto de apoyo."},
+      {"text": "El tendón", "isCorrect": false, "rationale": "Es la fuerza a vencer."}
+    ],
+    "hint": "Es lo que hay que 'mover o levantar'..."
+  },
+  {
+    "question": "En la flexión del antebrazo, ¿qué constituye la palanca?",
+    "options": [
+      {"text": "Los dos huesos del antebrazo", "isCorrect": true, "rationale": "En el movimiento de flexión del antebrazo sobre el brazo, la palanca está constituida por los dos huesos del antebrazo."},
+      {"text": "El bíceps", "isCorrect": false, "rationale": "El bíceps es la potencia."},
+      {"text": "El codo", "isCorrect": false, "rationale": "El codo es el punto de apoyo."},
+      {"text": "La mano", "isCorrect": false, "rationale": "La mano es parte de la resistencia."}
+    ],
+    "hint": "Son los huesos que se mueven..."
+  },
+  {
+    "question": "En la flexión del antebrazo, ¿qué es el punto de apoyo?",
+    "options": [
+      {"text": "La articulación del codo", "isCorrect": true, "rationale": "En la flexión del antebrazo, el punto de apoyo es la articulación del codo."},
+      {"text": "El bíceps", "isCorrect": false, "rationale": "Ese es la potencia."},
+      {"text": "El antebrazo", "isCorrect": false, "rationale": "Ese es la palanca."},
+      {"text": "La mano", "isCorrect": false, "rationale": "Esa es parte de la resistencia."}
+    ],
+    "hint": "Es la articulación que no se mueve..."
+  },
+  {
+    "question": "En la flexión del antebrazo, ¿qué representa la potencia?",
+    "options": [
+      {"text": "Los músculos bíceps braquial y braquial", "isCorrect": true, "rationale": "En la flexión del antebrazo, la potencia agrupa los músculos bíceps braquial y braquial."},
+      {"text": "El antebrazo", "isCorrect": false, "rationale": "Ese es la palanca."},
+      {"text": "El codo", "isCorrect": false, "rationale": "Ese es el punto de apoyo."},
+      {"text": "La mano", "isCorrect": false, "rationale": "Esa es parte de la resistencia."}
+    ],
+    "hint": "Son los músculos que 'jalan'..."
+  },
+  {
+    "question": "En la flexión del antebrazo, ¿qué representa la resistencia?",
+    "options": [
+      {"text": "El antebrazo, la mano y lo que ésta debe levantar", "isCorrect": true, "rationale": "En la flexión del antebrazo, la resistencia está representada por el antebrazo, la mano y lo que ésta debe levantar."},
+      {"text": "Solo la mano", "isCorrect": false, "rationale": "Incluye antebrazo y lo que se levanta."},
+      {"text": "El bíceps", "isCorrect": false, "rationale": "Ese es la potencia."},
+      {"text": "El codo", "isCorrect": false, "rationale": "Ese es el punto de apoyo."}
+    ],
+    "hint": "Es todo lo que hay que 'levantar'..."
+  },
+  {
+    "question": "¿Cuántos géneros de palanca se distinguen?",
+    "options": [
+      {"text": "Tres géneros: primer género, segundo género y tercer género", "isCorrect": true, "rationale": "De acuerdo con la ubicación del punto de apoyo y de los puntos de aplicación de la potencia y de la resistencia se distinguen tres géneros de palanca."},
+      {"text": "Dos géneros", "isCorrect": false, "rationale": "Son tres géneros."},
+      {"text": "Cuatro géneros", "isCorrect": false, "rationale": "Son tres géneros."},
+      {"text": "Cinco géneros", "isCorrect": false, "rationale": "Son tres géneros."}
+    ],
+    "hint": "Son tres tipos según la disposición de los elementos..."
+  },
+  {
+    "question": "¿Qué caracteriza a la palanca de primer género?",
+    "options": [
+      {"text": "El punto de apoyo (A) está situado entre la resistencia (R) y la potencia (P)", "isCorrect": true, "rationale": "La palanca de primer género es aquella en la que el punto de apoyo (A) está situado entre el punto de aplicación de la resistencia (R) y el de la potencia (P)."},
+      {"text": "La resistencia está entre el apoyo y la potencia", "isCorrect": false, "rationale": "Esa es de segundo género."},
+      {"text": "La potencia está entre el apoyo y la resistencia", "isCorrect": false, "rationale": "Esa es de tercer género."},
+      {"text": "No hay punto de apoyo", "isCorrect": false, "rationale": "Siempre hay punto de apoyo."}
+    ],
+    "hint": "El apoyo está 'en el medio'..."
+  },
+  {
+    "question": "¿Qué ejemplo de palanca de primer género hay en el cuerpo?",
+    "options": [
+      {"text": "La articulación de la cabeza con la columna vertebral", "isCorrect": true, "rationale": "La articulación de la cabeza con la columna vertebral proporciona un ejemplo de palanca de primer género."},
+      {"text": "Levantarse sobre las puntas de los pies", "isCorrect": false, "rationale": "Eso es de segundo género."},
+      {"text": "La flexión del antebrazo", "isCorrect": false, "rationale": "Eso es de tercer género."},
+      {"text": "La masticación", "isCorrect": false, "rationale": "Eso es de tercer género."}
+    ],
+    "hint": "Está en el cuello, mueve la cabeza..."
+  },
+  {
+    "question": "¿Qué caracteriza a la palanca de segundo género?",
+    "options": [
+      {"text": "La resistencia (R) está situada entre el punto de apoyo (A) y la potencia (P)", "isCorrect": true, "rationale": "La palanca de segundo género es aquella en la que el punto de aplicación de la resistencia (R) está situado entre el punto de apoyo (A) y la aplicación de la potencia (P)."},
+      {"text": "El apoyo está entre la resistencia y la potencia", "isCorrect": false, "rationale": "Esa es de primer género."},
+      {"text": "La potencia está entre el apoyo y la resistencia", "isCorrect": false, "rationale": "Esa es de tercer género."},
+      {"text": "No hay resistencia", "isCorrect": false, "rationale": "Siempre hay resistencia."}
+    ],
+    "hint": "La resistencia está 'en el medio'..."
+  },
+  {
+    "question": "¿Qué ejemplo de palanca de segundo género hay en el cuerpo?",
+    "options": [
+      {"text": "Levantarse sobre las puntas de los pies (elevación del talón)", "isCorrect": true, "rationale": "Es lo que sucede cuando se levanta el talón, elevándose sobre las puntas de los pies."},
+      {"text": "La articulación de la cabeza con la columna", "isCorrect": false, "rationale": "Esa es de primer género."},
+      {"text": "La flexión del antebrazo", "isCorrect": false, "rationale": "Esa es de tercer género."},
+      {"text": "La rotación del cuello", "isCorrect": false, "rationale": "Esa es de primer género."}
+    ],
+    "hint": "Es cuando te ponés en 'puntillas'..."
+  },
+  {
+    "question": "¿Qué caracteriza a la palanca de tercer género?",
+    "options": [
+      {"text": "La potencia (P) está aplicada entre el punto de apoyo (A) y la resistencia (R)", "isCorrect": true, "rationale": "La palanca de tercer género es aquella en la que se encuentra una potencia (P) aplicada entre el punto de apoyo (A) y el punto de aplicación de la resistencia (R)."},
+      {"text": "El apoyo está entre la resistencia y la potencia", "isCorrect": false, "rationale": "Esa es de primer género."},
+      {"text": "La resistencia está entre el apoyo y la potencia", "isCorrect": false, "rationale": "Esa es de segundo género."},
+      {"text": "No hay potencia", "isCorrect": false, "rationale": "Siempre hay potencia."}
+    ],
+    "hint": "La potencia está 'en el medio'..."
+  },
+  {
+    "question": "¿Qué tipo de palanca es el más numeroso en el organismo?",
+    "options": [
+      {"text": "La palanca de tercer género, particularmente en los miembros", "isCorrect": true, "rationale": "La palanca de tercer género es el más numeroso en el organismo, en particular en los miembros."},
+      {"text": "La de primer género", "isCorrect": false, "rationale": "Es la menos común."},
+      {"text": "La de segundo género", "isCorrect": false, "rationale": "Es menos común que la de tercer género."},
+      {"text": "Todas son igual de comunes", "isCorrect": false, "rationale": "La de tercer género es la más común."}
+    ],
+    "hint": "La mayoría de las palancas del cuerpo son de este tipo..."
+  },
+  {
+    "question": "¿Qué ejemplo de palanca de tercer género hay en el cuerpo?",
+    "options": [
+      {"text": "La flexión del antebrazo sobre el brazo", "isCorrect": true, "rationale": "La flexión del antebrazo sobre el brazo es un ejemplo de palanca de tercer género."},
+      {"text": "La articulación de la cabeza con la columna", "isCorrect": false, "rationale": "Esa es de primer género."},
+      {"text": "Levantarse sobre las puntas de los pies", "isCorrect": false, "rationale": "Eso es de segundo género."},
+      {"text": "La extensión de la columna", "isCorrect": false, "rationale": "Esa es de primer género."}
+    ],
+    "hint": "Es el ejemplo clásico del codo..."
+  },
+  {
+    "question": "¿Qué permiten las nociones de mecánica de palancas?",
+    "options": [
+      {"text": "Interpretar la acción de los músculos cuando se conocen sus inserciones y relaciones articulares", "isCorrect": true, "rationale": "Las nociones elementales de mecánica precedentes permiten interpretar la acción de los músculos: cuando se conocen sus inserciones y sus relaciones articulares es fácil prever su acción."},
+      {"text": "Diagnosticar enfermedades", "isCorrect": false, "rationale": "No es su función principal."},
+      {"text": "Medir la fuerza muscular", "isCorrect": false, "rationale": "Permiten entender la acción muscular."},
+      {"text": "Determinar el peso del cuerpo", "isCorrect": false, "rationale": "Permiten entender la mecánica del movimiento."}
+    ],
+    "hint": "Ayudan a 'predecir' qué hace cada músculo..."
+  },
+  {
+    "question": "¿Qué tipos de músculos se pueden identificar según su acción?",
+    "options": [
+      {"text": "Flexores, extensores, rotadores (mediales o laterales), abductores o aductores", "isCorrect": true, "rationale": "Por las nociones de mecánica se habla de músculos flexores, extensores, rotadores (mediales o laterales), abductores o aductores."},
+      {"text": "Solo flexores y extensores", "isCorrect": false, "rationale": "Hay más tipos."},
+      {"text": "Solo abductores y aductores", "isCorrect": false, "rationale": "Hay más tipos."},
+      {"text": "Solo rotadores", "isCorrect": false, "rationale": "Hay más tipos."}
+    ],
+    "hint": "Hay varios tipos según el movimiento que producen..."
+  },
+  {
+    "question": "¿Qué son los 'ligamentos activos'?",
+    "options": [
+      {"text": "Músculos periarticulares que mantienen las superficies articulares en contacto", "isCorrect": true, "rationale": "Algunos músculos periarticulares actúan sobre las superficies articulares manteniéndolas en contacto y reforzando la acción puramente pasiva de los ligamentos fibrosos; ellos se comportan así como verdaderos ligamentos activos."},
+      {"text": "Ligamentos más fuertes", "isCorrect": false, "rationale": "Son músculos que actúan como ligamentos."},
+      {"text": "Ligamentos elásticos", "isCorrect": false, "rationale": "Son músculos."},
+      {"text": "Tendones", "isCorrect": false, "rationale": "Son músculos periarticulares."}
+    ],
+    "hint": "Son músculos que 'estabilizan' la articulación..."
+  },
+  {
+    "question": "¿En qué articulación es notable la acción de los 'ligamentos activos'?",
+    "options": [
+      {"text": "En la articulación escapulohumeral (hombro)", "isCorrect": true, "rationale": "Esto es notable sobre todo en la articulación escapulohumeral."},
+      {"text": "En la cadera", "isCorrect": false, "rationale": "Es más notable en el hombro."},
+      {"text": "En la rodilla", "isCorrect": false, "rationale": "Es más notable en el hombro."},
+      {"text": "En el codo", "isCorrect": false, "rationale": "Es más notable en el hombro."}
+    ],
+    "hint": "En el hombro, donde hay poca estabilidad ósea..."
+  },
+  {
+    "question": "¿Qué propiedad tiene cada músculo considerado de manera aislada?",
+    "options": [
+      {"text": "Posee una acción que le es propia", "isCorrect": true, "rationale": "Cada músculo considerado de manera aislada posee una acción que le es propia."},
+      {"text": "Todos tienen la misma acción", "isCorrect": false, "rationale": "Cada uno tiene su acción propia."},
+      {"text": "No tienen acción propia", "isCorrect": false, "rationale": "Cada uno tiene su acción."},
+      {"text": "Solo actúan en grupo", "isCorrect": false, "rationale": "Tienen acción individual."}
+    ],
+    "hint": "Cada músculo tiene su 'función específica'..."
+  }
+]

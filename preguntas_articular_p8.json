@@ -1,0 +1,232 @@
+[
+  {
+    "question": "¿Qué es la flexión como movimiento articular?",
+    "options": [
+      {"text": "La reducción o disminución del ángulo formado entre huesos o partes del cuerpo", "isCorrect": true, "rationale": "La flexión indica la reducción o disminución del ángulo formado entre huesos o partes del cuerpo."},
+      {"text": "El aumento del ángulo", "isCorrect": false, "rationale": "Eso es la extensión."},
+      {"text": "El alejamiento del plano sagital", "isCorrect": false, "rationale": "Eso es la abducción."},
+      {"text": "La rotación sobre el eje longitudinal", "isCorrect": false, "rationale": "Eso es la rotación."}
+    ],
+    "hint": "Es 'cerrar' el ángulo entre dos segmentos..."
+  },
+  {
+    "question": "¿Qué determina generalmente el movimiento de flexión?",
+    "options": [
+      {"text": "El acortamiento de la distancia entre los extremos alejados de los segmentos articulados", "isCorrect": true, "rationale": "Este movimiento determina, en general, el acortamiento de la distancia entre los extremos alejados de los segmentos articulados."},
+      {"text": "El alargamiento de la distancia", "isCorrect": false, "rationale": "Acorta la distancia."},
+      {"text": "No cambia la distancia", "isCorrect": false, "rationale": "Acorta la distancia."},
+      {"text": "La rotación del segmento", "isCorrect": false, "rationale": "Acorta la distancia."}
+    ],
+    "hint": "Los extremos se 'acercan'..."
+  },
+  {
+    "question": "¿En qué plano se desplaza el segmento flexionado?",
+    "options": [
+      {"text": "En un plano sagital, alrededor de un eje transverso", "isCorrect": true, "rationale": "El segmento flexionado se desplaza en un plano sagital y su extremo articular gira alrededor de un eje transverso."},
+      {"text": "En un plano coronal", "isCorrect": false, "rationale": "Es en plano sagital."},
+      {"text": "En un plano horizontal", "isCorrect": false, "rationale": "Es en plano sagital."},
+      {"text": "En un plano oblicuo", "isCorrect": false, "rationale": "Es en plano sagital."}
+    ],
+    "hint": "Es un movimiento 'adelante-atás' en el plano que divide el cuerpo en derecha e izquierda..."
+  },
+  {
+    "question": "¿Qué excepción hay para el eje de giro en la flexión?",
+    "options": [
+      {"text": "En la flexión del pulgar el eje de giro es oblicuo", "isCorrect": true, "rationale": "El segmento flexionado gira alrededor de un eje transverso, excepto en la flexión del pulgar donde el eje de giro es oblicuo."},
+      {"text": "No hay excepciones", "isCorrect": false, "rationale": "El pulgar es una excepción."},
+      {"text": "En el codo el eje es diferente", "isCorrect": false, "rationale": "En el pulgar."},
+      {"text": "En la rodilla el eje es diferente", "isCorrect": false, "rationale": "En el pulgar."}
+    ],
+    "hint": "Es en el dedo pulgar..."
+  },
+  {
+    "question": "¿Qué es la extensión como movimiento articular?",
+    "options": [
+      {"text": "El enderezamiento o aumento del ángulo formado entre huesos o segmentos del cuerpo", "isCorrect": true, "rationale": "La extensión indica el enderezamiento o el aumento del ángulo formado entre huesos o segmentos del cuerpo."},
+      {"text": "La disminución del ángulo", "isCorrect": false, "rationale": "Eso es la flexión."},
+      {"text": "El alejamiento del plano sagital", "isCorrect": false, "rationale": "Eso es la abducción."},
+      {"text": "La rotación sobre el eje", "isCorrect": false, "rationale": "Eso es la rotación."}
+    ],
+    "hint": "Es 'abrir' el ángulo entre dos segmentos..."
+  },
+  {
+    "question": "¿Qué relación tiene la extensión con la flexión?",
+    "options": [
+      {"text": "Es el movimiento opuesto a la flexión", "isCorrect": true, "rationale": "La extensión es el movimiento opuesto a la flexión."},
+      {"text": "Es el mismo movimiento", "isCorrect": false, "rationale": "Son movimientos opuestos."},
+      {"text": "No tiene relación", "isCorrect": false, "rationale": "Son opuestos."},
+      {"text": "Es un movimiento independiente", "isCorrect": false, "rationale": "Son opuestos."}
+    ],
+    "hint": "Van en 'direcciones contrarias'..."
+  },
+  {
+    "question": "¿Qué puede ocurrir con la distancia entre extremos en la extensión?",
+    "options": [
+      {"text": "Puede haber un alargamiento de la distancia entre los extremos alejados", "isCorrect": true, "rationale": "En la extensión puede haber un alargamiento de la distancia entre los extremos alejados de los segmentos articulados."},
+      {"text": "Siempre se acorta", "isCorrect": false, "rationale": "Puede alargarse."},
+      {"text": "No cambia", "isCorrect": false, "rationale": "Puede alargarse."},
+      {"text": "Depende de la articulación", "isCorrect": false, "rationale": "Generalmente alarga."}
+    ],
+    "hint": "Los extremos se 'alejan'..."
+  },
+  {
+    "question": "¿Qué es la abducción como movimiento articular?",
+    "options": [
+      {"text": "El alejamiento del extremo no articular de un segmento del plano sagital mediano", "isCorrect": true, "rationale": "En el movimiento de abducción, el extremo no articular de un segmento se aleja del plano sagital mediano."},
+      {"text": "El acercamiento al plano sagital", "isCorrect": false, "rationale": "Eso es la aducción."},
+      {"text": "La disminución del ángulo", "isCorrect": false, "rationale": "Eso es la flexión."},
+      {"text": "La rotación sobre el eje", "isCorrect": false, "rationale": "Eso es la rotación."}
+    ],
+    "hint": "Es 'separar' del centro del cuerpo..."
+  },
+  {
+    "question": "¿Qué otro nombre recibe la abducción?",
+    "options": [
+      {"text": "Separación", "isCorrect": true, "rationale": "La abducción también es denominada separación."},
+      {"text": "Aproximación", "isCorrect": false, "rationale": "Eso es la aducción."},
+      {"text": "Flexión lateral", "isCorrect": false, "rationale": "Es otro movimiento."},
+      {"text": "Rotación", "isCorrect": false, "rationale": "Es otro movimiento."}
+    ],
+    "hint": "Sinónimo de 'alejarse'..."
+  },
+  {
+    "question": "¿En qué plano se desplaza el segmento en la abducción?",
+    "options": [
+      {"text": "En un plano coronal, alrededor de un eje sagital", "isCorrect": true, "rationale": "El segmento en movimiento se desplaza en un plano coronal y su extremo articular gira alrededor de un eje sagital."},
+      {"text": "En un plano sagital", "isCorrect": false, "rationale": "Es en plano coronal."},
+      {"text": "En un plano horizontal", "isCorrect": false, "rationale": "Es en plano coronal."},
+      {"text": "En un plano oblicuo", "isCorrect": false, "rationale": "Es en plano coronal."}
+    ],
+    "hint": "Es un movimiento 'lateral' en el plano que divide el cuerpo en adelante y atrás..."
+  },
+  {
+    "question": "¿Qué excepción hay para el eje de la abducción?",
+    "options": [
+      {"text": "En el ojo la abducción se realiza alrededor del eje vertical", "isCorrect": true, "rationale": "En la abducción el segmento gira alrededor de un eje sagital, excepto en el ojo donde se realiza alrededor del eje vertical."},
+      {"text": "No hay excepciones", "isCorrect": false, "rationale": "El ojo es una excepción."},
+      {"text": "En el pulgar", "isCorrect": false, "rationale": "En el ojo."},
+      {"text": "En el hombro", "isCorrect": false, "rationale": "En el ojo."}
+    ],
+    "hint": "Es en el ojo..."
+  },
+  {
+    "question": "¿Qué es la aducción como movimiento articular?",
+    "options": [
+      {"text": "El acercamiento hacia el plano sagital mediano", "isCorrect": true, "rationale": "El movimiento de aducción indica que se acerca hacia el plano sagital mediano."},
+      {"text": "El alejamiento del plano sagital", "isCorrect": false, "rationale": "Eso es la abducción."},
+      {"text": "La disminución del ángulo", "isCorrect": false, "rationale": "Eso es la flexión."},
+      {"text": "El aumento del ángulo", "isCorrect": false, "rationale": "Eso es la extensión."}
+    ],
+    "hint": "Es 'acercarse' al centro del cuerpo..."
+  },
+  {
+    "question": "¿Qué otro nombre recibe la aducción?",
+    "options": [
+      {"text": "Aproximación", "isCorrect": true, "rationale": "La aducción también es denominada aproximación."},
+      {"text": "Separación", "isCorrect": false, "rationale": "Eso es la abducción."},
+      {"text": "Flexión", "isCorrect": false, "rationale": "Es otro movimiento."},
+      {"text": "Rotación", "isCorrect": false, "rationale": "Es otro movimiento."}
+    ],
+    "hint": "Sinónimo de 'acercarse'..."
+  },
+  {
+    "question": "¿Qué relación tiene la aducción con la abducción?",
+    "options": [
+      {"text": "Es el movimiento opuesto a la abducción", "isCorrect": true, "rationale": "La aducción es el movimiento opuesto a la abducción."},
+      {"text": "Es el mismo movimiento", "isCorrect": false, "rationale": "Son opuestos."},
+      {"text": "No tiene relación", "isCorrect": false, "rationale": "Son opuestos."},
+      {"text": "Es un movimiento independiente", "isCorrect": false, "rationale": "Son opuestos."}
+    ],
+    "hint": "Van en 'direcciones contrarias'..."
+  },
+  {
+    "question": "¿Qué es la rotación como movimiento articular?",
+    "options": [
+      {"text": "El movimiento de un segmento alrededor de su eje longitudinal", "isCorrect": true, "rationale": "La rotación es el movimiento de un segmento alrededor de su eje longitudinal."},
+      {"text": "El movimiento de acercamiento al plano sagital", "isCorrect": false, "rationale": "Eso es la aducción."},
+      {"text": "El alejamiento del plano sagital", "isCorrect": false, "rationale": "Eso es la abducción."},
+      {"text": "La disminución del ángulo", "isCorrect": false, "rationale": "Eso es la flexión."}
+    ],
+    "hint": "Es 'girar' sobre su propio eje..."
+  },
+  {
+    "question": "¿Cómo puede ser la rotación?",
+    "options": [
+      {"text": "Medial o lateral, determinada por la dirección de la cara anterior del segmento que rota", "isCorrect": true, "rationale": "La rotación puede ser medial o lateral, determinada por la dirección de la cara anterior del segmento que rota."},
+      {"text": "Solo medial", "isCorrect": false, "rationale": "Puede ser medial o lateral."},
+      {"text": "Solo lateral", "isCorrect": false, "rationale": "Puede ser medial o lateral."},
+      {"text": "Solo anterior", "isCorrect": false, "rationale": "Puede ser medial o lateral."}
+    ],
+    "hint": "Se nombra según hacia dónde 'mira' la parte de adelante..."
+  },
+  {
+    "question": "¿Qué es la flexión dorsal del pie?",
+    "options": [
+      {"text": "El movimiento del tobillo que eleva el extremo anterior del pie", "isCorrect": true, "rationale": "La flexión dorsal del pie se trata del movimiento del tobillo que eleva el extremo anterior del pie, producido por el grupo de músculos extensores."},
+      {"text": "El movimiento que baja la punta del pie", "isCorrect": false, "rationale": "Eso es la flexión plantar."},
+      {"text": "El movimiento de girar el pie", "isCorrect": false, "rationale": "Es la elevación del extremo anterior."},
+      {"text": "El movimiento de separar el pie", "isCorrect": false, "rationale": "Es la elevación del extremo anterior."}
+    ],
+    "hint": "Es 'levantar' la punta del pie hacia arriba..."
+  },
+  {
+    "question": "¿Qué otro nombre recibe la flexión dorsal del pie?",
+    "options": [
+      {"text": "Dorsiflexión", "isCorrect": true, "rationale": "La flexión dorsal del pie también es denominada dorsiflexión."},
+      {"text": "Plantiflexión", "isCorrect": false, "rationale": "Eso es la flexión plantar."},
+      {"text": "Inversión", "isCorrect": false, "rationale": "Es otro movimiento."},
+      {"text": "Eversión", "isCorrect": false, "rationale": "Es otro movimiento."}
+    ],
+    "hint": "Otro nombre para 'flexión dorsal'..."
+  },
+  {
+    "question": "¿Qué músculos producen la flexión dorsal del pie?",
+    "options": [
+      {"text": "El grupo de músculos extensores (compartimento anterior de la pierna)", "isCorrect": true, "rationale": "La flexión dorsal del pie es producida por el grupo de músculos extensores (compartimento anterior de la pierna)."},
+      {"text": "El grupo de músculos flexores", "isCorrect": false, "rationale": "Esos producen la flexión plantar."},
+      {"text": "Los músculos de la pantorrilla", "isCorrect": false, "rationale": "Esos producen la flexión plantar."},
+      {"text": "Los músculos del pie", "isCorrect": false, "rationale": "Son los músculos anteriores de la pierna."}
+    ],
+    "hint": "Están en la parte de 'adelante' de la pierna..."
+  },
+  {
+    "question": "¿Qué es la flexión plantar del pie?",
+    "options": [
+      {"text": "El movimiento del tobillo que desciende el extremo anterior del pie", "isCorrect": true, "rationale": "La flexión plantar del pie es el movimiento del tobillo que desciende el extremo anterior del pie, producido por el grupo de músculos flexores."},
+      {"text": "El movimiento que eleva la punta del pie", "isCorrect": false, "rationale": "Eso es la flexión dorsal."},
+      {"text": "El movimiento de girar el pie", "isCorrect": false, "rationale": "Es el descenso del extremo anterior."},
+      {"text": "El movimiento de separar el pie", "isCorrect": false, "rationale": "Es el descenso del extremo anterior."}
+    ],
+    "hint": "Es 'bajar' la punta del pie, como pararse en puntillas..."
+  },
+  {
+    "question": "¿Qué músculos producen la flexión plantar del pie?",
+    "options": [
+      {"text": "El grupo de músculos flexores (compartimento posterior de la pierna)", "isCorrect": true, "rationale": "La flexión plantar del pie es producida por el grupo de músculos flexores (compartimento posterior de la pierna)."},
+      {"text": "El grupo de músculos extensores", "isCorrect": false, "rationale": "Esos producen la flexión dorsal."},
+      {"text": "Los músculos de la parte anterior", "isCorrect": false, "rationale": "Son los músculos posteriores."},
+      {"text": "Los músculos del pie", "isCorrect": false, "rationale": "Son los músculos posteriores de la pierna."}
+    ],
+    "hint": "Están en la parte de 'atrás' de la pierna (pantorrilla)..."
+  },
+  {
+    "question": "¿Qué es la inclinación lateral?",
+    "options": [
+      {"text": "Un movimiento de flexión o doblez hacia la derecha o hacia la izquierda de la columna vertebral o el cráneo", "isCorrect": true, "rationale": "La inclinación lateral indica un movimiento de flexión o doblez hacia la derecha o hacia la izquierda, de la columna vertebral o el cráneo."},
+      {"text": "La rotación de la columna", "isCorrect": false, "rationale": "Es un doblez lateral."},
+      {"text": "La extensión de la columna", "isCorrect": false, "rationale": "Es un doblez lateral."},
+      {"text": "La flexión hacia adelante", "isCorrect": false, "rationale": "Es un doblez hacia los lados."}
+    ],
+    "hint": "Es 'inclinarse' hacia un lado u otro..."
+  },
+  {
+    "question": "¿Qué es el deslizamiento como movimiento articular?",
+    "options": [
+      {"text": "Un movimiento de traslación con una superficie fija y otra moviéndose sin modificación angular", "isCorrect": true, "rationale": "El deslizamiento es un movimiento de traslación, con una de las superficies articulares fija y la otra moviéndose de adelante hacia atrás o de lado a lado, sin modificación angular."},
+      {"text": "Un movimiento de rotación", "isCorrect": false, "rationale": "Es traslación sin rotación."},
+      {"text": "Un movimiento angular", "isCorrect": false, "rationale": "Es sin modificación angular."},
+      {"text": "Un movimiento de circunducción", "isCorrect": false, "rationale": "Es traslación simple."}
+    ],
+    "hint": "Es 'deslizar' una superficie sobre otra sin cambiar el ángulo..."
+  }
+]

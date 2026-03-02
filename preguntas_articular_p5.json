@@ -1,0 +1,262 @@
+[
+  {
+    "question": "¿Qué es el cartílago articular?",
+    "options": [
+      {"text": "Cartílago hialino que reviste cada superficie articular, adherido íntimamente al hueso", "isCorrect": true, "rationale": "Cada superficie articular está revestida por un cartílago articular hialino, que se adhiere íntimamente al hueso."},
+      {"text": "Cartílago fibroso que une los huesos", "isCorrect": false, "rationale": "Es cartílago hialino que reviste la superficie."},
+      {"text": "El cartílago de crecimiento", "isCorrect": false, "rationale": "Ese es el cartílago epifisario."},
+      {"text": "El menisco articular", "isCorrect": false, "rationale": "El menisco es otra estructura."}
+    ],
+    "hint": "Es la 'cubierta' del hueso en la articulación..."
+  },
+  {
+    "question": "¿Cómo es la superficie libre del cartílago articular?",
+    "options": [
+      {"text": "Pulida y de coloración blanquecina", "isCorrect": true, "rationale": "La superficie libre del cartílago articular es pulida y de coloración blanquecina."},
+      {"text": "Rugosa y oscura", "isCorrect": false, "rationale": "Es pulida y blanquecina."},
+      {"text": "Áspera y amarillenta", "isCorrect": false, "rationale": "Es pulida y blanquecina."},
+      {"text": "Irregular y rojiza", "isCorrect": false, "rationale": "Es pulida y blanquecina."}
+    ],
+    "hint": "Es lisa y clara..."
+  },
+  {
+    "question": "¿Qué propiedades tiene el cartílago articular?",
+    "options": [
+      {"text": "Es maleable, extensible y compresible, se deforma bajo presión y retorna a su forma", "isCorrect": true, "rationale": "El cartílago articular es maleable, extensible y compresible, se deforma bajo la influencia de presiones, para retornar a su espesor original cuando éstas cesan."},
+      {"text": "Es rígido e inmutable", "isCorrect": false, "rationale": "Es maleable y compresible."},
+      {"text": "Es completamente elástico", "isCorrect": false, "rationale": "Es maleable y compresible, no puramente elástico."},
+      {"text": "Es duro y quebradizo", "isCorrect": false, "rationale": "Es maleable y compresible."}
+    ],
+    "hint": "Puede deformarse y volver a su forma original..."
+  },
+  {
+    "question": "¿Cómo se relaciona la extensión del cartílago articular con la movilidad?",
+    "options": [
+      {"text": "La extensión es directamente proporcional a los movimientos de la articulación", "isCorrect": true, "rationale": "La extensión del revestimiento cartilaginoso es directamente proporcional a los movimientos de la articulación; es más extenso en las articulaciones muy móviles."},
+      {"text": "No hay relación", "isCorrect": false, "rationale": "Sí hay relación directa."},
+      {"text": "Es inversamente proporcional", "isCorrect": false, "rationale": "Es directamente proporcional."},
+      {"text": "Solo depende de la edad", "isCorrect": false, "rationale": "Depende de la movilidad."}
+    ],
+    "hint": "Más movimiento = más cartílago..."
+  },
+  {
+    "question": "¿Cuál es el espesor del cartílago articular?",
+    "options": [
+      {"text": "Varía entre 0,2 y 2 mm", "isCorrect": true, "rationale": "El espesor del cartílago articular varía entre 0,2 y 2 mm."},
+      {"text": "Entre 5 y 10 mm", "isCorrect": false, "rationale": "Es mucho más delgado."},
+      {"text": "Siempre de 1 mm exacto", "isCorrect": false, "rationale": "Varía según la ubicación."},
+      {"text": "Entre 3 y 5 mm", "isCorrect": false, "rationale": "Es más delgado."}
+    ],
+    "hint": "Es bastante delgado, menos de 2 mm..."
+  },
+  {
+    "question": "¿Dónde es más espeso el cartílago articular?",
+    "options": [
+      {"text": "En los puntos de presión y de deslizamiento de la articulación", "isCorrect": true, "rationale": "El cartílago articular es más espeso en los puntos de presión y de deslizamiento de la articulación. Es más grueso en el vértice de las cabezas del fémur y del húmero."},
+      {"text": "En los bordes de la articulación", "isCorrect": false, "rationale": "Es más grueso en los puntos de presión."},
+      {"text": "En el centro de la cavidad articular", "isCorrect": false, "rationale": "Es más delgado hacia el fondo de la cavidad."},
+      {"text": "Siempre tiene el mismo espesor", "isCorrect": false, "rationale": "Varía según la zona."}
+    ],
+    "hint": "Donde más 'trabaja' la articulación..."
+  },
+  {
+    "question": "¿Dónde es más delgado el cartílago articular?",
+    "options": [
+      {"text": "Hacia el fondo o centro de la cavidad glenoidea y del acetábulo", "isCorrect": true, "rationale": "El cartílago articular es más delgado hacia el fondo o centro de la cavidad glenoidea y del acetábulo."},
+      {"text": "En el vértice de las cabezas", "isCorrect": false, "rationale": "Ahí es más grueso."},
+      {"text": "En los puntos de presión", "isCorrect": false, "rationale": "Ahí es más grueso."},
+      {"text": "En los bordes articulares", "isCorrect": false, "rationale": "No es la zona más delgada."}
+    ],
+    "hint": "En el 'fondo' de las cavidades..."
+  },
+  {
+    "question": "¿Cómo se comporta el cartílago articular en los miembros inferiores?",
+    "options": [
+      {"text": "Es más o menos elástico a la presión y actúa como elemento de amortiguación", "isCorrect": true, "rationale": "En los miembros inferiores es más o menos elástico a la presión, y se comporta como un elemento de amortiguación frente a los choques."},
+      {"text": "Es completamente rígido", "isCorrect": false, "rationale": "Es elástico y amortigua."},
+      {"text": "No tiene función de amortiguación", "isCorrect": false, "rationale": "Sí amortigua los choques."},
+      {"text": "Es igual que en los miembros superiores", "isCorrect": false, "rationale": "En los inferiores es más elástico por la carga."}
+    ],
+    "hint": "Ayuda a 'absorber impactos' al caminar..."
+  },
+  {
+    "question": "¿Qué ocurre si desaparece el cartílago articular?",
+    "options": [
+      {"text": "Acarrea el desgaste rápido del hueso por presión y frotamiento recíproco", "isCorrect": true, "rationale": "La desaparición del cartílago articular acarrea el desgaste rápido del hueso por presión y frotamiento recíproco."},
+      {"text": "No pasa nada", "isCorrect": false, "rationale": "Causa desgaste óseo."},
+      {"text": "El hueso se regenera", "isCorrect": false, "rationale": "El hueso se desgasta."},
+      {"text": "Se forma nuevo cartílago", "isCorrect": false, "rationale": "No se regenera fácilmente."}
+    ],
+    "hint": "El hueso queda 'desprotegido' y se desgasta..."
+  },
+  {
+    "question": "¿Cómo se nutre el cartílago articular?",
+    "options": [
+      {"text": "Por imbibición a expensas del líquido sinovial, y por vasos del hueso subyacente", "isCorrect": true, "rationale": "El cartílago articular no posee vasos sanguíneos, se nutre por imbibición a expensas del líquido sinovial. La parte basal también se nutre por los vasos ubicados en el hueso sobre el que está fijado."},
+      {"text": "Por arterias propias", "isCorrect": false, "rationale": "No tiene vasos sanguíneos."},
+      {"text": "Por el periostio", "isCorrect": false, "rationale": "No tiene vascularización propia."},
+      {"text": "Por el sistema linfático", "isCorrect": false, "rationale": "Se nutre por imbibición del líquido sinovial."}
+    ],
+    "hint": "No tiene vasos, absorbe el líquido que lo rodea..."
+  },
+  {
+    "question": "¿Qué son el labrum articular, el menisco y el disco?",
+    "options": [
+      {"text": "Formaciones de fibrocartílago que sirven para la adaptación de las superficies articulares", "isCorrect": true, "rationale": "Estas estructuras son formaciones de fibrocartílago que sirven para la adaptación de las superficies articulares."},
+      {"text": "Tipos de cartílago hialino", "isCorrect": false, "rationale": "Son fibrocartílago."},
+      {"text": "Tipos de ligamentos", "isCorrect": false, "rationale": "Son fibrocartílago."},
+      {"text": "Partes del hueso", "isCorrect": false, "rationale": "Son estructuras de fibrocartílago."}
+    ],
+    "hint": "Son estructuras de 'fibrocartílago' que mejoran el encaje..."
+  },
+  {
+    "question": "¿Qué es el labrum articular o rodete articular?",
+    "options": [
+      {"text": "Estructura en forma de anillo alrededor de una fosa articular que aumenta su superficie y concavidad", "isCorrect": true, "rationale": "El labrum articular [rodete articular] se dispone en forma de anillo alrededor de algunas fosas articulares a las que aumenta su superficie articular y concavidad."},
+      {"text": "Un disco dentro de la articulación", "isCorrect": false, "rationale": "Es un anillo periférico."},
+      {"text": "Una estructura esférica", "isCorrect": false, "rationale": "Es un anillo."},
+      {"text": "Un ligamento", "isCorrect": false, "rationale": "Es fibrocartílago."}
+    ],
+    "hint": "Es un 'anillo' que rodea la cavidad articular..."
+  },
+  {
+    "question": "¿Qué forma tiene el labrum articular en corte?",
+    "options": [
+      {"text": "Triangular", "isCorrect": true, "rationale": "El labrum articular visto en un corte es triangular."},
+      {"text": "Circular", "isCorrect": false, "rationale": "En corte es triangular."},
+      {"text": "Rectangular", "isCorrect": false, "rationale": "En corte es triangular."},
+      {"text": "Ovalada", "isCorrect": false, "rationale": "En corte es triangular."}
+    ],
+    "hint": "Tiene tres caras en corte..."
+  },
+  {
+    "question": "¿Dónde se encuentra la base del labrum articular?",
+    "options": [
+      {"text": "Descansa sobre el contorno de la superficie articular", "isCorrect": true, "rationale": "La base del labrum articular descansa sobre el contorno de la superficie articular."},
+      {"text": "En el centro de la cavidad", "isCorrect": false, "rationale": "Está en el contorno periférico."},
+      {"text": "Dentro del hueso", "isCorrect": false, "rationale": "Está en el contorno articular."},
+      {"text": "En la cápsula", "isCorrect": false, "rationale": "Está sobre el contorno articular."}
+    ],
+    "hint": "Está en el 'borde' de la superficie articular..."
+  },
+  {
+    "question": "¿Qué ejemplos caracterizan al labrum articular?",
+    "options": [
+      {"text": "El labrum glenoideo (hombro) y el labrum acetabular (cadera)", "isCorrect": true, "rationale": "Ejemplos de labrum articular son el labrum glenoideo en la articulación del hombro y el labrum acetabular en la articulación de la cadera."},
+      {"text": "El menisco de la rodilla", "isCorrect": false, "rationale": "Ese es un menisco, no un labrum."},
+      {"text": "El disco temporomandibular", "isCorrect": false, "rationale": "Ese es un disco, no un labrum."},
+      {"text": "El cartílago costal", "isCorrect": false, "rationale": "No es un labrum."}
+    ],
+    "hint": "Uno en el hombro y otro en la cadera..."
+  },
+  {
+    "question": "¿Qué puede ocurrir con el labrum en un traumatismo?",
+    "options": [
+      {"text": "La inserción ósea del labrum puede desgarrarse", "isCorrect": true, "rationale": "En un traumatismo la inserción ósea del labrum puede desgarrarse."},
+      {"text": "No se lesiona", "isCorrect": false, "rationale": "Puede desgarrarse."},
+      {"text": "Siempre se recupera solo", "isCorrect": false, "rationale": "Puede lesionarse."},
+      {"text": "Se calcifica", "isCorrect": false, "rationale": "Puede desgarrarse."}
+    ],
+    "hint": "Puede 'romperse' su unión al hueso..."
+  },
+  {
+    "question": "¿Qué es el menisco articular?",
+    "options": [
+      {"text": "Estructura con forma de medialuna interpuesta entre superficies articulares para mejorar su concordancia", "isCorrect": true, "rationale": "El menisco articular tiene forma de medialuna y está interpuesto entre las superficies articulares, mejorando su concordancia."},
+      {"text": "Un anillo que rodea la articulación", "isCorrect": false, "rationale": "Eso es el labrum."},
+      {"text": "Un disco completo", "isCorrect": false, "rationale": "Tiene forma de medialuna, no de disco completo."},
+      {"text": "Un ligamento", "isCorrect": false, "rationale": "Es fibrocartílago."}
+    ],
+    "hint": "Tiene forma de 'media luna'..."
+  },
+  {
+    "question": "¿Cómo se relaciona el menisco articular con la cápsula?",
+    "options": [
+      {"text": "Su base periférica se adhiere a la cápsula articular", "isCorrect": true, "rationale": "En el menisco, dos de sus caras miran hacia las superficies articulares y su base, periférica, se adhiere a la cápsula."},
+      {"text": "No tiene relación con la cápsula", "isCorrect": false, "rationale": "Su base se adhiere a la cápsula."},
+      {"text": "Está dentro del hueso", "isCorrect": false, "rationale": "Está en la articulación."},
+      {"text": "Está fuera de la articulación", "isCorrect": false, "rationale": "Está dentro de la articulación."}
+    ],
+    "hint": "Por el borde se une a la 'pared' de la articulación..."
+  },
+  {
+    "question": "¿Cómo se nutre la parte periférica del menisco?",
+    "options": [
+      {"text": "Recibe vascularización a través de su unión con la cápsula articular", "isCorrect": true, "rationale": "La parte periférica del menisco es más fibrosa y recibe vascularización a través de su unión con la cápsula articular."},
+      {"text": "No tiene vascularización", "isCorrect": false, "rationale": "La parte periférica sí tiene vasos."},
+      {"text": "Por imbibición", "isCorrect": false, "rationale": "La parte central se nutre así."},
+      {"text": "Por arterias propias", "isCorrect": false, "rationale": "Recibe vasos de la cápsula."}
+    ],
+    "hint": "Por donde se une a la cápsula entran los vasos..."
+  },
+  {
+    "question": "¿Cómo se nutre la parte central del menisco?",
+    "options": [
+      {"text": "No tiene vasos y se nutre por imbibición", "isCorrect": true, "rationale": "La parte central del menisco es cartilaginosa, no tiene vasos y se nutre por imbibición."},
+      {"text": "Tiene muchos vasos sanguíneos", "isCorrect": false, "rationale": "No tiene vasos."},
+      {"text": "Por la cápsula articular", "isCorrect": false, "rationale": "Esa es la parte periférica."},
+      {"text": "Por el líquido sinovial únicamente", "isCorrect": false, "rationale": "Se nutre por imbibición."}
+    ],
+    "hint": "La parte interna no tiene vasos, absorbe nutrientes..."
+  },
+  {
+    "question": "¿Qué ejemplo caracteriza al menisco articular?",
+    "options": [
+      {"text": "Los meniscos de la rodilla", "isCorrect": true, "rationale": "Ejemplos de menisco articular son los meniscos de la rodilla, que pueden presentar inserción ósea en sus extremidades."},
+      {"text": "El disco intervertebral", "isCorrect": false, "rationale": "Ese es un fibrocartílago pero es una sínfisis."},
+      {"text": "El labrum glenoideo", "isCorrect": false, "rationale": "Ese es un labrum."},
+      {"text": "El cartílago articular", "isCorrect": false, "rationale": "Ese es cartílago hialino."}
+    ],
+    "hint": "Son los famosos 'meniscos' de la rodilla..."
+  },
+  {
+    "question": "¿Qué es el disco articular?",
+    "options": [
+      {"text": "Estructura interpuesta entre superficies articulares que divide la articulación en dos cavidades secundarias", "isCorrect": true, "rationale": "El disco articular está interpuesto entre las superficies articulares y divide la articulación en dos cavidades secundarias."},
+      {"text": "Un anillo que rodea la articulación", "isCorrect": false, "rationale": "Eso es el labrum."},
+      {"text": "Una medialuna", "isCorrect": false, "rationale": "Eso es el menisco."},
+      {"text": "Un ligamento", "isCorrect": false, "rationale": "Es fibrocartílago."}
+    ],
+    "hint": "Divide la articulación en 'dos partes'..."
+  },
+  {
+    "question": "¿Cómo se relaciona el disco articular con la cápsula?",
+    "options": [
+      {"text": "Su borde periférico se adhiere a la cápsula fibrosa", "isCorrect": true, "rationale": "Las dos caras del disco articular miran hacia las superficies articulares y su borde periférico se adhiere a la cápsula fibrosa."},
+      {"text": "No tiene relación con la cápsula", "isCorrect": false, "rationale": "Su borde se adhiere a la cápsula."},
+      {"text": "Está libre dentro de la articulación", "isCorrect": false, "rationale": "Se adhiere a la cápsula."},
+      {"text": "Está fuera de la articulación", "isCorrect": false, "rationale": "Está dentro."}
+    ],
+    "hint": "Por el borde se une a la pared articular..."
+  },
+  {
+    "question": "¿Puede tener perforación el disco articular?",
+    "options": [
+      {"text": "Sí, puede observarse una perforación en su centro", "isCorrect": true, "rationale": "En el disco articular puede observarse una perforación en su centro."},
+      {"text": "No, nunca tiene perforación", "isCorrect": false, "rationale": "Puede tener perforación central."},
+      {"text": "Solo en patologías", "isCorrect": false, "rationale": "Puede ser normal."},
+      {"text": "Solo en adultos mayores", "isCorrect": false, "rationale": "Puede presentarse normalmente."}
+    ],
+    "hint": "A veces tiene un 'agujero' en el medio..."
+  },
+  {
+    "question": "¿Qué función tienen las caras del disco articular?",
+    "options": [
+      {"text": "Se moldean en relación con las superficies articulares para asegurar su congruencia", "isCorrect": true, "rationale": "Las caras del disco articular se moldean en relación con las superficies articulares para asegurar su congruencia."},
+      {"text": "Son planas siempre", "isCorrect": false, "rationale": "Se adaptan a las superficies."},
+      {"text": "No tienen función específica", "isCorrect": false, "rationale": "Aseguran la congruencia articular."},
+      {"text": "Solo separan las cavidades", "isCorrect": false, "rationale": "También aseguran congruencia."}
+    ],
+    "hint": "Se adaptan para que las superficies 'encajen' mejor..."
+  },
+  {
+    "question": "¿Qué ejemplo caracteriza al disco articular?",
+    "options": [
+      {"text": "El disco de la articulación temporomandibular", "isCorrect": true, "rationale": "Un ejemplo de disco articular es el disco de la articulación temporomandibular."},
+      {"text": "El menisco de la rodilla", "isCorrect": false, "rationale": "Ese es un menisco."},
+      {"text": "El labrum acetabular", "isCorrect": false, "rationale": "Ese es un labrum."},
+      {"text": "El disco intervertebral", "isCorrect": false, "rationale": "Ese es parte de una sínfisis."}
+    ],
+    "hint": "Está en la mandíbula..."
+  }
+]

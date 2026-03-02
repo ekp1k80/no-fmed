@@ -1,0 +1,202 @@
+[
+  {
+    "question": "¿Qué son las articulaciones sinoviales o diartrosis?",
+    "options": [
+      {"text": "Union entre huesos con cavidad interpuesta que contiene líquido sinovial", "isCorrect": true, "rationale": "Las articulaciones sinoviales (diartrosis) son uniones entre los huesos que presentan, entre las superficies articulares, una cavidad interpuesta con líquido sinovial en su interior."},
+      {"text": "Union entre huesos sin cavidad articular", "isCorrect": false, "rationale": "Esas son sinartrosis."},
+      {"text": "Union entre huesos con cartílago", "isCorrect": false, "rationale": "Esas son cartilaginosas."},
+      {"text": "Union entre huesos con tejido fibroso", "isCorrect": false, "rationale": "Esas son fibrosas."}
+    ],
+    "hint": "Tienen 'líquido sinovial' dentro..."
+  },
+  {
+    "question": "¿Qué movilidad tienen generalmente las articulaciones sinoviales?",
+    "options": [
+      {"text": "Son generalmente articulaciones móviles", "isCorrect": true, "rationale": "En general las articulaciones sinoviales son móviles, particularmente interesantes por su complejidad anatómica y diversidad funcional."},
+      {"text": "Son siempre inmóviles", "isCorrect": false, "rationale": "Son móviles."},
+      {"text": "Son siempre semimóviles", "isCorrect": false, "rationale": "Generalmente son móviles."},
+      {"text": "No tienen movimiento", "isCorrect": false, "rationale": "Son las más móviles."}
+    ],
+    "hint": "Son las que más se mueven..."
+  },
+  {
+    "question": "¿De qué depende la movilidad de las articulaciones sinoviales?",
+    "options": [
+      {"text": "De la forma de las superficies articulares y de los ligamentos", "isCorrect": true, "rationale": "Su movilidad depende de la forma de las superficies articulares y de los ligamentos que sostienen entre sí a los huesos articulados."},
+      {"text": "Solo del tamaño del hueso", "isCorrect": false, "rationale": "No depende del tamaño."},
+      {"text": "Solo de los músculos", "isCorrect": false, "rationale": "No es lo principal."},
+      {"text": "De la cantidad de líquido sinovial", "isCorrect": false, "rationale": "No depende de eso."}
+    ],
+    "hint": "La forma de las superficies y lo que las sostiene..."
+  },
+  {
+    "question": "¿Qué estructuras básicas tienen en común las articulaciones sinoviales?",
+    "options": [
+      {"text": "Superficies óseas con cartílago articular, cápsula articular fibrosa, membrana sinovial y líquido sinovial", "isCorrect": true, "rationale": "Las superficies óseas están revestidas de cartílago hialino (cartílago articular). Los huesos están unidos por una cápsula articular fibrosa y por ligamentos. La cápsula presenta un revestimiento de membrana sinovial en su cara interior."},
+      {"text": "Solo cartílago y hueso", "isCorrect": false, "rationale": "Tienen más estructuras."},
+      {"text": "Solo ligamentos", "isCorrect": false, "rationale": "Tienen más estructuras."},
+      {"text": "Solo líquido sinovial", "isCorrect": false, "rationale": "Tienen más estructuras."}
+    ],
+    "hint": "Son 4 estructuras principales..."
+  },
+  {
+    "question": "¿Cómo se clasifican las diartrosis según la forma de sus superficies articulares?",
+    "options": [
+      {"text": "Plana, cilíndrica, trocoide, gínglimo, elipsoidea, bicondílea, selar, esferoidea y cotiloidea", "isCorrect": true, "rationale": "Las diartrosis se clasifican por la forma que presentan sus superficies articulares en: plana, cilíndrica, trocoide, gínglimo, elipsoidea, bicondílea, selar, esferoidea y cotiloidea."},
+      {"text": "Solo en grandes y pequeñas", "isCorrect": false, "rationale": "No es la clasificación correcta."},
+      {"text": "Solo en móviles e inmóviles", "isCorrect": false, "rationale": "Esa es otra clasificación."},
+      {"text": "Solo en simples y compuestas", "isCorrect": false, "rationale": "Esa es por número de huesos."}
+    ],
+    "hint": "Hay varios tipos según la 'geometría' de las superficies..."
+  },
+  {
+    "question": "¿Qué es una articulación plana o artrodia?",
+    "options": [
+      {"text": "Superficies articulares más o menos planas que se deslizan una sobre otra", "isCorrect": true, "rationale": "La articulación plana [artrodia] presenta superficies articulares más o menos planas que se deslizan una sobre la otra."},
+      {"text": "Superficies esféricas", "isCorrect": false, "rationale": "Esa es esferoidea."},
+      {"text": "Superficies cilíndricas", "isCorrect": false, "rationale": "Esa es cilíndrica."},
+      {"text": "Superficies elipsoides", "isCorrect": false, "rationale": "Esa es elipsoidea."}
+    ],
+    "hint": "Son superficies 'planas' que se deslizan..."
+  },
+  {
+    "question": "¿Qué tipo de movimiento tiene la articulación plana?",
+    "options": [
+      {"text": "Movimiento multiaxial de escaso desplazamiento", "isCorrect": true, "rationale": "La articulación plana presenta un movimiento multiaxial de escaso desplazamiento."},
+      {"text": "Movimiento uniaxial amplio", "isCorrect": false, "rationale": "Es multiaxial pero de escaso desplazamiento."},
+      {"text": "Solo rotación", "isCorrect": false, "rationale": "Tiene deslizamiento multiaxial."},
+      {"text": "Sin movimiento", "isCorrect": false, "rationale": "Tiene movimiento, aunque escaso."}
+    ],
+    "hint": "Se puede mover en varias direcciones pero poco..."
+  },
+  {
+    "question": "¿Qué ejemplo caracteriza a una articulación plana?",
+    "options": [
+      {"text": "La articulación cigapofisaria (entre apófisis articulares vertebrales)", "isCorrect": true, "rationale": "Un ejemplo de articulación plana es entre las apófisis articulares vertebrales (articulación cigapofisaria)."},
+      {"text": "La articulación de la cadera", "isCorrect": false, "rationale": "Esa es cotiloidea."},
+      {"text": "La articulación del codo", "isCorrect": false, "rationale": "Esa es gínglimo."},
+      {"text": "La articulación del hombro", "isCorrect": false, "rationale": "Esa es esferoidea."}
+    ],
+    "hint": "Está en las vértebras..."
+  },
+  {
+    "question": "¿Qué es una articulación cilíndrica?",
+    "options": [
+      {"text": "Superficies articulares que son segmentos de cilindros, uno convexo y otro cóncavo", "isCorrect": true, "rationale": "En la articulación cilíndrica las superficies articulares son segmentos de cilindros, uno convexo y el otro cóncavo."},
+      {"text": "Superficies planas", "isCorrect": false, "rationale": "Esa es plana."},
+      {"text": "Superficies esféricas", "isCorrect": false, "rationale": "Esa es esferoidea."},
+      {"text": "Superficies elipsoides", "isCorrect": false, "rationale": "Esa es elipsoidea."}
+    ],
+    "hint": "Tienen forma de 'cilindro'..."
+  },
+  {
+    "question": "¿Qué tipo de movimiento tiene la articulación cilíndrica?",
+    "options": [
+      {"text": "Movimientos de deslizamiento y giro longitudinal", "isCorrect": true, "rationale": "La articulación cilíndrica tiene movimientos de deslizamiento y giro longitudinal."},
+      {"text": "Solo flexo-extensión", "isCorrect": false, "rationale": "Tiene giro longitudinal."},
+      {"text": "Solo rotación", "isCorrect": false, "rationale": "También tiene deslizamiento."},
+      {"text": "Movimiento multiaxial amplio", "isCorrect": false, "rationale": "No es multiaxial amplio."}
+    ],
+    "hint": "Puede deslizarse y girar a lo largo..."
+  },
+  {
+    "question": "¿Qué ejemplo caracteriza a una articulación cilíndrica?",
+    "options": [
+      {"text": "La articulación subtalar", "isCorrect": true, "rationale": "Un ejemplo de articulación cilíndrica es la articulación subtalar."},
+      {"text": "La articulación del codo", "isCorrect": false, "rationale": "Esa es gínglimo."},
+      {"text": "La articulación del hombro", "isCorrect": false, "rationale": "Esa es esferoidea."},
+      {"text": "La articulación de la cadera", "isCorrect": false, "rationale": "Esa es cotiloidea."}
+    ],
+    "hint": "Está en el pie..."
+  },
+  {
+    "question": "¿Qué es una articulación trocoide?",
+    "options": [
+      {"text": "Variedad de articulación cilíndrica donde la superficie convexa forma un pivote", "isCorrect": true, "rationale": "La articulación trocoide es una variedad de las articulaciones cilíndricas, donde la superficie articular convexa forma un pivote alrededor del cual se mueve la superficie cilíndrica cóncava."},
+      {"text": "Una articulación plana", "isCorrect": false, "rationale": "Es una variedad de cilíndrica."},
+      {"text": "Una articulación esferoidea", "isCorrect": false, "rationale": "No es esferoidea."},
+      {"text": "Una articulación elipsoidea", "isCorrect": false, "rationale": "No es elipsoidea."}
+    ],
+    "hint": "Tiene un 'pivote' que gira..."
+  },
+  {
+    "question": "¿Qué tipo de movimiento tiene la articulación trocoide?",
+    "options": [
+      {"text": "Se mueve en un solo eje de disposición longitudinal (uniaxial)", "isCorrect": true, "rationale": "La articulación trocoide se mueve en un solo eje de disposición longitudinal (uniaxial)."},
+      {"text": "Se mueve en dos ejes", "isCorrect": false, "rationale": "Es uniaxial."},
+      {"text": "Se mueve en tres ejes", "isCorrect": false, "rationale": "Es uniaxial."},
+      {"text": "Es multiaxial", "isCorrect": false, "rationale": "Es uniaxial."}
+    ],
+    "hint": "Solo gira alrededor de un eje..."
+  },
+  {
+    "question": "¿Qué ejemplo caracteriza a una articulación trocoide?",
+    "options": [
+      {"text": "La articulación radiocubital proximal", "isCorrect": true, "rationale": "Un ejemplo de articulación trocoide es la articulación radiocubital proximal."},
+      {"text": "La articulación del codo", "isCorrect": false, "rationale": "Esa es gínglimo."},
+      {"text": "La articulación del hombro", "isCorrect": false, "rationale": "Esa es esferoidea."},
+      {"text": "La articulación de la rodilla", "isCorrect": false, "rationale": "Esa es bicondílea."}
+    ],
+    "hint": "Está en el antebrazo, cerca del codo..."
+  },
+  {
+    "question": "¿Qué es un gínglimo o articulación troclear?",
+    "options": [
+      {"text": "Articulación donde una superficie tiene forma de polea y la otra encaja en el surco", "isCorrect": true, "rationale": "En el gínglimo [troclear] una de las superficies articulares tiene forma de polea, en cuyo surco se aloja la saliente de la superficie articular opuesta."},
+      {"text": "Una articulación esférica", "isCorrect": false, "rationale": "No es esférica."},
+      {"text": "Una articulación plana", "isCorrect": false, "rationale": "No es plana."},
+      {"text": "Una articulación cilíndrica", "isCorrect": false, "rationale": "Tiene forma de polea."}
+    ],
+    "hint": "Funciona como una 'bisagra'..."
+  },
+  {
+    "question": "¿Qué tipo de movimiento tiene el gínglimo?",
+    "options": [
+      {"text": "Movimiento uniaxial transversal (como una bisagra)", "isCorrect": true, "rationale": "El gínglimo presenta un movimiento uniaxial transversal. Se la puede describir como la función de una bisagra."},
+      {"text": "Movimiento biaxial", "isCorrect": false, "rationale": "Es uniaxial."},
+      {"text": "Movimiento multiaxial", "isCorrect": false, "rationale": "Es uniaxial."},
+      {"text": "Sin movimiento", "isCorrect": false, "rationale": "Tiene movimiento."}
+    ],
+    "hint": "Como abrir y cerrar una puerta..."
+  },
+  {
+    "question": "¿Qué ejemplo caracteriza a un gínglimo?",
+    "options": [
+      {"text": "La articulación humerocubital (del codo)", "isCorrect": true, "rationale": "Un ejemplo de gínglimo es la articulación humerocubital."},
+      {"text": "La articulación del hombro", "isCorrect": false, "rationale": "Esa es esferoidea."},
+      {"text": "La articulación de la cadera", "isCorrect": false, "rationale": "Esa es cotiloidea."},
+      {"text": "La articulación radiocubital", "isCorrect": false, "rationale": "Esa es trocoide."}
+    ],
+    "hint": "Está en el codo..."
+  },
+  {
+    "question": "¿Qué es una articulación elipsoidea o condílea?",
+    "options": [
+      {"text": "Superficies elipsoidales (ovoideas), una cóncava y otra convexa, enfrentadas", "isCorrect": true, "rationale": "En la articulación elipsoidea [condílea] las superficies articulares están representadas por dos caras articulares elipsoidales (ovoideas), una cóncava y la otra convexa, enfrentadas."},
+      {"text": "Superficies planas", "isCorrect": false, "rationale": "Son elipsoides."},
+      {"text": "Superficies esféricas", "isCorrect": false, "rationale": "Son elipsoides, no esferas."},
+      {"text": "Superficies cilíndricas", "isCorrect": false, "rationale": "Son elipsoides."}
+    ],
+    "hint": "Tienen forma de 'elipse' u 'ovoide'..."
+  },
+  {
+    "question": "¿Qué tipo de movimiento tiene la articulación elipsoidea?",
+    "options": [
+      {"text": "Tiene dos ejes de movimientos (biaxial)", "isCorrect": true, "rationale": "La articulación elipsoidea tiene dos ejes de movimientos (biaxial)."},
+      {"text": "Un solo eje (uniaxial)", "isCorrect": false, "rationale": "Es biaxial."},
+      {"text": "Tres ejes", "isCorrect": false, "rationale": "Es biaxial."},
+      {"text": "Multiaxial", "isCorrect": false, "rationale": "Es biaxial."}
+    ],
+    "hint": "Se puede mover en dos direcciones principales..."
+  },
+  {
+    "question": "¿Qué ejemplo caracteriza a una articulación elipsoidea?",
+    "options": [
+      {"text": "La articulación radiocarpiana (muñeca)", "isCorrect": true, "rationale": "Un ejemplo de articulación elipsoidea es la articulación radiocarpiana: el extremo distal del radio es cóncavo y el cóndilo carpiano es convexo."},
+      {"text": "La articulación del codo", "isCorrect": false, "rationale": "Esa es gínglimo."},
+      {"text": "La articulación del hombro", "isCorrect": false, "rationale": "Esa es esferoidea."},
+      {"text": "La articulación de la cadera", "isCorrect": false, "rationale": "Esa es cotiloidea."}
+    ],
+    "hint": "Está en la muñeca..."
+  }
+]

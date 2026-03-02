@@ -8253,4 +8253,6805 @@ const quizzes = {
     }
   ]
 }
+,
+  "anato-articular": {
+  "titulo": "Sistema Articular",
+  "descripcion": "Articulaciones, sinartrosis, diartrosis, movimientos, lesiones",
+  "totalPreguntas": 237,
+  "partes": [
+    {
+      "id": 1,
+      "nombre": "Generalidades de Articulaciones",
+      "preguntas": 12,
+      "data": [
+        {
+          "question": "¿Qué son las articulaciones?",
+          "options": [
+            {
+              "text": "Conexiones interóseas que vinculan las partes del esqueleto mediante diferentes tejidos",
+              "isCorrect": true,
+              "rationale": "Las articulaciones son las conexiones interóseas, es decir, las distintas partes que constituyen el esqueleto se vinculan entre sí mediante diferentes tejidos y estructuras."
+            },
+            {
+              "text": "Solo uniones entre huesos",
+              "isCorrect": false,
+              "rationale": "No solo son uniones, son conexiones con tejidos y estructuras específicas."
+            },
+            {
+              "text": "Solo las articulaciones móviles",
+              "isCorrect": false,
+              "rationale": "Incluyen también las semimóviles e inmóviles."
+            },
+            {
+              "text": "Los músculos que unen huesos",
+              "isCorrect": false,
+              "rationale": "Los músculos no son articulaciones."
+            }
+          ],
+          "hint": "Son las 'conexiones' del esqueleto..."
+        },
+        {
+          "question": "¿Qué es una articulación simple?",
+          "options": [
+            {
+              "text": "Aquella en la que intervienen solamente dos huesos",
+              "isCorrect": true,
+              "rationale": "Una articulación simple es aquella en la que intervienen solamente dos huesos."
+            },
+            {
+              "text": "Una articulación fácil de mover",
+              "isCorrect": false,
+              "rationale": "Simple refiere al número de huesos, no a la dificultad."
+            },
+            {
+              "text": "Una articulación sin movimiento",
+              "isCorrect": false,
+              "rationale": "No tiene que ver con la movilidad."
+            },
+            {
+              "text": "Una articulación pequeña",
+              "isCorrect": false,
+              "rationale": "El tamaño no define la simplicidad."
+            }
+          ],
+          "hint": "El número de huesos es la clave..."
+        },
+        {
+          "question": "¿Qué es un complejo articular o articulación compuesta?",
+          "options": [
+            {
+              "text": "Una articulación en la que intervienen más de dos huesos",
+              "isCorrect": true,
+              "rationale": "Un complejo articular (articulación compuesta) es una articulación en la que intervienen más de dos huesos."
+            },
+            {
+              "text": "Una articulación difícil de mover",
+              "isCorrect": false,
+              "rationale": "Compuesta refiere al número de huesos, no a la complejidad de movimiento."
+            },
+            {
+              "text": "Una articulación muy móvil",
+              "isCorrect": false,
+              "rationale": "No tiene que ver con la movilidad."
+            },
+            {
+              "text": "Una articulación grande",
+              "isCorrect": false,
+              "rationale": "El tamaño no la define."
+            }
+          ],
+          "hint": "Más de dos huesos participan..."
+        },
+        {
+          "question": "¿Cómo se clasifican las articulaciones según el grado de movilidad?",
+          "options": [
+            {
+              "text": "Móviles, semimóviles (anfiartrosis) e inmóviles",
+              "isCorrect": true,
+              "rationale": "Las articulaciones pueden diferenciarse según el grado de movilidad: móviles, semimóviles (anfiartrosis) e inmóviles."
+            },
+            {
+              "text": "Grandes y pequeñas",
+              "isCorrect": false,
+              "rationale": "No se clasifican por tamaño."
+            },
+            {
+              "text": "Superficiales y profundas",
+              "isCorrect": false,
+              "rationale": "No es una clasificación por movilidad."
+            },
+            {
+              "text": "Superiores e inferiores",
+              "isCorrect": false,
+              "rationale": "No se clasifican por ubicación."
+            }
+          ],
+          "hint": "Hay tres grados según cuánto se mueven..."
+        },
+        {
+          "question": "¿Qué son los grados de libertad de una articulación?",
+          "options": [
+            {
+              "text": "La cantidad de ejes alrededor de los cuales se pueden mover las partes de una articulación",
+              "isCorrect": true,
+              "rationale": "Los grados de libertad son la cantidad de ejes alrededor de los cuales se pueden mover las partes de una articulación."
+            },
+            {
+              "text": "El número de huesos que participan",
+              "isCorrect": false,
+              "rationale": "No es el número de huesos."
+            },
+            {
+              "text": "La amplitud del movimiento",
+              "isCorrect": false,
+              "rationale": "Es la cantidad de ejes, no la amplitud."
+            },
+            {
+              "text": "La fuerza que puede ejercer",
+              "isCorrect": false,
+              "rationale": "No tiene que ver con la fuerza."
+            }
+          ],
+          "hint": "Está relacionado con los ejes de movimiento..."
+        },
+        {
+          "question": "¿Qué caracteriza a una articulación uniaxial?",
+          "options": [
+            {
+              "text": "El movimiento está limitado a rotación sobre un solo eje, posee un grado de libertad",
+              "isCorrect": true,
+              "rationale": "Cuando el movimiento está limitado a la rotación sobre un solo eje, se llama uniaxial y posee sólo un grado de libertad."
+            },
+            {
+              "text": "Se mueve en dos ejes",
+              "isCorrect": false,
+              "rationale": "Eso es biaxial."
+            },
+            {
+              "text": "Se mueve en todos los ejes",
+              "isCorrect": false,
+              "rationale": "Eso es multiaxial."
+            },
+            {
+              "text": "No tiene movimiento",
+              "isCorrect": false,
+              "rationale": "Tiene movimiento, pero en un solo eje."
+            }
+          ],
+          "hint": "Solo puede rotar alrededor de un eje..."
+        },
+        {
+          "question": "¿Qué caracteriza a una articulación biaxial?",
+          "options": [
+            {
+              "text": "Presenta movimientos independientes alrededor de dos ejes, tiene dos grados de libertad",
+              "isCorrect": true,
+              "rationale": "Si presenta movimientos independientes alrededor de dos ejes, la articulación será biaxial y tendrá dos grados de libertad."
+            },
+            {
+              "text": "Se mueve en un solo eje",
+              "isCorrect": false,
+              "rationale": "Eso es uniaxial."
+            },
+            {
+              "text": "Se mueve en tres ejes",
+              "isCorrect": false,
+              "rationale": "Eso sería tres grados de libertad."
+            },
+            {
+              "text": "No tiene movimiento",
+              "isCorrect": false,
+              "rationale": "Tiene movimiento en dos ejes."
+            }
+          ],
+          "hint": "Puede moverse en dos direcciones diferentes..."
+        },
+        {
+          "question": "¿Qué caracteriza a una articulación multiaxial?",
+          "options": [
+            {
+              "text": "Se mueve alrededor de muchos ejes de posición intermedia",
+              "isCorrect": true,
+              "rationale": "Si se mueve alrededor de muchos ejes de posición intermedia, la articulación será multiaxial."
+            },
+            {
+              "text": "Se mueve en un solo eje",
+              "isCorrect": false,
+              "rationale": "Eso es uniaxial."
+            },
+            {
+              "text": "Se mueve solo en dos ejes",
+              "isCorrect": false,
+              "rationale": "Eso es biaxial."
+            },
+            {
+              "text": "Tiene tres grados de libertad exactamente",
+              "isCorrect": false,
+              "rationale": "Multiaxial implica muchos ejes, no solo tres."
+            }
+          ],
+          "hint": "Puede moverse en muchas direcciones..."
+        },
+        {
+          "question": "¿Cómo se clasifican las articulaciones según el tejido interpuesto?",
+          "options": [
+            {
+              "text": "En sinartrosis (tejido continuo) y diartrosis (cavidad con líquido sinovial)",
+              "isCorrect": true,
+              "rationale": "Las articulaciones se clasifican según el tejido interpone: sinartrosis (continuidad de tejido) o diartrosis (discontinuo, con cavidad articular y líquido sinovial)."
+            },
+            {
+              "text": "En grandes y pequeñas",
+              "isCorrect": false,
+              "rationale": "No se clasifican por tamaño."
+            },
+            {
+              "text": "En móviles e inmóviles",
+              "isCorrect": false,
+              "rationale": "Esa es la clasificación por movilidad."
+            },
+            {
+              "text": "En óseas y musculares",
+              "isCorrect": false,
+              "rationale": "No existe esa clasificación."
+            }
+          ],
+          "hint": "Depende de si hay cavidad articular o no..."
+        },
+        {
+          "question": "¿Qué es una sinartrosis?",
+          "options": [
+            {
+              "text": "Unión entre huesos mediante tejido conectivo sólido o semisólido, sin cavidad articular",
+              "isCorrect": true,
+              "rationale": "Las sinartrosis son uniones entre los huesos mediante tejido conectivo sólido o semisólido. Los tejidos interóseos presentan continuidad."
+            },
+            {
+              "text": "Una articulación muy móvil",
+              "isCorrect": false,
+              "rationale": "Las sinartrosis son poco móviles o inmóviles."
+            },
+            {
+              "text": "Una articulación con líquido sinovial",
+              "isCorrect": false,
+              "rationale": "Eso es diartrosis."
+            },
+            {
+              "text": "Una articulación entre tres huesos",
+              "isCorrect": false,
+              "rationale": "No tiene que ver con el número de huesos."
+            }
+          ],
+          "hint": "No hay cavidad articular, el tejido es continuo..."
+        },
+        {
+          "question": "¿Qué es una diartrosis?",
+          "options": [
+            {
+              "text": "Articulación con cavidad interpuesta que contiene líquido sinovial",
+              "isCorrect": true,
+              "rationale": "Las diartrosis son uniones que presentan, entre las superficies articulares, una cavidad interpuesta con líquido sinovial en su interior."
+            },
+            {
+              "text": "Una articulación inmóvil",
+              "isCorrect": false,
+              "rationale": "Las diartrosis son móviles."
+            },
+            {
+              "text": "Una articulación sin cavidad",
+              "isCorrect": false,
+              "rationale": "Tienen cavidad articular."
+            },
+            {
+              "text": "Una articulación entre dos huesos solamente",
+              "isCorrect": false,
+              "rationale": "No tiene que ver con el número de huesos."
+            }
+          ],
+          "hint": "Tienen cavidad con líquido sinovial..."
+        },
+        {
+          "question": "¿Qué tipos de sinartrosis existen según el tejido conectivo principal?",
+          "options": [
+            {
+              "text": "Fibrosas, cartilaginosas y óseas",
+              "isCorrect": true,
+              "rationale": "Las sinartrosis se clasifican en: fibrosas (tejido fibroso), cartilaginosas (cartílago) y óseas (tejido óseo)."
+            },
+            {
+              "text": "Móviles e inmóviles",
+              "isCorrect": false,
+              "rationale": "Esa es otra clasificación."
+            },
+            {
+              "text": "Simples y compuestas",
+              "isCorrect": false,
+              "rationale": "Esa clasificación es por número de huesos."
+            },
+            {
+              "text": "Grandes y pequeñas",
+              "isCorrect": false,
+              "rationale": "No existe esa clasificación."
+            }
+          ],
+          "hint": "Según el tipo de tejido que las forma..."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nombre": "Sinartrrosis",
+      "preguntas": 29,
+      "data": [
+        {
+          "question": "¿Qué son las articulaciones fibrosas o sinfibrosis?",
+          "options": [
+            {
+              "text": "Articulaciones con tejido fibroso interpuesto entre los huesos",
+              "isCorrect": true,
+              "rationale": "Las articulaciones fibrosas [sinfibrosis] tienen tejido fibroso interpuesto entre las superficies articulares."
+            },
+            {
+              "text": "Articulaciones con cartílago interpuesto",
+              "isCorrect": false,
+              "rationale": "Esas son cartilaginosas."
+            },
+            {
+              "text": "Articulaciones con hueso interpuesto",
+              "isCorrect": false,
+              "rationale": "Esas son óseas."
+            },
+            {
+              "text": "Articulaciones con líquido sinovial",
+              "isCorrect": false,
+              "rationale": "Esas son diartrosis."
+            }
+          ],
+          "hint": "El nombre lo dice: fibroso..."
+        },
+        {
+          "question": "¿Qué es una sindesmosis?",
+          "options": [
+            {
+              "text": "Huesos unidos por ligamentos (fibras elásticas o de colágeno en forma de banda o cinta)",
+              "isCorrect": true,
+              "rationale": "En las sindesmosis los huesos se encuentran unidos por estructuras compuestas por fibras elásticas o de colágeno adoptando la forma de ligamento."
+            },
+            {
+              "text": "Huesos unidos por cartílago",
+              "isCorrect": false,
+              "rationale": "Eso es sincondrosis."
+            },
+            {
+              "text": "Huesos unidos por hueso",
+              "isCorrect": false,
+              "rationale": "Eso es sinostosis."
+            },
+            {
+              "text": "Huesos unidos por músculos",
+              "isCorrect": false,
+              "rationale": "No es el tipo de unión correcto."
+            }
+          ],
+          "hint": "Viene de 'desmos' que significa ligamento en griego..."
+        },
+        {
+          "question": "¿Cómo influye la longitud del ligamento en una sindesmosis?",
+          "options": [
+            {
+              "text": "Si es corto el movimiento está muy limitado; si es largo permite mayor movilidad",
+              "isCorrect": true,
+              "rationale": "Si el ligamento es corto, el movimiento se encuentra muy limitado. Si es de mayor longitud, permite una movilidad más amplia."
+            },
+            {
+              "text": "La longitud no afecta el movimiento",
+              "isCorrect": false,
+              "rationale": "Sí afecta la movilidad."
+            },
+            {
+              "text": "Un ligamento largo limita más el movimiento",
+              "isCorrect": false,
+              "rationale": "Es al revés."
+            },
+            {
+              "text": "Solo afecta la resistencia, no el movimiento",
+              "isCorrect": false,
+              "rationale": "Afecta directamente el movimiento."
+            }
+          ],
+          "hint": "Más largo = más movimiento posible..."
+        },
+        {
+          "question": "¿Qué es una membrana interósea?",
+          "options": [
+            {
+              "text": "Lámina de tejido conectivo fibroso con fuertes fibras de colágeno que une huesos",
+              "isCorrect": true,
+              "rationale": "Las membranas interóseas unen los huesos a través de una lámina de tejido conectivo fibroso con fuertes fibras de colágeno."
+            },
+            {
+              "text": "Una membrana dentro del hueso",
+              "isCorrect": false,
+              "rationale": "Une dos huesos entre sí."
+            },
+            {
+              "text": "La médula ósea",
+              "isCorrect": false,
+              "rationale": "No es médula."
+            },
+            {
+              "text": "El periostio interno",
+              "isCorrect": false,
+              "rationale": "No es periostio."
+            }
+          ],
+          "hint": "Es una lámina entre dos huesos..."
+        },
+        {
+          "question": "¿Qué ejemplo caracteriza a una membrana interósea?",
+          "options": [
+            {
+              "text": "La membrana interósea radiocubital",
+              "isCorrect": true,
+              "rationale": "Un ejemplo de membrana interósea es la membrana interósea radiocubital."
+            },
+            {
+              "text": "El ligamento de la cabeza del fémur",
+              "isCorrect": false,
+              "rationale": "Eso es un ligamento redondo."
+            },
+            {
+              "text": "El menisco de la rodilla",
+              "isCorrect": false,
+              "rationale": "Eso es un fibrocartílago intraarticular."
+            },
+            {
+              "text": "El disco intervertebral",
+              "isCorrect": false,
+              "rationale": "Eso es una sínfisis."
+            }
+          ],
+          "hint": "Está en el antebrazo..."
+        },
+        {
+          "question": "¿Qué es una gonfosis?",
+          "options": [
+            {
+              "text": "Prolongación en forma de clavija que se introduce en un alvéolo, mantenida por fibras cortas",
+              "isCorrect": true,
+              "rationale": "Una gonfosis es una prolongación en forma de clavija que se introduce en un hueco o alvéolo y es mantenida por fibras cortas en su posición."
+            },
+            {
+              "text": "Una articulación sinovial",
+              "isCorrect": false,
+              "rationale": "Es una sinartrosis fibrosa."
+            },
+            {
+              "text": "Una articulación cartilaginosa",
+              "isCorrect": false,
+              "rationale": "Es fibrosa, no cartilaginosa."
+            },
+            {
+              "text": "Una articulación móvil",
+              "isCorrect": false,
+              "rationale": "Es inmóvil."
+            }
+          ],
+          "hint": "Piensa en los dientes..."
+        },
+        {
+          "question": "¿Qué ejemplo caracteriza a una gonfosis?",
+          "options": [
+            {
+              "text": "La unión entre la raíz del diente y el alvéolo dentario",
+              "isCorrect": true,
+              "rationale": "Un ejemplo de gonfosis es la unión entre la raíz del diente y el alvéolo."
+            },
+            {
+              "text": "La unión entre vértebras",
+              "isCorrect": false,
+              "rationale": "Esa es una sínfisis."
+            },
+            {
+              "text": "La unión del fémur con la pelvis",
+              "isCorrect": false,
+              "rationale": "Esa es una diartrosis."
+            },
+            {
+              "text": "La unión del radio con el cúbito",
+              "isCorrect": false,
+              "rationale": "Esa es una membrana interósea."
+            }
+          ],
+          "hint": "Está en la boca..."
+        },
+        {
+          "question": "¿Qué son las suturas?",
+          "options": [
+            {
+              "text": "Articulaciones donde los huesos están unidos por tejido fibroso de fibras cortas, quedando inmovilizados",
+              "isCorrect": true,
+              "rationale": "En las suturas los huesos, que están unidos por tejido fibroso de fibras cortas, quedan inmovilizados. Se encuentran entre los huesos del cráneo."
+            },
+            {
+              "text": "Articulaciones móviles del cráneo",
+              "isCorrect": false,
+              "rationale": "Son inmóviles."
+            },
+            {
+              "text": "Articulaciones cartilaginosas",
+              "isCorrect": false,
+              "rationale": "Son fibrosas."
+            },
+            {
+              "text": "Articulaciones sinoviales",
+              "isCorrect": false,
+              "rationale": "No tienen cavidad articular."
+            }
+          ],
+          "hint": "Son las 'costuras' del cráneo..."
+        },
+        {
+          "question": "¿Dónde se encuentran principalmente las suturas?",
+          "options": [
+            {
+              "text": "Entre los huesos del cráneo",
+              "isCorrect": true,
+              "rationale": "Este tipo de articulación se encuentra entre los huesos del cráneo."
+            },
+            {
+              "text": "Entre las vértebras",
+              "isCorrect": false,
+              "rationale": "Esas son sínfisis."
+            },
+            {
+              "text": "En las articulaciones de los miembros",
+              "isCorrect": false,
+              "rationale": "No hay suturas en los miembros."
+            },
+            {
+              "text": "En el tórax",
+              "isCorrect": false,
+              "rationale": "No hay suturas en el tórax."
+            }
+          ],
+          "hint": "En la cabeza..."
+        },
+        {
+          "question": "¿Qué es una sutura plana o armónica?",
+          "options": [
+            {
+              "text": "Sutura donde se ponen en contacto superficies planas y lineales",
+              "isCorrect": true,
+              "rationale": "En la sutura plana [armónica] se ponen en contacto superficies planas y lineales, como entre los huesos nasales."
+            },
+            {
+              "text": "Sutura con dientes que encajan",
+              "isCorrect": false,
+              "rationale": "Esa es la sutura dentada."
+            },
+            {
+              "text": "Sutura tallada en bisel",
+              "isCorrect": false,
+              "rationale": "Esa es la sutura escamosa."
+            },
+            {
+              "text": "Sutura con cresta y ranura",
+              "isCorrect": false,
+              "rationale": "Esa es la esquindilesis."
+            }
+          ],
+          "hint": "Superficies planas que se tocan..."
+        },
+        {
+          "question": "¿Qué ejemplo caracteriza a una sutura plana?",
+          "options": [
+            {
+              "text": "La sutura entre los huesos nasales",
+              "isCorrect": true,
+              "rationale": "Un ejemplo de sutura plana [armónica] es la que se encuentra entre los huesos nasales."
+            },
+            {
+              "text": "La sutura coronal",
+              "isCorrect": false,
+              "rationale": "Esa es dentada."
+            },
+            {
+              "text": "La sutura temporoparietal",
+              "isCorrect": false,
+              "rationale": "Esa es escamosa."
+            },
+            {
+              "text": "La sutura entre vómer y esfenoides",
+              "isCorrect": false,
+              "rationale": "Esa es esquindilesis."
+            }
+          ],
+          "hint": "Está en la nariz..."
+        },
+        {
+          "question": "¿Qué es una sutura escamosa?",
+          "options": [
+            {
+              "text": "Sutura donde las superficies en contacto están talladas en bisel",
+              "isCorrect": true,
+              "rationale": "En la sutura escamosa las superficies en contacto están talladas en bisel, como la sutura temporoparietal."
+            },
+            {
+              "text": "Sutura con superficies planas",
+              "isCorrect": false,
+              "rationale": "Esa es la sutura plana."
+            },
+            {
+              "text": "Sutura con dientes que encajan",
+              "isCorrect": false,
+              "rationale": "Esa es la sutura dentada."
+            },
+            {
+              "text": "Sutura con cresta y ranura",
+              "isCorrect": false,
+              "rationale": "Esa es la esquindilesis."
+            }
+          ],
+          "hint": "Las superficies están en 'bisel' como escamas..."
+        },
+        {
+          "question": "¿Qué ejemplo caracteriza a una sutura escamosa?",
+          "options": [
+            {
+              "text": "La sutura temporoparietal",
+              "isCorrect": true,
+              "rationale": "Un ejemplo de sutura escamosa es la sutura temporoparietal."
+            },
+            {
+              "text": "La sutura entre los huesos nasales",
+              "isCorrect": false,
+              "rationale": "Esa es plana."
+            },
+            {
+              "text": "La sutura coronal",
+              "isCorrect": false,
+              "rationale": "Esa es dentada."
+            },
+            {
+              "text": "La sutura sagital",
+              "isCorrect": false,
+              "rationale": "Esa es aserrada."
+            }
+          ],
+          "hint": "Está entre el temporal y el parietal..."
+        },
+        {
+          "question": "¿Qué es una sutura dentada?",
+          "options": [
+            {
+              "text": "Sutura que presenta engranamientos o dientes que encajan entre sí",
+              "isCorrect": true,
+              "rationale": "La sutura dentada presenta engranamientos o dientes que encajan entre sí, como la sutura coronal."
+            },
+            {
+              "text": "Sutura con superficies planas",
+              "isCorrect": false,
+              "rationale": "Esa es la sutura plana."
+            },
+            {
+              "text": "Sutura tallada en bisel",
+              "isCorrect": false,
+              "rationale": "Esa es la sutura escamosa."
+            },
+            {
+              "text": "Sutura con cresta y ranura",
+              "isCorrect": false,
+              "rationale": "Esa es la esquindilesis."
+            }
+          ],
+          "hint": "Tiene 'dientes' que encajan..."
+        },
+        {
+          "question": "¿Qué ejemplo caracteriza a una sutura dentada?",
+          "options": [
+            {
+              "text": "La sutura coronal (frontoparietal)",
+              "isCorrect": true,
+              "rationale": "Un ejemplo de sutura dentada es la sutura coronal."
+            },
+            {
+              "text": "La sutura temporoparietal",
+              "isCorrect": false,
+              "rationale": "Esa es escamosa."
+            },
+            {
+              "text": "La sutura entre los huesos nasales",
+              "isCorrect": false,
+              "rationale": "Esa es plana."
+            },
+            {
+              "text": "La sutura entre vómer y esfenoides",
+              "isCorrect": false,
+              "rationale": "Esa es esquindilesis."
+            }
+          ],
+          "hint": "Está entre el frontal y los parietales..."
+        },
+        {
+          "question": "¿Qué es una sutura aserrada?",
+          "options": [
+            {
+              "text": "Sutura con bordes irregulares como sierra, similar a la dentada pero más fina",
+              "isCorrect": true,
+              "rationale": "La sutura aserrada presenta bordes irregulares como sierra, como la sutura sagital."
+            },
+            {
+              "text": "Sutura con superficies planas",
+              "isCorrect": false,
+              "rationale": "Esa es la sutura plana."
+            },
+            {
+              "text": "Sutura tallada en bisel",
+              "isCorrect": false,
+              "rationale": "Esa es la sutura escamosa."
+            },
+            {
+              "text": "Sutura con cresta y ranura",
+              "isCorrect": false,
+              "rationale": "Esa es la esquindilesis."
+            }
+          ],
+          "hint": "Como los dientes de una sierra..."
+        },
+        {
+          "question": "¿Qué ejemplo caracteriza a una sutura aserrada?",
+          "options": [
+            {
+              "text": "La sutura sagital (interparietal)",
+              "isCorrect": true,
+              "rationale": "Un ejemplo de sutura aserrada es la sutura sagital."
+            },
+            {
+              "text": "La sutura coronal",
+              "isCorrect": false,
+              "rationale": "Esa es dentada."
+            },
+            {
+              "text": "La sutura temporoparietal",
+              "isCorrect": false,
+              "rationale": "Esa es escamosa."
+            },
+            {
+              "text": "La sutura entre los huesos nasales",
+              "isCorrect": false,
+              "rationale": "Esa es plana."
+            }
+          ],
+          "hint": "Está entre los dos parietales..."
+        },
+        {
+          "question": "¿Qué es una esquindilesis?",
+          "options": [
+            {
+              "text": "Sutura donde una superficie en forma de cresta se articula con una ranura",
+              "isCorrect": true,
+              "rationale": "En la esquindilesis una superficie en forma de cresta se articula con una ranura, como entre el vómer y el esfenoides."
+            },
+            {
+              "text": "Sutura con dientes que encajan",
+              "isCorrect": false,
+              "rationale": "Esa es la sutura dentada."
+            },
+            {
+              "text": "Sutura tallada en bisel",
+              "isCorrect": false,
+              "rationale": "Esa es la sutura escamosa."
+            },
+            {
+              "text": "Sutura con superficies planas",
+              "isCorrect": false,
+              "rationale": "Esa es la sutura plana."
+            }
+          ],
+          "hint": "Una cresta que entra en una ranura..."
+        },
+        {
+          "question": "¿Qué ejemplo caracteriza a una esquindilesis?",
+          "options": [
+            {
+              "text": "La articulación entre el vómer y el esfenoides",
+              "isCorrect": true,
+              "rationale": "Un ejemplo de esquindilesis es la articulación entre el vómer y el esfenoides."
+            },
+            {
+              "text": "La sutura coronal",
+              "isCorrect": false,
+              "rationale": "Esa es dentada."
+            },
+            {
+              "text": "La sutura temporoparietal",
+              "isCorrect": false,
+              "rationale": "Esa es escamosa."
+            },
+            {
+              "text": "La sutura entre los huesos nasales",
+              "isCorrect": false,
+              "rationale": "Esa es plana."
+            }
+          ],
+          "hint": "Está en la base del cráneo..."
+        },
+        {
+          "question": "¿Qué son las articulaciones cartilaginosas?",
+          "options": [
+            {
+              "text": "Articulaciones con cartílago hialino o fibrocartílago interpuesto, sin cavidad sinovial",
+              "isCorrect": true,
+              "rationale": "Las articulaciones cartilaginosas poseen formaciones de cartílago hialino o fibrocartílago interpuesto, carecen de cavidad sinovial."
+            },
+            {
+              "text": "Articulaciones con tejido fibroso",
+              "isCorrect": false,
+              "rationale": "Esas son fibrosas."
+            },
+            {
+              "text": "Articulaciones con líquido sinovial",
+              "isCorrect": false,
+              "rationale": "Esas son diartrosis."
+            },
+            {
+              "text": "Articulaciones con hueso interpuesto",
+              "isCorrect": false,
+              "rationale": "Esas son óseas."
+            }
+          ],
+          "hint": "El cartílago está entre los huesos..."
+        },
+        {
+          "question": "¿Qué es una sincondrosis?",
+          "options": [
+            {
+              "text": "Articulación con cartílago hialino que une los huesos",
+              "isCorrect": true,
+              "rationale": "En las sincondrosis, entre las superficies articulares se encuentra cartílago hialino que une los huesos."
+            },
+            {
+              "text": "Articulación con fibrocartílago",
+              "isCorrect": false,
+              "rationale": "Esa es una sínfisis."
+            },
+            {
+              "text": "Articulación con tejido fibroso",
+              "isCorrect": false,
+              "rationale": "Esa es fibrosa."
+            },
+            {
+              "text": "Articulación con hueso",
+              "isCorrect": false,
+              "rationale": "Esa es sinostosis."
+            }
+          ],
+          "hint": "'Condro' significa cartílago..."
+        },
+        {
+          "question": "¿Qué ejemplo caracteriza a una sincondrosis?",
+          "options": [
+            {
+              "text": "Las articulaciones condrocostales (costillas con esternón)",
+              "isCorrect": true,
+              "rationale": "Un ejemplo de sincondrosis son las articulaciones condrocostales."
+            },
+            {
+              "text": "La sínfisis pubiana",
+              "isCorrect": false,
+              "rationale": "Esa es una sínfisis."
+            },
+            {
+              "text": "El disco intervertebral",
+              "isCorrect": false,
+              "rationale": "Esa es una sínfisis."
+            },
+            {
+              "text": "Las suturas craneales",
+              "isCorrect": false,
+              "rationale": "Esas son fibrosas."
+            }
+          ],
+          "hint": "Están entre las costillas y el esternón..."
+        },
+        {
+          "question": "¿Qué es una sínfisis?",
+          "options": [
+            {
+              "text": "Articulación con fibrocartílago interpuesto entre las superficies articulares",
+              "isCorrect": true,
+              "rationale": "Las sínfisis presentan un fibrocartílago interpuesto entre las superficies articulares."
+            },
+            {
+              "text": "Articulación con cartílago hialino",
+              "isCorrect": false,
+              "rationale": "Esa es una sincondrosis."
+            },
+            {
+              "text": "Articulación con tejido fibroso",
+              "isCorrect": false,
+              "rationale": "Esa es fibrosa."
+            },
+            {
+              "text": "Articulación con hueso",
+              "isCorrect": false,
+              "rationale": "Esa es sinostosis."
+            }
+          ],
+          "hint": "Tiene fibrocartílago, no cartílago hialino..."
+        },
+        {
+          "question": "¿Qué tipo de movimiento tienen las sínfisis?",
+          "options": [
+            {
+              "text": "Movimientos limitados y de poca amplitud individual, son anfiartrosis",
+              "isCorrect": true,
+              "rationale": "En las sínfisis los movimientos son limitados y de poca amplitud individual, son anfiartrosis."
+            },
+            {
+              "text": "Son completamente inmóviles",
+              "isCorrect": false,
+              "rationale": "Tienen algo de movimiento."
+            },
+            {
+              "text": "Son muy móviles",
+              "isCorrect": false,
+              "rationale": "Son poco móviles."
+            },
+            {
+              "text": "No tienen movimiento",
+              "isCorrect": false,
+              "rationale": "Tienen movimiento limitado."
+            }
+          ],
+          "hint": "Son 'semimóviles'..."
+        },
+        {
+          "question": "¿Qué función cumplen los discos fibrocartilaginosos en las sínfisis?",
+          "options": [
+            {
+              "text": "Proveen absorción de fuerzas de choque y flexibilidad",
+              "isCorrect": true,
+              "rationale": "Los discos fibrocartilaginosos proveen absorción de fuerzas de choque y flexibilidad."
+            },
+            {
+              "text": "Permiten gran movilidad",
+              "isCorrect": false,
+              "rationale": "No, limitan la movilidad."
+            },
+            {
+              "text": "Producen líquido sinovial",
+              "isCorrect": false,
+              "rationale": "No tienen líquido sinovial."
+            },
+            {
+              "text": "No tienen función específica",
+              "isCorrect": false,
+              "rationale": "Tienen función de amortiguación."
+            }
+          ],
+          "hint": "Actúan como 'amortiguadores'..."
+        },
+        {
+          "question": "¿Qué ejemplos caracterizan a una sínfisis?",
+          "options": [
+            {
+              "text": "El disco intervertebral y la sínfisis pubiana",
+              "isCorrect": true,
+              "rationale": "Ejemplos de sínfisis son el disco intervertebral y la sínfisis pubiana."
+            },
+            {
+              "text": "Las suturas craneales",
+              "isCorrect": false,
+              "rationale": "Esas son fibrosas."
+            },
+            {
+              "text": "Las articulaciones condrocostales",
+              "isCorrect": false,
+              "rationale": "Esas son sincondrosis."
+            },
+            {
+              "text": "La unión diente-alvéolo",
+              "isCorrect": false,
+              "rationale": "Esa es gonfosis."
+            }
+          ],
+          "hint": "Una está en la columna y otra en la pelvis..."
+        },
+        {
+          "question": "¿Qué es el cartílago epifisario como articulación?",
+          "options": [
+            {
+              "text": "Una articulación transitoria entre la epífisis y la diáfisis mediante cartílago hialino",
+              "isCorrect": true,
+              "rationale": "El cartílago epifisario [cartílago de crecimiento] es una articulación transitoria. Es la unión entre la epífisis y la diáfisis mediante una lámina de cartílago hialino."
+            },
+            {
+              "text": "Una articulación permanente",
+              "isCorrect": false,
+              "rationale": "Es transitoria, desaparece al crecer."
+            },
+            {
+              "text": "Una articulación sinovial",
+              "isCorrect": false,
+              "rationale": "No tiene cavidad sinovial."
+            },
+            {
+              "text": "Una articulación fibrosa",
+              "isCorrect": false,
+              "rationale": "Es cartilaginosa."
+            }
+          ],
+          "hint": "Es el 'cartílago de crecimiento' que desaparece..."
+        },
+        {
+          "question": "¿Qué son las sinostosis?",
+          "options": [
+            {
+              "text": "Soldaduras óseas entre huesos, articulaciones completamente inmóviles",
+              "isCorrect": true,
+              "rationale": "Las soldaduras óseas entre huesos se denominan sinostosis. Estas articulaciones óseas son completamente inmóviles."
+            },
+            {
+              "text": "Articulaciones cartilaginosas",
+              "isCorrect": false,
+              "rationale": "Son óseas, no cartilaginosas."
+            },
+            {
+              "text": "Articulaciones móviles",
+              "isCorrect": false,
+              "rationale": "Son completamente inmóviles."
+            },
+            {
+              "text": "Articulaciones con cartílago",
+              "isCorrect": false,
+              "rationale": "No tienen cartílago, tienen hueso."
+            }
+          ],
+          "hint": "Hueso con hueso directamente..."
+        },
+        {
+          "question": "¿Qué ejemplos caracterizan a las sinostosis?",
+          "options": [
+            {
+              "text": "Entre el esfenoides y el occipital, y entre los cuerpos vertebrales del sacro",
+              "isCorrect": true,
+              "rationale": "Ejemplos de sinostosis son entre el esfenoides y el occipital y entre los cuerpos vertebrales del sacro."
+            },
+            {
+              "text": "Las suturas craneales",
+              "isCorrect": false,
+              "rationale": "Esas son fibrosas."
+            },
+            {
+              "text": "Los discos intervertebrales",
+              "isCorrect": false,
+              "rationale": "Esas son sínfisis."
+            },
+            {
+              "text": "La sínfisis pubiana",
+              "isCorrect": false,
+              "rationale": "Esa es cartilaginosa."
+            }
+          ],
+          "hint": "Una está en el cráneo y otra en la pelvis..."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "nombre": "Diartrosis - Superficies Articulares I",
+      "preguntas": 20,
+      "data": [
+        {
+          "question": "¿Qué son las articulaciones sinoviales o diartrosis?",
+          "options": [
+            {
+              "text": "Union entre huesos con cavidad interpuesta que contiene líquido sinovial",
+              "isCorrect": true,
+              "rationale": "Las articulaciones sinoviales (diartrosis) son uniones entre los huesos que presentan, entre las superficies articulares, una cavidad interpuesta con líquido sinovial en su interior."
+            },
+            {
+              "text": "Union entre huesos sin cavidad articular",
+              "isCorrect": false,
+              "rationale": "Esas son sinartrosis."
+            },
+            {
+              "text": "Union entre huesos con cartílago",
+              "isCorrect": false,
+              "rationale": "Esas son cartilaginosas."
+            },
+            {
+              "text": "Union entre huesos con tejido fibroso",
+              "isCorrect": false,
+              "rationale": "Esas son fibrosas."
+            }
+          ],
+          "hint": "Tienen 'líquido sinovial' dentro..."
+        },
+        {
+          "question": "¿Qué movilidad tienen generalmente las articulaciones sinoviales?",
+          "options": [
+            {
+              "text": "Son generalmente articulaciones móviles",
+              "isCorrect": true,
+              "rationale": "En general las articulaciones sinoviales son móviles, particularmente interesantes por su complejidad anatómica y diversidad funcional."
+            },
+            {
+              "text": "Son siempre inmóviles",
+              "isCorrect": false,
+              "rationale": "Son móviles."
+            },
+            {
+              "text": "Son siempre semimóviles",
+              "isCorrect": false,
+              "rationale": "Generalmente son móviles."
+            },
+            {
+              "text": "No tienen movimiento",
+              "isCorrect": false,
+              "rationale": "Son las más móviles."
+            }
+          ],
+          "hint": "Son las que más se mueven..."
+        },
+        {
+          "question": "¿De qué depende la movilidad de las articulaciones sinoviales?",
+          "options": [
+            {
+              "text": "De la forma de las superficies articulares y de los ligamentos",
+              "isCorrect": true,
+              "rationale": "Su movilidad depende de la forma de las superficies articulares y de los ligamentos que sostienen entre sí a los huesos articulados."
+            },
+            {
+              "text": "Solo del tamaño del hueso",
+              "isCorrect": false,
+              "rationale": "No depende del tamaño."
+            },
+            {
+              "text": "Solo de los músculos",
+              "isCorrect": false,
+              "rationale": "No es lo principal."
+            },
+            {
+              "text": "De la cantidad de líquido sinovial",
+              "isCorrect": false,
+              "rationale": "No depende de eso."
+            }
+          ],
+          "hint": "La forma de las superficies y lo que las sostiene..."
+        },
+        {
+          "question": "¿Qué estructuras básicas tienen en común las articulaciones sinoviales?",
+          "options": [
+            {
+              "text": "Superficies óseas con cartílago articular, cápsula articular fibrosa, membrana sinovial y líquido sinovial",
+              "isCorrect": true,
+              "rationale": "Las superficies óseas están revestidas de cartílago hialino (cartílago articular). Los huesos están unidos por una cápsula articular fibrosa y por ligamentos. La cápsula presenta un revestimiento de membrana sinovial en su cara interior."
+            },
+            {
+              "text": "Solo cartílago y hueso",
+              "isCorrect": false,
+              "rationale": "Tienen más estructuras."
+            },
+            {
+              "text": "Solo ligamentos",
+              "isCorrect": false,
+              "rationale": "Tienen más estructuras."
+            },
+            {
+              "text": "Solo líquido sinovial",
+              "isCorrect": false,
+              "rationale": "Tienen más estructuras."
+            }
+          ],
+          "hint": "Son 4 estructuras principales..."
+        },
+        {
+          "question": "¿Cómo se clasifican las diartrosis según la forma de sus superficies articulares?",
+          "options": [
+            {
+              "text": "Plana, cilíndrica, trocoide, gínglimo, elipsoidea, bicondílea, selar, esferoidea y cotiloidea",
+              "isCorrect": true,
+              "rationale": "Las diartrosis se clasifican por la forma que presentan sus superficies articulares en: plana, cilíndrica, trocoide, gínglimo, elipsoidea, bicondílea, selar, esferoidea y cotiloidea."
+            },
+            {
+              "text": "Solo en grandes y pequeñas",
+              "isCorrect": false,
+              "rationale": "No es la clasificación correcta."
+            },
+            {
+              "text": "Solo en móviles e inmóviles",
+              "isCorrect": false,
+              "rationale": "Esa es otra clasificación."
+            },
+            {
+              "text": "Solo en simples y compuestas",
+              "isCorrect": false,
+              "rationale": "Esa es por número de huesos."
+            }
+          ],
+          "hint": "Hay varios tipos según la 'geometría' de las superficies..."
+        },
+        {
+          "question": "¿Qué es una articulación plana o artrodia?",
+          "options": [
+            {
+              "text": "Superficies articulares más o menos planas que se deslizan una sobre otra",
+              "isCorrect": true,
+              "rationale": "La articulación plana [artrodia] presenta superficies articulares más o menos planas que se deslizan una sobre la otra."
+            },
+            {
+              "text": "Superficies esféricas",
+              "isCorrect": false,
+              "rationale": "Esa es esferoidea."
+            },
+            {
+              "text": "Superficies cilíndricas",
+              "isCorrect": false,
+              "rationale": "Esa es cilíndrica."
+            },
+            {
+              "text": "Superficies elipsoides",
+              "isCorrect": false,
+              "rationale": "Esa es elipsoidea."
+            }
+          ],
+          "hint": "Son superficies 'planas' que se deslizan..."
+        },
+        {
+          "question": "¿Qué tipo de movimiento tiene la articulación plana?",
+          "options": [
+            {
+              "text": "Movimiento multiaxial de escaso desplazamiento",
+              "isCorrect": true,
+              "rationale": "La articulación plana presenta un movimiento multiaxial de escaso desplazamiento."
+            },
+            {
+              "text": "Movimiento uniaxial amplio",
+              "isCorrect": false,
+              "rationale": "Es multiaxial pero de escaso desplazamiento."
+            },
+            {
+              "text": "Solo rotación",
+              "isCorrect": false,
+              "rationale": "Tiene deslizamiento multiaxial."
+            },
+            {
+              "text": "Sin movimiento",
+              "isCorrect": false,
+              "rationale": "Tiene movimiento, aunque escaso."
+            }
+          ],
+          "hint": "Se puede mover en varias direcciones pero poco..."
+        },
+        {
+          "question": "¿Qué ejemplo caracteriza a una articulación plana?",
+          "options": [
+            {
+              "text": "La articulación cigapofisaria (entre apófisis articulares vertebrales)",
+              "isCorrect": true,
+              "rationale": "Un ejemplo de articulación plana es entre las apófisis articulares vertebrales (articulación cigapofisaria)."
+            },
+            {
+              "text": "La articulación de la cadera",
+              "isCorrect": false,
+              "rationale": "Esa es cotiloidea."
+            },
+            {
+              "text": "La articulación del codo",
+              "isCorrect": false,
+              "rationale": "Esa es gínglimo."
+            },
+            {
+              "text": "La articulación del hombro",
+              "isCorrect": false,
+              "rationale": "Esa es esferoidea."
+            }
+          ],
+          "hint": "Está en las vértebras..."
+        },
+        {
+          "question": "¿Qué es una articulación cilíndrica?",
+          "options": [
+            {
+              "text": "Superficies articulares que son segmentos de cilindros, uno convexo y otro cóncavo",
+              "isCorrect": true,
+              "rationale": "En la articulación cilíndrica las superficies articulares son segmentos de cilindros, uno convexo y el otro cóncavo."
+            },
+            {
+              "text": "Superficies planas",
+              "isCorrect": false,
+              "rationale": "Esa es plana."
+            },
+            {
+              "text": "Superficies esféricas",
+              "isCorrect": false,
+              "rationale": "Esa es esferoidea."
+            },
+            {
+              "text": "Superficies elipsoides",
+              "isCorrect": false,
+              "rationale": "Esa es elipsoidea."
+            }
+          ],
+          "hint": "Tienen forma de 'cilindro'..."
+        },
+        {
+          "question": "¿Qué tipo de movimiento tiene la articulación cilíndrica?",
+          "options": [
+            {
+              "text": "Movimientos de deslizamiento y giro longitudinal",
+              "isCorrect": true,
+              "rationale": "La articulación cilíndrica tiene movimientos de deslizamiento y giro longitudinal."
+            },
+            {
+              "text": "Solo flexo-extensión",
+              "isCorrect": false,
+              "rationale": "Tiene giro longitudinal."
+            },
+            {
+              "text": "Solo rotación",
+              "isCorrect": false,
+              "rationale": "También tiene deslizamiento."
+            },
+            {
+              "text": "Movimiento multiaxial amplio",
+              "isCorrect": false,
+              "rationale": "No es multiaxial amplio."
+            }
+          ],
+          "hint": "Puede deslizarse y girar a lo largo..."
+        },
+        {
+          "question": "¿Qué ejemplo caracteriza a una articulación cilíndrica?",
+          "options": [
+            {
+              "text": "La articulación subtalar",
+              "isCorrect": true,
+              "rationale": "Un ejemplo de articulación cilíndrica es la articulación subtalar."
+            },
+            {
+              "text": "La articulación del codo",
+              "isCorrect": false,
+              "rationale": "Esa es gínglimo."
+            },
+            {
+              "text": "La articulación del hombro",
+              "isCorrect": false,
+              "rationale": "Esa es esferoidea."
+            },
+            {
+              "text": "La articulación de la cadera",
+              "isCorrect": false,
+              "rationale": "Esa es cotiloidea."
+            }
+          ],
+          "hint": "Está en el pie..."
+        },
+        {
+          "question": "¿Qué es una articulación trocoide?",
+          "options": [
+            {
+              "text": "Variedad de articulación cilíndrica donde la superficie convexa forma un pivote",
+              "isCorrect": true,
+              "rationale": "La articulación trocoide es una variedad de las articulaciones cilíndricas, donde la superficie articular convexa forma un pivote alrededor del cual se mueve la superficie cilíndrica cóncava."
+            },
+            {
+              "text": "Una articulación plana",
+              "isCorrect": false,
+              "rationale": "Es una variedad de cilíndrica."
+            },
+            {
+              "text": "Una articulación esferoidea",
+              "isCorrect": false,
+              "rationale": "No es esferoidea."
+            },
+            {
+              "text": "Una articulación elipsoidea",
+              "isCorrect": false,
+              "rationale": "No es elipsoidea."
+            }
+          ],
+          "hint": "Tiene un 'pivote' que gira..."
+        },
+        {
+          "question": "¿Qué tipo de movimiento tiene la articulación trocoide?",
+          "options": [
+            {
+              "text": "Se mueve en un solo eje de disposición longitudinal (uniaxial)",
+              "isCorrect": true,
+              "rationale": "La articulación trocoide se mueve en un solo eje de disposición longitudinal (uniaxial)."
+            },
+            {
+              "text": "Se mueve en dos ejes",
+              "isCorrect": false,
+              "rationale": "Es uniaxial."
+            },
+            {
+              "text": "Se mueve en tres ejes",
+              "isCorrect": false,
+              "rationale": "Es uniaxial."
+            },
+            {
+              "text": "Es multiaxial",
+              "isCorrect": false,
+              "rationale": "Es uniaxial."
+            }
+          ],
+          "hint": "Solo gira alrededor de un eje..."
+        },
+        {
+          "question": "¿Qué ejemplo caracteriza a una articulación trocoide?",
+          "options": [
+            {
+              "text": "La articulación radiocubital proximal",
+              "isCorrect": true,
+              "rationale": "Un ejemplo de articulación trocoide es la articulación radiocubital proximal."
+            },
+            {
+              "text": "La articulación del codo",
+              "isCorrect": false,
+              "rationale": "Esa es gínglimo."
+            },
+            {
+              "text": "La articulación del hombro",
+              "isCorrect": false,
+              "rationale": "Esa es esferoidea."
+            },
+            {
+              "text": "La articulación de la rodilla",
+              "isCorrect": false,
+              "rationale": "Esa es bicondílea."
+            }
+          ],
+          "hint": "Está en el antebrazo, cerca del codo..."
+        },
+        {
+          "question": "¿Qué es un gínglimo o articulación troclear?",
+          "options": [
+            {
+              "text": "Articulación donde una superficie tiene forma de polea y la otra encaja en el surco",
+              "isCorrect": true,
+              "rationale": "En el gínglimo [troclear] una de las superficies articulares tiene forma de polea, en cuyo surco se aloja la saliente de la superficie articular opuesta."
+            },
+            {
+              "text": "Una articulación esférica",
+              "isCorrect": false,
+              "rationale": "No es esférica."
+            },
+            {
+              "text": "Una articulación plana",
+              "isCorrect": false,
+              "rationale": "No es plana."
+            },
+            {
+              "text": "Una articulación cilíndrica",
+              "isCorrect": false,
+              "rationale": "Tiene forma de polea."
+            }
+          ],
+          "hint": "Funciona como una 'bisagra'..."
+        },
+        {
+          "question": "¿Qué tipo de movimiento tiene el gínglimo?",
+          "options": [
+            {
+              "text": "Movimiento uniaxial transversal (como una bisagra)",
+              "isCorrect": true,
+              "rationale": "El gínglimo presenta un movimiento uniaxial transversal. Se la puede describir como la función de una bisagra."
+            },
+            {
+              "text": "Movimiento biaxial",
+              "isCorrect": false,
+              "rationale": "Es uniaxial."
+            },
+            {
+              "text": "Movimiento multiaxial",
+              "isCorrect": false,
+              "rationale": "Es uniaxial."
+            },
+            {
+              "text": "Sin movimiento",
+              "isCorrect": false,
+              "rationale": "Tiene movimiento."
+            }
+          ],
+          "hint": "Como abrir y cerrar una puerta..."
+        },
+        {
+          "question": "¿Qué ejemplo caracteriza a un gínglimo?",
+          "options": [
+            {
+              "text": "La articulación humerocubital (del codo)",
+              "isCorrect": true,
+              "rationale": "Un ejemplo de gínglimo es la articulación humerocubital."
+            },
+            {
+              "text": "La articulación del hombro",
+              "isCorrect": false,
+              "rationale": "Esa es esferoidea."
+            },
+            {
+              "text": "La articulación de la cadera",
+              "isCorrect": false,
+              "rationale": "Esa es cotiloidea."
+            },
+            {
+              "text": "La articulación radiocubital",
+              "isCorrect": false,
+              "rationale": "Esa es trocoide."
+            }
+          ],
+          "hint": "Está en el codo..."
+        },
+        {
+          "question": "¿Qué es una articulación elipsoidea o condílea?",
+          "options": [
+            {
+              "text": "Superficies elipsoidales (ovoideas), una cóncava y otra convexa, enfrentadas",
+              "isCorrect": true,
+              "rationale": "En la articulación elipsoidea [condílea] las superficies articulares están representadas por dos caras articulares elipsoidales (ovoideas), una cóncava y la otra convexa, enfrentadas."
+            },
+            {
+              "text": "Superficies planas",
+              "isCorrect": false,
+              "rationale": "Son elipsoides."
+            },
+            {
+              "text": "Superficies esféricas",
+              "isCorrect": false,
+              "rationale": "Son elipsoides, no esferas."
+            },
+            {
+              "text": "Superficies cilíndricas",
+              "isCorrect": false,
+              "rationale": "Son elipsoides."
+            }
+          ],
+          "hint": "Tienen forma de 'elipse' u 'ovoide'..."
+        },
+        {
+          "question": "¿Qué tipo de movimiento tiene la articulación elipsoidea?",
+          "options": [
+            {
+              "text": "Tiene dos ejes de movimientos (biaxial)",
+              "isCorrect": true,
+              "rationale": "La articulación elipsoidea tiene dos ejes de movimientos (biaxial)."
+            },
+            {
+              "text": "Un solo eje (uniaxial)",
+              "isCorrect": false,
+              "rationale": "Es biaxial."
+            },
+            {
+              "text": "Tres ejes",
+              "isCorrect": false,
+              "rationale": "Es biaxial."
+            },
+            {
+              "text": "Multiaxial",
+              "isCorrect": false,
+              "rationale": "Es biaxial."
+            }
+          ],
+          "hint": "Se puede mover en dos direcciones principales..."
+        },
+        {
+          "question": "¿Qué ejemplo caracteriza a una articulación elipsoidea?",
+          "options": [
+            {
+              "text": "La articulación radiocarpiana (muñeca)",
+              "isCorrect": true,
+              "rationale": "Un ejemplo de articulación elipsoidea es la articulación radiocarpiana: el extremo distal del radio es cóncavo y el cóndilo carpiano es convexo."
+            },
+            {
+              "text": "La articulación del codo",
+              "isCorrect": false,
+              "rationale": "Esa es gínglimo."
+            },
+            {
+              "text": "La articulación del hombro",
+              "isCorrect": false,
+              "rationale": "Esa es esferoidea."
+            },
+            {
+              "text": "La articulación de la cadera",
+              "isCorrect": false,
+              "rationale": "Esa es cotiloidea."
+            }
+          ],
+          "hint": "Está en la muñeca..."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "nombre": "Diartrosis - Superficies Articulares II",
+      "preguntas": 18,
+      "data": [
+        {
+          "question": "¿Qué es una articulación bicondílea?",
+          "options": [
+            {
+              "text": "Dos superficies convexas elipsoidales (cóndilos) se deslizan enfrentadas",
+              "isCorrect": true,
+              "rationale": "En la articulación bicondílea dos superficies convexas elipsoidales (cóndilos) se deslizan enfrentadas, una sobre la otra."
+            },
+            {
+              "text": "Una superficie esférica",
+              "isCorrect": false,
+              "rationale": "Tiene dos cóndilos elipsoides."
+            },
+            {
+              "text": "Una superficie plana",
+              "isCorrect": false,
+              "rationale": "Tiene cóndilos convexos."
+            },
+            {
+              "text": "Una superficie cilíndrica",
+              "isCorrect": false,
+              "rationale": "Tiene cóndilos elipsoides."
+            }
+          ],
+          "hint": "Tiene 'dos cóndilos'..."
+        },
+        {
+          "question": "¿Qué ejemplo caracteriza a una articulación bicondílea?",
+          "options": [
+            {
+              "text": "La articulación temporomandibular",
+              "isCorrect": true,
+              "rationale": "Un ejemplo de articulación bicondílea es la articulación temporomandibular."
+            },
+            {
+              "text": "La articulación del codo",
+              "isCorrect": false,
+              "rationale": "Esa es gínglimo."
+            },
+            {
+              "text": "La articulación del hombro",
+              "isCorrect": false,
+              "rationale": "Esa es esferoidea."
+            },
+            {
+              "text": "La articulación de la rodilla",
+              "isCorrect": false,
+              "rationale": "Esa es bicondílea doble."
+            }
+          ],
+          "hint": "Está en la mandíbula..."
+        },
+        {
+          "question": "¿Qué es una articulación bicondílea doble?",
+          "options": [
+            {
+              "text": "Dos cóndilos de una epífisis se enfrentan a dos superficies prácticamente planas de otro hueso",
+              "isCorrect": true,
+              "rationale": "En la articulación bicondílea doble dos cóndilos de una epífisis se enfrentan a dos superficies articulares prácticamente planas ubicadas sobre los cóndilos de otro hueso."
+            },
+            {
+              "text": "Cuatro cóndilos enfrentados",
+              "isCorrect": false,
+              "rationale": "Son dos cóndilos contra superficies planas."
+            },
+            {
+              "text": "Dos articulaciones separadas",
+              "isCorrect": false,
+              "rationale": "Es una articulación con dos cóndilos."
+            },
+            {
+              "text": "Una articulación esferoidea",
+              "isCorrect": false,
+              "rationale": "No es esferoidea."
+            }
+          ],
+          "hint": "Es el caso especial de la rodilla..."
+        },
+        {
+          "question": "¿Qué ejemplo caracteriza a una articulación bicondílea doble?",
+          "options": [
+            {
+              "text": "La articulación femorotibial (rodilla)",
+              "isCorrect": true,
+              "rationale": "Un ejemplo de articulación bicondílea doble es la articulación femorotibial."
+            },
+            {
+              "text": "La articulación del codo",
+              "isCorrect": false,
+              "rationale": "Esa es gínglimo."
+            },
+            {
+              "text": "La articulación del hombro",
+              "isCorrect": false,
+              "rationale": "Esa es esferoidea."
+            },
+            {
+              "text": "La articulación temporomandibular",
+              "isCorrect": false,
+              "rationale": "Esa es bicondílea simple."
+            }
+          ],
+          "hint": "Está en la rodilla..."
+        },
+        {
+          "question": "¿Qué es una articulación selar o de silla de montar?",
+          "options": [
+            {
+              "text": "Cada superficie articular es cóncava en un eje y convexa en el eje perpendicular",
+              "isCorrect": true,
+              "rationale": "En la articulación selar [por encaje recíproco] cada una de las superficies articulares es cóncava en un eje y convexa en el eje perpendicular."
+            },
+            {
+              "text": "Ambas superficies son convexas",
+              "isCorrect": false,
+              "rationale": "Cada una es cóncava en un eje y convexa en el otro."
+            },
+            {
+              "text": "Ambas superficies son cóncavas",
+              "isCorrect": false,
+              "rationale": "Cada una es cóncava en un eje y convexa en el otro."
+            },
+            {
+              "text": "Una es plana y otra convexa",
+              "isCorrect": false,
+              "rationale": "Tienen forma de silla de montar."
+            }
+          ],
+          "hint": "Tienen forma de 'silla de montar a caballo'..."
+        },
+        {
+          "question": "¿Qué forma geométrica tienen las superficies de la articulación selar?",
+          "options": [
+            {
+              "text": "Un paraboloide hiperbólico",
+              "isCorrect": true,
+              "rationale": "Cada superficie tiene la forma de una silla de montar a caballo (geométricamente un paraboloide hiperbólico)."
+            },
+            {
+              "text": "Una esfera",
+              "isCorrect": false,
+              "rationale": "No es esférica."
+            },
+            {
+              "text": "Un cilindro",
+              "isCorrect": false,
+              "rationale": "No es cilíndrica."
+            },
+            {
+              "text": "Un elipsoide",
+              "isCorrect": false,
+              "rationale": "No es elipsoide."
+            }
+          ],
+          "hint": "Geométricamente es una superficie curvada en dos direcciones opuestas..."
+        },
+        {
+          "question": "¿Cómo se relacionan las superficies en una articulación selar?",
+          "options": [
+            {
+              "text": "La concavidad de una superficie se enfrenta con la convexidad de la otra",
+              "isCorrect": true,
+              "rationale": "En la articulación selar la concavidad de una superficie se enfrenta con la convexidad de la otra."
+            },
+            {
+              "text": "Las convexas se enfrentan entre sí",
+              "isCorrect": false,
+              "rationale": "La concavidad de una enfrenta la convexidad de la otra."
+            },
+            {
+              "text": "Las cóncavas se enfrentan entre sí",
+              "isCorrect": false,
+              "rationale": "La concavidad de una enfrenta la convexidad de la otra."
+            },
+            {
+              "text": "Son paralelas",
+              "isCorrect": false,
+              "rationale": "Se encajan recíprocamente."
+            }
+          ],
+          "hint": "Se encajan como 'pieza de rompecabezas'..."
+        },
+        {
+          "question": "¿Qué tipo de movimiento tiene la articulación selar?",
+          "options": [
+            {
+              "text": "Los movimientos se desarrollan en dos ejes (biaxial)",
+              "isCorrect": true,
+              "rationale": "En la articulación selar los movimientos se desarrollan en dos ejes (biaxial)."
+            },
+            {
+              "text": "Un solo eje (uniaxial)",
+              "isCorrect": false,
+              "rationale": "Es biaxial."
+            },
+            {
+              "text": "Tres ejes",
+              "isCorrect": false,
+              "rationale": "Es biaxial."
+            },
+            {
+              "text": "Multiaxial",
+              "isCorrect": false,
+              "rationale": "Es biaxial."
+            }
+          ],
+          "hint": "Se puede mover en dos direcciones principales..."
+        },
+        {
+          "question": "¿Qué ejemplo caracteriza a una articulación selar?",
+          "options": [
+            {
+              "text": "La articulación trapeciometacarpiana (del pulgar)",
+              "isCorrect": true,
+              "rationale": "Un ejemplo de articulación selar es la articulación trapeciometacarpiana."
+            },
+            {
+              "text": "La articulación del codo",
+              "isCorrect": false,
+              "rationale": "Esa es gínglimo."
+            },
+            {
+              "text": "La articulación del hombro",
+              "isCorrect": false,
+              "rationale": "Esa es esferoidea."
+            },
+            {
+              "text": "La articulación de la cadera",
+              "isCorrect": false,
+              "rationale": "Esa es cotiloidea."
+            }
+          ],
+          "hint": "Está en la base del pulgar..."
+        },
+        {
+          "question": "¿Qué es una articulación esferoidea o enartrosis?",
+          "options": [
+            {
+              "text": "Superficies articulares esféricas o casi esféricas, una convexa y otra cóncava",
+              "isCorrect": true,
+              "rationale": "En la articulación esferoidea [enartrosis] las superficies articulares son esféricas o casi esféricas. Una de ellas es convexa y se enfrenta a la excavación de la otra superficie, que es cóncava."
+            },
+            {
+              "text": "Superficies planas",
+              "isCorrect": false,
+              "rationale": "Son esféricas."
+            },
+            {
+              "text": "Superficies cilíndricas",
+              "isCorrect": false,
+              "rationale": "Son esféricas."
+            },
+            {
+              "text": "Superficies elipsoides",
+              "isCorrect": false,
+              "rationale": "Son esféricas, no elipsoides."
+            }
+          ],
+          "hint": "Tienen forma de 'esfera'..."
+        },
+        {
+          "question": "¿Qué tipo de movimiento tiene la articulación esferoidea?",
+          "options": [
+            {
+              "text": "Es una articulación multiaxial",
+              "isCorrect": true,
+              "rationale": "La articulación esferoidea es una articulación multiaxial."
+            },
+            {
+              "text": "Es uniaxial",
+              "isCorrect": false,
+              "rationale": "Es multiaxial."
+            },
+            {
+              "text": "Es biaxial",
+              "isCorrect": false,
+              "rationale": "Es multiaxial."
+            },
+            {
+              "text": "No tiene movimiento",
+              "isCorrect": false,
+              "rationale": "Es muy móvil."
+            }
+          ],
+          "hint": "Se puede mover en todas las direcciones..."
+        },
+        {
+          "question": "¿Qué ejemplo caracteriza a una articulación esferoidea?",
+          "options": [
+            {
+              "text": "La articulación escapulohumeral (hombro)",
+              "isCorrect": true,
+              "rationale": "Un ejemplo de articulación esferoidea es la articulación escapulohumeral."
+            },
+            {
+              "text": "La articulación del codo",
+              "isCorrect": false,
+              "rationale": "Esa es gínglimo."
+            },
+            {
+              "text": "La articulación de la rodilla",
+              "isCorrect": false,
+              "rationale": "Esa es bicondílea."
+            },
+            {
+              "text": "La articulación temporomandibular",
+              "isCorrect": false,
+              "rationale": "Esa es bicondílea."
+            }
+          ],
+          "hint": "Está en el hombro..."
+        },
+        {
+          "question": "¿Qué es una articulación cotiloidea?",
+          "options": [
+            {
+              "text": "Variedad de esferoidea donde la superficie cóncava es profunda y sobrepasa el ecuador",
+              "isCorrect": true,
+              "rationale": "La articulación cotiloidea es una variedad de la articulación esferoidea, donde la superficie cóncava es suficientemente profunda para albergar gran parte de la superficie convexa y sobrepasa su ecuador."
+            },
+            {
+              "text": "Una articulación plana",
+              "isCorrect": false,
+              "rationale": "Es una variedad de esferoidea."
+            },
+            {
+              "text": "Una articulación cilíndrica",
+              "isCorrect": false,
+              "rationale": "Es una variedad de esferoidea."
+            },
+            {
+              "text": "Una articulación elipsoidea",
+              "isCorrect": false,
+              "rationale": "Es una variedad de esferoidea."
+            }
+          ],
+          "hint": "Es como una esferoidea pero más 'profunda'..."
+        },
+        {
+          "question": "¿Qué diferencia principal hay entre esferoidea y cotiloidea?",
+          "options": [
+            {
+              "text": "En la cotiloidea la cavidad cóncava es más profunda y abarca más de la mitad de la esfera",
+              "isCorrect": true,
+              "rationale": "En la cotiloidea la superficie cóncava sobrepasa el ecuador de la superficie convexa, lo que le da mayor estabilidad."
+            },
+            {
+              "text": "No hay diferencia",
+              "isCorrect": false,
+              "rationale": "La cotiloidea es más profunda."
+            },
+            {
+              "text": "La esferoidea es más móvil",
+              "isCorrect": false,
+              "rationale": "Ambas son multiaxiales."
+            },
+            {
+              "text": "La cotiloidea es plana",
+              "isCorrect": false,
+              "rationale": "Es esférica profunda."
+            }
+          ],
+          "hint": "La cotiloidea 'abraza' más la cabeza del hueso..."
+        },
+        {
+          "question": "¿Qué tipo de movimiento tiene la articulación cotiloidea?",
+          "options": [
+            {
+              "text": "Es una articulación multiaxial",
+              "isCorrect": true,
+              "rationale": "La articulación cotiloidea es una articulación multiaxial."
+            },
+            {
+              "text": "Es uniaxial",
+              "isCorrect": false,
+              "rationale": "Es multiaxial."
+            },
+            {
+              "text": "Es biaxial",
+              "isCorrect": false,
+              "rationale": "Es multiaxial."
+            },
+            {
+              "text": "Tiene movimiento limitado",
+              "isCorrect": false,
+              "rationale": "Es multiaxial."
+            }
+          ],
+          "hint": "Se puede mover en todas las direcciones..."
+        },
+        {
+          "question": "¿Qué ejemplo caracteriza a una articulación cotiloidea?",
+          "options": [
+            {
+              "text": "La articulación coxofemoral (cadera)",
+              "isCorrect": true,
+              "rationale": "Un ejemplo de articulación cotiloidea es la articulación coxofemoral."
+            },
+            {
+              "text": "La articulación del hombro",
+              "isCorrect": false,
+              "rationale": "Esa es esferoidea."
+            },
+            {
+              "text": "La articulación del codo",
+              "isCorrect": false,
+              "rationale": "Esa es gínglimo."
+            },
+            {
+              "text": "La articulación de la rodilla",
+              "isCorrect": false,
+              "rationale": "Esa es bicondílea."
+            }
+          ],
+          "hint": "Está en la cadera..."
+        },
+        {
+          "question": "¿Qué son las sisarcosis?",
+          "options": [
+            {
+              "text": "Estructuras constituidas por músculos interpuestos entre huesos, no son articulaciones verdaderas",
+              "isCorrect": true,
+              "rationale": "Las sisarcosis están constituidas por músculos que están interpuestos entre los huesos y presentan espacios con tejido conectivo laxo que permiten su deslizamiento. No corresponden a articulaciones verdaderas."
+            },
+            {
+              "text": "Articulaciones sinoviales",
+              "isCorrect": false,
+              "rationale": "No son articulaciones verdaderas."
+            },
+            {
+              "text": "Articulaciones fibrosas",
+              "isCorrect": false,
+              "rationale": "Son músculos interpuestos."
+            },
+            {
+              "text": "Articulaciones cartilaginosas",
+              "isCorrect": false,
+              "rationale": "Son músculos interpuestos."
+            }
+          ],
+          "hint": "Son 'falsas articulaciones' con músculos entre los huesos..."
+        },
+        {
+          "question": "¿Qué ejemplo caracteriza a una sisarcosis?",
+          "options": [
+            {
+              "text": "La articulación escapulotorácica",
+              "isCorrect": true,
+              "rationale": "Un ejemplo de sisarcosis es la articulación escapulotorácica."
+            },
+            {
+              "text": "La articulación del hombro",
+              "isCorrect": false,
+              "rationale": "Esa es esferoidea verdadera."
+            },
+            {
+              "text": "La articulación de la cadera",
+              "isCorrect": false,
+              "rationale": "Esa es cotiloidea verdadera."
+            },
+            {
+              "text": "La articulación del codo",
+              "isCorrect": false,
+              "rationale": "Esa es gínglimo verdadera."
+            }
+          ],
+          "hint": "Está entre la escápula y el tórax..."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "nombre": "Elementos de Articulaciones Sinoviales",
+      "preguntas": 26,
+      "data": [
+        {
+          "question": "¿Qué es el cartílago articular?",
+          "options": [
+            {
+              "text": "Cartílago hialino que reviste cada superficie articular, adherido íntimamente al hueso",
+              "isCorrect": true,
+              "rationale": "Cada superficie articular está revestida por un cartílago articular hialino, que se adhiere íntimamente al hueso."
+            },
+            {
+              "text": "Cartílago fibroso que une los huesos",
+              "isCorrect": false,
+              "rationale": "Es cartílago hialino que reviste la superficie."
+            },
+            {
+              "text": "El cartílago de crecimiento",
+              "isCorrect": false,
+              "rationale": "Ese es el cartílago epifisario."
+            },
+            {
+              "text": "El menisco articular",
+              "isCorrect": false,
+              "rationale": "El menisco es otra estructura."
+            }
+          ],
+          "hint": "Es la 'cubierta' del hueso en la articulación..."
+        },
+        {
+          "question": "¿Cómo es la superficie libre del cartílago articular?",
+          "options": [
+            {
+              "text": "Pulida y de coloración blanquecina",
+              "isCorrect": true,
+              "rationale": "La superficie libre del cartílago articular es pulida y de coloración blanquecina."
+            },
+            {
+              "text": "Rugosa y oscura",
+              "isCorrect": false,
+              "rationale": "Es pulida y blanquecina."
+            },
+            {
+              "text": "Áspera y amarillenta",
+              "isCorrect": false,
+              "rationale": "Es pulida y blanquecina."
+            },
+            {
+              "text": "Irregular y rojiza",
+              "isCorrect": false,
+              "rationale": "Es pulida y blanquecina."
+            }
+          ],
+          "hint": "Es lisa y clara..."
+        },
+        {
+          "question": "¿Qué propiedades tiene el cartílago articular?",
+          "options": [
+            {
+              "text": "Es maleable, extensible y compresible, se deforma bajo presión y retorna a su forma",
+              "isCorrect": true,
+              "rationale": "El cartílago articular es maleable, extensible y compresible, se deforma bajo la influencia de presiones, para retornar a su espesor original cuando éstas cesan."
+            },
+            {
+              "text": "Es rígido e inmutable",
+              "isCorrect": false,
+              "rationale": "Es maleable y compresible."
+            },
+            {
+              "text": "Es completamente elástico",
+              "isCorrect": false,
+              "rationale": "Es maleable y compresible, no puramente elástico."
+            },
+            {
+              "text": "Es duro y quebradizo",
+              "isCorrect": false,
+              "rationale": "Es maleable y compresible."
+            }
+          ],
+          "hint": "Puede deformarse y volver a su forma original..."
+        },
+        {
+          "question": "¿Cómo se relaciona la extensión del cartílago articular con la movilidad?",
+          "options": [
+            {
+              "text": "La extensión es directamente proporcional a los movimientos de la articulación",
+              "isCorrect": true,
+              "rationale": "La extensión del revestimiento cartilaginoso es directamente proporcional a los movimientos de la articulación; es más extenso en las articulaciones muy móviles."
+            },
+            {
+              "text": "No hay relación",
+              "isCorrect": false,
+              "rationale": "Sí hay relación directa."
+            },
+            {
+              "text": "Es inversamente proporcional",
+              "isCorrect": false,
+              "rationale": "Es directamente proporcional."
+            },
+            {
+              "text": "Solo depende de la edad",
+              "isCorrect": false,
+              "rationale": "Depende de la movilidad."
+            }
+          ],
+          "hint": "Más movimiento = más cartílago..."
+        },
+        {
+          "question": "¿Cuál es el espesor del cartílago articular?",
+          "options": [
+            {
+              "text": "Varía entre 0,2 y 2 mm",
+              "isCorrect": true,
+              "rationale": "El espesor del cartílago articular varía entre 0,2 y 2 mm."
+            },
+            {
+              "text": "Entre 5 y 10 mm",
+              "isCorrect": false,
+              "rationale": "Es mucho más delgado."
+            },
+            {
+              "text": "Siempre de 1 mm exacto",
+              "isCorrect": false,
+              "rationale": "Varía según la ubicación."
+            },
+            {
+              "text": "Entre 3 y 5 mm",
+              "isCorrect": false,
+              "rationale": "Es más delgado."
+            }
+          ],
+          "hint": "Es bastante delgado, menos de 2 mm..."
+        },
+        {
+          "question": "¿Dónde es más espeso el cartílago articular?",
+          "options": [
+            {
+              "text": "En los puntos de presión y de deslizamiento de la articulación",
+              "isCorrect": true,
+              "rationale": "El cartílago articular es más espeso en los puntos de presión y de deslizamiento de la articulación. Es más grueso en el vértice de las cabezas del fémur y del húmero."
+            },
+            {
+              "text": "En los bordes de la articulación",
+              "isCorrect": false,
+              "rationale": "Es más grueso en los puntos de presión."
+            },
+            {
+              "text": "En el centro de la cavidad articular",
+              "isCorrect": false,
+              "rationale": "Es más delgado hacia el fondo de la cavidad."
+            },
+            {
+              "text": "Siempre tiene el mismo espesor",
+              "isCorrect": false,
+              "rationale": "Varía según la zona."
+            }
+          ],
+          "hint": "Donde más 'trabaja' la articulación..."
+        },
+        {
+          "question": "¿Dónde es más delgado el cartílago articular?",
+          "options": [
+            {
+              "text": "Hacia el fondo o centro de la cavidad glenoidea y del acetábulo",
+              "isCorrect": true,
+              "rationale": "El cartílago articular es más delgado hacia el fondo o centro de la cavidad glenoidea y del acetábulo."
+            },
+            {
+              "text": "En el vértice de las cabezas",
+              "isCorrect": false,
+              "rationale": "Ahí es más grueso."
+            },
+            {
+              "text": "En los puntos de presión",
+              "isCorrect": false,
+              "rationale": "Ahí es más grueso."
+            },
+            {
+              "text": "En los bordes articulares",
+              "isCorrect": false,
+              "rationale": "No es la zona más delgada."
+            }
+          ],
+          "hint": "En el 'fondo' de las cavidades..."
+        },
+        {
+          "question": "¿Cómo se comporta el cartílago articular en los miembros inferiores?",
+          "options": [
+            {
+              "text": "Es más o menos elástico a la presión y actúa como elemento de amortiguación",
+              "isCorrect": true,
+              "rationale": "En los miembros inferiores es más o menos elástico a la presión, y se comporta como un elemento de amortiguación frente a los choques."
+            },
+            {
+              "text": "Es completamente rígido",
+              "isCorrect": false,
+              "rationale": "Es elástico y amortigua."
+            },
+            {
+              "text": "No tiene función de amortiguación",
+              "isCorrect": false,
+              "rationale": "Sí amortigua los choques."
+            },
+            {
+              "text": "Es igual que en los miembros superiores",
+              "isCorrect": false,
+              "rationale": "En los inferiores es más elástico por la carga."
+            }
+          ],
+          "hint": "Ayuda a 'absorber impactos' al caminar..."
+        },
+        {
+          "question": "¿Qué ocurre si desaparece el cartílago articular?",
+          "options": [
+            {
+              "text": "Acarrea el desgaste rápido del hueso por presión y frotamiento recíproco",
+              "isCorrect": true,
+              "rationale": "La desaparición del cartílago articular acarrea el desgaste rápido del hueso por presión y frotamiento recíproco."
+            },
+            {
+              "text": "No pasa nada",
+              "isCorrect": false,
+              "rationale": "Causa desgaste óseo."
+            },
+            {
+              "text": "El hueso se regenera",
+              "isCorrect": false,
+              "rationale": "El hueso se desgasta."
+            },
+            {
+              "text": "Se forma nuevo cartílago",
+              "isCorrect": false,
+              "rationale": "No se regenera fácilmente."
+            }
+          ],
+          "hint": "El hueso queda 'desprotegido' y se desgasta..."
+        },
+        {
+          "question": "¿Cómo se nutre el cartílago articular?",
+          "options": [
+            {
+              "text": "Por imbibición a expensas del líquido sinovial, y por vasos del hueso subyacente",
+              "isCorrect": true,
+              "rationale": "El cartílago articular no posee vasos sanguíneos, se nutre por imbibición a expensas del líquido sinovial. La parte basal también se nutre por los vasos ubicados en el hueso sobre el que está fijado."
+            },
+            {
+              "text": "Por arterias propias",
+              "isCorrect": false,
+              "rationale": "No tiene vasos sanguíneos."
+            },
+            {
+              "text": "Por el periostio",
+              "isCorrect": false,
+              "rationale": "No tiene vascularización propia."
+            },
+            {
+              "text": "Por el sistema linfático",
+              "isCorrect": false,
+              "rationale": "Se nutre por imbibición del líquido sinovial."
+            }
+          ],
+          "hint": "No tiene vasos, absorbe el líquido que lo rodea..."
+        },
+        {
+          "question": "¿Qué son el labrum articular, el menisco y el disco?",
+          "options": [
+            {
+              "text": "Formaciones de fibrocartílago que sirven para la adaptación de las superficies articulares",
+              "isCorrect": true,
+              "rationale": "Estas estructuras son formaciones de fibrocartílago que sirven para la adaptación de las superficies articulares."
+            },
+            {
+              "text": "Tipos de cartílago hialino",
+              "isCorrect": false,
+              "rationale": "Son fibrocartílago."
+            },
+            {
+              "text": "Tipos de ligamentos",
+              "isCorrect": false,
+              "rationale": "Son fibrocartílago."
+            },
+            {
+              "text": "Partes del hueso",
+              "isCorrect": false,
+              "rationale": "Son estructuras de fibrocartílago."
+            }
+          ],
+          "hint": "Son estructuras de 'fibrocartílago' que mejoran el encaje..."
+        },
+        {
+          "question": "¿Qué es el labrum articular o rodete articular?",
+          "options": [
+            {
+              "text": "Estructura en forma de anillo alrededor de una fosa articular que aumenta su superficie y concavidad",
+              "isCorrect": true,
+              "rationale": "El labrum articular [rodete articular] se dispone en forma de anillo alrededor de algunas fosas articulares a las que aumenta su superficie articular y concavidad."
+            },
+            {
+              "text": "Un disco dentro de la articulación",
+              "isCorrect": false,
+              "rationale": "Es un anillo periférico."
+            },
+            {
+              "text": "Una estructura esférica",
+              "isCorrect": false,
+              "rationale": "Es un anillo."
+            },
+            {
+              "text": "Un ligamento",
+              "isCorrect": false,
+              "rationale": "Es fibrocartílago."
+            }
+          ],
+          "hint": "Es un 'anillo' que rodea la cavidad articular..."
+        },
+        {
+          "question": "¿Qué forma tiene el labrum articular en corte?",
+          "options": [
+            {
+              "text": "Triangular",
+              "isCorrect": true,
+              "rationale": "El labrum articular visto en un corte es triangular."
+            },
+            {
+              "text": "Circular",
+              "isCorrect": false,
+              "rationale": "En corte es triangular."
+            },
+            {
+              "text": "Rectangular",
+              "isCorrect": false,
+              "rationale": "En corte es triangular."
+            },
+            {
+              "text": "Ovalada",
+              "isCorrect": false,
+              "rationale": "En corte es triangular."
+            }
+          ],
+          "hint": "Tiene tres caras en corte..."
+        },
+        {
+          "question": "¿Dónde se encuentra la base del labrum articular?",
+          "options": [
+            {
+              "text": "Descansa sobre el contorno de la superficie articular",
+              "isCorrect": true,
+              "rationale": "La base del labrum articular descansa sobre el contorno de la superficie articular."
+            },
+            {
+              "text": "En el centro de la cavidad",
+              "isCorrect": false,
+              "rationale": "Está en el contorno periférico."
+            },
+            {
+              "text": "Dentro del hueso",
+              "isCorrect": false,
+              "rationale": "Está en el contorno articular."
+            },
+            {
+              "text": "En la cápsula",
+              "isCorrect": false,
+              "rationale": "Está sobre el contorno articular."
+            }
+          ],
+          "hint": "Está en el 'borde' de la superficie articular..."
+        },
+        {
+          "question": "¿Qué ejemplos caracterizan al labrum articular?",
+          "options": [
+            {
+              "text": "El labrum glenoideo (hombro) y el labrum acetabular (cadera)",
+              "isCorrect": true,
+              "rationale": "Ejemplos de labrum articular son el labrum glenoideo en la articulación del hombro y el labrum acetabular en la articulación de la cadera."
+            },
+            {
+              "text": "El menisco de la rodilla",
+              "isCorrect": false,
+              "rationale": "Ese es un menisco, no un labrum."
+            },
+            {
+              "text": "El disco temporomandibular",
+              "isCorrect": false,
+              "rationale": "Ese es un disco, no un labrum."
+            },
+            {
+              "text": "El cartílago costal",
+              "isCorrect": false,
+              "rationale": "No es un labrum."
+            }
+          ],
+          "hint": "Uno en el hombro y otro en la cadera..."
+        },
+        {
+          "question": "¿Qué puede ocurrir con el labrum en un traumatismo?",
+          "options": [
+            {
+              "text": "La inserción ósea del labrum puede desgarrarse",
+              "isCorrect": true,
+              "rationale": "En un traumatismo la inserción ósea del labrum puede desgarrarse."
+            },
+            {
+              "text": "No se lesiona",
+              "isCorrect": false,
+              "rationale": "Puede desgarrarse."
+            },
+            {
+              "text": "Siempre se recupera solo",
+              "isCorrect": false,
+              "rationale": "Puede lesionarse."
+            },
+            {
+              "text": "Se calcifica",
+              "isCorrect": false,
+              "rationale": "Puede desgarrarse."
+            }
+          ],
+          "hint": "Puede 'romperse' su unión al hueso..."
+        },
+        {
+          "question": "¿Qué es el menisco articular?",
+          "options": [
+            {
+              "text": "Estructura con forma de medialuna interpuesta entre superficies articulares para mejorar su concordancia",
+              "isCorrect": true,
+              "rationale": "El menisco articular tiene forma de medialuna y está interpuesto entre las superficies articulares, mejorando su concordancia."
+            },
+            {
+              "text": "Un anillo que rodea la articulación",
+              "isCorrect": false,
+              "rationale": "Eso es el labrum."
+            },
+            {
+              "text": "Un disco completo",
+              "isCorrect": false,
+              "rationale": "Tiene forma de medialuna, no de disco completo."
+            },
+            {
+              "text": "Un ligamento",
+              "isCorrect": false,
+              "rationale": "Es fibrocartílago."
+            }
+          ],
+          "hint": "Tiene forma de 'media luna'..."
+        },
+        {
+          "question": "¿Cómo se relaciona el menisco articular con la cápsula?",
+          "options": [
+            {
+              "text": "Su base periférica se adhiere a la cápsula articular",
+              "isCorrect": true,
+              "rationale": "En el menisco, dos de sus caras miran hacia las superficies articulares y su base, periférica, se adhiere a la cápsula."
+            },
+            {
+              "text": "No tiene relación con la cápsula",
+              "isCorrect": false,
+              "rationale": "Su base se adhiere a la cápsula."
+            },
+            {
+              "text": "Está dentro del hueso",
+              "isCorrect": false,
+              "rationale": "Está en la articulación."
+            },
+            {
+              "text": "Está fuera de la articulación",
+              "isCorrect": false,
+              "rationale": "Está dentro de la articulación."
+            }
+          ],
+          "hint": "Por el borde se une a la 'pared' de la articulación..."
+        },
+        {
+          "question": "¿Cómo se nutre la parte periférica del menisco?",
+          "options": [
+            {
+              "text": "Recibe vascularización a través de su unión con la cápsula articular",
+              "isCorrect": true,
+              "rationale": "La parte periférica del menisco es más fibrosa y recibe vascularización a través de su unión con la cápsula articular."
+            },
+            {
+              "text": "No tiene vascularización",
+              "isCorrect": false,
+              "rationale": "La parte periférica sí tiene vasos."
+            },
+            {
+              "text": "Por imbibición",
+              "isCorrect": false,
+              "rationale": "La parte central se nutre así."
+            },
+            {
+              "text": "Por arterias propias",
+              "isCorrect": false,
+              "rationale": "Recibe vasos de la cápsula."
+            }
+          ],
+          "hint": "Por donde se une a la cápsula entran los vasos..."
+        },
+        {
+          "question": "¿Cómo se nutre la parte central del menisco?",
+          "options": [
+            {
+              "text": "No tiene vasos y se nutre por imbibición",
+              "isCorrect": true,
+              "rationale": "La parte central del menisco es cartilaginosa, no tiene vasos y se nutre por imbibición."
+            },
+            {
+              "text": "Tiene muchos vasos sanguíneos",
+              "isCorrect": false,
+              "rationale": "No tiene vasos."
+            },
+            {
+              "text": "Por la cápsula articular",
+              "isCorrect": false,
+              "rationale": "Esa es la parte periférica."
+            },
+            {
+              "text": "Por el líquido sinovial únicamente",
+              "isCorrect": false,
+              "rationale": "Se nutre por imbibición."
+            }
+          ],
+          "hint": "La parte interna no tiene vasos, absorbe nutrientes..."
+        },
+        {
+          "question": "¿Qué ejemplo caracteriza al menisco articular?",
+          "options": [
+            {
+              "text": "Los meniscos de la rodilla",
+              "isCorrect": true,
+              "rationale": "Ejemplos de menisco articular son los meniscos de la rodilla, que pueden presentar inserción ósea en sus extremidades."
+            },
+            {
+              "text": "El disco intervertebral",
+              "isCorrect": false,
+              "rationale": "Ese es un fibrocartílago pero es una sínfisis."
+            },
+            {
+              "text": "El labrum glenoideo",
+              "isCorrect": false,
+              "rationale": "Ese es un labrum."
+            },
+            {
+              "text": "El cartílago articular",
+              "isCorrect": false,
+              "rationale": "Ese es cartílago hialino."
+            }
+          ],
+          "hint": "Son los famosos 'meniscos' de la rodilla..."
+        },
+        {
+          "question": "¿Qué es el disco articular?",
+          "options": [
+            {
+              "text": "Estructura interpuesta entre superficies articulares que divide la articulación en dos cavidades secundarias",
+              "isCorrect": true,
+              "rationale": "El disco articular está interpuesto entre las superficies articulares y divide la articulación en dos cavidades secundarias."
+            },
+            {
+              "text": "Un anillo que rodea la articulación",
+              "isCorrect": false,
+              "rationale": "Eso es el labrum."
+            },
+            {
+              "text": "Una medialuna",
+              "isCorrect": false,
+              "rationale": "Eso es el menisco."
+            },
+            {
+              "text": "Un ligamento",
+              "isCorrect": false,
+              "rationale": "Es fibrocartílago."
+            }
+          ],
+          "hint": "Divide la articulación en 'dos partes'..."
+        },
+        {
+          "question": "¿Cómo se relaciona el disco articular con la cápsula?",
+          "options": [
+            {
+              "text": "Su borde periférico se adhiere a la cápsula fibrosa",
+              "isCorrect": true,
+              "rationale": "Las dos caras del disco articular miran hacia las superficies articulares y su borde periférico se adhiere a la cápsula fibrosa."
+            },
+            {
+              "text": "No tiene relación con la cápsula",
+              "isCorrect": false,
+              "rationale": "Su borde se adhiere a la cápsula."
+            },
+            {
+              "text": "Está libre dentro de la articulación",
+              "isCorrect": false,
+              "rationale": "Se adhiere a la cápsula."
+            },
+            {
+              "text": "Está fuera de la articulación",
+              "isCorrect": false,
+              "rationale": "Está dentro."
+            }
+          ],
+          "hint": "Por el borde se une a la pared articular..."
+        },
+        {
+          "question": "¿Puede tener perforación el disco articular?",
+          "options": [
+            {
+              "text": "Sí, puede observarse una perforación en su centro",
+              "isCorrect": true,
+              "rationale": "En el disco articular puede observarse una perforación en su centro."
+            },
+            {
+              "text": "No, nunca tiene perforación",
+              "isCorrect": false,
+              "rationale": "Puede tener perforación central."
+            },
+            {
+              "text": "Solo en patologías",
+              "isCorrect": false,
+              "rationale": "Puede ser normal."
+            },
+            {
+              "text": "Solo en adultos mayores",
+              "isCorrect": false,
+              "rationale": "Puede presentarse normalmente."
+            }
+          ],
+          "hint": "A veces tiene un 'agujero' en el medio..."
+        },
+        {
+          "question": "¿Qué función tienen las caras del disco articular?",
+          "options": [
+            {
+              "text": "Se moldean en relación con las superficies articulares para asegurar su congruencia",
+              "isCorrect": true,
+              "rationale": "Las caras del disco articular se moldean en relación con las superficies articulares para asegurar su congruencia."
+            },
+            {
+              "text": "Son planas siempre",
+              "isCorrect": false,
+              "rationale": "Se adaptan a las superficies."
+            },
+            {
+              "text": "No tienen función específica",
+              "isCorrect": false,
+              "rationale": "Aseguran la congruencia articular."
+            },
+            {
+              "text": "Solo separan las cavidades",
+              "isCorrect": false,
+              "rationale": "También aseguran congruencia."
+            }
+          ],
+          "hint": "Se adaptan para que las superficies 'encajen' mejor..."
+        },
+        {
+          "question": "¿Qué ejemplo caracteriza al disco articular?",
+          "options": [
+            {
+              "text": "El disco de la articulación temporomandibular",
+              "isCorrect": true,
+              "rationale": "Un ejemplo de disco articular es el disco de la articulación temporomandibular."
+            },
+            {
+              "text": "El menisco de la rodilla",
+              "isCorrect": false,
+              "rationale": "Ese es un menisco."
+            },
+            {
+              "text": "El labrum acetabular",
+              "isCorrect": false,
+              "rationale": "Ese es un labrum."
+            },
+            {
+              "text": "El disco intervertebral",
+              "isCorrect": false,
+              "rationale": "Ese es parte de una sínfisis."
+            }
+          ],
+          "hint": "Está en la mandíbula..."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "nombre": "Cápsula Articular y Membrana Sinovial",
+      "preguntas": 26,
+      "data": [
+        {
+          "question": "¿Qué es la cápsula articular?",
+          "options": [
+            {
+              "text": "Manguito fibroso que une los huesos y asegura el contacto entre las superficies articulares",
+              "isCorrect": true,
+              "rationale": "La cápsula articular constituye un dispositivo que asegura el contacto entre las superficies articulares. Se inserta en el hueso en la vecindad del revestimiento del cartílago articular."
+            },
+            {
+              "text": "El cartílago que cubre el hueso",
+              "isCorrect": false,
+              "rationale": "Eso es el cartílago articular."
+            },
+            {
+              "text": "El líquido dentro de la articulación",
+              "isCorrect": false,
+              "rationale": "Ese es el líquido sinovial."
+            },
+            {
+              "text": "El menisco articular",
+              "isCorrect": false,
+              "rationale": "La cápsula es una membrana fibrosa."
+            }
+          ],
+          "hint": "Es como una 'fundas' que rodea la articulación..."
+        },
+        {
+          "question": "¿Dónde se inserta la cápsula articular?",
+          "options": [
+            {
+              "text": "En el hueso en la vecindad del revestimiento del cartílago articular",
+              "isCorrect": true,
+              "rationale": "La cápsula se inserta en el hueso en la vecindad del revestimiento del cartílago articular."
+            },
+            {
+              "text": "En el centro del hueso",
+              "isCorrect": false,
+              "rationale": "Se inserta cerca del cartílago articular."
+            },
+            {
+              "text": "En el cartílago mismo",
+              "isCorrect": false,
+              "rationale": "Se inserta en el hueso, cerca del cartílago."
+            },
+            {
+              "text": "En el ligamento",
+              "isCorrect": false,
+              "rationale": "Se inserta en el hueso."
+            }
+          ],
+          "hint": "Se fija en el hueso, cerca de la superficie articular..."
+        },
+        {
+          "question": "¿Qué ocurre si la cápsula se fija a distancia del cartílago articular?",
+          "options": [
+            {
+              "text": "Parte del cartílago epifisario puede ubicarse dentro de los límites de la cápsula",
+              "isCorrect": true,
+              "rationale": "Si la cápsula se fija a distancia del cartílago, puede ocurrir que una parte o la totalidad del cartílago epifisario se ubique dentro de los límites de la cápsula articular."
+            },
+            {
+              "text": "No pasa nada diferente",
+              "isCorrect": false,
+              "rationale": "Tiene implicaciones para el desarrollo."
+            },
+            {
+              "text": "La articulación es más móvil",
+              "isCorrect": false,
+              "rationale": "No es la consecuencia principal."
+            },
+            {
+              "text": "No puede haber movimiento",
+              "isCorrect": false,
+              "rationale": "No es la consecuencia."
+            }
+          ],
+          "hint": "Puede incluir el 'cartílago de crecimiento'..."
+        },
+        {
+          "question": "¿Cómo se relaciona el grosor de la cápsula con los movimientos?",
+          "options": [
+            {
+              "text": "Su grosor es variable y depende de los movimientos de cada articulación",
+              "isCorrect": true,
+              "rationale": "La disposición de la cápsula articular en forma de un manguito fibroso está relacionada con la característica de las superficies articulares. Su grosor es variable y depende de los movimientos de cada articulación."
+            },
+            {
+              "text": "Siempre tiene el mismo grosor",
+              "isCorrect": false,
+              "rationale": "El grosor varía."
+            },
+            {
+              "text": "Es más gruesa donde más se mueve",
+              "isCorrect": false,
+              "rationale": "Es más delgada donde hay más movimiento."
+            },
+            {
+              "text": "No tiene relación con el movimiento",
+              "isCorrect": false,
+              "rationale": "Sí está relacionado."
+            }
+          ],
+          "hint": "El grosor 'adapta' a las necesidades mecánicas..."
+        },
+        {
+          "question": "¿Qué son los ligamentos en relación con la cápsula articular?",
+          "options": [
+            {
+              "text": "Engrosamientos de la cápsula en los lugares donde se ejercen fuerzas de tracción",
+              "isCorrect": true,
+              "rationale": "La cápsula articular presenta engrosamientos en los lugares donde se ejercen fuerzas de tracción, que constituyen los ligamentos."
+            },
+            {
+              "text": "Estructuras separadas de la cápsula",
+              "isCorrect": false,
+              "rationale": "Son engrosamientos de la cápsula o estructuras que se le agregan."
+            },
+            {
+              "text": "Músculos que rodean la articulación",
+              "isCorrect": false,
+              "rationale": "No son músculos."
+            },
+            {
+              "text": "Partes del cartílago",
+              "isCorrect": false,
+              "rationale": "Son tejido fibroso."
+            }
+          ],
+          "hint": "Son como 'refuerzos' de la cápsula..."
+        },
+        {
+          "question": "¿Dónde están mejor diferenciados los ligamentos?",
+          "options": [
+            {
+              "text": "En la articulación del codo y la articulación talocrural, en sus partes lateral y medial",
+              "isCorrect": true,
+              "rationale": "En la articulación del codo y en la articulación talocrural, los ligamentos están bien diferenciados y son gruesos en sus partes lateral y medial."
+            },
+            {
+              "text": "En todas las articulaciones por igual",
+              "isCorrect": false,
+              "rationale": "Varía según la articulación."
+            },
+            {
+              "text": "Solo en la rodilla",
+              "isCorrect": false,
+              "rationale": "También en codo y tobillo."
+            },
+            {
+              "text": "En las articulaciones inmóviles",
+              "isCorrect": false,
+              "rationale": "En las móviles."
+            }
+          ],
+          "hint": "En el codo y el tobillo son muy evidentes..."
+        },
+        {
+          "question": "¿Por qué la cápsula es más delgada adelante y atrás en el codo y tobillo?",
+          "options": [
+            {
+              "text": "Por la amplitud de los movimientos de flexión y extensión",
+              "isCorrect": true,
+              "rationale": "La cápsula es más delgada adelante y atrás por la amplitud de los movimientos de flexión y de extensión."
+            },
+            {
+              "text": "Porque ahí no hay ligamentos",
+              "isCorrect": false,
+              "rationale": "Hay menos refuerzo por el movimiento."
+            },
+            {
+              "text": "Porque es más frágil",
+              "isCorrect": false,
+              "rationale": "Es por la amplitud del movimiento."
+            },
+            {
+              "text": "No es más delgada en esos sitios",
+              "isCorrect": false,
+              "rationale": "Sí es más delgada."
+            }
+          ],
+          "hint": "Donde más se 'estira' la cápsula es más delgada..."
+        },
+        {
+          "question": "¿Qué formas pueden tener los ligamentos?",
+          "options": [
+            {
+              "text": "Banda, cinta, cordón separado o engrosamiento adherido a la cápsula",
+              "isCorrect": true,
+              "rationale": "Los ligamentos poseen formas variables: banda, cinta, cordón separado o engrosamiento adherido a la cápsula."
+            },
+            {
+              "text": "Solo forma de cuerda",
+              "isCorrect": false,
+              "rationale": "Tienen formas variables."
+            },
+            {
+              "text": "Solo forma de lámina",
+              "isCorrect": false,
+              "rationale": "Tienen formas variables."
+            },
+            {
+              "text": "Siempre son redondos",
+              "isCorrect": false,
+              "rationale": "Tienen formas variables."
+            }
+          ],
+          "hint": "Pueden tener diferentes 'aspectos'..."
+        },
+        {
+          "question": "¿Qué función principal tienen los ligamentos?",
+          "options": [
+            {
+              "text": "Su resistencia le confiere firmeza a la articulación",
+              "isCorrect": true,
+              "rationale": "Los ligamentos poseen resistencia que le confiere firmeza a la articulación."
+            },
+            {
+              "text": "Producir movimiento",
+              "isCorrect": false,
+              "rationale": "Los músculos producen movimiento."
+            },
+            {
+              "text": "Producir líquido sinovial",
+              "isCorrect": false,
+              "rationale": "Eso es función de la sinovial."
+            },
+            {
+              "text": "Nutrir el cartílago",
+              "isCorrect": false,
+              "rationale": "No es su función."
+            }
+          ],
+          "hint": "Dan 'estabilidad' a la articulación..."
+        },
+        {
+          "question": "¿Qué tipos de ligamentos hay según su elasticidad?",
+          "options": [
+            {
+              "text": "Ligamentos fibrosos (prácticamente inextensibles) y ligamentos elásticos (más extensibles)",
+              "isCorrect": true,
+              "rationale": "Hay ligamentos fibrosos, prácticamente inextensibles, cuya extensión limita el movimiento. Hay ligamentos elásticos, algo más extensibles."
+            },
+            {
+              "text": "Solo ligamentos fibrosos",
+              "isCorrect": false,
+              "rationale": "También hay elásticos."
+            },
+            {
+              "text": "Solo ligamentos elásticos",
+              "isCorrect": false,
+              "rationale": "También hay fibrosos."
+            },
+            {
+              "text": "No hay clasificación por elasticidad",
+              "isCorrect": false,
+              "rationale": "Sí hay dos tipos."
+            }
+          ],
+          "hint": "Unos son 'rígidos' y otros se pueden estirar algo..."
+        },
+        {
+          "question": "¿Qué ejemplo caracteriza a los ligamentos elásticos?",
+          "options": [
+            {
+              "text": "Los ligamentos amarillos de las articulaciones vertebrales",
+              "isCorrect": true,
+              "rationale": "Ejemplo de ligamentos elásticos son los ligamentos amarillos de las articulaciones vertebrales."
+            },
+            {
+              "text": "El ligamento cruzado de la rodilla",
+              "isCorrect": false,
+              "rationale": "Ese es fibroso."
+            },
+            {
+              "text": "El ligamento lateral del codo",
+              "isCorrect": false,
+              "rationale": "Ese es fibroso."
+            },
+            {
+              "text": "El ligamento de la cabeza del fémur",
+              "isCorrect": false,
+              "rationale": "Ese es fibroso."
+            }
+          ],
+          "hint": "Son los 'amarillos' de la columna..."
+        },
+        {
+          "question": "¿Qué ocurre con los ligamentos con la edad?",
+          "options": [
+            {
+              "text": "Pierden elasticidad y flexibilidad, volviéndose más rígidos con tendencia a acortarse",
+              "isCorrect": true,
+              "rationale": "Con la edad, los ligamentos pierden su elasticidad y flexibilidad volviéndose más rígidos y con mayor tendencia a acortarse."
+            },
+            {
+              "text": "Se vuelven más elásticos",
+              "isCorrect": false,
+              "rationale": "Pierden elasticidad."
+            },
+            {
+              "text": "No cambian",
+              "isCorrect": false,
+              "rationale": "Sí cambian con la edad."
+            },
+            {
+              "text": "Desaparecen",
+              "isCorrect": false,
+              "rationale": "Se vuelven más rígidos."
+            }
+          ],
+          "hint": "Se ponen más 'rígidos' y menos flexibles..."
+        },
+        {
+          "question": "¿Qué ayuda a mantener la flexibilidad de los ligamentos en edad avanzada?",
+          "options": [
+            {
+              "text": "El ejercicio físico tiende a mantener la flexibilidad",
+              "isCorrect": true,
+              "rationale": "El ejercicio físico tiende a mantener la flexibilidad aun en individuos de edad avanzada."
+            },
+            {
+              "text": "El reposo absoluto",
+              "isCorrect": false,
+              "rationale": "El ejercicio ayuda a mantener la flexibilidad."
+            },
+            {
+              "text": "No se puede mantener",
+              "isCorrect": false,
+              "rationale": "El ejercicio ayuda."
+            },
+            {
+              "text": "Solo la medicación",
+              "isCorrect": false,
+              "rationale": "El ejercicio es clave."
+            }
+          ],
+          "hint": "Mantenerse activo ayuda..."
+        },
+        {
+          "question": "¿Qué son los músculos yuxtaarticulares?",
+          "options": [
+            {
+              "text": "Músculos que se aplican a la cápsula y actúan como 'ligamentos activos'",
+              "isCorrect": true,
+              "rationale": "La cápsula está cubierta por un tejido conectivo periarticular al cual se aplican músculos. Se los denomina músculos yuxtaarticulares y desempeñan una acción de 'ligamentos activos'."
+            },
+            {
+              "text": "Músculos dentro de la articulación",
+              "isCorrect": false,
+              "rationale": "Están alrededor de la articulación."
+            },
+            {
+              "text": "Ligamentos verdaderos",
+              "isCorrect": false,
+              "rationale": "Son músculos que actúan como ligamentos."
+            },
+            {
+              "text": "Partes del cartílago",
+              "isCorrect": false,
+              "rationale": "Son músculos."
+            }
+          ],
+          "hint": "Son músculos que 'refuerzan' la articulación..."
+        },
+        {
+          "question": "¿Qué es la membrana sinovial?",
+          "options": [
+            {
+              "text": "Membrana delgada que tapiza la cápsula articular por su superficie interior",
+              "isCorrect": true,
+              "rationale": "La sinovial es una membrana delgada que tapiza la cápsula articular por su superficie interior."
+            },
+            {
+              "text": "La cápsula fibrosa",
+              "isCorrect": false,
+              "rationale": "La sinovial está dentro de la cápsula fibrosa."
+            },
+            {
+              "text": "El cartílago articular",
+              "isCorrect": false,
+              "rationale": "Es una membrana diferente."
+            },
+            {
+              "text": "El líquido dentro de la articulación",
+              "isCorrect": false,
+              "rationale": "Es la membrana que produce el líquido."
+            }
+          ],
+          "hint": "Es la 'pared interna' de la articulación..."
+        },
+        {
+          "question": "¿Dónde se inserta la membrana sinovial?",
+          "options": [
+            {
+              "text": "En el contorno del revestimiento cartilaginoso de las superficies articulares",
+              "isCorrect": true,
+              "rationale": "La sinovial se inserta por sus extremos en el contorno del revestimiento cartilaginoso de las superficies articulares."
+            },
+            {
+              "text": "En el centro del hueso",
+              "isCorrect": false,
+              "rationale": "Se inserta en el borde del cartílago."
+            },
+            {
+              "text": "En los ligamentos",
+              "isCorrect": false,
+              "rationale": "Se inserta en el contorno del cartílago."
+            },
+            {
+              "text": "En el periostio",
+              "isCorrect": false,
+              "rationale": "Se inserta en el contorno del cartílago."
+            }
+          ],
+          "hint": "Se fija donde termina el cartílago articular..."
+        },
+        {
+          "question": "¿Qué origen embriológico comparte la sinovial con el cartílago articular?",
+          "options": [
+            {
+              "text": "Comparten el mismo origen embriológico",
+              "isCorrect": true,
+              "rationale": "La sinovial se inserta en el contorno del revestimiento cartilaginoso, con el que comparte su origen embriológico."
+            },
+            {
+              "text": "Tienen orígenes diferentes",
+              "isCorrect": false,
+              "rationale": "Comparten origen embriológico."
+            },
+            {
+              "text": "La sinovial no tiene relación con el cartílago",
+              "isCorrect": false,
+              "rationale": "Comparten origen."
+            },
+            {
+              "text": "Solo en algunas articulaciones",
+              "isCorrect": false,
+              "rationale": "Siempre comparten origen."
+            }
+          ],
+          "hint": "Se desarrollan 'juntos' desde el embrión..."
+        },
+        {
+          "question": "¿Qué es un receso articular?",
+          "options": [
+            {
+              "text": "Cuando la sinovial tapiza una superficie ósea entre la cápsula y el cartílago",
+              "isCorrect": true,
+              "rationale": "Cuando la cápsula se inserta a distancia de la superficie articular, la sinovial tapiza toda la superficie ósea interpuesta, reflejándose a partir de la cápsula y formando un receso articular."
+            },
+            {
+              "text": "Una cavidad dentro del hueso",
+              "isCorrect": false,
+              "rationale": "Es un espacio dentro de la articulación."
+            },
+            {
+              "text": "Una depresión en el cartílago",
+              "isCorrect": false,
+              "rationale": "Es un espacio sinovial."
+            },
+            {
+              "text": "Un agujero en la cápsula",
+              "isCorrect": false,
+              "rationale": "Es un espacio formado por la sinovial."
+            }
+          ],
+          "hint": "Es como un 'bolsillo' de la membrana sinovial..."
+        },
+        {
+          "question": "¿Qué son los pliegues sinoviales?",
+          "options": [
+            {
+              "text": "Prolongaciones de la sinovial que rellenan los espacios libres de la articulación",
+              "isCorrect": true,
+              "rationale": "La sinovial presenta, a veces, prolongaciones de volumen variable en el interior de la articulación. Se las denomina pliegues sinoviales y se encuentran frente a las interlíneas articulares rellenando los espacios libres."
+            },
+            {
+              "text": "Pliegues del cartílago",
+              "isCorrect": false,
+              "rationale": "Son pliegues de la sinovial."
+            },
+            {
+              "text": "Pliegues de la cápsula fibrosa",
+              "isCorrect": false,
+              "rationale": "Son de la sinovial."
+            },
+            {
+              "text": "Fracturas",
+              "isCorrect": false,
+              "rationale": "Son estructuras normales."
+            }
+          ],
+          "hint": "Son 'dobles' de la membrana que llenan espacios..."
+        },
+        {
+          "question": "¿Qué característica vascular tiene la sinovial?",
+          "options": [
+            {
+              "text": "Es la parte más ricamente vascularizada de la articulación",
+              "isCorrect": true,
+              "rationale": "La sinovial es la parte más ricamente vascularizada de la articulación."
+            },
+            {
+              "text": "No tiene vascularización",
+              "isCorrect": false,
+              "rationale": "Muy vascularizada."
+            },
+            {
+              "text": "Tiene poca vascularización",
+              "isCorrect": false,
+              "rationale": "Es la más vascularizada."
+            },
+            {
+              "text": "Solo tiene vasos linfáticos",
+              "isCorrect": false,
+              "rationale": "Tiene abundantes vasos sanguíneos."
+            }
+          ],
+          "hint": "Tiene 'mucha sangre' comparada con el resto..."
+        },
+        {
+          "question": "¿Qué secreta la membrana sinovial?",
+          "options": [
+            {
+              "text": "Líquido sinovial",
+              "isCorrect": true,
+              "rationale": "La sinovial secrega líquido sinovial."
+            },
+            {
+              "text": "Cartílago",
+              "isCorrect": false,
+              "rationale": "Segrega líquido."
+            },
+            {
+              "text": "Hueso",
+              "isCorrect": false,
+              "rationale": "Segrega líquido."
+            },
+            {
+              "text": "Ligamentos",
+              "isCorrect": false,
+              "rationale": "Segrega líquido."
+            }
+          ],
+          "hint": "Produce el 'lubricante' de la articulación..."
+        },
+        {
+          "question": "¿Qué es el líquido sinovial?",
+          "options": [
+            {
+              "text": "Líquido transparente constituido por agua, materias proteicas, mucina, grasas y sales minerales",
+              "isCorrect": true,
+              "rationale": "El líquido sinovial es un líquido transparente que existe en escasa cantidad en estado normal. Se encuentra constituido por agua, materias proteicas, algo de mucina, trazas de grasas y sales minerales."
+            },
+            {
+              "text": "Solo agua",
+              "isCorrect": false,
+              "rationale": "Tiene más componentes."
+            },
+            {
+              "text": "Sangre",
+              "isCorrect": false,
+              "rationale": "No es sangre."
+            },
+            {
+              "text": "Linfa",
+              "isCorrect": false,
+              "rationale": "No es linfa."
+            }
+          ],
+          "hint": "Es un líquido 'complejo' con varios componentes..."
+        },
+        {
+          "question": "¿Qué células se pueden observar en el líquido sinovial?",
+          "options": [
+            {
+              "text": "Células deterioradas y descamadas del cartílago y de la sinovial",
+              "isCorrect": true,
+              "rationale": "En el líquido sinovial también se observan células deterioradas y descamadas del cartílago y de la sinovial."
+            },
+            {
+              "text": "Solo glóbulos rojos",
+              "isCorrect": false,
+              "rationale": "Hay células descamadas del cartílago y sinovial."
+            },
+            {
+              "text": "Solo glóbulos blancos",
+              "isCorrect": false,
+              "rationale": "Hay células descamadas del cartílago y sinovial."
+            },
+            {
+              "text": "No hay células",
+              "isCorrect": false,
+              "rationale": "Hay células descamadas."
+            }
+          ],
+          "hint": "Tiene 'restos' de células del cartílago y la sinovial..."
+        },
+        {
+          "question": "¿Por qué es vulnerable la sinovial?",
+          "options": [
+            {
+              "text": "Es sensible a infecciones (artritis septicémicas) y a modificaciones del medio interno (reumatismo, gota)",
+              "isCorrect": true,
+              "rationale": "Constituye una porción vulnerable de la articulación. Es sensible a las infecciones aportadas por la sangre (artritis septicémicas) o a las modificaciones del medio interno (reumatismo, gota)."
+            },
+            {
+              "text": "No es vulnerable",
+              "isCorrect": false,
+              "rationale": "Sí es vulnerable."
+            },
+            {
+              "text": "Solo a traumatismos",
+              "isCorrect": false,
+              "rationale": "También a infecciones y enfermedades sistémicas."
+            },
+            {
+              "text": "Porque no tiene vascularización",
+              "isCorrect": false,
+              "rationale": "Tiene mucha vascularización."
+            }
+          ],
+          "hint": "Puede afectarse por infecciones y enfermedades sistémicas..."
+        },
+        {
+          "question": "¿Qué provocan los traumatismos que desgarran la sinovial?",
+          "options": [
+            {
+              "text": "Hemorragias intraarticulares (hemartrosis)",
+              "isCorrect": true,
+              "rationale": "Los traumatismos que la desgarran provocan hemorragias intraarticulares (hemartrosis)."
+            },
+            {
+              "text": "Solo dolor",
+              "isCorrect": false,
+              "rationale": "Provocan hemartrosis."
+            },
+            {
+              "text": "Nada",
+              "isCorrect": false,
+              "rationale": "Provocan hemartrosis."
+            },
+            {
+              "text": "Aumento del líquido sinovial",
+              "isCorrect": false,
+              "rationale": "Provocan hemartrosis."
+            }
+          ],
+          "hint": "Sangrado dentro de la articulación..."
+        },
+        {
+          "question": "¿Qué consecuencias tienen las alteraciones de la sinovial?",
+          "options": [
+            {
+              "text": "Repercuten siempre sobre el movimiento articular (dolor, rigidez)",
+              "isCorrect": true,
+              "rationale": "Las alteraciones que asientan en la sinovial repercuten siempre sobre el movimiento articular (dolor, rigidez)."
+            },
+            {
+              "text": "No afectan el movimiento",
+              "isCorrect": false,
+              "rationale": "Sí afectan el movimiento."
+            },
+            {
+              "text": "Solo afectan la piel",
+              "isCorrect": false,
+              "rationale": "Afectan la articulación."
+            },
+            {
+              "text": "No tienen consecuencias",
+              "isCorrect": false,
+              "rationale": "Causan dolor y rigidez."
+            }
+          ],
+          "hint": "Dolor y rigidez son síntomas típicos..."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "nombre": "Mecánica Articular",
+      "preguntas": 21,
+      "data": [
+        {
+          "question": "¿Qué son las palancas en el contexto del aparato locomotor?",
+          "options": [
+            {
+              "text": "Las piezas del esqueleto que poseen un punto de apoyo, una potencia y una resistencia",
+              "isCorrect": true,
+              "rationale": "Las diversas piezas del esqueleto son semejantes a palancas y poseen como ellas un punto de apoyo, una potencia y una resistencia."
+            },
+            {
+              "text": "Solo los músculos",
+              "isCorrect": false,
+              "rationale": "Los huesos funcionan como palancas."
+            },
+            {
+              "text": "Las articulaciones",
+              "isCorrect": false,
+              "rationale": "Los huesos son las palancas."
+            },
+            {
+              "text": "Los tendones",
+              "isCorrect": false,
+              "rationale": "Los huesos funcionan como palancas."
+            }
+          ],
+          "hint": "Los 'huesos' funcionan como barras de palanca..."
+        },
+        {
+          "question": "¿Qué es el punto de apoyo en una palanca del cuerpo?",
+          "options": [
+            {
+              "text": "El punto inmóvil en torno del cual gira la palanca: la articulación",
+              "isCorrect": true,
+              "rationale": "El punto de apoyo es el punto inmóvil en torno del cual gira la palanca. En el hombre lo constituye la articulación."
+            },
+            {
+              "text": "El músculo",
+              "isCorrect": false,
+              "rationale": "El músculo es la potencia."
+            },
+            {
+              "text": "El peso del cuerpo",
+              "isCorrect": false,
+              "rationale": "Eso puede ser la resistencia."
+            },
+            {
+              "text": "El hueso",
+              "isCorrect": false,
+              "rationale": "El hueso es la palanca."
+            }
+          ],
+          "hint": "Es donde la palanca se 'apoya' para girar..."
+        },
+        {
+          "question": "¿Qué es la potencia en una palanca del cuerpo?",
+          "options": [
+            {
+              "text": "La fuerza que impulsa a la palanca a desplazarse: el músculo",
+              "isCorrect": true,
+              "rationale": "La potencia es la fuerza que impulsa a la palanca a desplazarse, está representada por el músculo o los músculos que se insertan en ella."
+            },
+            {
+              "text": "La articulación",
+              "isCorrect": false,
+              "rationale": "Esa es el punto de apoyo."
+            },
+            {
+              "text": "El peso a levantar",
+              "isCorrect": false,
+              "rationale": "Eso es la resistencia."
+            },
+            {
+              "text": "El hueso",
+              "isCorrect": false,
+              "rationale": "El hueso es la palanca."
+            }
+          ],
+          "hint": "Es la 'fuerza' que mueve la palanca..."
+        },
+        {
+          "question": "¿Qué es la resistencia en una palanca del cuerpo?",
+          "options": [
+            {
+              "text": "La fuerza que se debe vencer",
+              "isCorrect": true,
+              "rationale": "La resistencia es la fuerza que se debe vencer."
+            },
+            {
+              "text": "El músculo",
+              "isCorrect": false,
+              "rationale": "Ese es la potencia."
+            },
+            {
+              "text": "La articulación",
+              "isCorrect": false,
+              "rationale": "Ese es el punto de apoyo."
+            },
+            {
+              "text": "El tendón",
+              "isCorrect": false,
+              "rationale": "Es la fuerza a vencer."
+            }
+          ],
+          "hint": "Es lo que hay que 'mover o levantar'..."
+        },
+        {
+          "question": "En la flexión del antebrazo, ¿qué constituye la palanca?",
+          "options": [
+            {
+              "text": "Los dos huesos del antebrazo",
+              "isCorrect": true,
+              "rationale": "En el movimiento de flexión del antebrazo sobre el brazo, la palanca está constituida por los dos huesos del antebrazo."
+            },
+            {
+              "text": "El bíceps",
+              "isCorrect": false,
+              "rationale": "El bíceps es la potencia."
+            },
+            {
+              "text": "El codo",
+              "isCorrect": false,
+              "rationale": "El codo es el punto de apoyo."
+            },
+            {
+              "text": "La mano",
+              "isCorrect": false,
+              "rationale": "La mano es parte de la resistencia."
+            }
+          ],
+          "hint": "Son los huesos que se mueven..."
+        },
+        {
+          "question": "En la flexión del antebrazo, ¿qué es el punto de apoyo?",
+          "options": [
+            {
+              "text": "La articulación del codo",
+              "isCorrect": true,
+              "rationale": "En la flexión del antebrazo, el punto de apoyo es la articulación del codo."
+            },
+            {
+              "text": "El bíceps",
+              "isCorrect": false,
+              "rationale": "Ese es la potencia."
+            },
+            {
+              "text": "El antebrazo",
+              "isCorrect": false,
+              "rationale": "Ese es la palanca."
+            },
+            {
+              "text": "La mano",
+              "isCorrect": false,
+              "rationale": "Esa es parte de la resistencia."
+            }
+          ],
+          "hint": "Es la articulación que no se mueve..."
+        },
+        {
+          "question": "En la flexión del antebrazo, ¿qué representa la potencia?",
+          "options": [
+            {
+              "text": "Los músculos bíceps braquial y braquial",
+              "isCorrect": true,
+              "rationale": "En la flexión del antebrazo, la potencia agrupa los músculos bíceps braquial y braquial."
+            },
+            {
+              "text": "El antebrazo",
+              "isCorrect": false,
+              "rationale": "Ese es la palanca."
+            },
+            {
+              "text": "El codo",
+              "isCorrect": false,
+              "rationale": "Ese es el punto de apoyo."
+            },
+            {
+              "text": "La mano",
+              "isCorrect": false,
+              "rationale": "Esa es parte de la resistencia."
+            }
+          ],
+          "hint": "Son los músculos que 'jalan'..."
+        },
+        {
+          "question": "En la flexión del antebrazo, ¿qué representa la resistencia?",
+          "options": [
+            {
+              "text": "El antebrazo, la mano y lo que ésta debe levantar",
+              "isCorrect": true,
+              "rationale": "En la flexión del antebrazo, la resistencia está representada por el antebrazo, la mano y lo que ésta debe levantar."
+            },
+            {
+              "text": "Solo la mano",
+              "isCorrect": false,
+              "rationale": "Incluye antebrazo y lo que se levanta."
+            },
+            {
+              "text": "El bíceps",
+              "isCorrect": false,
+              "rationale": "Ese es la potencia."
+            },
+            {
+              "text": "El codo",
+              "isCorrect": false,
+              "rationale": "Ese es el punto de apoyo."
+            }
+          ],
+          "hint": "Es todo lo que hay que 'levantar'..."
+        },
+        {
+          "question": "¿Cuántos géneros de palanca se distinguen?",
+          "options": [
+            {
+              "text": "Tres géneros: primer género, segundo género y tercer género",
+              "isCorrect": true,
+              "rationale": "De acuerdo con la ubicación del punto de apoyo y de los puntos de aplicación de la potencia y de la resistencia se distinguen tres géneros de palanca."
+            },
+            {
+              "text": "Dos géneros",
+              "isCorrect": false,
+              "rationale": "Son tres géneros."
+            },
+            {
+              "text": "Cuatro géneros",
+              "isCorrect": false,
+              "rationale": "Son tres géneros."
+            },
+            {
+              "text": "Cinco géneros",
+              "isCorrect": false,
+              "rationale": "Son tres géneros."
+            }
+          ],
+          "hint": "Son tres tipos según la disposición de los elementos..."
+        },
+        {
+          "question": "¿Qué caracteriza a la palanca de primer género?",
+          "options": [
+            {
+              "text": "El punto de apoyo (A) está situado entre la resistencia (R) y la potencia (P)",
+              "isCorrect": true,
+              "rationale": "La palanca de primer género es aquella en la que el punto de apoyo (A) está situado entre el punto de aplicación de la resistencia (R) y el de la potencia (P)."
+            },
+            {
+              "text": "La resistencia está entre el apoyo y la potencia",
+              "isCorrect": false,
+              "rationale": "Esa es de segundo género."
+            },
+            {
+              "text": "La potencia está entre el apoyo y la resistencia",
+              "isCorrect": false,
+              "rationale": "Esa es de tercer género."
+            },
+            {
+              "text": "No hay punto de apoyo",
+              "isCorrect": false,
+              "rationale": "Siempre hay punto de apoyo."
+            }
+          ],
+          "hint": "El apoyo está 'en el medio'..."
+        },
+        {
+          "question": "¿Qué ejemplo de palanca de primer género hay en el cuerpo?",
+          "options": [
+            {
+              "text": "La articulación de la cabeza con la columna vertebral",
+              "isCorrect": true,
+              "rationale": "La articulación de la cabeza con la columna vertebral proporciona un ejemplo de palanca de primer género."
+            },
+            {
+              "text": "Levantarse sobre las puntas de los pies",
+              "isCorrect": false,
+              "rationale": "Eso es de segundo género."
+            },
+            {
+              "text": "La flexión del antebrazo",
+              "isCorrect": false,
+              "rationale": "Eso es de tercer género."
+            },
+            {
+              "text": "La masticación",
+              "isCorrect": false,
+              "rationale": "Eso es de tercer género."
+            }
+          ],
+          "hint": "Está en el cuello, mueve la cabeza..."
+        },
+        {
+          "question": "¿Qué caracteriza a la palanca de segundo género?",
+          "options": [
+            {
+              "text": "La resistencia (R) está situada entre el punto de apoyo (A) y la potencia (P)",
+              "isCorrect": true,
+              "rationale": "La palanca de segundo género es aquella en la que el punto de aplicación de la resistencia (R) está situado entre el punto de apoyo (A) y la aplicación de la potencia (P)."
+            },
+            {
+              "text": "El apoyo está entre la resistencia y la potencia",
+              "isCorrect": false,
+              "rationale": "Esa es de primer género."
+            },
+            {
+              "text": "La potencia está entre el apoyo y la resistencia",
+              "isCorrect": false,
+              "rationale": "Esa es de tercer género."
+            },
+            {
+              "text": "No hay resistencia",
+              "isCorrect": false,
+              "rationale": "Siempre hay resistencia."
+            }
+          ],
+          "hint": "La resistencia está 'en el medio'..."
+        },
+        {
+          "question": "¿Qué ejemplo de palanca de segundo género hay en el cuerpo?",
+          "options": [
+            {
+              "text": "Levantarse sobre las puntas de los pies (elevación del talón)",
+              "isCorrect": true,
+              "rationale": "Es lo que sucede cuando se levanta el talón, elevándose sobre las puntas de los pies."
+            },
+            {
+              "text": "La articulación de la cabeza con la columna",
+              "isCorrect": false,
+              "rationale": "Esa es de primer género."
+            },
+            {
+              "text": "La flexión del antebrazo",
+              "isCorrect": false,
+              "rationale": "Esa es de tercer género."
+            },
+            {
+              "text": "La rotación del cuello",
+              "isCorrect": false,
+              "rationale": "Esa es de primer género."
+            }
+          ],
+          "hint": "Es cuando te ponés en 'puntillas'..."
+        },
+        {
+          "question": "¿Qué caracteriza a la palanca de tercer género?",
+          "options": [
+            {
+              "text": "La potencia (P) está aplicada entre el punto de apoyo (A) y la resistencia (R)",
+              "isCorrect": true,
+              "rationale": "La palanca de tercer género es aquella en la que se encuentra una potencia (P) aplicada entre el punto de apoyo (A) y el punto de aplicación de la resistencia (R)."
+            },
+            {
+              "text": "El apoyo está entre la resistencia y la potencia",
+              "isCorrect": false,
+              "rationale": "Esa es de primer género."
+            },
+            {
+              "text": "La resistencia está entre el apoyo y la potencia",
+              "isCorrect": false,
+              "rationale": "Esa es de segundo género."
+            },
+            {
+              "text": "No hay potencia",
+              "isCorrect": false,
+              "rationale": "Siempre hay potencia."
+            }
+          ],
+          "hint": "La potencia está 'en el medio'..."
+        },
+        {
+          "question": "¿Qué tipo de palanca es el más numeroso en el organismo?",
+          "options": [
+            {
+              "text": "La palanca de tercer género, particularmente en los miembros",
+              "isCorrect": true,
+              "rationale": "La palanca de tercer género es el más numeroso en el organismo, en particular en los miembros."
+            },
+            {
+              "text": "La de primer género",
+              "isCorrect": false,
+              "rationale": "Es la menos común."
+            },
+            {
+              "text": "La de segundo género",
+              "isCorrect": false,
+              "rationale": "Es menos común que la de tercer género."
+            },
+            {
+              "text": "Todas son igual de comunes",
+              "isCorrect": false,
+              "rationale": "La de tercer género es la más común."
+            }
+          ],
+          "hint": "La mayoría de las palancas del cuerpo son de este tipo..."
+        },
+        {
+          "question": "¿Qué ejemplo de palanca de tercer género hay en el cuerpo?",
+          "options": [
+            {
+              "text": "La flexión del antebrazo sobre el brazo",
+              "isCorrect": true,
+              "rationale": "La flexión del antebrazo sobre el brazo es un ejemplo de palanca de tercer género."
+            },
+            {
+              "text": "La articulación de la cabeza con la columna",
+              "isCorrect": false,
+              "rationale": "Esa es de primer género."
+            },
+            {
+              "text": "Levantarse sobre las puntas de los pies",
+              "isCorrect": false,
+              "rationale": "Eso es de segundo género."
+            },
+            {
+              "text": "La extensión de la columna",
+              "isCorrect": false,
+              "rationale": "Esa es de primer género."
+            }
+          ],
+          "hint": "Es el ejemplo clásico del codo..."
+        },
+        {
+          "question": "¿Qué permiten las nociones de mecánica de palancas?",
+          "options": [
+            {
+              "text": "Interpretar la acción de los músculos cuando se conocen sus inserciones y relaciones articulares",
+              "isCorrect": true,
+              "rationale": "Las nociones elementales de mecánica precedentes permiten interpretar la acción de los músculos: cuando se conocen sus inserciones y sus relaciones articulares es fácil prever su acción."
+            },
+            {
+              "text": "Diagnosticar enfermedades",
+              "isCorrect": false,
+              "rationale": "No es su función principal."
+            },
+            {
+              "text": "Medir la fuerza muscular",
+              "isCorrect": false,
+              "rationale": "Permiten entender la acción muscular."
+            },
+            {
+              "text": "Determinar el peso del cuerpo",
+              "isCorrect": false,
+              "rationale": "Permiten entender la mecánica del movimiento."
+            }
+          ],
+          "hint": "Ayudan a 'predecir' qué hace cada músculo..."
+        },
+        {
+          "question": "¿Qué tipos de músculos se pueden identificar según su acción?",
+          "options": [
+            {
+              "text": "Flexores, extensores, rotadores (mediales o laterales), abductores o aductores",
+              "isCorrect": true,
+              "rationale": "Por las nociones de mecánica se habla de músculos flexores, extensores, rotadores (mediales o laterales), abductores o aductores."
+            },
+            {
+              "text": "Solo flexores y extensores",
+              "isCorrect": false,
+              "rationale": "Hay más tipos."
+            },
+            {
+              "text": "Solo abductores y aductores",
+              "isCorrect": false,
+              "rationale": "Hay más tipos."
+            },
+            {
+              "text": "Solo rotadores",
+              "isCorrect": false,
+              "rationale": "Hay más tipos."
+            }
+          ],
+          "hint": "Hay varios tipos según el movimiento que producen..."
+        },
+        {
+          "question": "¿Qué son los 'ligamentos activos'?",
+          "options": [
+            {
+              "text": "Músculos periarticulares que mantienen las superficies articulares en contacto",
+              "isCorrect": true,
+              "rationale": "Algunos músculos periarticulares actúan sobre las superficies articulares manteniéndolas en contacto y reforzando la acción puramente pasiva de los ligamentos fibrosos; ellos se comportan así como verdaderos ligamentos activos."
+            },
+            {
+              "text": "Ligamentos más fuertes",
+              "isCorrect": false,
+              "rationale": "Son músculos que actúan como ligamentos."
+            },
+            {
+              "text": "Ligamentos elásticos",
+              "isCorrect": false,
+              "rationale": "Son músculos."
+            },
+            {
+              "text": "Tendones",
+              "isCorrect": false,
+              "rationale": "Son músculos periarticulares."
+            }
+          ],
+          "hint": "Son músculos que 'estabilizan' la articulación..."
+        },
+        {
+          "question": "¿En qué articulación es notable la acción de los 'ligamentos activos'?",
+          "options": [
+            {
+              "text": "En la articulación escapulohumeral (hombro)",
+              "isCorrect": true,
+              "rationale": "Esto es notable sobre todo en la articulación escapulohumeral."
+            },
+            {
+              "text": "En la cadera",
+              "isCorrect": false,
+              "rationale": "Es más notable en el hombro."
+            },
+            {
+              "text": "En la rodilla",
+              "isCorrect": false,
+              "rationale": "Es más notable en el hombro."
+            },
+            {
+              "text": "En el codo",
+              "isCorrect": false,
+              "rationale": "Es más notable en el hombro."
+            }
+          ],
+          "hint": "En el hombro, donde hay poca estabilidad ósea..."
+        },
+        {
+          "question": "¿Qué propiedad tiene cada músculo considerado de manera aislada?",
+          "options": [
+            {
+              "text": "Posee una acción que le es propia",
+              "isCorrect": true,
+              "rationale": "Cada músculo considerado de manera aislada posee una acción que le es propia."
+            },
+            {
+              "text": "Todos tienen la misma acción",
+              "isCorrect": false,
+              "rationale": "Cada uno tiene su acción propia."
+            },
+            {
+              "text": "No tienen acción propia",
+              "isCorrect": false,
+              "rationale": "Cada uno tiene su acción."
+            },
+            {
+              "text": "Solo actúan en grupo",
+              "isCorrect": false,
+              "rationale": "Tienen acción individual."
+            }
+          ],
+          "hint": "Cada músculo tiene su 'función específica'..."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "nombre": "Movimientos Simples",
+      "preguntas": 23,
+      "data": [
+        {
+          "question": "¿Qué es la flexión como movimiento articular?",
+          "options": [
+            {
+              "text": "La reducción o disminución del ángulo formado entre huesos o partes del cuerpo",
+              "isCorrect": true,
+              "rationale": "La flexión indica la reducción o disminución del ángulo formado entre huesos o partes del cuerpo."
+            },
+            {
+              "text": "El aumento del ángulo",
+              "isCorrect": false,
+              "rationale": "Eso es la extensión."
+            },
+            {
+              "text": "El alejamiento del plano sagital",
+              "isCorrect": false,
+              "rationale": "Eso es la abducción."
+            },
+            {
+              "text": "La rotación sobre el eje longitudinal",
+              "isCorrect": false,
+              "rationale": "Eso es la rotación."
+            }
+          ],
+          "hint": "Es 'cerrar' el ángulo entre dos segmentos..."
+        },
+        {
+          "question": "¿Qué determina generalmente el movimiento de flexión?",
+          "options": [
+            {
+              "text": "El acortamiento de la distancia entre los extremos alejados de los segmentos articulados",
+              "isCorrect": true,
+              "rationale": "Este movimiento determina, en general, el acortamiento de la distancia entre los extremos alejados de los segmentos articulados."
+            },
+            {
+              "text": "El alargamiento de la distancia",
+              "isCorrect": false,
+              "rationale": "Acorta la distancia."
+            },
+            {
+              "text": "No cambia la distancia",
+              "isCorrect": false,
+              "rationale": "Acorta la distancia."
+            },
+            {
+              "text": "La rotación del segmento",
+              "isCorrect": false,
+              "rationale": "Acorta la distancia."
+            }
+          ],
+          "hint": "Los extremos se 'acercan'..."
+        },
+        {
+          "question": "¿En qué plano se desplaza el segmento flexionado?",
+          "options": [
+            {
+              "text": "En un plano sagital, alrededor de un eje transverso",
+              "isCorrect": true,
+              "rationale": "El segmento flexionado se desplaza en un plano sagital y su extremo articular gira alrededor de un eje transverso."
+            },
+            {
+              "text": "En un plano coronal",
+              "isCorrect": false,
+              "rationale": "Es en plano sagital."
+            },
+            {
+              "text": "En un plano horizontal",
+              "isCorrect": false,
+              "rationale": "Es en plano sagital."
+            },
+            {
+              "text": "En un plano oblicuo",
+              "isCorrect": false,
+              "rationale": "Es en plano sagital."
+            }
+          ],
+          "hint": "Es un movimiento 'adelante-atás' en el plano que divide el cuerpo en derecha e izquierda..."
+        },
+        {
+          "question": "¿Qué excepción hay para el eje de giro en la flexión?",
+          "options": [
+            {
+              "text": "En la flexión del pulgar el eje de giro es oblicuo",
+              "isCorrect": true,
+              "rationale": "El segmento flexionado gira alrededor de un eje transverso, excepto en la flexión del pulgar donde el eje de giro es oblicuo."
+            },
+            {
+              "text": "No hay excepciones",
+              "isCorrect": false,
+              "rationale": "El pulgar es una excepción."
+            },
+            {
+              "text": "En el codo el eje es diferente",
+              "isCorrect": false,
+              "rationale": "En el pulgar."
+            },
+            {
+              "text": "En la rodilla el eje es diferente",
+              "isCorrect": false,
+              "rationale": "En el pulgar."
+            }
+          ],
+          "hint": "Es en el dedo pulgar..."
+        },
+        {
+          "question": "¿Qué es la extensión como movimiento articular?",
+          "options": [
+            {
+              "text": "El enderezamiento o aumento del ángulo formado entre huesos o segmentos del cuerpo",
+              "isCorrect": true,
+              "rationale": "La extensión indica el enderezamiento o el aumento del ángulo formado entre huesos o segmentos del cuerpo."
+            },
+            {
+              "text": "La disminución del ángulo",
+              "isCorrect": false,
+              "rationale": "Eso es la flexión."
+            },
+            {
+              "text": "El alejamiento del plano sagital",
+              "isCorrect": false,
+              "rationale": "Eso es la abducción."
+            },
+            {
+              "text": "La rotación sobre el eje",
+              "isCorrect": false,
+              "rationale": "Eso es la rotación."
+            }
+          ],
+          "hint": "Es 'abrir' el ángulo entre dos segmentos..."
+        },
+        {
+          "question": "¿Qué relación tiene la extensión con la flexión?",
+          "options": [
+            {
+              "text": "Es el movimiento opuesto a la flexión",
+              "isCorrect": true,
+              "rationale": "La extensión es el movimiento opuesto a la flexión."
+            },
+            {
+              "text": "Es el mismo movimiento",
+              "isCorrect": false,
+              "rationale": "Son movimientos opuestos."
+            },
+            {
+              "text": "No tiene relación",
+              "isCorrect": false,
+              "rationale": "Son opuestos."
+            },
+            {
+              "text": "Es un movimiento independiente",
+              "isCorrect": false,
+              "rationale": "Son opuestos."
+            }
+          ],
+          "hint": "Van en 'direcciones contrarias'..."
+        },
+        {
+          "question": "¿Qué puede ocurrir con la distancia entre extremos en la extensión?",
+          "options": [
+            {
+              "text": "Puede haber un alargamiento de la distancia entre los extremos alejados",
+              "isCorrect": true,
+              "rationale": "En la extensión puede haber un alargamiento de la distancia entre los extremos alejados de los segmentos articulados."
+            },
+            {
+              "text": "Siempre se acorta",
+              "isCorrect": false,
+              "rationale": "Puede alargarse."
+            },
+            {
+              "text": "No cambia",
+              "isCorrect": false,
+              "rationale": "Puede alargarse."
+            },
+            {
+              "text": "Depende de la articulación",
+              "isCorrect": false,
+              "rationale": "Generalmente alarga."
+            }
+          ],
+          "hint": "Los extremos se 'alejan'..."
+        },
+        {
+          "question": "¿Qué es la abducción como movimiento articular?",
+          "options": [
+            {
+              "text": "El alejamiento del extremo no articular de un segmento del plano sagital mediano",
+              "isCorrect": true,
+              "rationale": "En el movimiento de abducción, el extremo no articular de un segmento se aleja del plano sagital mediano."
+            },
+            {
+              "text": "El acercamiento al plano sagital",
+              "isCorrect": false,
+              "rationale": "Eso es la aducción."
+            },
+            {
+              "text": "La disminución del ángulo",
+              "isCorrect": false,
+              "rationale": "Eso es la flexión."
+            },
+            {
+              "text": "La rotación sobre el eje",
+              "isCorrect": false,
+              "rationale": "Eso es la rotación."
+            }
+          ],
+          "hint": "Es 'separar' del centro del cuerpo..."
+        },
+        {
+          "question": "¿Qué otro nombre recibe la abducción?",
+          "options": [
+            {
+              "text": "Separación",
+              "isCorrect": true,
+              "rationale": "La abducción también es denominada separación."
+            },
+            {
+              "text": "Aproximación",
+              "isCorrect": false,
+              "rationale": "Eso es la aducción."
+            },
+            {
+              "text": "Flexión lateral",
+              "isCorrect": false,
+              "rationale": "Es otro movimiento."
+            },
+            {
+              "text": "Rotación",
+              "isCorrect": false,
+              "rationale": "Es otro movimiento."
+            }
+          ],
+          "hint": "Sinónimo de 'alejarse'..."
+        },
+        {
+          "question": "¿En qué plano se desplaza el segmento en la abducción?",
+          "options": [
+            {
+              "text": "En un plano coronal, alrededor de un eje sagital",
+              "isCorrect": true,
+              "rationale": "El segmento en movimiento se desplaza en un plano coronal y su extremo articular gira alrededor de un eje sagital."
+            },
+            {
+              "text": "En un plano sagital",
+              "isCorrect": false,
+              "rationale": "Es en plano coronal."
+            },
+            {
+              "text": "En un plano horizontal",
+              "isCorrect": false,
+              "rationale": "Es en plano coronal."
+            },
+            {
+              "text": "En un plano oblicuo",
+              "isCorrect": false,
+              "rationale": "Es en plano coronal."
+            }
+          ],
+          "hint": "Es un movimiento 'lateral' en el plano que divide el cuerpo en adelante y atrás..."
+        },
+        {
+          "question": "¿Qué excepción hay para el eje de la abducción?",
+          "options": [
+            {
+              "text": "En el ojo la abducción se realiza alrededor del eje vertical",
+              "isCorrect": true,
+              "rationale": "En la abducción el segmento gira alrededor de un eje sagital, excepto en el ojo donde se realiza alrededor del eje vertical."
+            },
+            {
+              "text": "No hay excepciones",
+              "isCorrect": false,
+              "rationale": "El ojo es una excepción."
+            },
+            {
+              "text": "En el pulgar",
+              "isCorrect": false,
+              "rationale": "En el ojo."
+            },
+            {
+              "text": "En el hombro",
+              "isCorrect": false,
+              "rationale": "En el ojo."
+            }
+          ],
+          "hint": "Es en el ojo..."
+        },
+        {
+          "question": "¿Qué es la aducción como movimiento articular?",
+          "options": [
+            {
+              "text": "El acercamiento hacia el plano sagital mediano",
+              "isCorrect": true,
+              "rationale": "El movimiento de aducción indica que se acerca hacia el plano sagital mediano."
+            },
+            {
+              "text": "El alejamiento del plano sagital",
+              "isCorrect": false,
+              "rationale": "Eso es la abducción."
+            },
+            {
+              "text": "La disminución del ángulo",
+              "isCorrect": false,
+              "rationale": "Eso es la flexión."
+            },
+            {
+              "text": "El aumento del ángulo",
+              "isCorrect": false,
+              "rationale": "Eso es la extensión."
+            }
+          ],
+          "hint": "Es 'acercarse' al centro del cuerpo..."
+        },
+        {
+          "question": "¿Qué otro nombre recibe la aducción?",
+          "options": [
+            {
+              "text": "Aproximación",
+              "isCorrect": true,
+              "rationale": "La aducción también es denominada aproximación."
+            },
+            {
+              "text": "Separación",
+              "isCorrect": false,
+              "rationale": "Eso es la abducción."
+            },
+            {
+              "text": "Flexión",
+              "isCorrect": false,
+              "rationale": "Es otro movimiento."
+            },
+            {
+              "text": "Rotación",
+              "isCorrect": false,
+              "rationale": "Es otro movimiento."
+            }
+          ],
+          "hint": "Sinónimo de 'acercarse'..."
+        },
+        {
+          "question": "¿Qué relación tiene la aducción con la abducción?",
+          "options": [
+            {
+              "text": "Es el movimiento opuesto a la abducción",
+              "isCorrect": true,
+              "rationale": "La aducción es el movimiento opuesto a la abducción."
+            },
+            {
+              "text": "Es el mismo movimiento",
+              "isCorrect": false,
+              "rationale": "Son opuestos."
+            },
+            {
+              "text": "No tiene relación",
+              "isCorrect": false,
+              "rationale": "Son opuestos."
+            },
+            {
+              "text": "Es un movimiento independiente",
+              "isCorrect": false,
+              "rationale": "Son opuestos."
+            }
+          ],
+          "hint": "Van en 'direcciones contrarias'..."
+        },
+        {
+          "question": "¿Qué es la rotación como movimiento articular?",
+          "options": [
+            {
+              "text": "El movimiento de un segmento alrededor de su eje longitudinal",
+              "isCorrect": true,
+              "rationale": "La rotación es el movimiento de un segmento alrededor de su eje longitudinal."
+            },
+            {
+              "text": "El movimiento de acercamiento al plano sagital",
+              "isCorrect": false,
+              "rationale": "Eso es la aducción."
+            },
+            {
+              "text": "El alejamiento del plano sagital",
+              "isCorrect": false,
+              "rationale": "Eso es la abducción."
+            },
+            {
+              "text": "La disminución del ángulo",
+              "isCorrect": false,
+              "rationale": "Eso es la flexión."
+            }
+          ],
+          "hint": "Es 'girar' sobre su propio eje..."
+        },
+        {
+          "question": "¿Cómo puede ser la rotación?",
+          "options": [
+            {
+              "text": "Medial o lateral, determinada por la dirección de la cara anterior del segmento que rota",
+              "isCorrect": true,
+              "rationale": "La rotación puede ser medial o lateral, determinada por la dirección de la cara anterior del segmento que rota."
+            },
+            {
+              "text": "Solo medial",
+              "isCorrect": false,
+              "rationale": "Puede ser medial o lateral."
+            },
+            {
+              "text": "Solo lateral",
+              "isCorrect": false,
+              "rationale": "Puede ser medial o lateral."
+            },
+            {
+              "text": "Solo anterior",
+              "isCorrect": false,
+              "rationale": "Puede ser medial o lateral."
+            }
+          ],
+          "hint": "Se nombra según hacia dónde 'mira' la parte de adelante..."
+        },
+        {
+          "question": "¿Qué es la flexión dorsal del pie?",
+          "options": [
+            {
+              "text": "El movimiento del tobillo que eleva el extremo anterior del pie",
+              "isCorrect": true,
+              "rationale": "La flexión dorsal del pie se trata del movimiento del tobillo que eleva el extremo anterior del pie, producido por el grupo de músculos extensores."
+            },
+            {
+              "text": "El movimiento que baja la punta del pie",
+              "isCorrect": false,
+              "rationale": "Eso es la flexión plantar."
+            },
+            {
+              "text": "El movimiento de girar el pie",
+              "isCorrect": false,
+              "rationale": "Es la elevación del extremo anterior."
+            },
+            {
+              "text": "El movimiento de separar el pie",
+              "isCorrect": false,
+              "rationale": "Es la elevación del extremo anterior."
+            }
+          ],
+          "hint": "Es 'levantar' la punta del pie hacia arriba..."
+        },
+        {
+          "question": "¿Qué otro nombre recibe la flexión dorsal del pie?",
+          "options": [
+            {
+              "text": "Dorsiflexión",
+              "isCorrect": true,
+              "rationale": "La flexión dorsal del pie también es denominada dorsiflexión."
+            },
+            {
+              "text": "Plantiflexión",
+              "isCorrect": false,
+              "rationale": "Eso es la flexión plantar."
+            },
+            {
+              "text": "Inversión",
+              "isCorrect": false,
+              "rationale": "Es otro movimiento."
+            },
+            {
+              "text": "Eversión",
+              "isCorrect": false,
+              "rationale": "Es otro movimiento."
+            }
+          ],
+          "hint": "Otro nombre para 'flexión dorsal'..."
+        },
+        {
+          "question": "¿Qué músculos producen la flexión dorsal del pie?",
+          "options": [
+            {
+              "text": "El grupo de músculos extensores (compartimento anterior de la pierna)",
+              "isCorrect": true,
+              "rationale": "La flexión dorsal del pie es producida por el grupo de músculos extensores (compartimento anterior de la pierna)."
+            },
+            {
+              "text": "El grupo de músculos flexores",
+              "isCorrect": false,
+              "rationale": "Esos producen la flexión plantar."
+            },
+            {
+              "text": "Los músculos de la pantorrilla",
+              "isCorrect": false,
+              "rationale": "Esos producen la flexión plantar."
+            },
+            {
+              "text": "Los músculos del pie",
+              "isCorrect": false,
+              "rationale": "Son los músculos anteriores de la pierna."
+            }
+          ],
+          "hint": "Están en la parte de 'adelante' de la pierna..."
+        },
+        {
+          "question": "¿Qué es la flexión plantar del pie?",
+          "options": [
+            {
+              "text": "El movimiento del tobillo que desciende el extremo anterior del pie",
+              "isCorrect": true,
+              "rationale": "La flexión plantar del pie es el movimiento del tobillo que desciende el extremo anterior del pie, producido por el grupo de músculos flexores."
+            },
+            {
+              "text": "El movimiento que eleva la punta del pie",
+              "isCorrect": false,
+              "rationale": "Eso es la flexión dorsal."
+            },
+            {
+              "text": "El movimiento de girar el pie",
+              "isCorrect": false,
+              "rationale": "Es el descenso del extremo anterior."
+            },
+            {
+              "text": "El movimiento de separar el pie",
+              "isCorrect": false,
+              "rationale": "Es el descenso del extremo anterior."
+            }
+          ],
+          "hint": "Es 'bajar' la punta del pie, como pararse en puntillas..."
+        },
+        {
+          "question": "¿Qué músculos producen la flexión plantar del pie?",
+          "options": [
+            {
+              "text": "El grupo de músculos flexores (compartimento posterior de la pierna)",
+              "isCorrect": true,
+              "rationale": "La flexión plantar del pie es producida por el grupo de músculos flexores (compartimento posterior de la pierna)."
+            },
+            {
+              "text": "El grupo de músculos extensores",
+              "isCorrect": false,
+              "rationale": "Esos producen la flexión dorsal."
+            },
+            {
+              "text": "Los músculos de la parte anterior",
+              "isCorrect": false,
+              "rationale": "Son los músculos posteriores."
+            },
+            {
+              "text": "Los músculos del pie",
+              "isCorrect": false,
+              "rationale": "Son los músculos posteriores de la pierna."
+            }
+          ],
+          "hint": "Están en la parte de 'atrás' de la pierna (pantorrilla)..."
+        },
+        {
+          "question": "¿Qué es la inclinación lateral?",
+          "options": [
+            {
+              "text": "Un movimiento de flexión o doblez hacia la derecha o hacia la izquierda de la columna vertebral o el cráneo",
+              "isCorrect": true,
+              "rationale": "La inclinación lateral indica un movimiento de flexión o doblez hacia la derecha o hacia la izquierda, de la columna vertebral o el cráneo."
+            },
+            {
+              "text": "La rotación de la columna",
+              "isCorrect": false,
+              "rationale": "Es un doblez lateral."
+            },
+            {
+              "text": "La extensión de la columna",
+              "isCorrect": false,
+              "rationale": "Es un doblez lateral."
+            },
+            {
+              "text": "La flexión hacia adelante",
+              "isCorrect": false,
+              "rationale": "Es un doblez hacia los lados."
+            }
+          ],
+          "hint": "Es 'inclinarse' hacia un lado u otro..."
+        },
+        {
+          "question": "¿Qué es el deslizamiento como movimiento articular?",
+          "options": [
+            {
+              "text": "Un movimiento de traslación con una superficie fija y otra moviéndose sin modificación angular",
+              "isCorrect": true,
+              "rationale": "El deslizamiento es un movimiento de traslación, con una de las superficies articulares fija y la otra moviéndose de adelante hacia atrás o de lado a lado, sin modificación angular."
+            },
+            {
+              "text": "Un movimiento de rotación",
+              "isCorrect": false,
+              "rationale": "Es traslación sin rotación."
+            },
+            {
+              "text": "Un movimiento angular",
+              "isCorrect": false,
+              "rationale": "Es sin modificación angular."
+            },
+            {
+              "text": "Un movimiento de circunducción",
+              "isCorrect": false,
+              "rationale": "Es traslación simple."
+            }
+          ],
+          "hint": "Es 'deslizar' una superficie sobre otra sin cambiar el ángulo..."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "nombre": "Movimientos Complejos",
+      "preguntas": 29,
+      "data": [
+        {
+          "question": "¿Qué es la circunducción como movimiento complejo?",
+          "options": [
+            {
+              "text": "La asociación de movimientos simples que resulta de la sucesión de flexión, abducción, extensión y aducción",
+              "isCorrect": true,
+              "rationale": "La circunducción es la asociación de movimientos simples y resulta de la sucesión de los movimientos de flexión, abducción, extensión y aducción, por ejemplo."
+            },
+            {
+              "text": "Un movimiento simple",
+              "isCorrect": false,
+              "rationale": "Es un movimiento complejo, asociación de varios."
+            },
+            {
+              "text": "Solo rotación",
+              "isCorrect": false,
+              "rationale": "Es combinación de movimientos."
+            },
+            {
+              "text": "Solo flexión y extensión",
+              "isCorrect": false,
+              "rationale": "Incluye varios movimientos."
+            }
+          ],
+          "hint": "Es como 'dibujar un círculo' con el segmento..."
+        },
+        {
+          "question": "¿Qué figura describe el segmento durante la circunducción?",
+          "options": [
+            {
+              "text": "Una superficie aproximadamente cónica, con el extremo distal formando una figura circular",
+              "isCorrect": true,
+              "rationale": "El segmento en movimiento recorre una superficie aproximadamente cónica y su extremo distal forma una figura aproximadamente circular."
+            },
+            {
+              "text": "Una línea recta",
+              "isCorrect": false,
+              "rationale": "Describe una superficie cónica."
+            },
+            {
+              "text": "Un cuadrado",
+              "isCorrect": false,
+              "rationale": "Describe una superficie cónica."
+            },
+            {
+              "text": "Una elipse perfecta",
+              "isCorrect": false,
+              "rationale": "Describe una superficie aproximadamente cónica."
+            }
+          ],
+          "hint": "El extremo del segmento 'dibuja un círculo'..."
+        },
+        {
+          "question": "¿En qué direcciones puede efectuarse la circunducción?",
+          "options": [
+            {
+              "text": "Hacia delante o hacia atrás",
+              "isCorrect": true,
+              "rationale": "La circunducción puede efectuarse hacia delante o hacia atrás."
+            },
+            {
+              "text": "Solo hacia delante",
+              "isCorrect": false,
+              "rationale": "Puede ser hacia adelante o atrás."
+            },
+            {
+              "text": "Solo hacia atrás",
+              "isCorrect": false,
+              "rationale": "Puede ser en ambas direcciones."
+            },
+            {
+              "text": "Solo hacia la derecha",
+              "isCorrect": false,
+              "rationale": "Puede ser hacia adelante o atrás."
+            }
+          ],
+          "hint": "Puede hacerse en 'dos sentidos'..."
+        },
+        {
+          "question": "¿Qué es la pronación como movimiento del antebrazo?",
+          "options": [
+            {
+              "text": "Movimiento del antebrazo alrededor de su eje longitudinal donde la palma queda orientada hacia atrás",
+              "isCorrect": true,
+              "rationale": "La pronación es un movimiento del antebrazo alrededor de su eje longitudinal. Se produce la rotación del hueso radio, que termina con su epífisis distal ubicada medialmente al cúbito, de manera que la palma queda orientada hacia atrás."
+            },
+            {
+              "text": "El movimiento donde la palma mira hacia adelante",
+              "isCorrect": false,
+              "rationale": "Eso es la supinación."
+            },
+            {
+              "text": "La flexión del antebrazo",
+              "isCorrect": false,
+              "rationale": "Es rotación del antebrazo."
+            },
+            {
+              "text": "La extensión del antebrazo",
+              "isCorrect": false,
+              "rationale": "Es rotación del antebrazo."
+            }
+          ],
+          "hint": "Es cuando la palma mira 'hacia abajo' o 'hacia atrás'..."
+        },
+        {
+          "question": "¿Qué ocurre con los huesos del antebrazo en la pronación máxima?",
+          "options": [
+            {
+              "text": "Los ejes longitudinales del radio y cúbito se cruzan",
+              "isCorrect": true,
+              "rationale": "En la pronación máxima, los ejes longitudinales de los huesos del antebrazo se cruzan."
+            },
+            {
+              "text": "Quedan paralelos",
+              "isCorrect": false,
+              "rationale": "Se cruzan."
+            },
+            {
+              "text": "No cambian de posición",
+              "isCorrect": false,
+              "rationale": "El radio rota y se cruza con el cúbito."
+            },
+            {
+              "text": "Se separan",
+              "isCorrect": false,
+              "rationale": "Se cruzan."
+            }
+          ],
+          "hint": "El radio se 'cruza' sobre el cúbito..."
+        },
+        {
+          "question": "¿Qué es la supinación como movimiento del antebrazo?",
+          "options": [
+            {
+              "text": "Movimiento del antebrazo donde la palma queda orientada hacia delante",
+              "isCorrect": true,
+              "rationale": "La supinación es el movimiento del antebrazo alrededor de su eje longitudinal, produciendo la rotación del hueso radio, que termina con su epífisis distal ubicada lateralmente al cúbito, de manera que la palma queda orientada hacia delante."
+            },
+            {
+              "text": "El movimiento donde la palma mira hacia atrás",
+              "isCorrect": false,
+              "rationale": "Eso es la pronación."
+            },
+            {
+              "text": "La flexión del antebrazo",
+              "isCorrect": false,
+              "rationale": "Es rotación del antebrazo."
+            },
+            {
+              "text": "La extensión del antebrazo",
+              "isCorrect": false,
+              "rationale": "Es rotación del antebrazo."
+            }
+          ],
+          "hint": "Es cuando la palma mira 'hacia arriba' o 'hacia adelante'..."
+        },
+        {
+          "question": "¿Qué ocurre con los huesos del antebrazo en la supinación máxima?",
+          "options": [
+            {
+              "text": "Los ejes de los dos huesos del antebrazo son paralelos",
+              "isCorrect": true,
+              "rationale": "En la supinación máxima, los ejes de los dos huesos del antebrazo son paralelos."
+            },
+            {
+              "text": "Se cruzan",
+              "isCorrect": false,
+              "rationale": "Quedan paralelos."
+            },
+            {
+              "text": "Se separan",
+              "isCorrect": false,
+              "rationale": "Quedan paralelos."
+            },
+            {
+              "text": "El radio rota sobre el cúbito",
+              "isCorrect": false,
+              "rationale": "Quedan paralelos."
+            }
+          ],
+          "hint": "Ambos huesos quedan 'alineados'..."
+        },
+        {
+          "question": "¿Qué es la pronación del pie?",
+          "options": [
+            {
+              "text": "Movimiento de torsión del antepié con elevación del borde lateral del pie",
+              "isCorrect": true,
+              "rationale": "La pronación del pie es el movimiento de torsión del antepié, con la elevación del borde lateral del pie."
+            },
+            {
+              "text": "Elevación del borde medial",
+              "isCorrect": false,
+              "rationale": "Eso es la supinación del pie."
+            },
+            {
+              "text": "Flexión del tobillo",
+              "isCorrect": false,
+              "rationale": "Es torsión del antepié."
+            },
+            {
+              "text": "Extensión del tobillo",
+              "isCorrect": false,
+              "rationale": "Es torsión del antepié."
+            }
+          ],
+          "hint": "Se levanta el borde 'de afuera' del pie..."
+        },
+        {
+          "question": "¿Qué es la supinación del pie?",
+          "options": [
+            {
+              "text": "Movimiento de detorsión del antepié con elevación del borde medial del pie",
+              "isCorrect": true,
+              "rationale": "La supinación del pie es el movimiento de detorsión del antepié, con la elevación del borde medial del pie."
+            },
+            {
+              "text": "Elevación del borde lateral",
+              "isCorrect": false,
+              "rationale": "Eso es la pronación del pie."
+            },
+            {
+              "text": "Flexión del tobillo",
+              "isCorrect": false,
+              "rationale": "Es torsión del antepié."
+            },
+            {
+              "text": "Extensión del tobillo",
+              "isCorrect": false,
+              "rationale": "Es torsión del antepié."
+            }
+          ],
+          "hint": "Se levanta el borde 'de adentro' del pie..."
+        },
+        {
+          "question": "¿Qué es la eversión del pie?",
+          "options": [
+            {
+              "text": "Movimiento que asocia abducción y rotación medial del pie, la planta se orienta hacia lateral",
+              "isCorrect": true,
+              "rationale": "La eversión es un movimiento que asocia la abducción y la rotación medial del pie. Se produce por la rotación del hueso calcáneo alrededor de su eje longitudinal. La planta del pie se orienta hacia lateral."
+            },
+            {
+              "text": "Movimiento donde la planta mira hacia medial",
+              "isCorrect": false,
+              "rationale": "Eso es la inversión."
+            },
+            {
+              "text": "Solo rotación del calcáneo",
+              "isCorrect": false,
+              "rationale": "Asocia abducción y rotación medial."
+            },
+            {
+              "text": "Flexión plantar",
+              "isCorrect": false,
+              "rationale": "Es otro movimiento."
+            }
+          ],
+          "hint": "La planta del pie mira 'hacia afuera'..."
+        },
+        {
+          "question": "¿Qué hueso rota durante la eversión del pie?",
+          "options": [
+            {
+              "text": "El hueso calcáneo alrededor de su eje longitudinal",
+              "isCorrect": true,
+              "rationale": "La eversión se produce por la rotación del hueso calcáneo alrededor de su eje longitudinal."
+            },
+            {
+              "text": "El astrágalo",
+              "isCorrect": false,
+              "rationale": "Es el calcáneo."
+            },
+            {
+              "text": "El escafoides",
+              "isCorrect": false,
+              "rationale": "Es el calcáneo."
+            },
+            {
+              "text": "El primer metatarsiano",
+              "isCorrect": false,
+              "rationale": "Es el calcáneo."
+            }
+          ],
+          "hint": "Es el hueso del 'talón'..."
+        },
+        {
+          "question": "¿Qué es la inversión del pie?",
+          "options": [
+            {
+              "text": "Movimiento que asocia aducción y rotación lateral del pie, la planta se orienta hacia medial",
+              "isCorrect": true,
+              "rationale": "La inversión es el movimiento que asocia la aducción y la rotación lateral del pie. Se produce el movimiento de rotación longitudinal del calcáneo. La planta del pie se orienta hacia medial."
+            },
+            {
+              "text": "Movimiento donde la planta mira hacia lateral",
+              "isCorrect": false,
+              "rationale": "Eso es la eversión."
+            },
+            {
+              "text": "Solo rotación del calcáneo",
+              "isCorrect": false,
+              "rationale": "Asocia aducción y rotación lateral."
+            },
+            {
+              "text": "Flexión dorsal",
+              "isCorrect": false,
+              "rationale": "Es otro movimiento."
+            }
+          ],
+          "hint": "La planta del pie mira 'hacia adentro'..."
+        },
+        {
+          "question": "¿Qué relación hay entre inversión y eversión?",
+          "options": [
+            {
+              "text": "La inversión es el movimiento opuesto a la eversión",
+              "isCorrect": true,
+              "rationale": "La inversión se trata del movimiento opuesto a la eversión."
+            },
+            {
+              "text": "Son el mismo movimiento",
+              "isCorrect": false,
+              "rationale": "Son opuestos."
+            },
+            {
+              "text": "No tienen relación",
+              "isCorrect": false,
+              "rationale": "Son opuestos."
+            },
+            {
+              "text": "La inversión es más amplia",
+              "isCorrect": false,
+              "rationale": "Son opuestos."
+            }
+          ],
+          "hint": "Van en 'direcciones contrarias'..."
+        },
+        {
+          "question": "¿Qué es la oposición como movimiento del pulgar?",
+          "options": [
+            {
+              "text": "El movimiento por el cual se aproximan el pulpejo del pulgar con el pulpejo de cualquier otro dedo",
+              "isCorrect": true,
+              "rationale": "La oposición es el movimiento por el cual se aproximan el pulpejo del pulgar con el pulpejo de cualquier otro dedo de la mano."
+            },
+            {
+              "text": "Separar el pulgar de los otros dedos",
+              "isCorrect": false,
+              "rationale": "Es acercar el pulgar a otros dedos."
+            },
+            {
+              "text": "Flexionar el pulgar",
+              "isCorrect": false,
+              "rationale": "Es el contacto del pulgar con otros dedos."
+            },
+            {
+              "text": "Extender el pulgar",
+              "isCorrect": false,
+              "rationale": "Es el contacto del pulgar con otros dedos."
+            }
+          ],
+          "hint": "Es lo que permite 'agarrar objetos' con precisión..."
+        },
+        {
+          "question": "¿Qué es la reposición como movimiento del pulgar?",
+          "options": [
+            {
+              "text": "El movimiento que realiza el pulgar desde la posición de oposición hasta la posición anatómica",
+              "isCorrect": true,
+              "rationale": "La reposición se trata del movimiento que realiza el pulgar desde la posición de oposición, hasta la posición anatómica."
+            },
+            {
+              "text": "El movimiento hacia la oposición",
+              "isCorrect": false,
+              "rationale": "Es el movimiento desde la oposición."
+            },
+            {
+              "text": "La flexión del pulgar",
+              "isCorrect": false,
+              "rationale": "Es volver a la posición anatómica."
+            },
+            {
+              "text": "La abducción del pulgar",
+              "isCorrect": false,
+              "rationale": "Es volver a la posición anatómica."
+            }
+          ],
+          "hint": "Es el movimiento 'inverso' a la oposición..."
+        },
+        {
+          "question": "¿Qué es la antepulsión como movimiento?",
+          "options": [
+            {
+              "text": "El movimiento de desplazamiento de un segmento hacia delante",
+              "isCorrect": true,
+              "rationale": "La antepulsión es el movimiento de desplazamiento de un segmento del cuerpo hacia delante."
+            },
+            {
+              "text": "El movimiento hacia atrás",
+              "isCorrect": false,
+              "rationale": "Eso es la retropulsión."
+            },
+            {
+              "text": "El movimiento hacia arriba",
+              "isCorrect": false,
+              "rationale": "Eso es la elevación."
+            },
+            {
+              "text": "El movimiento hacia abajo",
+              "isCorrect": false,
+              "rationale": "Eso es el descenso."
+            }
+          ],
+          "hint": "Es mover 'hacia adelante'..."
+        },
+        {
+          "question": "¿Qué otro nombre recibe la antepulsión en el caso del hombro?",
+          "options": [
+            {
+              "text": "Protracción",
+              "isCorrect": true,
+              "rationale": "La antepulsión también se lo denomina protracción en el caso del hombro."
+            },
+            {
+              "text": "Retracción",
+              "isCorrect": false,
+              "rationale": "Eso es la retropulsión."
+            },
+            {
+              "text": "Elevación",
+              "isCorrect": false,
+              "rationale": "Es otro movimiento."
+            },
+            {
+              "text": "Depresión",
+              "isCorrect": false,
+              "rationale": "Es otro movimiento."
+            }
+          ],
+          "hint": "Es cuando 'sacás el hombro hacia adelante'..."
+        },
+        {
+          "question": "¿Qué es la retropulsión como movimiento?",
+          "options": [
+            {
+              "text": "El movimiento de desplazamiento de un segmento hacia atrás",
+              "isCorrect": true,
+              "rationale": "La retropulsión es el movimiento de desplazamiento de un segmento hacia atrás."
+            },
+            {
+              "text": "El movimiento hacia delante",
+              "isCorrect": false,
+              "rationale": "Eso es la antepulsión."
+            },
+            {
+              "text": "El movimiento hacia arriba",
+              "isCorrect": false,
+              "rationale": "Eso es la elevación."
+            },
+            {
+              "text": "El movimiento hacia abajo",
+              "isCorrect": false,
+              "rationale": "Eso es el descenso."
+            }
+          ],
+          "hint": "Es mover 'hacia atrás'..."
+        },
+        {
+          "question": "¿Qué otro nombre recibe la retropulsión en el caso del hombro?",
+          "options": [
+            {
+              "text": "Retracción",
+              "isCorrect": true,
+              "rationale": "La retropulsión también se lo denomina retracción en el caso del hombro."
+            },
+            {
+              "text": "Protracción",
+              "isCorrect": false,
+              "rationale": "Eso es la antepulsión."
+            },
+            {
+              "text": "Elevación",
+              "isCorrect": false,
+              "rationale": "Es otro movimiento."
+            },
+            {
+              "text": "Depresión",
+              "isCorrect": false,
+              "rationale": "Es otro movimiento."
+            }
+          ],
+          "hint": "Es cuando 'llevás el hombro hacia atrás'..."
+        },
+        {
+          "question": "¿Qué es la nutación como movimiento del sacro?",
+          "options": [
+            {
+              "text": "Movimiento de balanceo del sacro donde el promontorio se dirige hacia abajo y el vértice hacia arriba y atrás",
+              "isCorrect": true,
+              "rationale": "La nutación se trata del movimiento de balanceo (o de báscula) del hueso sacro alrededor de un eje transversal que atraviesa las tuberosidades sacras, donde el promontorio de la base de este hueso se dirige hacia abajo y su vértice hacia arriba y atrás."
+            },
+            {
+              "text": "El movimiento inverso",
+              "isCorrect": false,
+              "rationale": "Eso es la contranutación."
+            },
+            {
+              "text": "Rotación del sacro",
+              "isCorrect": false,
+              "rationale": "Es balanceo."
+            },
+            {
+              "text": "Flexión lateral del sacro",
+              "isCorrect": false,
+              "rationale": "Es balanceo anteroposterior."
+            }
+          ],
+          "hint": "El sacro se 'inclina hacia adelante' en su parte superior..."
+        },
+        {
+          "question": "¿Qué produce la nutación del sacro en el pubis?",
+          "options": [
+            {
+              "text": "Movimiento hacia adelante del pubis (antepulsión del pubis)",
+              "isCorrect": true,
+              "rationale": "El resultado de la nutación produce el movimiento hacia adelante del pubis (antepulsión del pubis)."
+            },
+            {
+              "text": "Movimiento hacia atrás del pubis",
+              "isCorrect": false,
+              "rationale": "Eso es la contranutación."
+            },
+            {
+              "text": "No afecta el pubis",
+              "isCorrect": false,
+              "rationale": "Sí afecta el pubis."
+            },
+            {
+              "text": "Rotación del pubis",
+              "isCorrect": false,
+              "rationale": "Es antepulsión."
+            }
+          ],
+          "hint": "El pubis se mueve 'hacia adelante'..."
+        },
+        {
+          "question": "¿Qué es la contranutación como movimiento del sacro?",
+          "options": [
+            {
+              "text": "Movimiento de balanceo del sacro donde la base se dirige hacia arriba y el vértice hacia abajo y delante",
+              "isCorrect": true,
+              "rationale": "La contranutación es el movimiento de balanceo del sacro, por el cual la base de este hueso se dirige hacia arriba y su vértice hacia abajo y delante."
+            },
+            {
+              "text": "El mismo movimiento que la nutación",
+              "isCorrect": false,
+              "rationale": "Es el movimiento opuesto."
+            },
+            {
+              "text": "Rotación del sacro",
+              "isCorrect": false,
+              "rationale": "Es balanceo."
+            },
+            {
+              "text": "Flexión lateral del sacro",
+              "isCorrect": false,
+              "rationale": "Es balanceo anteroposterior."
+            }
+          ],
+          "hint": "El sacro se 'inclina hacia atrás' en su parte superior..."
+        },
+        {
+          "question": "¿Qué produce la contranutación en el pubis?",
+          "options": [
+            {
+              "text": "Movimiento hacia atrás del pubis (retropulsión del pubis)",
+              "isCorrect": true,
+              "rationale": "La contranutación produce el movimiento hacia atrás del pubis (retropulsión del pubis)."
+            },
+            {
+              "text": "Movimiento hacia adelante del pubis",
+              "isCorrect": false,
+              "rationale": "Eso es la nutación."
+            },
+            {
+              "text": "No afecta el pubis",
+              "isCorrect": false,
+              "rationale": "Sí afecta el pubis."
+            },
+            {
+              "text": "Rotación del pubis",
+              "isCorrect": false,
+              "rationale": "Es retropulsión."
+            }
+          ],
+          "hint": "El pubis se mueve 'hacia atrás'..."
+        },
+        {
+          "question": "¿Qué es la elevación como movimiento?",
+          "options": [
+            {
+              "text": "El movimiento que desplaza un segmento del cuerpo hacia arriba",
+              "isCorrect": true,
+              "rationale": "La elevación se trata del movimiento que desplaza un segmento del cuerpo hacia arriba."
+            },
+            {
+              "text": "El movimiento hacia abajo",
+              "isCorrect": false,
+              "rationale": "Eso es el descenso."
+            },
+            {
+              "text": "El movimiento hacia adelante",
+              "isCorrect": false,
+              "rationale": "Eso es la antepulsión."
+            },
+            {
+              "text": "El movimiento hacia atrás",
+              "isCorrect": false,
+              "rationale": "Eso es la retropulsión."
+            }
+          ],
+          "hint": "Es mover 'hacia arriba'..."
+        },
+        {
+          "question": "¿Qué es el descenso como movimiento?",
+          "options": [
+            {
+              "text": "El movimiento que desplaza un segmento hacia abajo",
+              "isCorrect": true,
+              "rationale": "El descenso es el movimiento que desplaza un segmento hacia abajo. También se lo denomina depresión."
+            },
+            {
+              "text": "El movimiento hacia arriba",
+              "isCorrect": false,
+              "rationale": "Eso es la elevación."
+            },
+            {
+              "text": "El movimiento hacia adelante",
+              "isCorrect": false,
+              "rationale": "Eso es la antepulsión."
+            },
+            {
+              "text": "El movimiento hacia atrás",
+              "isCorrect": false,
+              "rationale": "Eso es la retropulsión."
+            }
+          ],
+          "hint": "Es mover 'hacia abajo'..."
+        },
+        {
+          "question": "¿Qué otro nombre recibe el descenso?",
+          "options": [
+            {
+              "text": "Depresión",
+              "isCorrect": true,
+              "rationale": "El descenso también se lo denomina depresión."
+            },
+            {
+              "text": "Elevación",
+              "isCorrect": false,
+              "rationale": "Es el opuesto."
+            },
+            {
+              "text": "Retracción",
+              "isCorrect": false,
+              "rationale": "Es otro movimiento."
+            },
+            {
+              "text": "Protracción",
+              "isCorrect": false,
+              "rationale": "Es otro movimiento."
+            }
+          ],
+          "hint": "Sinónimo de 'bajar'..."
+        },
+        {
+          "question": "¿Qué es la protrusión como movimiento de la mandíbula?",
+          "options": [
+            {
+              "text": "El movimiento hacia adelante realizado por la mandíbula",
+              "isCorrect": true,
+              "rationale": "La protrusión es el movimiento hacia adelante, realizado por la mandíbula."
+            },
+            {
+              "text": "El movimiento hacia atrás de la mandíbula",
+              "isCorrect": false,
+              "rationale": "Eso es la retrusión."
+            },
+            {
+              "text": "El movimiento lateral de la mandíbula",
+              "isCorrect": false,
+              "rationale": "Eso es la diducción."
+            },
+            {
+              "text": "La apertura de la boca",
+              "isCorrect": false,
+              "rationale": "Es el movimiento hacia adelante."
+            }
+          ],
+          "hint": "Es 'sacar la mandíbula hacia adelante'..."
+        },
+        {
+          "question": "¿Qué es la retrusión como movimiento de la mandíbula?",
+          "options": [
+            {
+              "text": "El movimiento hacia atrás realizado por la mandíbula",
+              "isCorrect": true,
+              "rationale": "La retrusión es el movimiento hacia atrás, realizado por la mandíbula."
+            },
+            {
+              "text": "El movimiento hacia adelante de la mandíbula",
+              "isCorrect": false,
+              "rationale": "Eso es la protrusión."
+            },
+            {
+              "text": "El movimiento lateral de la mandíbula",
+              "isCorrect": false,
+              "rationale": "Eso es la diducción."
+            },
+            {
+              "text": "El cierre de la boca",
+              "isCorrect": false,
+              "rationale": "Es el movimiento hacia atrás."
+            }
+          ],
+          "hint": "Es 'llevar la mandíbula hacia atrás'..."
+        },
+        {
+          "question": "¿Qué es la diducción como movimiento de la mandíbula?",
+          "options": [
+            {
+              "text": "Los movimientos de lado a lado de la mandíbula (excursión lateral)",
+              "isCorrect": true,
+              "rationale": "La diducción son los movimientos de lado a lado de la mandíbula (excursión lateral de la mandíbula)."
+            },
+            {
+              "text": "El movimiento hacia adelante",
+              "isCorrect": false,
+              "rationale": "Eso es la protrusión."
+            },
+            {
+              "text": "El movimiento hacia atrás",
+              "isCorrect": false,
+              "rationale": "Eso es la retrusión."
+            },
+            {
+              "text": "La apertura de la boca",
+              "isCorrect": false,
+              "rationale": "Es el movimiento lateral."
+            }
+          ],
+          "hint": "Es mover la mandíbula 'de un lado al otro'..."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "nombre": "Lesiones Articulares",
+      "preguntas": 33,
+      "data": [
+        {
+          "question": "¿Qué es una luxación?",
+          "options": [
+            {
+              "text": "La pérdida de las relaciones anatómicas de las superficies articulares enfrentadas",
+              "isCorrect": true,
+              "rationale": "Recibe el nombre de luxación la pérdida de las relaciones anatómicas de las superficies articulares enfrentadas."
+            },
+            {
+              "text": "La inflamación de la articulación",
+              "isCorrect": false,
+              "rationale": "Eso es la artritis."
+            },
+            {
+              "text": "El desgarro de ligamentos",
+              "isCorrect": false,
+              "rationale": "Eso es el esguince."
+            },
+            {
+              "text": "La fractura del hueso",
+              "isCorrect": false,
+              "rationale": "Es la pérdida de relaciones articulares."
+            }
+          ],
+          "hint": "Es cuando los huesos se 'salen de lugar'..."
+        },
+        {
+          "question": "¿Qué es una subluxación?",
+          "options": [
+            {
+              "text": "Cuando la pérdida de la relación entre superficies articulares no es completa",
+              "isCorrect": true,
+              "rationale": "Si la pérdida de la relación no es completa recibe el nombre de subluxación."
+            },
+            {
+              "text": "Una luxación completa",
+              "isCorrect": false,
+              "rationale": "Es incompleta."
+            },
+            {
+              "text": "Una fractura",
+              "isCorrect": false,
+              "rationale": "Es una luxación parcial."
+            },
+            {
+              "text": "Un esguince",
+              "isCorrect": false,
+              "rationale": "Es una luxación parcial."
+            }
+          ],
+          "hint": "Es una luxación 'parcial'..."
+        },
+        {
+          "question": "¿Qué se requiere para que una luxación sea posible?",
+          "options": [
+            {
+              "text": "Un daño importante del aparato capsuloligamentario",
+              "isCorrect": true,
+              "rationale": "Para que una luxación sea posible se requiere un daño importante del aparato capsuloligamentario."
+            },
+            {
+              "text": "Solo un pequeño golpe",
+              "isCorrect": false,
+              "rationale": "Requiere daño capsuloligamentario importante."
+            },
+            {
+              "text": "Una fractura previa",
+              "isCorrect": false,
+              "rationale": "Requiere daño capsuloligamentario."
+            },
+            {
+              "text": "Una enfermedad articular",
+              "isCorrect": false,
+              "rationale": "Requiere daño capsuloligamentario."
+            }
+          ],
+          "hint": "Tiene que haber 'rotura' de la cápsula y ligamentos..."
+        },
+        {
+          "question": "¿Cuándo debe efectuarse la reducción de una luxación?",
+          "options": [
+            {
+              "text": "Lo más temprano posible",
+              "isCorrect": true,
+              "rationale": "En términos generales la reducción debe efectuarse lo más temprano posible."
+            },
+            {
+              "text": "Después de varias semanas",
+              "isCorrect": false,
+              "rationale": "Debe ser lo más temprano posible."
+            },
+            {
+              "text": "Solo después de reducir la inflamación",
+              "isCorrect": false,
+              "rationale": "Debe ser temprano."
+            },
+            {
+              "text": "No es urgente",
+              "isCorrect": false,
+              "rationale": "Debe ser lo más temprano posible."
+            }
+          ],
+          "hint": "Es una 'urgencia'..."
+        },
+        {
+          "question": "¿Cómo debe ser el camino que recorre el extremo luxado durante la reducción?",
+          "options": [
+            {
+              "text": "El mismo camino que recorrió para luxarse, pero en sentido inverso",
+              "isCorrect": true,
+              "rationale": "Se debe tratar de que el extremo luxado recorra el mismo camino que tuvo que recorrer para luxarse, pero en sentido inverso."
+            },
+            {
+              "text": "Cualquier camino",
+              "isCorrect": false,
+              "rationale": "Debe ser el mismo en sentido inverso."
+            },
+            {
+              "text": "El camino más corto",
+              "isCorrect": false,
+              "rationale": "Debe ser el mismo en sentido inverso."
+            },
+            {
+              "text": "El camino más cómodo",
+              "isCorrect": false,
+              "rationale": "Debe ser el mismo en sentido inverso."
+            }
+          ],
+          "hint": "Hay que 'desandar' el camino de la lesión..."
+        },
+        {
+          "question": "¿Qué complicaciones agudas pueden tener las luxaciones?",
+          "options": [
+            {
+              "text": "Compresión de estructuras vasculares o nerviosas vecinas",
+              "isCorrect": true,
+              "rationale": "Las complicaciones agudas de una luxación suelen deberse a compresión de estructuras vasculares o nerviosas vecinas."
+            },
+            {
+              "text": "Solo dolor",
+              "isCorrect": false,
+              "rationale": "Puede haber compresión vascular o nerviosa."
+            },
+            {
+              "text": "Solo inflamación",
+              "isCorrect": false,
+              "rationale": "Puede haber compresión vascular o nerviosa."
+            },
+            {
+              "text": "No hay complicaciones agudas",
+              "isCorrect": false,
+              "rationale": "Puede haber compresión de estructuras."
+            }
+          ],
+          "hint": "Pueden afectarse 'vasos y nervios' cercanos..."
+        },
+        {
+          "question": "¿Qué es un esguince?",
+          "options": [
+            {
+              "text": "Lesiones provocadas por la distensión del aparato capsuloligamentario que rodea una articulación",
+              "isCorrect": true,
+              "rationale": "Los esguinces son lesiones provocadas por la distensión del aparato capsuloligamentario que rodea a una articulación."
+            },
+            {
+              "text": "La pérdida de relación entre superficies articulares",
+              "isCorrect": false,
+              "rationale": "Eso es la luxación."
+            },
+            {
+              "text": "La inflamación de la articulación",
+              "isCorrect": false,
+              "rationale": "Eso es la artritis."
+            },
+            {
+              "text": "La fractura del hueso",
+              "isCorrect": false,
+              "rationale": "Es lesión de ligamentos."
+            }
+          ],
+          "hint": "Es cuando se 'estiran o rompen' los ligamentos..."
+        },
+        {
+          "question": "¿Qué limita la amplitud de movimientos de una articulación?",
+          "options": [
+            {
+              "text": "La tensión de ligamentos y otros tejidos blandos periarticulares",
+              "isCorrect": true,
+              "rationale": "Las articulaciones tienen una amplitud de movimientos limitados por la tensión de ligamentos y otros tejidos blandos periarticulares."
+            },
+            {
+              "text": "Solo el tamaño del hueso",
+              "isCorrect": false,
+              "rationale": "Son los ligamentos y tejidos blandos."
+            },
+            {
+              "text": "Solo el cartílago",
+              "isCorrect": false,
+              "rationale": "Son los ligamentos y tejidos blandos."
+            },
+            {
+              "text": "El líquido sinovial",
+              "isCorrect": false,
+              "rationale": "Son los ligamentos y tejidos blandos."
+            }
+          ],
+          "hint": "Los 'ligamentos' frenan el movimiento..."
+        },
+        {
+          "question": "¿Qué ocurre cuando la fuerza sobre una articulación supera la resistencia de las estructuras?",
+          "options": [
+            {
+              "text": "Se produce distensión, desgarro o ruptura de las estructuras",
+              "isCorrect": true,
+              "rationale": "Cuando la fuerza ejercida sobre una determinada articulación supera la resistencia de dichas estructuras, se produce su distensión, desgarro o ruptura."
+            },
+            {
+              "text": "Nada",
+              "isCorrect": false,
+              "rationale": "Se lesionan las estructuras."
+            },
+            {
+              "text": "Solo dolor",
+              "isCorrect": false,
+              "rationale": "Hay lesión estructural."
+            },
+            {
+              "text": "La articulación se hace más móvil",
+              "isCorrect": false,
+              "rationale": "Se lesionan las estructuras."
+            }
+          ],
+          "hint": "Hay 'lesión' de los tejidos..."
+        },
+        {
+          "question": "¿Pueden acompañarse los esguinces de lesiones óseas?",
+          "options": [
+            {
+              "text": "Sí, pueden acompañarse de lesiones óseas",
+              "isCorrect": true,
+              "rationale": "Los esguinces pueden acompañarse de lesiones óseas."
+            },
+            {
+              "text": "No, nunca",
+              "isCorrect": false,
+              "rationale": "Sí pueden acompañarse de lesiones óseas."
+            },
+            {
+              "text": "Solo en ancianos",
+              "isCorrect": false,
+              "rationale": "Pueden acompañarse de lesiones óseas."
+            },
+            {
+              "text": "Solo en niños",
+              "isCorrect": false,
+              "rationale": "Pueden acompañarse de lesiones óseas."
+            }
+          ],
+          "hint": "Pueden asociarse con 'fracturas'..."
+        },
+        {
+          "question": "¿Qué es un esguince grado I?",
+          "options": [
+            {
+              "text": "Ruptura intraligamentosa de fibras, con dolor selectivo, incapacidad y tumefacción mínimas, sin inestabilidad",
+              "isCorrect": true,
+              "rationale": "El esguince grado I es una ruptura intraligamentosa de fibras que cursa con dolor selectivo en la zona de lesión, incapacidad y tumefacción mínimas y ausencia de inestabilidad."
+            },
+            {
+              "text": "Ruptura completa del ligamento",
+              "isCorrect": false,
+              "rationale": "Eso es el grado III."
+            },
+            {
+              "text": "Ruptura parcial moderada",
+              "isCorrect": false,
+              "rationale": "Eso es el grado II."
+            },
+            {
+              "text": "Sin lesión ligamentaria",
+              "isCorrect": false,
+              "rationale": "Hay ruptura de fibras."
+            }
+          ],
+          "hint": "Es el más 'leve'..."
+        },
+        {
+          "question": "¿Qué es un esguince grado II?",
+          "options": [
+            {
+              "text": "Lesión intermedia entre el grado I y el grado III",
+              "isCorrect": true,
+              "rationale": "El grado II es intermedio entre el grado I y el grado III."
+            },
+            {
+              "text": "El más leve",
+              "isCorrect": false,
+              "rationale": "Es intermedio."
+            },
+            {
+              "text": "Ruptura completa",
+              "isCorrect": false,
+              "rationale": "Eso es el grado III."
+            },
+            {
+              "text": "Sin lesión",
+              "isCorrect": false,
+              "rationale": "Hay lesión parcial."
+            }
+          ],
+          "hint": "Es de 'gravedad media'..."
+        },
+        {
+          "question": "¿Qué es un esguince grado III?",
+          "options": [
+            {
+              "text": "Lesión ligamentosa completa con dolor intenso, tumefacción, incapacidad marcada e inestabilidad franca",
+              "isCorrect": true,
+              "rationale": "El grado III es una lesión ligamentosa completa con dolor intenso, tumefacción e incapacidad marcadas e inestabilidad franca."
+            },
+            {
+              "text": "El más leve",
+              "isCorrect": false,
+              "rationale": "Es el más grave."
+            },
+            {
+              "text": "Lesión parcial",
+              "isCorrect": false,
+              "rationale": "Es ruptura completa."
+            },
+            {
+              "text": "Sin inestabilidad",
+              "isCorrect": false,
+              "rationale": "Hay inestabilidad franca."
+            }
+          ],
+          "hint": "Es el más 'grave', ruptura completa..."
+        },
+        {
+          "question": "¿Qué zona es más afectada por los esguinces?",
+          "options": [
+            {
+              "text": "El tobillo, seguido del carpo, la rodilla y el hombro",
+              "isCorrect": true,
+              "rationale": "La zona más afectada por los esguinces es el tobillo, al que le siguen el carpo, la rodilla y el hombro."
+            },
+            {
+              "text": "Solo el hombro",
+              "isCorrect": false,
+              "rationale": "El tobillo es el más afectado."
+            },
+            {
+              "text": "Solo la rodilla",
+              "isCorrect": false,
+              "rationale": "El tobillo es el más afectado."
+            },
+            {
+              "text": "La columna vertebral",
+              "isCorrect": false,
+              "rationale": "El tobillo es el más afectado."
+            }
+          ],
+          "hint": "Es el 'tobillo' el más frecuente..."
+        },
+        {
+          "question": "¿Qué es la artrosis?",
+          "options": [
+            {
+              "text": "La enfermedad articular degenerativa que sufre el cartílago articular",
+              "isCorrect": true,
+              "rationale": "La artrosis es la enfermedad articular degenerativa que sufre el cartílago articular."
+            },
+            {
+              "text": "La inflamación de la articulación",
+              "isCorrect": false,
+              "rationale": "Eso es la artritis."
+            },
+            {
+              "text": "La infección de la articulación",
+              "isCorrect": false,
+              "rationale": "Es degeneración del cartílago."
+            },
+            {
+              "text": "La luxación de la articulación",
+              "isCorrect": false,
+              "rationale": "Es degeneración del cartílago."
+            }
+          ],
+          "hint": "Es 'desgaste' del cartílago..."
+        },
+        {
+          "question": "¿Cómo puede presentarse la artrosis?",
+          "options": [
+            {
+              "text": "En forma primaria o secundaria a alteraciones patológicas preexistentes",
+              "isCorrect": true,
+              "rationale": "La artrosis se presenta en forma primaria o secundaria a alteraciones patológicas preexistentes (por ejemplo: luxación congénita de la cadera)."
+            },
+            {
+              "text": "Solo primaria",
+              "isCorrect": false,
+              "rationale": "Puede ser primaria o secundaria."
+            },
+            {
+              "text": "Solo secundaria",
+              "isCorrect": false,
+              "rationale": "Puede ser primaria o secundaria."
+            },
+            {
+              "text": "Solo congénita",
+              "isCorrect": false,
+              "rationale": "Puede ser primaria o secundaria."
+            }
+          ],
+          "hint": "Puede aparecer 'sola' o por otra enfermedad previa..."
+        },
+        {
+          "question": "¿Qué articulaciones afecta predominantemente la artrosis?",
+          "options": [
+            {
+              "text": "Las articulaciones que soportan peso, como la coxofemoral y la rodilla",
+              "isCorrect": true,
+              "rationale": "La artrosis afecta predominantemente las articulaciones que soportan peso, tales como la coxofemoral y la rodilla."
+            },
+            {
+              "text": "Las articulaciones de la mano",
+              "isCorrect": false,
+              "rationale": "Predominan las que soportan peso."
+            },
+            {
+              "text": "Las articulaciones del cuello",
+              "isCorrect": false,
+              "rationale": "Predominan las que soportan peso."
+            },
+            {
+              "text": "Todas por igual",
+              "isCorrect": false,
+              "rationale": "Predominan las que soportan peso."
+            }
+          ],
+          "hint": "Afecta más las que 'cargan peso'..."
+        },
+        {
+          "question": "¿Qué personas son más afectadas por la artrosis?",
+          "options": [
+            {
+              "text": "Adultos, generalmente de entre 40 y 60 años",
+              "isCorrect": true,
+              "rationale": "Las personas más afectadas son adultos, generalmente de entre 40 y 60 años."
+            },
+            {
+              "text": "Niños",
+              "isCorrect": false,
+              "rationale": "Afecta a adultos."
+            },
+            {
+              "text": "Adolescentes",
+              "isCorrect": false,
+              "rationale": "Afecta a adultos."
+            },
+            {
+              "text": "Solo ancianos mayores de 80",
+              "isCorrect": false,
+              "rationale": "Generalmente entre 40 y 60 años."
+            }
+          ],
+          "hint": "Es enfermedad de 'adultos'..."
+        },
+        {
+          "question": "¿Cómo se manifiesta clínicamente la artrosis?",
+          "options": [
+            {
+              "text": "Dolor y disminución de la movilidad, dolor durante la marcha, inestabilidad articular y alteraciones del apoyo",
+              "isCorrect": true,
+              "rationale": "La artrosis se manifiesta clínicamente por dolor y disminución de la movilidad, con dolor durante la marcha, inestabilidad articular y alteraciones del apoyo."
+            },
+            {
+              "text": "Solo inflamación",
+              "isCorrect": false,
+              "rationale": "Hay dolor y rigidez."
+            },
+            {
+              "text": "Solo dolor en reposo",
+              "isCorrect": false,
+              "rationale": "Hay dolor con el movimiento."
+            },
+            {
+              "text": "Sin síntomas",
+              "isCorrect": false,
+              "rationale": "Hay síntomas claros."
+            }
+          ],
+          "hint": "Dolor, rigidez y problemas para caminar..."
+        },
+        {
+          "question": "¿Hacia qué puede evolucionar la artrosis sin tratamiento?",
+          "options": [
+            {
+              "text": "Hacia la anquilosis articular",
+              "isCorrect": true,
+              "rationale": "La artrosis puede evolucionar hacia la anquilosis articular si no se aplica el tratamiento adecuado."
+            },
+            {
+              "text": "Mejora espontáneamente",
+              "isCorrect": false,
+              "rationale": "Puede empeorar hacia anquilosis."
+            },
+            {
+              "text": "No evoluciona",
+              "isCorrect": false,
+              "rationale": "Puede empeorar."
+            },
+            {
+              "text": "Hacia mayor movilidad",
+              "isCorrect": false,
+              "rationale": "Hacia rigidez (anquilosis)."
+            }
+          ],
+          "hint": "Puede llegar a 'fusionar' la articulación..."
+        },
+        {
+          "question": "¿Qué es la artritis?",
+          "options": [
+            {
+              "text": "La inflamación de una o más articulaciones",
+              "isCorrect": true,
+              "rationale": "La artritis es la inflamación de una o más articulaciones que se manifiesta clínicamente con dolor, tumefacción, rigidez y limitación del movimiento."
+            },
+            {
+              "text": "La degeneración del cartílago",
+              "isCorrect": false,
+              "rationale": "Eso es la artrosis."
+            },
+            {
+              "text": "La luxación de la articulación",
+              "isCorrect": false,
+              "rationale": "Es inflamación."
+            },
+            {
+              "text": "El esguince",
+              "isCorrect": false,
+              "rationale": "Es inflamación."
+            }
+          ],
+          "hint": "Es 'inflamación' de la articulación..."
+        },
+        {
+          "question": "¿Cómo se manifiesta clínicamente la artritis?",
+          "options": [
+            {
+              "text": "Dolor, tumefacción, rigidez y limitación del movimiento de la articulación",
+              "isCorrect": true,
+              "rationale": "La artritis se manifiesta clínicamente con dolor, tumefacción, rigidez y limitación del movimiento de la articulación comprometida."
+            },
+            {
+              "text": "Solo dolor",
+              "isCorrect": false,
+              "rationale": "Hay más síntomas."
+            },
+            {
+              "text": "Solo rigidez",
+              "isCorrect": false,
+              "rationale": "Hay más síntomas."
+            },
+            {
+              "text": "Sin síntomas",
+              "isCorrect": false,
+              "rationale": "Hay síntomas claros."
+            }
+          ],
+          "hint": "Dolor, hinchazón y rigidez..."
+        },
+        {
+          "question": "¿Qué involucra la artritis a nivel del cartílago?",
+          "options": [
+            {
+              "text": "Involucra la degradación del cartílago articular",
+              "isCorrect": true,
+              "rationale": "La artritis involucra la degradación del cartílago articular."
+            },
+            {
+              "text": "No afecta el cartílago",
+              "isCorrect": false,
+              "rationale": "Sí lo degrada."
+            },
+            {
+              "text": "Regenera el cartílago",
+              "isCorrect": false,
+              "rationale": "Lo degrada."
+            },
+            {
+              "text": "No tiene relación con el cartílago",
+              "isCorrect": false,
+              "rationale": "Lo degrada."
+            }
+          ],
+          "hint": "Daña el 'cartílago'..."
+        },
+        {
+          "question": "¿Qué puede causar la artritis?",
+          "options": [
+            {
+              "text": "Origen autoinmune, fracturas, desgaste, procesos infecciosos o precipitación de cristales",
+              "isCorrect": true,
+              "rationale": "Las causas de artritis pueden ser de origen autoinmune, por fracturas óseas, por desgaste, por procesos infecciosos o por precipitación de cristales (por ejemplo: gota)."
+            },
+            {
+              "text": "Solo infecciones",
+              "isCorrect": false,
+              "rationale": "Hay múltiples causas."
+            },
+            {
+              "text": "Solo traumatismos",
+              "isCorrect": false,
+              "rationale": "Hay múltiples causas."
+            },
+            {
+              "text": "Solo gota",
+              "isCorrect": false,
+              "rationale": "Hay múltiples causas."
+            }
+          ],
+          "hint": "Hay muchas 'causas posibles'..."
+        },
+        {
+          "question": "¿Dónde se presenta con mayor frecuencia la artritis?",
+          "options": [
+            {
+              "text": "Cadera, rodillas y dedos de la mano",
+              "isCorrect": true,
+              "rationale": "La artritis se presenta con mayor frecuencia a nivel de la cadera, las rodillas y los dedos de la mano."
+            },
+            {
+              "text": "Solo en el hombro",
+              "isCorrect": false,
+              "rationale": "Cadera, rodillas y manos son más frecuentes."
+            },
+            {
+              "text": "Solo en la columna",
+              "isCorrect": false,
+              "rationale": "Cadera, rodillas y manos son más frecuentes."
+            },
+            {
+              "text": "En todas las articulaciones por igual",
+              "isCorrect": false,
+              "rationale": "Hay zonas más afectadas."
+            }
+          ],
+          "hint": "Cadera, rodillas y manos..."
+        },
+        {
+          "question": "¿Qué es la bursitis?",
+          "options": [
+            {
+              "text": "La inflamación de las bolsas que se encuentran entre tendones y piel o entre tendones y hueso",
+              "isCorrect": true,
+              "rationale": "La bursitis es la inflamación de las bolsas que se encuentran entre los tendones y la piel o entre los tendones y el hueso."
+            },
+            {
+              "text": "Inflamación de la articulación",
+              "isCorrect": false,
+              "rationale": "Es inflamación de las bolsas sinoviales."
+            },
+            {
+              "text": "Inflamación del tendón",
+              "isCorrect": false,
+              "rationale": "Es inflamación de las bolsas."
+            },
+            {
+              "text": "Inflamación del músculo",
+              "isCorrect": false,
+              "rationale": "Es inflamación de las bolsas."
+            }
+          ],
+          "hint": "Es inflamación de las 'bolsas' sinoviales..."
+        },
+        {
+          "question": "¿Qué función tienen las bolsas sinoviales?",
+          "options": [
+            {
+              "text": "Ayudar al movimiento reduciendo la fricción entre las partes móviles",
+              "isCorrect": true,
+              "rationale": "La función de las bolsas es ayudar al movimiento reduciendo la fricción entre las partes móviles."
+            },
+            {
+              "text": "Producir movimiento",
+              "isCorrect": false,
+              "rationale": "Reducen la fricción."
+            },
+            {
+              "text": "Unir los huesos",
+              "isCorrect": false,
+              "rationale": "Reducen la fricción."
+            },
+            {
+              "text": "Producir líquido sinovial",
+              "isCorrect": false,
+              "rationale": "Reducen la fricción."
+            }
+          ],
+          "hint": "Sirven como 'almohadillas' que evitan el roce..."
+        },
+        {
+          "question": "¿Qué puede causar la bursitis?",
+          "options": [
+            {
+              "text": "Sobrecargas crónicas, traumatismos, artritis reumatoidea, gota o procesos infecciosos",
+              "isCorrect": true,
+              "rationale": "Las causas de bursitis pueden ser: sobrecargas crónicas, traumatismos, artritis reumatoidea, gota o procesos infecciosos."
+            },
+            {
+              "text": "Solo traumatismos",
+              "isCorrect": false,
+              "rationale": "Hay múltiples causas."
+            },
+            {
+              "text": "Solo infecciones",
+              "isCorrect": false,
+              "rationale": "Hay múltiples causas."
+            },
+            {
+              "text": "Solo artritis",
+              "isCorrect": false,
+              "rationale": "Hay múltiples causas."
+            }
+          ],
+          "hint": "Hay varias causas posibles..."
+        },
+        {
+          "question": "¿Dónde se presentan habitualmente las bursitis?",
+          "options": [
+            {
+              "text": "Hombro, rodilla, codo y cadera",
+              "isCorrect": true,
+              "rationale": "Las bursitis habitualmente se presentan a nivel del hombro, la rodilla, el codo y la cadera."
+            },
+            {
+              "text": "Solo en el hombro",
+              "isCorrect": false,
+              "rationale": "También en rodilla, codo y cadera."
+            },
+            {
+              "text": "Solo en la rodilla",
+              "isCorrect": false,
+              "rationale": "También en hombro, codo y cadera."
+            },
+            {
+              "text": "En todas las articulaciones por igual",
+              "isCorrect": false,
+              "rationale": "Hay zonas más frecuentes."
+            }
+          ],
+          "hint": "Hombro, rodilla, codo y cadera..."
+        },
+        {
+          "question": "¿Cómo se manifiesta clínicamente la bursitis?",
+          "options": [
+            {
+              "text": "Sensibilidad y dolor articular, tumefacción y calor a nivel articular",
+              "isCorrect": true,
+              "rationale": "La bursitis clínicamente se manifiesta con sensibilidad y dolor articular, tumefacción y calor a nivel articular."
+            },
+            {
+              "text": "Solo dolor",
+              "isCorrect": false,
+              "rationale": "Hay más síntomas."
+            },
+            {
+              "text": "Solo inflamación",
+              "isCorrect": false,
+              "rationale": "Hay más síntomas."
+            },
+            {
+              "text": "Sin síntomas",
+              "isCorrect": false,
+              "rationale": "Hay síntomas claros."
+            }
+          ],
+          "hint": "Dolor, hinchazón y calor..."
+        },
+        {
+          "question": "¿Qué es la artroscopia?",
+          "options": [
+            {
+              "text": "Un procedimiento quirúrgico que permite examinar la cavidad de una articulación sinovial con un artroscopio",
+              "isCorrect": true,
+              "rationale": "La cavidad de una articulación sinovial puede examinarse insertando un artroscopio. La artroscopia es un procedimiento quirúrgico que permite al traumatólogo examinar las articulaciones en busca de anomalías."
+            },
+            {
+              "text": "Una radiografía",
+              "isCorrect": false,
+              "rationale": "Es un procedimiento con cámara."
+            },
+            {
+              "text": "Una operación a cielo abierto",
+              "isCorrect": false,
+              "rationale": "Es mínimamente invasiva."
+            },
+            {
+              "text": "Un análisis de sangre",
+              "isCorrect": false,
+              "rationale": "Es un procedimiento visual."
+            }
+          ],
+          "hint": "Es mirar 'dentro' de la articulación con una cámara..."
+        },
+        {
+          "question": "¿Qué anomalías se pueden buscar durante una artroscopia?",
+          "options": [
+            {
+              "text": "Desgarros de los meniscos, lesiones de ligamentos y otras anomalías intraarticulares",
+              "isCorrect": true,
+              "rationale": "Durante la artroscopia se puede buscar anomalías como desgarros de los meniscos (discos articulares parciales de la rodilla) y otras lesiones."
+            },
+            {
+              "text": "Solo fracturas",
+              "isCorrect": false,
+              "rationale": "Se pueden ver múltiples anomalías."
+            },
+            {
+              "text": "Solo infecciones",
+              "isCorrect": false,
+              "rationale": "Se pueden ver múltiples anomalías."
+            },
+            {
+              "text": "Solo tumores",
+              "isCorrect": false,
+              "rationale": "Se pueden ver múltiples anomalías."
+            }
+          ],
+          "hint": "Se pueden ver lesiones de meniscos, ligamentos, etc..."
+        },
+        {
+          "question": "¿Qué se puede hacer durante una artroscopia además de examinar?",
+          "options": [
+            {
+              "text": "Pueden realizarse intervenciones quirúrgicas",
+              "isCorrect": true,
+              "rationale": "Durante la artroscopia pueden realizarse intervenciones quirúrgicas."
+            },
+            {
+              "text": "Solo examinar",
+              "isCorrect": false,
+              "rationale": "También se puede operar."
+            },
+            {
+              "text": "Solo tomar fotos",
+              "isCorrect": false,
+              "rationale": "Se pueden hacer intervenciones."
+            },
+            {
+              "text": "Solo extraer líquido",
+              "isCorrect": false,
+              "rationale": "Se pueden hacer intervenciones."
+            }
+          ],
+          "hint": "No solo 'mira', también puede 'operar'..."
+        }
+      ]
+    }
+  ]
+}
+,
+  "anato-comparaciones": {
+  "titulo": "Comparaciones de Tejidos",
+  "descripcion": "Diferencias entre tendones, ligamentos, fascias, cartílagos, periostio",
+  "totalPreguntas": 21,
+  "partes": [
+    {
+      "id": 1,
+      "nombre": "Comparaciones de Tejidos Conectivos",
+      "preguntas": 21,
+      "data": [
+        {
+          "question": "¿Cuál es la diferencia principal entre tendón y ligamento?",
+          "options": [
+            {
+              "text": "El tendón une músculo con hueso, el ligamento une hueso con hueso",
+              "isCorrect": true,
+              "rationale": "El tendón conecta el músculo al hueso para transmitir la fuerza de contracción. El ligamento conecta huesos entre sí para dar estabilidad a las articulaciones."
+            },
+            {
+              "text": "El tendón une hueso con hueso, el ligamento une músculo con hueso",
+              "isCorrect": false,
+              "rationale": "Es al revés."
+            },
+            {
+              "text": "Ambos unen músculo con hueso",
+              "isCorrect": false,
+              "rationale": "Tienen funciones diferentes."
+            },
+            {
+              "text": "Ambos unen hueso con hueso",
+              "isCorrect": false,
+              "rationale": "Tienen funciones diferentes."
+            }
+          ],
+          "hint": "Uno transmite fuerza muscular, el otro estabiliza articulaciones..."
+        },
+        {
+          "question": "¿Qué diferencia hay en la composición de fibras entre tendón y ligamento?",
+          "options": [
+            {
+              "text": "El tendón tiene fibras de colágeno paralelas, el ligamento tiene fibras más variadas (pueden ser elásticas)",
+              "isCorrect": true,
+              "rationale": "Los tendones tienen fibras de colágeno densamente empaquetadas en paralelo para resistir tracción en una dirección. Los ligamentos pueden tener fibras elásticas (como los ligamentos amarillos) y organización menos regular."
+            },
+            {
+              "text": "Ambos tienen la misma organización de fibras",
+              "isCorrect": false,
+              "rationale": "El tendón es más regular y paralelo."
+            },
+            {
+              "text": "El ligamento tiene fibras más paralelas",
+              "isCorrect": false,
+              "rationale": "El tendón tiene fibras más paralelas."
+            },
+            {
+              "text": "El tendón tiene fibras elásticas",
+              "isCorrect": false,
+              "rationale": "Los ligamentos pueden tener fibras elásticas."
+            }
+          ],
+          "hint": "El tendón resiste tracción en una dirección, el ligamento puede necesitar cierta elasticidad..."
+        },
+        {
+          "question": "¿Qué diferencia hay en el color entre tendón y ligamento?",
+          "options": [
+            {
+              "text": "El tendón es blanco nacarado brillante, el ligamento es blanco amarillento u opaco",
+              "isCorrect": true,
+              "rationale": "Los tendones tienen un color blanco nacarado brillante por la disposición regular de las fibras de colágeno. Los ligamentos son más blancos opacos o amarillentos (si tienen fibras elásticas)."
+            },
+            {
+              "text": "Ambos tienen el mismo color",
+              "isCorrect": false,
+              "rationale": "El tendón es más brillante."
+            },
+            {
+              "text": "El ligamento es más brillante",
+              "isCorrect": false,
+              "rationale": "El tendón es más brillante."
+            },
+            {
+              "text": "El tendón es amarillento",
+              "isCorrect": false,
+              "rationale": "El tendón es blanco nacarado."
+            }
+          ],
+          "hint": "Uno brilla más por la disposición de sus fibras..."
+        },
+        {
+          "question": "¿Qué son los ligamentos amarillos y por qué tienen ese color?",
+          "options": [
+            {
+              "text": "Ligamentos elásticos de las vértebras, amarillos por la elastina que contienen",
+              "isCorrect": true,
+              "rationale": "Los ligamentos amarillos (flavos) se encuentran entre las láminas vertebrales. Su color amarillento se debe al alto contenido de fibras elásticas (elastina)."
+            },
+            {
+              "text": "Ligamentos envejecidos",
+              "isCorrect": false,
+              "rationale": "Su color es normal, no por edad."
+            },
+            {
+              "text": "Ligamentos inflamados",
+              "isCorrect": false,
+              "rationale": "Es su color normal por la elastina."
+            },
+            {
+              "text": "Ligamentos del hígado",
+              "isCorrect": false,
+              "rationale": "Están en la columna vertebral."
+            }
+          ],
+          "hint": "El color viene de un tipo de fibra diferente al colágeno..."
+        },
+        {
+          "question": "¿Cuál es la diferencia entre periostio y pericondrio?",
+          "options": [
+            {
+              "text": "El periostio envuelve el hueso, el pericondrio envuelve el cartílago",
+              "isCorrect": true,
+              "rationale": "El periostio es la membrana fibrosa que rodea la superficie exterior del hueso. El pericondrio es la membrana conectiva que envuelve el cartílago."
+            },
+            {
+              "text": "Ambos envuelven el hueso",
+              "isCorrect": false,
+              "rationale": "El pericondrio envuelve el cartílago."
+            },
+            {
+              "text": "Ambos envuelven el cartílago",
+              "isCorrect": false,
+              "rationale": "El periostio envuelve el hueso."
+            },
+            {
+              "text": "No hay diferencia",
+              "isCorrect": false,
+              "rationale": "Envuelven tejidos diferentes."
+            }
+          ],
+          "hint": "'osteo' = hueso, 'condro' = cartílago..."
+        },
+        {
+          "question": "¿Qué diferencia hay entre periostio y endostio?",
+          "options": [
+            {
+              "text": "El periostio está en la superficie externa del hueso, el endostio reviste la cavidad medular interna",
+              "isCorrect": true,
+              "rationale": "El periostio rodea la superficie externa del hueso. El endostio es el revestimiento interno de la cavidad medular y de las trabéculas del hueso esponjoso."
+            },
+            {
+              "text": "Ambos están en el exterior del hueso",
+              "isCorrect": false,
+              "rationale": "El endostio está dentro."
+            },
+            {
+              "text": "Ambos están dentro del hueso",
+              "isCorrect": false,
+              "rationale": "El periostio está fuera."
+            },
+            {
+              "text": "No hay diferencia",
+              "isCorrect": false,
+              "rationale": "Están en ubicaciones opuestas."
+            }
+          ],
+          "hint": "'peri' = alrededor (afuera), 'endo' = dentro..."
+        },
+        {
+          "question": "¿Qué diferencia hay en la vascularización entre periostio y cartílago articular?",
+          "options": [
+            {
+              "text": "El periostio es ricamente vascularizado, el cartílago articular es avascular",
+              "isCorrect": true,
+              "rationale": "El periostio es ricamente vascularizado e inervado. El cartílago articular no tiene vasos sanguíneos y se nutre por imbibición del líquido sinovial."
+            },
+            {
+              "text": "Ambos son avasculares",
+              "isCorrect": false,
+              "rationale": "El periostio tiene muchos vasos."
+            },
+            {
+              "text": "Ambos son muy vascularizados",
+              "isCorrect": false,
+              "rationale": "El cartílago articular es avascular."
+            },
+            {
+              "text": "El cartílago es más vascularizado",
+              "isCorrect": false,
+              "rationale": "El cartílago es avascular."
+            }
+          ],
+          "hint": "Por eso duele cuando se lastima el periostio, y el cartílago se nutre del líquido sinovial..."
+        },
+        {
+          "question": "¿Cuál es la diferencia entre fascia y aponeurosis?",
+          "options": [
+            {
+              "text": "La fascia es una lámina de tejido conectivo que envuelve músculos, la aponeurosis es una lámina tendinosa plana de inserción muscular",
+              "isCorrect": true,
+              "rationale": "La fascia es una lámina de tejido conectivo que envuelve y separa músculos. La aponeurosis es una expansión tendinosa plana que sirve como medio de inserción muscular."
+            },
+            {
+              "text": "Son lo mismo",
+              "isCorrect": false,
+              "rationale": "Tienen funciones diferentes."
+            },
+            {
+              "text": "La aponeurosis envuelve músculos",
+              "isCorrect": false,
+              "rationale": "La aponeurosis es de inserción muscular."
+            },
+            {
+              "text": "La fascia sirve de inserción muscular",
+              "isCorrect": false,
+              "rationale": "La fascia envuelve y separa."
+            }
+          ],
+          "hint": "Una 'envuelve', la otra 'sirve de inserción'..."
+        },
+        {
+          "question": "¿Qué característica distingue a una aponeurosis de un tendón?",
+          "options": [
+            {
+              "text": "La aponeurosis es una lámina plana, el tendón es un cordón cilíndrico o aplanado",
+              "isCorrect": true,
+              "rationale": "La aponeurosis es una lámina tendinosa plana y delgada. El tendón es una estructura más cilíndrica o de cordón."
+            },
+            {
+              "text": "No hay diferencia",
+              "isCorrect": false,
+              "rationale": "La forma es diferente."
+            },
+            {
+              "text": "El tendón es plano",
+              "isCorrect": false,
+              "rationale": "El tendón es más cilíndrico."
+            },
+            {
+              "text": "La aponeurosis es cilíndrica",
+              "isCorrect": false,
+              "rationale": "La aponeurosis es plana."
+            }
+          ],
+          "hint": "Una es una 'lámina', el otro es un 'cordón'..."
+        },
+        {
+          "question": "¿Cuál es la diferencia entre cartílago hialino y fibrocartílago?",
+          "options": [
+            {
+              "text": "El cartílago hialino es liso y transparente, el fibrocartílago tiene fibras de colágeno visibles y es más resistente",
+              "isCorrect": true,
+              "rationale": "El cartílago hialino es liso, translúcido y de aspecto vidrioso. El fibrocartílago contiene haces de fibras de colágeno visibles, es más opaco y resistente a la tensión."
+            },
+            {
+              "text": "Son iguales",
+              "isCorrect": false,
+              "rationale": "Tienen aspecto y propiedades diferentes."
+            },
+            {
+              "text": "El fibrocartílago es más liso",
+              "isCorrect": false,
+              "rationale": "El hialino es más liso."
+            },
+            {
+              "text": "El cartílago hialino es más opaco",
+              "isCorrect": false,
+              "rationale": "El hialino es más translúcido."
+            }
+          ],
+          "hint": "'Hialino' significa 'vidrioso', el fibrocartílago se ve más fibroso..."
+        },
+        {
+          "question": "¿Dónde se encuentra principalmente el cartílago hialino?",
+          "options": [
+            {
+              "text": "Superficies articulares, costillas (cartílago costal), nariz, tráquea y bronquios",
+              "isCorrect": true,
+              "rationale": "El cartílago hialino se encuentra en las superficies articulares, cartílagos costales, nariz, tráquea y bronquios."
+            },
+            {
+              "text": "Solo en los meniscos",
+              "isCorrect": false,
+              "rationale": "Los meniscos son fibrocartílago."
+            },
+            {
+              "text": "Solo en los discos intervertebrales",
+              "isCorrect": false,
+              "rationale": "Los discos son fibrocartílago."
+            },
+            {
+              "text": "Solo en el pabellón auricular",
+              "isCorrect": false,
+              "rationale": "La oreja tiene cartílago elástico."
+            }
+          ],
+          "hint": "Es el tipo más común de cartílago..."
+        },
+        {
+          "question": "¿Dónde se encuentra principalmente el fibrocartílago?",
+          "options": [
+            {
+              "text": "Discos intervertebrales, meniscos, sínfisis pubiana, labrum y disco temporomandibular",
+              "isCorrect": true,
+              "rationale": "El fibrocartílago se encuentra en discos intervertebrales, meniscos de la rodilla, sínfisis pubiana, labrum articular y disco de la ATM."
+            },
+            {
+              "text": "Superficies articulares",
+              "isCorrect": false,
+              "rationale": "Esas tienen cartílago hialino."
+            },
+            {
+              "text": "Tráquea y bronquios",
+              "isCorrect": false,
+              "rationale": "Esos tienen cartílago hialino."
+            },
+            {
+              "text": "Pabellón auricular",
+              "isCorrect": false,
+              "rationale": "Ese tiene cartílago elástico."
+            }
+          ],
+          "hint": "Está donde se necesita resistencia a la tensión y compresión..."
+        },
+        {
+          "question": "¿Qué tipo de cartílago tiene el pabellón auricular (oreja)?",
+          "options": [
+            {
+              "text": "Cartílago elástico, por eso es flexible y vuelve a su forma",
+              "isCorrect": true,
+              "rationale": "El pabellón auricular tiene cartílago elástico, que contiene fibras elásticas que le dan flexibilidad y capacidad de recuperar su forma."
+            },
+            {
+              "text": "Cartílago hialino",
+              "isCorrect": false,
+              "rationale": "Ese es más rígido."
+            },
+            {
+              "text": "Fibrocartílago",
+              "isCorrect": false,
+              "rationale": "Ese es más resistente a tensión."
+            },
+            {
+              "text": "No tiene cartílago",
+              "isCorrect": false,
+              "rationale": "Tiene cartílago elástico."
+            }
+          ],
+          "hint": "Por eso la oreja se puede doblar y vuelve a su forma..."
+        },
+        {
+          "question": "¿Cuál es la diferencia en vascularización entre el pericondrio y el cartílago que envuelve?",
+          "options": [
+            {
+              "text": "El pericondrio es vascularizado, el cartílago es avascular",
+              "isCorrect": true,
+              "rationale": "El pericondrio tiene vasos sanguíneos. El cartílago es avascular y se nutre por difusión desde el pericondrio."
+            },
+            {
+              "text": "Ambos son vascularizados",
+              "isCorrect": false,
+              "rationale": "El cartílago es avascular."
+            },
+            {
+              "text": "Ambos son avasculares",
+              "isCorrect": false,
+              "rationale": "El pericondrio tiene vasos."
+            },
+            {
+              "text": "El cartílago es más vascularizado",
+              "isCorrect": false,
+              "rationale": "El cartílago es avascular."
+            }
+          ],
+          "hint": "El cartílago se nutre por difusión, igual que el cartílago articular..."
+        },
+        {
+          "question": "¿Qué diferencia hay en la nutrición entre tendón y músculo?",
+          "options": [
+            {
+              "text": "El músculo es muy vascularizado, el tendón tiene vascularización pobre",
+              "isCorrect": true,
+              "rationale": "El músculo esquelético es muy vascularizado. El tendón tiene una vascularización relativamente pobre, lo que hace que su cicatrización sea más lenta."
+            },
+            {
+              "text": "Ambos tienen la misma vascularización",
+              "isCorrect": false,
+              "rationale": "El músculo es mucho más vascularizado."
+            },
+            {
+              "text": "El tendón es más vascularizado",
+              "isCorrect": false,
+              "rationale": "El músculo es más vascularizado."
+            },
+            {
+              "text": "El tendón es avascular",
+              "isCorrect": false,
+              "rationale": "Tiene algo de vascularización, pero pobre."
+            }
+          ],
+          "hint": "Por eso las lesiones de tendón tardan más en curar..."
+        },
+        {
+          "question": "¿Qué diferencia hay entre un tendón y una vaina sinovial?",
+          "options": [
+            {
+              "text": "El tendón es tejido conectivo denso que transmite fuerza, la vaina sinovial es una membrana que rodea y lubrica el tendón",
+              "isCorrect": true,
+              "rationale": "El tendón es la estructura de tejido conectivo que transmite la fuerza muscular. La vaina sinovial es una membrana que rodea ciertos tendones y contiene líquido sinovial para reducir la fricción."
+            },
+            {
+              "text": "Son lo mismo",
+              "isCorrect": false,
+              "rationale": "Son estructuras diferentes."
+            },
+            {
+              "text": "La vaina sinovial transmite fuerza",
+              "isCorrect": false,
+              "rationale": "El tendón transmite la fuerza."
+            },
+            {
+              "text": "El tendón lubrica",
+              "isCorrect": false,
+              "rationale": "La vaina sinovial lubrica."
+            }
+          ],
+          "hint": "Una es la 'cuerda', la otra es el 'túnel lubricado' por donde pasa..."
+        },
+        {
+          "question": "¿Qué diferencia hay entre hueso compacto y hueso esponjoso en cuanto a vascularización?",
+          "options": [
+            {
+              "text": "El hueso compacto se nutre por conductos centrales (Havers), el esponjoso por difusión desde la médula",
+              "isCorrect": true,
+              "rationale": "El hueso compacto tiene osteonas con conductos centrales que llevan vasos. El hueso esponjoso no tiene conductos, los osteocitos se nutren por difusión desde la médula ósea de los espacios medulares."
+            },
+            {
+              "text": "Ambos se nutren igual",
+              "isCorrect": false,
+              "rationale": "Tienen mecanismos diferentes."
+            },
+            {
+              "text": "El esponjoso tiene más conductos",
+              "isCorrect": false,
+              "rationale": "El compacto tiene los conductos de Havers."
+            },
+            {
+              "text": "El compacto es avascular",
+              "isCorrect": false,
+              "rationale": "Tiene conductos con vasos."
+            }
+          ],
+          "hint": "El compacto tiene 'túneles' con vasos, el esponjoso no..."
+        },
+        {
+          "question": "¿Cuál es la diferencia funcional entre ligamento fibroso y ligamento elástico?",
+          "options": [
+            {
+              "text": "El fibroso limita el movimiento (inextensible), el elástico permite cierto estiramiento y retorno",
+              "isCorrect": true,
+              "rationale": "Los ligamentos fibrosos son prácticamente inextensibles y limitan el movimiento. Los elásticos pueden estirarse algo y volver a su posición (como los ligamentos amarillos)."
+            },
+            {
+              "text": "No hay diferencia funcional",
+              "isCorrect": false,
+              "rationale": "Tienen comportamiento mecánico diferente."
+            },
+            {
+              "text": "El elástico limita más el movimiento",
+              "isCorrect": false,
+              "rationale": "El fibroso es más rígido."
+            },
+            {
+              "text": "El fibroso se estira más",
+              "isCorrect": false,
+              "rationale": "El fibroso es inextensible."
+            }
+          ],
+          "hint": "Uno es 'rígido', el otro puede 'estirarse' un poco..."
+        },
+        {
+          "question": "¿Qué diferencia hay entre una sincondrosis y una sínfisis?",
+          "options": [
+            {
+              "text": "La sincondrosis tiene cartílago hialino, la sínfisis tiene fibrocartílago",
+              "isCorrect": true,
+              "rationale": "La sincondrosis es una articulación cartilaginosa con cartílago hialino interpuesto. La sínfisis tiene fibrocartílago entre las superficies articulares."
+            },
+            {
+              "text": "Ambas tienen el mismo tipo de cartílago",
+              "isCorrect": false,
+              "rationale": "Tienen diferentes tipos de cartílago."
+            },
+            {
+              "text": "La sínfisis tiene cartílago hialino",
+              "isCorrect": false,
+              "rationale": "Tiene fibrocartílago."
+            },
+            {
+              "text": "La sincondrosis tiene fibrocartílago",
+              "isCorrect": false,
+              "rationale": "Tiene cartílago hialino."
+            }
+          ],
+          "hint": "'Condro' puede referirse a cualquier cartílago, pero sincondrosis = hialino..."
+        },
+        {
+          "question": "¿Qué diferencia hay en la movilidad entre sincondrosis y sínfisis?",
+          "options": [
+            {
+              "text": "La sincondrosis es generalmente menos móvil que la sínfisis (que es anfiartrosis)",
+              "isCorrect": true,
+              "rationale": "La sincondrosis es generalmente inmóvil o con movimiento muy limitado. La sínfisis es una anfiartrosis, con movimientos limitados pero de mayor amplitud que la sincondrosis."
+            },
+            {
+              "text": "Ambas tienen la misma movilidad",
+              "isCorrect": false,
+              "rationale": "La sínfisis es más móvil."
+            },
+            {
+              "text": "La sincondrosis es más móvil",
+              "isCorrect": false,
+              "rationale": "La sínfisis tiene más movimiento."
+            },
+            {
+              "text": "Ninguna tiene movimiento",
+              "isCorrect": false,
+              "rationale": "La sínfisis tiene algo de movimiento."
+            }
+          ],
+          "hint": "La sínfisis (como el disco intervertebral) permite más movimiento..."
+        },
+        {
+          "question": "¿Cuál es la diferencia entre menisco y disco articular?",
+          "options": [
+            {
+              "text": "El menisco tiene forma de medialuna, el disco es completo y divide la articulación en dos cavidades",
+              "isCorrect": true,
+              "rationale": "El menisco tiene forma de medialuna y no divide completamente la articulación. El disco articular es completo y divide la articulación en dos cavidades secundarias separadas."
+            },
+            {
+              "text": "Son lo mismo",
+              "isCorrect": false,
+              "rationale": "Tienen forma diferente."
+            },
+            {
+              "text": "El disco tiene forma de medialuna",
+              "isCorrect": false,
+              "rationale": "El disco es completo."
+            },
+            {
+              "text": "El menisco divide la articulación",
+              "isCorrect": false,
+              "rationale": "El disco divide la articulación."
+            }
+          ],
+          "hint": "Uno es 'media luna', el otro es 'completo'..."
+        }
+      ]
+    }
+  ]
+}
 };

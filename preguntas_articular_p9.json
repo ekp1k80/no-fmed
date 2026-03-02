@@ -1,0 +1,292 @@
+[
+  {
+    "question": "¿Qué es la circunducción como movimiento complejo?",
+    "options": [
+      {"text": "La asociación de movimientos simples que resulta de la sucesión de flexión, abducción, extensión y aducción", "isCorrect": true, "rationale": "La circunducción es la asociación de movimientos simples y resulta de la sucesión de los movimientos de flexión, abducción, extensión y aducción, por ejemplo."},
+      {"text": "Un movimiento simple", "isCorrect": false, "rationale": "Es un movimiento complejo, asociación de varios."},
+      {"text": "Solo rotación", "isCorrect": false, "rationale": "Es combinación de movimientos."},
+      {"text": "Solo flexión y extensión", "isCorrect": false, "rationale": "Incluye varios movimientos."}
+    ],
+    "hint": "Es como 'dibujar un círculo' con el segmento..."
+  },
+  {
+    "question": "¿Qué figura describe el segmento durante la circunducción?",
+    "options": [
+      {"text": "Una superficie aproximadamente cónica, con el extremo distal formando una figura circular", "isCorrect": true, "rationale": "El segmento en movimiento recorre una superficie aproximadamente cónica y su extremo distal forma una figura aproximadamente circular."},
+      {"text": "Una línea recta", "isCorrect": false, "rationale": "Describe una superficie cónica."},
+      {"text": "Un cuadrado", "isCorrect": false, "rationale": "Describe una superficie cónica."},
+      {"text": "Una elipse perfecta", "isCorrect": false, "rationale": "Describe una superficie aproximadamente cónica."}
+    ],
+    "hint": "El extremo del segmento 'dibuja un círculo'..."
+  },
+  {
+    "question": "¿En qué direcciones puede efectuarse la circunducción?",
+    "options": [
+      {"text": "Hacia delante o hacia atrás", "isCorrect": true, "rationale": "La circunducción puede efectuarse hacia delante o hacia atrás."},
+      {"text": "Solo hacia delante", "isCorrect": false, "rationale": "Puede ser hacia adelante o atrás."},
+      {"text": "Solo hacia atrás", "isCorrect": false, "rationale": "Puede ser en ambas direcciones."},
+      {"text": "Solo hacia la derecha", "isCorrect": false, "rationale": "Puede ser hacia adelante o atrás."}
+    ],
+    "hint": "Puede hacerse en 'dos sentidos'..."
+  },
+  {
+    "question": "¿Qué es la pronación como movimiento del antebrazo?",
+    "options": [
+      {"text": "Movimiento del antebrazo alrededor de su eje longitudinal donde la palma queda orientada hacia atrás", "isCorrect": true, "rationale": "La pronación es un movimiento del antebrazo alrededor de su eje longitudinal. Se produce la rotación del hueso radio, que termina con su epífisis distal ubicada medialmente al cúbito, de manera que la palma queda orientada hacia atrás."},
+      {"text": "El movimiento donde la palma mira hacia adelante", "isCorrect": false, "rationale": "Eso es la supinación."},
+      {"text": "La flexión del antebrazo", "isCorrect": false, "rationale": "Es rotación del antebrazo."},
+      {"text": "La extensión del antebrazo", "isCorrect": false, "rationale": "Es rotación del antebrazo."}
+    ],
+    "hint": "Es cuando la palma mira 'hacia abajo' o 'hacia atrás'..."
+  },
+  {
+    "question": "¿Qué ocurre con los huesos del antebrazo en la pronación máxima?",
+    "options": [
+      {"text": "Los ejes longitudinales del radio y cúbito se cruzan", "isCorrect": true, "rationale": "En la pronación máxima, los ejes longitudinales de los huesos del antebrazo se cruzan."},
+      {"text": "Quedan paralelos", "isCorrect": false, "rationale": "Se cruzan."},
+      {"text": "No cambian de posición", "isCorrect": false, "rationale": "El radio rota y se cruza con el cúbito."},
+      {"text": "Se separan", "isCorrect": false, "rationale": "Se cruzan."}
+    ],
+    "hint": "El radio se 'cruza' sobre el cúbito..."
+  },
+  {
+    "question": "¿Qué es la supinación como movimiento del antebrazo?",
+    "options": [
+      {"text": "Movimiento del antebrazo donde la palma queda orientada hacia delante", "isCorrect": true, "rationale": "La supinación es el movimiento del antebrazo alrededor de su eje longitudinal, produciendo la rotación del hueso radio, que termina con su epífisis distal ubicada lateralmente al cúbito, de manera que la palma queda orientada hacia delante."},
+      {"text": "El movimiento donde la palma mira hacia atrás", "isCorrect": false, "rationale": "Eso es la pronación."},
+      {"text": "La flexión del antebrazo", "isCorrect": false, "rationale": "Es rotación del antebrazo."},
+      {"text": "La extensión del antebrazo", "isCorrect": false, "rationale": "Es rotación del antebrazo."}
+    ],
+    "hint": "Es cuando la palma mira 'hacia arriba' o 'hacia adelante'..."
+  },
+  {
+    "question": "¿Qué ocurre con los huesos del antebrazo en la supinación máxima?",
+    "options": [
+      {"text": "Los ejes de los dos huesos del antebrazo son paralelos", "isCorrect": true, "rationale": "En la supinación máxima, los ejes de los dos huesos del antebrazo son paralelos."},
+      {"text": "Se cruzan", "isCorrect": false, "rationale": "Quedan paralelos."},
+      {"text": "Se separan", "isCorrect": false, "rationale": "Quedan paralelos."},
+      {"text": "El radio rota sobre el cúbito", "isCorrect": false, "rationale": "Quedan paralelos."}
+    ],
+    "hint": "Ambos huesos quedan 'alineados'..."
+  },
+  {
+    "question": "¿Qué es la pronación del pie?",
+    "options": [
+      {"text": "Movimiento de torsión del antepié con elevación del borde lateral del pie", "isCorrect": true, "rationale": "La pronación del pie es el movimiento de torsión del antepié, con la elevación del borde lateral del pie."},
+      {"text": "Elevación del borde medial", "isCorrect": false, "rationale": "Eso es la supinación del pie."},
+      {"text": "Flexión del tobillo", "isCorrect": false, "rationale": "Es torsión del antepié."},
+      {"text": "Extensión del tobillo", "isCorrect": false, "rationale": "Es torsión del antepié."}
+    ],
+    "hint": "Se levanta el borde 'de afuera' del pie..."
+  },
+  {
+    "question": "¿Qué es la supinación del pie?",
+    "options": [
+      {"text": "Movimiento de detorsión del antepié con elevación del borde medial del pie", "isCorrect": true, "rationale": "La supinación del pie es el movimiento de detorsión del antepié, con la elevación del borde medial del pie."},
+      {"text": "Elevación del borde lateral", "isCorrect": false, "rationale": "Eso es la pronación del pie."},
+      {"text": "Flexión del tobillo", "isCorrect": false, "rationale": "Es torsión del antepié."},
+      {"text": "Extensión del tobillo", "isCorrect": false, "rationale": "Es torsión del antepié."}
+    ],
+    "hint": "Se levanta el borde 'de adentro' del pie..."
+  },
+  {
+    "question": "¿Qué es la eversión del pie?",
+    "options": [
+      {"text": "Movimiento que asocia abducción y rotación medial del pie, la planta se orienta hacia lateral", "isCorrect": true, "rationale": "La eversión es un movimiento que asocia la abducción y la rotación medial del pie. Se produce por la rotación del hueso calcáneo alrededor de su eje longitudinal. La planta del pie se orienta hacia lateral."},
+      {"text": "Movimiento donde la planta mira hacia medial", "isCorrect": false, "rationale": "Eso es la inversión."},
+      {"text": "Solo rotación del calcáneo", "isCorrect": false, "rationale": "Asocia abducción y rotación medial."},
+      {"text": "Flexión plantar", "isCorrect": false, "rationale": "Es otro movimiento."}
+    ],
+    "hint": "La planta del pie mira 'hacia afuera'..."
+  },
+  {
+    "question": "¿Qué hueso rota durante la eversión del pie?",
+    "options": [
+      {"text": "El hueso calcáneo alrededor de su eje longitudinal", "isCorrect": true, "rationale": "La eversión se produce por la rotación del hueso calcáneo alrededor de su eje longitudinal."},
+      {"text": "El astrágalo", "isCorrect": false, "rationale": "Es el calcáneo."},
+      {"text": "El escafoides", "isCorrect": false, "rationale": "Es el calcáneo."},
+      {"text": "El primer metatarsiano", "isCorrect": false, "rationale": "Es el calcáneo."}
+    ],
+    "hint": "Es el hueso del 'talón'..."
+  },
+  {
+    "question": "¿Qué es la inversión del pie?",
+    "options": [
+      {"text": "Movimiento que asocia aducción y rotación lateral del pie, la planta se orienta hacia medial", "isCorrect": true, "rationale": "La inversión es el movimiento que asocia la aducción y la rotación lateral del pie. Se produce el movimiento de rotación longitudinal del calcáneo. La planta del pie se orienta hacia medial."},
+      {"text": "Movimiento donde la planta mira hacia lateral", "isCorrect": false, "rationale": "Eso es la eversión."},
+      {"text": "Solo rotación del calcáneo", "isCorrect": false, "rationale": "Asocia aducción y rotación lateral."},
+      {"text": "Flexión dorsal", "isCorrect": false, "rationale": "Es otro movimiento."}
+    ],
+    "hint": "La planta del pie mira 'hacia adentro'..."
+  },
+  {
+    "question": "¿Qué relación hay entre inversión y eversión?",
+    "options": [
+      {"text": "La inversión es el movimiento opuesto a la eversión", "isCorrect": true, "rationale": "La inversión se trata del movimiento opuesto a la eversión."},
+      {"text": "Son el mismo movimiento", "isCorrect": false, "rationale": "Son opuestos."},
+      {"text": "No tienen relación", "isCorrect": false, "rationale": "Son opuestos."},
+      {"text": "La inversión es más amplia", "isCorrect": false, "rationale": "Son opuestos."}
+    ],
+    "hint": "Van en 'direcciones contrarias'..."
+  },
+  {
+    "question": "¿Qué es la oposición como movimiento del pulgar?",
+    "options": [
+      {"text": "El movimiento por el cual se aproximan el pulpejo del pulgar con el pulpejo de cualquier otro dedo", "isCorrect": true, "rationale": "La oposición es el movimiento por el cual se aproximan el pulpejo del pulgar con el pulpejo de cualquier otro dedo de la mano."},
+      {"text": "Separar el pulgar de los otros dedos", "isCorrect": false, "rationale": "Es acercar el pulgar a otros dedos."},
+      {"text": "Flexionar el pulgar", "isCorrect": false, "rationale": "Es el contacto del pulgar con otros dedos."},
+      {"text": "Extender el pulgar", "isCorrect": false, "rationale": "Es el contacto del pulgar con otros dedos."}
+    ],
+    "hint": "Es lo que permite 'agarrar objetos' con precisión..."
+  },
+  {
+    "question": "¿Qué es la reposición como movimiento del pulgar?",
+    "options": [
+      {"text": "El movimiento que realiza el pulgar desde la posición de oposición hasta la posición anatómica", "isCorrect": true, "rationale": "La reposición se trata del movimiento que realiza el pulgar desde la posición de oposición, hasta la posición anatómica."},
+      {"text": "El movimiento hacia la oposición", "isCorrect": false, "rationale": "Es el movimiento desde la oposición."},
+      {"text": "La flexión del pulgar", "isCorrect": false, "rationale": "Es volver a la posición anatómica."},
+      {"text": "La abducción del pulgar", "isCorrect": false, "rationale": "Es volver a la posición anatómica."}
+    ],
+    "hint": "Es el movimiento 'inverso' a la oposición..."
+  },
+  {
+    "question": "¿Qué es la antepulsión como movimiento?",
+    "options": [
+      {"text": "El movimiento de desplazamiento de un segmento hacia delante", "isCorrect": true, "rationale": "La antepulsión es el movimiento de desplazamiento de un segmento del cuerpo hacia delante."},
+      {"text": "El movimiento hacia atrás", "isCorrect": false, "rationale": "Eso es la retropulsión."},
+      {"text": "El movimiento hacia arriba", "isCorrect": false, "rationale": "Eso es la elevación."},
+      {"text": "El movimiento hacia abajo", "isCorrect": false, "rationale": "Eso es el descenso."}
+    ],
+    "hint": "Es mover 'hacia adelante'..."
+  },
+  {
+    "question": "¿Qué otro nombre recibe la antepulsión en el caso del hombro?",
+    "options": [
+      {"text": "Protracción", "isCorrect": true, "rationale": "La antepulsión también se lo denomina protracción en el caso del hombro."},
+      {"text": "Retracción", "isCorrect": false, "rationale": "Eso es la retropulsión."},
+      {"text": "Elevación", "isCorrect": false, "rationale": "Es otro movimiento."},
+      {"text": "Depresión", "isCorrect": false, "rationale": "Es otro movimiento."}
+    ],
+    "hint": "Es cuando 'sacás el hombro hacia adelante'..."
+  },
+  {
+    "question": "¿Qué es la retropulsión como movimiento?",
+    "options": [
+      {"text": "El movimiento de desplazamiento de un segmento hacia atrás", "isCorrect": true, "rationale": "La retropulsión es el movimiento de desplazamiento de un segmento hacia atrás."},
+      {"text": "El movimiento hacia delante", "isCorrect": false, "rationale": "Eso es la antepulsión."},
+      {"text": "El movimiento hacia arriba", "isCorrect": false, "rationale": "Eso es la elevación."},
+      {"text": "El movimiento hacia abajo", "isCorrect": false, "rationale": "Eso es el descenso."}
+    ],
+    "hint": "Es mover 'hacia atrás'..."
+  },
+  {
+    "question": "¿Qué otro nombre recibe la retropulsión en el caso del hombro?",
+    "options": [
+      {"text": "Retracción", "isCorrect": true, "rationale": "La retropulsión también se lo denomina retracción en el caso del hombro."},
+      {"text": "Protracción", "isCorrect": false, "rationale": "Eso es la antepulsión."},
+      {"text": "Elevación", "isCorrect": false, "rationale": "Es otro movimiento."},
+      {"text": "Depresión", "isCorrect": false, "rationale": "Es otro movimiento."}
+    ],
+    "hint": "Es cuando 'llevás el hombro hacia atrás'..."
+  },
+  {
+    "question": "¿Qué es la nutación como movimiento del sacro?",
+    "options": [
+      {"text": "Movimiento de balanceo del sacro donde el promontorio se dirige hacia abajo y el vértice hacia arriba y atrás", "isCorrect": true, "rationale": "La nutación se trata del movimiento de balanceo (o de báscula) del hueso sacro alrededor de un eje transversal que atraviesa las tuberosidades sacras, donde el promontorio de la base de este hueso se dirige hacia abajo y su vértice hacia arriba y atrás."},
+      {"text": "El movimiento inverso", "isCorrect": false, "rationale": "Eso es la contranutación."},
+      {"text": "Rotación del sacro", "isCorrect": false, "rationale": "Es balanceo."},
+      {"text": "Flexión lateral del sacro", "isCorrect": false, "rationale": "Es balanceo anteroposterior."}
+    ],
+    "hint": "El sacro se 'inclina hacia adelante' en su parte superior..."
+  },
+  {
+    "question": "¿Qué produce la nutación del sacro en el pubis?",
+    "options": [
+      {"text": "Movimiento hacia adelante del pubis (antepulsión del pubis)", "isCorrect": true, "rationale": "El resultado de la nutación produce el movimiento hacia adelante del pubis (antepulsión del pubis)."},
+      {"text": "Movimiento hacia atrás del pubis", "isCorrect": false, "rationale": "Eso es la contranutación."},
+      {"text": "No afecta el pubis", "isCorrect": false, "rationale": "Sí afecta el pubis."},
+      {"text": "Rotación del pubis", "isCorrect": false, "rationale": "Es antepulsión."}
+    ],
+    "hint": "El pubis se mueve 'hacia adelante'..."
+  },
+  {
+    "question": "¿Qué es la contranutación como movimiento del sacro?",
+    "options": [
+      {"text": "Movimiento de balanceo del sacro donde la base se dirige hacia arriba y el vértice hacia abajo y delante", "isCorrect": true, "rationale": "La contranutación es el movimiento de balanceo del sacro, por el cual la base de este hueso se dirige hacia arriba y su vértice hacia abajo y delante."},
+      {"text": "El mismo movimiento que la nutación", "isCorrect": false, "rationale": "Es el movimiento opuesto."},
+      {"text": "Rotación del sacro", "isCorrect": false, "rationale": "Es balanceo."},
+      {"text": "Flexión lateral del sacro", "isCorrect": false, "rationale": "Es balanceo anteroposterior."}
+    ],
+    "hint": "El sacro se 'inclina hacia atrás' en su parte superior..."
+  },
+  {
+    "question": "¿Qué produce la contranutación en el pubis?",
+    "options": [
+      {"text": "Movimiento hacia atrás del pubis (retropulsión del pubis)", "isCorrect": true, "rationale": "La contranutación produce el movimiento hacia atrás del pubis (retropulsión del pubis)."},
+      {"text": "Movimiento hacia adelante del pubis", "isCorrect": false, "rationale": "Eso es la nutación."},
+      {"text": "No afecta el pubis", "isCorrect": false, "rationale": "Sí afecta el pubis."},
+      {"text": "Rotación del pubis", "isCorrect": false, "rationale": "Es retropulsión."}
+    ],
+    "hint": "El pubis se mueve 'hacia atrás'..."
+  },
+  {
+    "question": "¿Qué es la elevación como movimiento?",
+    "options": [
+      {"text": "El movimiento que desplaza un segmento del cuerpo hacia arriba", "isCorrect": true, "rationale": "La elevación se trata del movimiento que desplaza un segmento del cuerpo hacia arriba."},
+      {"text": "El movimiento hacia abajo", "isCorrect": false, "rationale": "Eso es el descenso."},
+      {"text": "El movimiento hacia adelante", "isCorrect": false, "rationale": "Eso es la antepulsión."},
+      {"text": "El movimiento hacia atrás", "isCorrect": false, "rationale": "Eso es la retropulsión."}
+    ],
+    "hint": "Es mover 'hacia arriba'..."
+  },
+  {
+    "question": "¿Qué es el descenso como movimiento?",
+    "options": [
+      {"text": "El movimiento que desplaza un segmento hacia abajo", "isCorrect": true, "rationale": "El descenso es el movimiento que desplaza un segmento hacia abajo. También se lo denomina depresión."},
+      {"text": "El movimiento hacia arriba", "isCorrect": false, "rationale": "Eso es la elevación."},
+      {"text": "El movimiento hacia adelante", "isCorrect": false, "rationale": "Eso es la antepulsión."},
+      {"text": "El movimiento hacia atrás", "isCorrect": false, "rationale": "Eso es la retropulsión."}
+    ],
+    "hint": "Es mover 'hacia abajo'..."
+  },
+  {
+    "question": "¿Qué otro nombre recibe el descenso?",
+    "options": [
+      {"text": "Depresión", "isCorrect": true, "rationale": "El descenso también se lo denomina depresión."},
+      {"text": "Elevación", "isCorrect": false, "rationale": "Es el opuesto."},
+      {"text": "Retracción", "isCorrect": false, "rationale": "Es otro movimiento."},
+      {"text": "Protracción", "isCorrect": false, "rationale": "Es otro movimiento."}
+    ],
+    "hint": "Sinónimo de 'bajar'..."
+  },
+  {
+    "question": "¿Qué es la protrusión como movimiento de la mandíbula?",
+    "options": [
+      {"text": "El movimiento hacia adelante realizado por la mandíbula", "isCorrect": true, "rationale": "La protrusión es el movimiento hacia adelante, realizado por la mandíbula."},
+      {"text": "El movimiento hacia atrás de la mandíbula", "isCorrect": false, "rationale": "Eso es la retrusión."},
+      {"text": "El movimiento lateral de la mandíbula", "isCorrect": false, "rationale": "Eso es la diducción."},
+      {"text": "La apertura de la boca", "isCorrect": false, "rationale": "Es el movimiento hacia adelante."}
+    ],
+    "hint": "Es 'sacar la mandíbula hacia adelante'..."
+  },
+  {
+    "question": "¿Qué es la retrusión como movimiento de la mandíbula?",
+    "options": [
+      {"text": "El movimiento hacia atrás realizado por la mandíbula", "isCorrect": true, "rationale": "La retrusión es el movimiento hacia atrás, realizado por la mandíbula."},
+      {"text": "El movimiento hacia adelante de la mandíbula", "isCorrect": false, "rationale": "Eso es la protrusión."},
+      {"text": "El movimiento lateral de la mandíbula", "isCorrect": false, "rationale": "Eso es la diducción."},
+      {"text": "El cierre de la boca", "isCorrect": false, "rationale": "Es el movimiento hacia atrás."}
+    ],
+    "hint": "Es 'llevar la mandíbula hacia atrás'..."
+  },
+  {
+    "question": "¿Qué es la diducción como movimiento de la mandíbula?",
+    "options": [
+      {"text": "Los movimientos de lado a lado de la mandíbula (excursión lateral)", "isCorrect": true, "rationale": "La diducción son los movimientos de lado a lado de la mandíbula (excursión lateral de la mandíbula)."},
+      {"text": "El movimiento hacia adelante", "isCorrect": false, "rationale": "Eso es la protrusión."},
+      {"text": "El movimiento hacia atrás", "isCorrect": false, "rationale": "Eso es la retrusión."},
+      {"text": "La apertura de la boca", "isCorrect": false, "rationale": "Es el movimiento lateral."}
+    ],
+    "hint": "Es mover la mandíbula 'de un lado al otro'..."
+  }
+]

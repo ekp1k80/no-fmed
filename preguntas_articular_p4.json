@@ -1,0 +1,182 @@
+[
+  {
+    "question": "¿Qué es una articulación bicondílea?",
+    "options": [
+      {"text": "Dos superficies convexas elipsoidales (cóndilos) se deslizan enfrentadas", "isCorrect": true, "rationale": "En la articulación bicondílea dos superficies convexas elipsoidales (cóndilos) se deslizan enfrentadas, una sobre la otra."},
+      {"text": "Una superficie esférica", "isCorrect": false, "rationale": "Tiene dos cóndilos elipsoides."},
+      {"text": "Una superficie plana", "isCorrect": false, "rationale": "Tiene cóndilos convexos."},
+      {"text": "Una superficie cilíndrica", "isCorrect": false, "rationale": "Tiene cóndilos elipsoides."}
+    ],
+    "hint": "Tiene 'dos cóndilos'..."
+  },
+  {
+    "question": "¿Qué ejemplo caracteriza a una articulación bicondílea?",
+    "options": [
+      {"text": "La articulación temporomandibular", "isCorrect": true, "rationale": "Un ejemplo de articulación bicondílea es la articulación temporomandibular."},
+      {"text": "La articulación del codo", "isCorrect": false, "rationale": "Esa es gínglimo."},
+      {"text": "La articulación del hombro", "isCorrect": false, "rationale": "Esa es esferoidea."},
+      {"text": "La articulación de la rodilla", "isCorrect": false, "rationale": "Esa es bicondílea doble."}
+    ],
+    "hint": "Está en la mandíbula..."
+  },
+  {
+    "question": "¿Qué es una articulación bicondílea doble?",
+    "options": [
+      {"text": "Dos cóndilos de una epífisis se enfrentan a dos superficies prácticamente planas de otro hueso", "isCorrect": true, "rationale": "En la articulación bicondílea doble dos cóndilos de una epífisis se enfrentan a dos superficies articulares prácticamente planas ubicadas sobre los cóndilos de otro hueso."},
+      {"text": "Cuatro cóndilos enfrentados", "isCorrect": false, "rationale": "Son dos cóndilos contra superficies planas."},
+      {"text": "Dos articulaciones separadas", "isCorrect": false, "rationale": "Es una articulación con dos cóndilos."},
+      {"text": "Una articulación esferoidea", "isCorrect": false, "rationale": "No es esferoidea."}
+    ],
+    "hint": "Es el caso especial de la rodilla..."
+  },
+  {
+    "question": "¿Qué ejemplo caracteriza a una articulación bicondílea doble?",
+    "options": [
+      {"text": "La articulación femorotibial (rodilla)", "isCorrect": true, "rationale": "Un ejemplo de articulación bicondílea doble es la articulación femorotibial."},
+      {"text": "La articulación del codo", "isCorrect": false, "rationale": "Esa es gínglimo."},
+      {"text": "La articulación del hombro", "isCorrect": false, "rationale": "Esa es esferoidea."},
+      {"text": "La articulación temporomandibular", "isCorrect": false, "rationale": "Esa es bicondílea simple."}
+    ],
+    "hint": "Está en la rodilla..."
+  },
+  {
+    "question": "¿Qué es una articulación selar o de silla de montar?",
+    "options": [
+      {"text": "Cada superficie articular es cóncava en un eje y convexa en el eje perpendicular", "isCorrect": true, "rationale": "En la articulación selar [por encaje recíproco] cada una de las superficies articulares es cóncava en un eje y convexa en el eje perpendicular."},
+      {"text": "Ambas superficies son convexas", "isCorrect": false, "rationale": "Cada una es cóncava en un eje y convexa en el otro."},
+      {"text": "Ambas superficies son cóncavas", "isCorrect": false, "rationale": "Cada una es cóncava en un eje y convexa en el otro."},
+      {"text": "Una es plana y otra convexa", "isCorrect": false, "rationale": "Tienen forma de silla de montar."}
+    ],
+    "hint": "Tienen forma de 'silla de montar a caballo'..."
+  },
+  {
+    "question": "¿Qué forma geométrica tienen las superficies de la articulación selar?",
+    "options": [
+      {"text": "Un paraboloide hiperbólico", "isCorrect": true, "rationale": "Cada superficie tiene la forma de una silla de montar a caballo (geométricamente un paraboloide hiperbólico)."},
+      {"text": "Una esfera", "isCorrect": false, "rationale": "No es esférica."},
+      {"text": "Un cilindro", "isCorrect": false, "rationale": "No es cilíndrica."},
+      {"text": "Un elipsoide", "isCorrect": false, "rationale": "No es elipsoide."}
+    ],
+    "hint": "Geométricamente es una superficie curvada en dos direcciones opuestas..."
+  },
+  {
+    "question": "¿Cómo se relacionan las superficies en una articulación selar?",
+    "options": [
+      {"text": "La concavidad de una superficie se enfrenta con la convexidad de la otra", "isCorrect": true, "rationale": "En la articulación selar la concavidad de una superficie se enfrenta con la convexidad de la otra."},
+      {"text": "Las convexas se enfrentan entre sí", "isCorrect": false, "rationale": "La concavidad de una enfrenta la convexidad de la otra."},
+      {"text": "Las cóncavas se enfrentan entre sí", "isCorrect": false, "rationale": "La concavidad de una enfrenta la convexidad de la otra."},
+      {"text": "Son paralelas", "isCorrect": false, "rationale": "Se encajan recíprocamente."}
+    ],
+    "hint": "Se encajan como 'pieza de rompecabezas'..."
+  },
+  {
+    "question": "¿Qué tipo de movimiento tiene la articulación selar?",
+    "options": [
+      {"text": "Los movimientos se desarrollan en dos ejes (biaxial)", "isCorrect": true, "rationale": "En la articulación selar los movimientos se desarrollan en dos ejes (biaxial)."},
+      {"text": "Un solo eje (uniaxial)", "isCorrect": false, "rationale": "Es biaxial."},
+      {"text": "Tres ejes", "isCorrect": false, "rationale": "Es biaxial."},
+      {"text": "Multiaxial", "isCorrect": false, "rationale": "Es biaxial."}
+    ],
+    "hint": "Se puede mover en dos direcciones principales..."
+  },
+  {
+    "question": "¿Qué ejemplo caracteriza a una articulación selar?",
+    "options": [
+      {"text": "La articulación trapeciometacarpiana (del pulgar)", "isCorrect": true, "rationale": "Un ejemplo de articulación selar es la articulación trapeciometacarpiana."},
+      {"text": "La articulación del codo", "isCorrect": false, "rationale": "Esa es gínglimo."},
+      {"text": "La articulación del hombro", "isCorrect": false, "rationale": "Esa es esferoidea."},
+      {"text": "La articulación de la cadera", "isCorrect": false, "rationale": "Esa es cotiloidea."}
+    ],
+    "hint": "Está en la base del pulgar..."
+  },
+  {
+    "question": "¿Qué es una articulación esferoidea o enartrosis?",
+    "options": [
+      {"text": "Superficies articulares esféricas o casi esféricas, una convexa y otra cóncava", "isCorrect": true, "rationale": "En la articulación esferoidea [enartrosis] las superficies articulares son esféricas o casi esféricas. Una de ellas es convexa y se enfrenta a la excavación de la otra superficie, que es cóncava."},
+      {"text": "Superficies planas", "isCorrect": false, "rationale": "Son esféricas."},
+      {"text": "Superficies cilíndricas", "isCorrect": false, "rationale": "Son esféricas."},
+      {"text": "Superficies elipsoides", "isCorrect": false, "rationale": "Son esféricas, no elipsoides."}
+    ],
+    "hint": "Tienen forma de 'esfera'..."
+  },
+  {
+    "question": "¿Qué tipo de movimiento tiene la articulación esferoidea?",
+    "options": [
+      {"text": "Es una articulación multiaxial", "isCorrect": true, "rationale": "La articulación esferoidea es una articulación multiaxial."},
+      {"text": "Es uniaxial", "isCorrect": false, "rationale": "Es multiaxial."},
+      {"text": "Es biaxial", "isCorrect": false, "rationale": "Es multiaxial."},
+      {"text": "No tiene movimiento", "isCorrect": false, "rationale": "Es muy móvil."}
+    ],
+    "hint": "Se puede mover en todas las direcciones..."
+  },
+  {
+    "question": "¿Qué ejemplo caracteriza a una articulación esferoidea?",
+    "options": [
+      {"text": "La articulación escapulohumeral (hombro)", "isCorrect": true, "rationale": "Un ejemplo de articulación esferoidea es la articulación escapulohumeral."},
+      {"text": "La articulación del codo", "isCorrect": false, "rationale": "Esa es gínglimo."},
+      {"text": "La articulación de la rodilla", "isCorrect": false, "rationale": "Esa es bicondílea."},
+      {"text": "La articulación temporomandibular", "isCorrect": false, "rationale": "Esa es bicondílea."}
+    ],
+    "hint": "Está en el hombro..."
+  },
+  {
+    "question": "¿Qué es una articulación cotiloidea?",
+    "options": [
+      {"text": "Variedad de esferoidea donde la superficie cóncava es profunda y sobrepasa el ecuador", "isCorrect": true, "rationale": "La articulación cotiloidea es una variedad de la articulación esferoidea, donde la superficie cóncava es suficientemente profunda para albergar gran parte de la superficie convexa y sobrepasa su ecuador."},
+      {"text": "Una articulación plana", "isCorrect": false, "rationale": "Es una variedad de esferoidea."},
+      {"text": "Una articulación cilíndrica", "isCorrect": false, "rationale": "Es una variedad de esferoidea."},
+      {"text": "Una articulación elipsoidea", "isCorrect": false, "rationale": "Es una variedad de esferoidea."}
+    ],
+    "hint": "Es como una esferoidea pero más 'profunda'..."
+  },
+  {
+    "question": "¿Qué diferencia principal hay entre esferoidea y cotiloidea?",
+    "options": [
+      {"text": "En la cotiloidea la cavidad cóncava es más profunda y abarca más de la mitad de la esfera", "isCorrect": true, "rationale": "En la cotiloidea la superficie cóncava sobrepasa el ecuador de la superficie convexa, lo que le da mayor estabilidad."},
+      {"text": "No hay diferencia", "isCorrect": false, "rationale": "La cotiloidea es más profunda."},
+      {"text": "La esferoidea es más móvil", "isCorrect": false, "rationale": "Ambas son multiaxiales."},
+      {"text": "La cotiloidea es plana", "isCorrect": false, "rationale": "Es esférica profunda."}
+    ],
+    "hint": "La cotiloidea 'abraza' más la cabeza del hueso..."
+  },
+  {
+    "question": "¿Qué tipo de movimiento tiene la articulación cotiloidea?",
+    "options": [
+      {"text": "Es una articulación multiaxial", "isCorrect": true, "rationale": "La articulación cotiloidea es una articulación multiaxial."},
+      {"text": "Es uniaxial", "isCorrect": false, "rationale": "Es multiaxial."},
+      {"text": "Es biaxial", "isCorrect": false, "rationale": "Es multiaxial."},
+      {"text": "Tiene movimiento limitado", "isCorrect": false, "rationale": "Es multiaxial."}
+    ],
+    "hint": "Se puede mover en todas las direcciones..."
+  },
+  {
+    "question": "¿Qué ejemplo caracteriza a una articulación cotiloidea?",
+    "options": [
+      {"text": "La articulación coxofemoral (cadera)", "isCorrect": true, "rationale": "Un ejemplo de articulación cotiloidea es la articulación coxofemoral."},
+      {"text": "La articulación del hombro", "isCorrect": false, "rationale": "Esa es esferoidea."},
+      {"text": "La articulación del codo", "isCorrect": false, "rationale": "Esa es gínglimo."},
+      {"text": "La articulación de la rodilla", "isCorrect": false, "rationale": "Esa es bicondílea."}
+    ],
+    "hint": "Está en la cadera..."
+  },
+  {
+    "question": "¿Qué son las sisarcosis?",
+    "options": [
+      {"text": "Estructuras constituidas por músculos interpuestos entre huesos, no son articulaciones verdaderas", "isCorrect": true, "rationale": "Las sisarcosis están constituidas por músculos que están interpuestos entre los huesos y presentan espacios con tejido conectivo laxo que permiten su deslizamiento. No corresponden a articulaciones verdaderas."},
+      {"text": "Articulaciones sinoviales", "isCorrect": false, "rationale": "No son articulaciones verdaderas."},
+      {"text": "Articulaciones fibrosas", "isCorrect": false, "rationale": "Son músculos interpuestos."},
+      {"text": "Articulaciones cartilaginosas", "isCorrect": false, "rationale": "Son músculos interpuestos."}
+    ],
+    "hint": "Son 'falsas articulaciones' con músculos entre los huesos..."
+  },
+  {
+    "question": "¿Qué ejemplo caracteriza a una sisarcosis?",
+    "options": [
+      {"text": "La articulación escapulotorácica", "isCorrect": true, "rationale": "Un ejemplo de sisarcosis es la articulación escapulotorácica."},
+      {"text": "La articulación del hombro", "isCorrect": false, "rationale": "Esa es esferoidea verdadera."},
+      {"text": "La articulación de la cadera", "isCorrect": false, "rationale": "Esa es cotiloidea verdadera."},
+      {"text": "La articulación del codo", "isCorrect": false, "rationale": "Esa es gínglimo verdadera."}
+    ],
+    "hint": "Está entre la escápula y el tórax..."
+  }
+]
