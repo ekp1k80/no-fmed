@@ -1,0 +1,212 @@
+[
+  {
+    "question": "¿Qué tipo de músculo predomina en el sistema muscular del cuerpo humano?",
+    "options": [
+      { "text": "El músculo esquelético", "isCorrect": true, "rationale": "En su mayoría, el tipo de músculo que predomina en el sistema muscular es el músculo esquelético." },
+      { "text": "El músculo liso", "isCorrect": false, "rationale": "El músculo liso se encuentra en las paredes de vísceras y vasos, pero no es el predominante en masa." },
+      { "text": "El músculo cardíaco", "isCorrect": false, "rationale": "El músculo cardíaco está limitado al corazón, representando una pequeña fracción de la masa muscular total." },
+      { "text": "Los tres tipos en igual proporción", "isCorrect": false, "rationale": "El músculo esquelético representa cerca del 40-50% del peso corporal, siendo claramente el predominante." }
+    ],
+    "hint": "Es el tipo de músculo que nos permite movernos voluntariamente."
+  },
+  {
+    "question": "¿Qué son las células musculares o fibras musculares?",
+    "options": [
+      { "text": "Células especializadas en la contracción", "isCorrect": true, "rationale": "Las células musculares o fibras musculares son células especializadas en la contracción, con forma alargada y estrecha cuando están relajadas." },
+      { "text": "Células especializadas en la conducción nerviosa", "isCorrect": false, "rationale": "Las células especializadas en conducción nerviosa son las neuronas, no las fibras musculares." },
+      { "text": "Células de sostén del tejido conectivo", "isCorrect": false, "rationale": "Las células de sostén son fibroblastos, condrocitos, etc.; las fibras musculares se contraen." },
+      { "text": "Células de almacenamiento de grasa", "isCorrect": false, "rationale": "Las células que almacenan grasa son los adipocitos, no las fibras musculares." }
+    ],
+    "hint": "Su nombre de 'fibras' se debe a su forma alargada cuando están relajadas."
+  },
+  {
+    "question": "¿Cuáles son los tres criterios para clasificar los tipos de músculos?",
+    "options": [
+      { "text": "Voluntario/involuntario, estriado/liso, somático/visceral", "isCorrect": true, "rationale": "Los músculos se clasifican según: control (voluntario vs involuntario), microscopía (estriado vs liso) y localización (somático vs visceral)." },
+      { "text": "Grande/pequeño, rápido/lento, rojo/blanco", "isCorrect": false, "rationale": "Estas no son las clasificaciones anatómicas principales de los músculos." },
+      { "text": "Superficial/profundo, axial/apendicular, fijo/móvil", "isCorrect": false, "rationale": "Estas son clasificaciones topográficas, no las tres características distintivas principales." },
+      { "text": "Contraído/relajado, tónico/fásico, agonista/antagonista", "isCorrect": false, "rationale": "Estas son clasificaciones funcionales, no los tres criterios básicos de tipología muscular." }
+    ],
+    "hint": "Se refieren al control, la apariencia microscópica y la localización."
+  },
+  {
+    "question": "¿Qué significa la clasificación 'voluntario' frente a 'involuntario' para los músculos?",
+    "options": [
+      { "text": "Si normalmente están controlados voluntariamente o no", "isCorrect": true, "rationale": "Los músculos voluntarios obedecen al control de la voluntad (esqueléticos), los involuntarios funcionan fuera de él (liso y cardíaco)." },
+      { "text": "Si se pueden mover o no", "isCorrect": false, "rationale": "Todos los músculos se mueven; la clasificación se refiere al tipo de control, no a la capacidad de movimiento." },
+      { "text": "Si son conscientes o inconscientes de su función", "isCorrect": false, "rationale": "No se trata de consciencia del músculo, sino del tipo de control nervioso." },
+      { "text": "Si se contraen rápido o lento", "isCorrect": false, "rationale": "La velocidad de contracción es otra característica, no la clasificación voluntario/involuntario." }
+    ],
+    "hint": "Pensá si podés decidir cuándo contraer un músculo o si lo hace automáticamente."
+  },
+  {
+    "question": "¿Qué significa la clasificación 'estriado' frente a 'liso' para los músculos?",
+    "options": [
+      { "text": "Si se observan o no estrías en el examen microscópico", "isCorrect": true, "rationale": "Los músculos estriados presentan estrías visibles al microscopio (esquelético y cardíaco); los lisos no." },
+      { "text": "Si tienen superficie rugosa o suave al tacto", "isCorrect": false, "rationale": "La denominación se refiere a la apariencia microscópica, no a la textura palpable." },
+      { "text": "Si tienen estrías en la piel que los cubre", "isCorrect": false, "rationale": "No tiene relación con la piel; es una característica del tejido muscular mismo." },
+      { "text": "Si presentan líneas de tensión visibles", "isCorrect": false, "rationale": "Las estrías son bandas microscópicas dentro de las fibras musculares." }
+    ],
+    "hint": "Es una característica que se ve con el microscopio, no a simple vista."
+  },
+  {
+    "question": "¿Qué significa la clasificación 'somático' frente a 'visceral' para los músculos?",
+    "options": [
+      { "text": "Si están localizados en la pared corporal o forman parte de órganos huecos", "isCorrect": true, "rationale": "Los músculos somáticos están en la pared corporal (soma); los viscerales forman parte de órganos huecos o vísceras." },
+      { "text": "Si están en el tronco o en la cabeza", "isCorrect": false, "rationale": "Ambos grupos pueden estar en diversas regiones; la clasificación se refiere a si son de pared o de órgano." },
+      { "text": "Si son externos o internos", "isCorrect": false, "rationale": "Somático/visceral se refiere a la relación con el soma o las vísceras, no a profundidad." },
+      { "text": "Si mueven el cuerpo o lo mantienen quieto", "isCorrect": false, "rationale": "No se refiere a la función motora, sino a la localización anatómica." }
+    ],
+    "hint": "Soma = cuerpo (pared); víscera = órgano hueco."
+  },
+  {
+    "question": "¿Qué tipo de músculo es el músculo estriado esquelético según su control voluntario?",
+    "options": [
+      { "text": "Voluntario", "isCorrect": true, "rationale": "Los músculos estriados esqueléticos obedecen al control de la voluntad y permiten realizar movimientos voluntarios." },
+      { "text": "Involuntario", "isCorrect": false, "rationale": "Los músculos involuntarios son los lisos y el cardíaco, que funcionan fuera del control voluntario." },
+      { "text": "Mixto", "isCorrect": false, "rationale": "No existe control mixto; cada tipo muscular tiene un control definido." },
+      { "text": "Reflejo únicamente", "isCorrect": false, "rationale": "Aunque pueden actuar por reflejos, su control principal es voluntario." }
+    ],
+    "hint": "Piensa en qué músculos puedes mover conscientemente, como los de los brazos o piernas."
+  },
+  {
+    "question": "¿Qué característica distintiva presenta el músculo estriado esquelético al examen microscópico?",
+    "options": [
+      { "text": "Presenta estrías visibles", "isCorrect": true, "rationale": "Los músculos estriados muestran estrías en el examen microscópico, de ahí su nombre." },
+      { "text": "Es completamente liso", "isCorrect": false, "rationale": "Los músculos lisos no presentan estrías; los esqueléticos sí las tienen." },
+      { "text": "Tiene apariencia granular", "isCorrect": false, "rationale": "La característica distintiva es la presencia de estrías, no granularidad." },
+      { "text": "Es transparente", "isCorrect": false, "rationale": "La transparencia no es una característica distintiva de ningún tipo muscular." }
+    ],
+    "hint": "Su nombre hace referencia a una característica visual microscópica."
+  },
+  {
+    "question": "¿A qué sistema pertenecen los músculos estriados esqueléticos según su localización?",
+    "options": [
+      { "text": "Somáticos", "isCorrect": true, "rationale": "Los músculos estriados esqueléticos son somáticos, localizados en la pared corporal o soma." },
+      { "text": "Viscerales", "isCorrect": false, "rationale": "Los músculos viscerales forman parte de órganos huecos; los esqueléticos son somáticos." },
+      { "text": "Simpáticos", "isCorrect": false, "rationale": "El sistema simpático es parte del sistema nervioso autónomo, no una clasificación muscular." },
+      { "text": "Parasimpáticos", "isCorrect": false, "rationale": "El sistema parasimpático es parte del sistema nervioso autónomo." }
+    ],
+    "hint": "Se encuentran en la pared corporal y movilizan el esqueleto."
+  },
+  {
+    "question": "¿Qué color caracteriza al músculo estriado esquelético?",
+    "options": [
+      { "text": "Rojo", "isCorrect": true, "rationale": "Los músculos estriados esqueléticos son rojos debido a los pigmentos y la gran cantidad de sangre en las fibras." },
+      { "text": "Blanco", "isCorrect": false, "rationale": "Los músculos lisos son blancos, no los esqueléticos." },
+      { "text": "Amarillento", "isCorrect": false, "rationale": "Los tendones tienen coloración blanquecina amarillenta, no los músculos esqueléticos." },
+      { "text": "Rosado pálido", "isCorrect": false, "rationale": "El músculo esquelético vivo tiene un color rojo característico." }
+    ],
+    "hint": "Su color está relacionado con la gran vascularización que posee."
+  },
+  {
+    "question": "¿Qué tipo de control tienen los músculos lisos?",
+    "options": [
+      { "text": "Involuntario", "isCorrect": true, "rationale": "Los músculos lisos funcionan fuera del control de la voluntad, perteneciendo al sistema vegetativo." },
+      { "text": "Voluntario", "isCorrect": false, "rationale": "Los músculos voluntarios son los estriados esqueléticos." },
+      { "text": "Consciente", "isCorrect": false, "rationale": "El control consciente es sinónimo de voluntario; los lisos no tienen este control." },
+      { "text": "Mixto", "isCorrect": false, "rationale": "Los músculos lisos son exclusivamente involuntarios." }
+    ],
+    "hint": "No puedes controlar conscientemente los movimientos de tu estómago o intestinos."
+  },
+  {
+    "question": "¿Qué estructura forman los músculos lisos?",
+    "options": [
+      { "text": "Paredes de vasos sanguíneos y órganos huecos", "isCorrect": true, "rationale": "Los músculos lisos forman parte de las paredes de los vasos sanguíneos y de las vísceras." },
+      { "text": "El esqueleto axial", "isCorrect": false, "rationale": "Los músculos esqueléticos se insertan en el esqueleto; los lisos no." },
+      { "text": "Las articulaciones sinoviales", "isCorrect": false, "rationale": "Las articulaciones no están formadas por músculo liso." },
+      { "text": "Los tendones y ligamentos", "isCorrect": false, "rationale": "Los tendones y ligamentos son tejido conectivo fibroso, no muscular." }
+    ],
+    "hint": "Son responsables de las contracciones peristálticas y pulsaciones."
+  },
+  {
+    "question": "¿Por qué se dice que los músculos lisos son 'no estriados'?",
+    "options": [
+      { "text": "Porque no presentan estrías al examen microscópico", "isCorrect": true, "rationale": "A diferencia de los estriados, los músculos lisos no muestran estrías en el examen microscópico." },
+      { "text": "Porque tienen superficie lisa al tacto", "isCorrect": false, "rationale": "La denominación se refiere a la apariencia microscópica, no al tacto." },
+      { "text": "Porque no tienen fibras", "isCorrect": false, "rationale": "Los músculos lisos sí tienen fibras musculares, pero sin estrías." },
+      { "text": "Porque son de superficie uniforme", "isCorrect": false, "rationale": "La razón es la ausencia de estrías visibles al microscopio." }
+    ],
+    "hint": "Es una característica que se observa con el microscopio."
+  },
+  {
+    "question": "¿Qué tipo de músculo es el miocardio según su control?",
+    "options": [
+      { "text": "Involuntario", "isCorrect": true, "rationale": "El músculo cardíaco funciona fuera del control de la voluntad." },
+      { "text": "Voluntario", "isCorrect": false, "rationale": "No podemos controlar conscientemente los latidos del corazón." },
+      { "text": "Semi-voluntario", "isCorrect": false, "rationale": "El miocardio es completamente involuntario." },
+      { "text": "Condicionado", "isCorrect": false, "rationale": "No existe esta clasificación para el control muscular." }
+    ],
+    "hint": "No puedes decidir cuándo late tu corazón."
+  },
+  {
+    "question": "¿Qué color tiene el músculo cardíaco?",
+    "options": [
+      { "text": "Rojo", "isCorrect": true, "rationale": "El músculo estriado cardíaco es rojo, al igual que el esquelético." },
+      { "text": "Blanco", "isCorrect": false, "rationale": "El músculo blanco es el liso; el cardíaco es rojo." },
+      { "text": "Rosado", "isCorrect": false, "rationale": "El miocardio tiene una coloración roja intensa." },
+      { "text": "Púrpura oscuro", "isCorrect": false, "rationale": "El color característico del músculo cardíaco es rojo." }
+    ],
+    "hint": "Tiene el mismo color que los músculos que mueves voluntariamente."
+  },
+  {
+    "question": "¿Qué estructura constituye principalmente el músculo cardíaco?",
+    "options": [
+      { "text": "Las paredes del corazón", "isCorrect": true, "rationale": "El músculo estriado cardíaco constituye la mayor parte de las paredes del corazón." },
+      { "text": "Las válvulas cardíacas", "isCorrect": false, "rationale": "Las válvulas son tejido conectivo, no músculo." },
+      { "text": "El pericardio", "isCorrect": false, "rationale": "El pericardio es una membrana fibroserosa que envuelve al corazón." },
+      { "text": "Los grandes vasos", "isCorrect": false, "rationale": "Los vasos tienen músculo liso en sus paredes, no cardíaco." }
+    ],
+    "hint": "Es el tejido muscular propio del órgano que bombea sangre."
+  },
+  {
+    "question": "¿Qué otro nombre reciben los músculos superficiales?",
+    "options": [
+      { "text": "Músculos cutáneos", "isCorrect": true, "rationale": "Los músculos superficiales también se llaman cutáneos porque se encuentran bajo la piel." },
+      { "text": "Músculos subdérmicos", "isCorrect": false, "rationale": "El término correcto es músculos cutáneos." },
+      { "text": "Músculos epidérmicos", "isCorrect": false, "rationale": "No se denomina así a los músculos superficiales." },
+      { "text": "Músculos externos", "isCorrect": false, "rationale": "El término correcto es cutáneos por su relación con la piel." }
+    ],
+    "hint": "Su nombre hace referencia a su relación con la piel (cutis)."
+  },
+  {
+    "question": "¿Dónde se encuentran principalmente los músculos cutáneos en el ser humano?",
+    "options": [
+      { "text": "En la cara, cabeza y cuello", "isCorrect": true, "rationale": "En el hombre, los músculos cutáneos están poco desarrollados y se encuentran en la cara, cabeza y cuello." },
+      { "text": "En los miembros superiores", "isCorrect": false, "rationale": "Los músculos de los miembros son principalmente profundos." },
+      { "text": "En el tronco", "isCorrect": false, "rationale": "En el tronco predominan los músculos profundos." },
+      { "text": "En los miembros inferiores", "isCorrect": false, "rationale": "Los músculos de los miembros son principalmente profundos." }
+    ],
+    "hint": "Incluyen los músculos de la mímica facial."
+  },
+  {
+    "question": "¿Qué estructura separa a los músculos profundos del tejido subcutáneo?",
+    "options": [
+      { "text": "La fascia de revestimiento superficial", "isCorrect": true, "rationale": "Los músculos profundos están cubiertos por la fascia de revestimiento superficial que los separa del tejido subcutáneo." },
+      { "text": "El periostio", "isCorrect": false, "rationale": "El periostio recubre los huesos, no separa músculos del tejido subcutáneo." },
+      { "text": "La aponeurosis", "isCorrect": false, "rationale": "La aponeurosis es un tendón aplanado, no una fascia de separación." },
+      { "text": "El endomisio", "isCorrect": false, "rationale": "El endomisio envuelve fibras musculares dentro del músculo." }
+    ],
+    "hint": "Es una lámina de tejido conectivo que envuelve los músculos profundos."
+  },
+  {
+    "question": "¿Cuál es la característica de la mayoría de los músculos profundos respecto al esqueleto?",
+    "options": [
+      { "text": "Se insertan en el esqueleto", "isCorrect": true, "rationale": "La mayoría de los músculos profundos se insertan en el esqueleto (músculos esqueléticos)." },
+      { "text": "No tienen inserción ósea", "isCorrect": false, "rationale": "La mayoría sí se inserta en el esqueleto; solo algunos pocos no lo hacen." },
+      { "text": "Se insertan solo en otros músculos", "isCorrect": false, "rationale": "Esta no es la característica principal de los músculos profundos." },
+      { "text": "Flotan libremente en el tejido conectivo", "isCorrect": false, "rationale": "Los músculos profundos tienen inserciones definidas." }
+    ],
+    "hint": "Son llamados también músculos esqueléticos."
+  },
+  {
+    "question": "¿Qué músculos profundos NO se insertan en el esqueleto?",
+    "options": [
+      { "text": "Los músculos de la lengua, faringe y ano", "isCorrect": true, "rationale": "Estos músculos profundos se anexan a órganos sin soporte óseo." },
+      { "text": "Los músculos de la mímica facial", "isCorrect": false, "rationale": "Los músculos de la mímica son superficiales (cutáneos)." },
+      { "text": "Los músculos del corazón", "isCorrect": false, "rationale": "El corazón es músculo cardíaco, no profundo esquelético." },
+      { "text": "Los músculos de la pared abdominal", "isCorrect": false, "rationale": "Los músculos abdominales se insertan en el esqueleto." }
+    ],
+    "hint": "Son músculos que se encuentran en órganos sin huesos."
+  }
+]

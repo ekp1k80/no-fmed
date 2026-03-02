@@ -1,0 +1,236 @@
+[
+  {
+    "question": "¿Cómo llegan los vasos aferentes a los nodos linfáticos?",
+    "options": [
+      {
+        "text": "Por la periferia del nodo por cualquier punto",
+        "isCorrect": true,
+        "rationale": "Los vasos aferentes llegan a la periferia del nodo por un punto cualquiera."
+      },
+      {
+        "text": "Por el hilio del nodo",
+        "isCorrect": false,
+        "rationale": "Los aferentes llegan por la periferia; los eferentes salen por el hilio."
+      },
+      {
+        "text": "Solo por un punto específico",
+        "isCorrect": false,
+        "rationale": "Llegan por cualquier punto de la periferia."
+      },
+      {
+        "text": "Por el centro del nodo",
+        "isCorrect": false,
+        "rationale": "Llegan por la periferia."
+      }
+    ],
+    "hint": "Aferente = que llega; entran por los lados."
+  },
+  {
+    "question": "¿Por dónde emergen los vasos eferentes del nodo linfático?",
+    "options": [
+      {
+        "text": "Por una depresión llamada hilio del nodo",
+        "isCorrect": true,
+        "rationale": "Los vasos eferentes emergen por una depresión, el hilio del nodo."
+      },
+      {
+        "text": "Por cualquier punto de la periferia",
+        "isCorrect": false,
+        "rationale": "Salen por el hilio, no por cualquier punto."
+      },
+      {
+        "text": "Por el centro de la cápsula",
+        "isCorrect": false,
+        "rationale": "Salen por el hilio, una depresión en la superficie."
+      },
+      {
+        "text": "Por múltiples puntos",
+        "isCorrect": false,
+        "rationale": "Salen por el hilio, un punto específico."
+      }
+    ],
+    "hint": "Eferente = que sale; el hilio es como el 'ombligo' del ganglio."
+  },
+  {
+    "question": "¿Qué color tienen habitualmente los nodos linfáticos?",
+    "options": [
+      {
+        "text": "Gris rojizo, pero pueden oscurecerse por antracosis en nodos intratorácicos",
+        "isCorrect": true,
+        "rationale": "Habitualmente son de color gris rojizo. Los nodos intratorácicos pueden estar impregnados de polvo de carbón (antracosis) y volverse oscuros."
+      },
+      {
+        "text": "Blanco siempre",
+        "isCorrect": false,
+        "rationale": "Son gris rojizo, y pueden oscurecerse."
+      },
+      {
+        "text": "Negro siempre",
+        "isCorrect": false,
+        "rationale": "Solo se oscurecen por antracosis en casos específicos."
+      },
+      {
+        "text": "Amarillento",
+        "isCorrect": false,
+        "rationale": "Son gris rojizo."
+      }
+    ],
+    "hint": "El color puede cambiar por acumulación de partículas."
+  },
+  {
+    "question": "¿Cómo se disponen los nodos linfáticos?",
+    "options": [
+      {
+        "text": "Aislados, en cadenas o en grupos regionales",
+        "isCorrect": true,
+        "rationale": "Algunos nodos están aislados, pero más a menudo están dispuestos en cadenas o en grupos regionales (axila, inguinales)."
+      },
+      {
+        "text": "Siempre aislados",
+        "isCorrect": false,
+        "rationale": "Más a menudo están en cadenas o grupos."
+      },
+      {
+        "text": "Siempre en grupos",
+        "isCorrect": false,
+        "rationale": "Pueden estar aislados, en cadenas o grupos."
+      },
+      {
+        "text": "Solo en pares",
+        "isCorrect": false,
+        "rationale": "Pueden estar aislados, en cadenas o grupos regionales."
+      }
+    ],
+    "hint": "Los grupos principales están en axila, ingles, cuello."
+  },
+  {
+    "question": "¿Qué estructura caracteriza a los nodos linfáticos?",
+    "options": [
+      {
+        "text": "Cápsula fibrosa periférica con trabéculas y folículos rodeados por senos perifoliculares",
+        "isCorrect": true,
+        "rationale": "Los nodos tienen una cápsula fibrosa periférica, trabéculas conectivas que circunscriben folículos linfoides, rodeados por senos perifoliculares."
+      },
+      {
+        "text": "Solo una cápsula sin estructura interna",
+        "isCorrect": false,
+        "rationale": "Tienen estructura interna compleja con trabéculas y folículos."
+      },
+      {
+        "text": "Solo células sueltas sin organización",
+        "isCorrect": false,
+        "rationale": "Tienen una estructura organizada."
+      },
+      {
+        "text": "Múltiples lúmenes conectados",
+        "isCorrect": false,
+        "rationale": "La estructura es de tejido linfoide organizado."
+      }
+    ],
+    "hint": "Tienen organización interna con compartimentos."
+  },
+  {
+    "question": "¿Qué son los senos perifoliculares en los nodos?",
+    "options": [
+      {
+        "text": "Terminación de vasos aferentes y origen de vasos eferentes",
+        "isCorrect": true,
+        "rationale": "Los senos perifoliculares son la terminación de los vasos aferentes y el origen de los vasos eferentes."
+      },
+      {
+        "text": "Espacios dentro de los folículos",
+        "isCorrect": false,
+        "rationale": "Están alrededor de los folículos, no dentro."
+      },
+      {
+        "text": "Conexiones entre nodos",
+        "isCorrect": false,
+        "rationale": "Son espacios internos del nodo."
+      },
+      {
+        "text": "Vasos sanguíneos",
+        "isCorrect": false,
+        "rationale": "Son parte del sistema linfático dentro del nodo."
+      }
+    ],
+    "hint": "Son donde la linfa pasa a través del nodo."
+  },
+  {
+    "question": "¿Cuáles son los dos colectores terminales del sistema linfático?",
+    "options": [
+      {
+        "text": "El conducto torácico (izquierda) y el conducto linfático derecho",
+        "isCorrect": true,
+        "rationale": "Las vías linfáticas son drenadas por dos colectores terminales: el conducto torácico a la izquierda y el conducto linfático derecho."
+      },
+      {
+        "text": "Solo el conducto torácico",
+        "isCorrect": false,
+        "rationale": "Hay dos: derecho e izquierdo."
+      },
+      {
+        "text": "Solo el conducto linfático derecho",
+        "isCorrect": false,
+        "rationale": "Hay dos colectores terminales."
+      },
+      {
+        "text": "Las venas cavas",
+        "isCorrect": false,
+        "rationale": "Los conductos linfáticos desembocan en los confluentes venosos."
+      }
+    ],
+    "hint": "Uno para cada lado del cuerpo."
+  },
+  {
+    "question": "¿Dónde terminan los conductos linfáticos?",
+    "options": [
+      {
+        "text": "En los confluentes venosos yugulosubclavios",
+        "isCorrect": true,
+        "rationale": "Los conductos torácico y linfático derecho terminan en los confluentes venosos yugulosubclavios del lado correspondiente o sus proximidades."
+      },
+      {
+        "text": "En el corazón",
+        "isCorrect": false,
+        "rationale": "Terminan en los confluentes venosos."
+      },
+      {
+        "text": "En los riñones",
+        "isCorrect": false,
+        "rationale": "Terminan en los confluentes venosos yugulosubclavios."
+      },
+      {
+        "text": "En el hígado",
+        "isCorrect": false,
+        "rationale": "Terminan en la unión de vena yugular y subclavia."
+      }
+    ],
+    "hint": "Es donde la linfa se une al sistema venoso."
+  },
+  {
+    "question": "¿Qué troncos linfáticos convergen en los conductos linfáticos?",
+    "options": [
+      {
+        "text": "Troncos yugular, subclavio, broncomediastínico, lumbar e intestinales",
+        "isCorrect": true,
+        "rationale": "En los dos conductos linfáticos converge la linfa de: troncos yugulares, subclavios, broncomediastínicos, lumbares e intestinales."
+      },
+      {
+        "text": "Solo troncos yugulares",
+        "isCorrect": false,
+        "rationale": "Son múltiples troncos los que convergen."
+      },
+      {
+        "text": "Solo troncos lumbares",
+        "isCorrect": false,
+        "rationale": "Hay varios troncos principales."
+      },
+      {
+        "text": "Solo troncos intestinales",
+        "isCorrect": false,
+        "rationale": "Hay múltiples troncos que drenan diferentes regiones."
+      }
+    ],
+    "hint": "Drenan diferentes regiones del cuerpo."
+  }
+]

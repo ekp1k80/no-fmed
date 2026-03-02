@@ -1,0 +1,142 @@
+[
+  {
+    "question": "¿Dónde se forman las células sanguíneas después del nacimiento?",
+    "options": [
+      { "text": "En la médula ósea", "isCorrect": true, "rationale": "Las células sanguíneas se forman, después del nacimiento, en la médula ósea." },
+      { "text": "En el bazo", "isCorrect": false, "rationale": "El bazo es un órgano linfoide secundario, no el sitio principal de hematopoyesis postnatal." },
+      { "text": "En el hígado", "isCorrect": false, "rationale": "El hígado es sitio de hematopoyesis fetal, no postnatal." },
+      { "text": "En los ganglios linfáticos", "isCorrect": false, "rationale": "Los ganglios son órganos linfáticos secundarios." }
+    ],
+    "hint": "Es el tejido que llena el interior de los huesos."
+  },
+  {
+    "question": "¿Qué es la hematopoyesis?",
+    "options": [
+      { "text": "El proceso de producción de células sanguíneas", "isCorrect": true, "rationale": "El proceso de hematopoyesis produce glóbulos rojos (eritrocitos) y glóbulos blancos." },
+      { "text": "La destrucción de células sanguíneas", "isCorrect": false, "rationale": "La hematopoyesis es producción, no destrucción." },
+      { "text": "La circulación sanguínea", "isCorrect": false, "rationale": "Es el proceso de formación de células." },
+      { "text": "La coagulación", "isCorrect": false, "rationale": "La coagulación es otro proceso diferente." }
+    ],
+    "hint": "'Hemato' = sangre, 'poiesis' = formación."
+  },
+  {
+    "question": "¿Qué células produce la hematopoyesis?",
+    "options": [
+      { "text": "Glóbulos rojos (eritrocitos) y glóbulos blancos (leucocitos)", "isCorrect": true, "rationale": "La hematopoyesis produce glóbulos rojos (eritrocitos) y glóbulos blancos, que incluyen granulocitos, linfocitos B y monocitos." },
+      { "text": "Solo glóbulos rojos", "isCorrect": false, "rationale": "También produce glóbulos blancos y plaquetas." },
+      { "text": "Solo glóbulos blancos", "isCorrect": false, "rationale": "También produce glóbulos rojos y plaquetas." },
+      { "text": "Solo plaquetas", "isCorrect": false, "rationale": "Produce múltiples tipos de células sanguíneas." }
+    ],
+    "hint": "Incluye todas las células de la sangre."
+  },
+  {
+    "question": "¿Qué tipos de granulocitos se producen en la médula ósea?",
+    "options": [
+      { "text": "Neutrófilos, eosinófilos y basófilos", "isCorrect": true, "rationale": "Los granulocitos incluyen neutrófilos, eosinófilos y basófilos." },
+      { "text": "Solo neutrófilos", "isCorrect": false, "rationale": "Hay tres tipos de granulocitos." },
+      { "text": "Linfocitos y monocitos", "isCorrect": false, "rationale": "Los linfocitos y monocitos son agranulocitos." },
+      { "text": "Eritrocitos y plaquetas", "isCorrect": false, "rationale": "Los eritrocitos y plaquetas no son granulocitos." }
+    ],
+    "hint": "'Granulo' indica que tienen gránulos en su citoplasma."
+  },
+  {
+    "question": "¿Dónde se desarrollan y maduran los linfocitos T?",
+    "options": [
+      { "text": "En el timo, aunque se generan en la médula ósea", "isCorrect": true, "rationale": "Los linfocitos T se desarrollan y maduran en el timo, habiendo sido generados en la médula ósea." },
+      { "text": "En la médula ósea solamente", "isCorrect": false, "rationale": "Se generan en la médula ósea pero maduran en el timo." },
+      { "text": "En el bazo", "isCorrect": false, "rationale": "Maduran en el timo." },
+      { "text": "En los ganglios linfáticos", "isCorrect": false, "rationale": "Maduran en el timo." }
+    ],
+    "hint": "'T' de Timo."
+  },
+  {
+    "question": "¿Dónde se generan los linfocitos T?",
+    "options": [
+      { "text": "En la médula ósea", "isCorrect": true, "rationale": "Los linfocitos T son generados en la médula ósea ubicada en los huesos, luego migran al timo para madurar." },
+      { "text": "En el timo", "isCorrect": false, "rationale": "Se generan en la médula ósea, maduran en el timo." },
+      { "text": "En el bazo", "isCorrect": false, "rationale": "Se generan en la médula ósea." },
+      { "text": "En los ganglios", "isCorrect": false, "rationale": "Se generan en la médula ósea." }
+    ],
+    "hint": "Todas las células sanguíneas se originan en la médula ósea."
+  },
+  {
+    "question": "¿Cómo se producen las plaquetas?",
+    "options": [
+      { "text": "Como fragmentos celulares de los megacariocitos en la médula ósea", "isCorrect": true, "rationale": "Las plaquetas se producen en la médula ósea como fragmentos celulares de los megacariocitos." },
+      { "text": "Como células completas", "isCorrect": false, "rationale": "Son fragmentos celulares, no células completas." },
+      { "text": "En el bazo", "isCorrect": false, "rationale": "Se producen en la médula ósea." },
+      { "text": "Por división de otras plaquetas", "isCorrect": false, "rationale": "Provienen de megacariocitos." }
+    ],
+    "hint": "Los megacariocitos son células grandes que 'estallan' en fragmentos."
+  },
+  {
+    "question": "¿Qué células sanguíneas permanecen dentro de los vasos sanguíneos?",
+    "options": [
+      { "text": "Los eritrocitos y las plaquetas", "isCorrect": true, "rationale": "Solo los eritrocitos y las plaquetas se limitan a permanecer dentro de la sangre." },
+      { "text": "Todos los leucocitos", "isCorrect": false, "rationale": "Los leucocitos pueden salir de los vasos." },
+      { "text": "Solo los neutrófilos", "isCorrect": false, "rationale": "Los neutrófilos pueden salir de los vasos." },
+      { "text": "Los linfocitos", "isCorrect": false, "rationale": "Los linfocitos pueden entrar en los tejidos." }
+    ],
+    "hint": "Los glóbulos blancos pueden 'caminar' fuera de los vasos."
+  },
+  {
+    "question": "¿Qué pueden hacer los leucocitos que los eritrocitos no pueden?",
+    "options": [
+      { "text": "Dejar la circulación y entrar en los tejidos extravasculares", "isCorrect": true, "rationale": "Todos los leucocitos pueden dejar la circulación y entrar en los tejidos extravasculares." },
+      { "text": "Transportar oxígeno", "isCorrect": false, "rationale": "El oxígeno es transportado por los eritrocitos." },
+      { "text": "Coagular la sangre", "isCorrect": false, "rationale": "La coagulación involucra plaquetas y factores de coagulación." },
+      { "text": "Permanecer siempre en los vasos", "isCorrect": false, "rationale": "Precisamente pueden salir de los vasos." }
+    ],
+    "hint": "Esta capacidad se llama 'diapédesis' o extravasación."
+  },
+  {
+    "question": "¿Qué son los tejidos linfoides?",
+    "options": [
+      { "text": "El timo, los nodos linfáticos, el bazo y el tejido linfoide asociado a digestivo y respiratorio", "isCorrect": true, "rationale": "Los tejidos linfoides son el timo, los nodos linfáticos, el bazo y el tejido linfoide asociado principalmente con el sistema digestivo y respiratorio." },
+      { "text": "Solo el timo y el bazo", "isCorrect": false, "rationale": "También incluyen nodos linfáticos y tejido linfoide asociado." },
+      { "text": "Solo los ganglios linfáticos", "isCorrect": false, "rationale": "Incluye múltiples órganos y tejidos." },
+      { "text": "Solo la médula ósea", "isCorrect": false, "rationale": "La médula ósea es sitio de hematopoyesis, pero los tejidos linfoides incluyen otros órganos." }
+    ],
+    "hint": "Son los órganos donde se desarrollan y almacenan linfocitos."
+  },
+  {
+    "question": "¿Qué células del estroma (de apoyo) hay en el tejido linfoide que NO son de origen hematopoyético?",
+    "options": [
+      { "text": "Epitelio del timo, células dendríticas foliculares, células dendríticas y macrófagos", "isCorrect": true, "rationale": "El tejido linfoide contiene células del estroma no hematopoyéticas: epitelio del timo, células dendríticas foliculares, células dendríticas y macrófagos del sistema fagocítico mononuclear." },
+      { "text": "Solo linfocitos", "isCorrect": false, "rationale": "Los linfocitos son de origen hematopoyético." },
+      { "text": "Solo células sanguíneas", "isCorrect": false, "rationale": "Las células del estroma son de apoyo, no sanguíneas." },
+      { "text": "Solo fibroblastos", "isCorrect": false, "rationale": "Incluye células especializadas como las dendríticas y macrófagos." }
+    ],
+    "hint": "Son células de 'sostén' que no vienen de la médula ósea."
+  },
+  {
+    "question": "¿De dónde derivan las células dendríticas y los macrófagos?",
+    "options": [
+      { "text": "De monocitos de la sangre", "isCorrect": true, "rationale": "Las células dendríticas y los macrófagos son derivados de monocitos de la sangre que se encuentran en la mayoría de los tejidos y órganos." },
+      { "text": "De linfocitos", "isCorrect": false, "rationale": "Derivan de monocitos, no de linfocitos." },
+      { "text": "De eritrocitos", "isCorrect": false, "rationale": "Derivan de monocitos." },
+      { "text": "De plaquetas", "isCorrect": false, "rationale": "Derivan de monocitos de la sangre." }
+    ],
+    "hint": "Los monocitos pueden transformarse en macrófagos tisulares."
+  },
+  {
+    "question": "¿Qué efecto tienen las células dendríticas y los macrófagos?",
+    "options": [
+      { "text": "Efecto inmunoestimulante como células presentadoras de antígeno (CPA)", "isCorrect": true, "rationale": "Las células dendríticas y los macrófagos tienen un efecto inmunoestimulante, como células presentadoras de antígeno (CPA)." },
+      { "text": "Suprimir el sistema inmune", "isCorrect": false, "rationale": "Tienen efecto estimulante, no supresor." },
+      { "text": "Producir anticuerpos", "isCorrect": false, "rationale": "Los anticuerpos son producidos por linfocitos B activados." },
+      { "text": "Destruir células propias", "isCorrect": false, "rationale": "Presentan antígenos para activar la respuesta inmune." }
+    ],
+    "hint": "'Presentan' los antígenos a los linfocitos para activarlos."
+  },
+  {
+    "question": "¿Qué ocurre con el número de leucocitos en infecciones y enfermedades locales?",
+    "options": [
+      { "text": "Aumenta considerablemente porque los leucocitos pueden entrar en los tejidos", "isCorrect": true, "rationale": "El número de células aumenta considerablemente en las infecciones y enfermedades locales, ya que los leucocitos pueden dejar la circulación y entrar en los tejidos extravasculares." },
+      { "text": "Disminuye", "isCorrect": false, "rationale": "Aumenta, no disminuye." },
+      { "text": "Permanece igual", "isCorrect": false, "rationale": "Aumenta considerablemente." },
+      { "text": "Solo aumentan los eritrocitos", "isCorrect": false, "rationale": "Son los leucocitos los que aumentan." }
+    ],
+    "hint": "La 'leucocitosis' es el aumento de glóbulos blancos en infecciones."
+  }
+]

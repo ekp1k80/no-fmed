@@ -1,0 +1,152 @@
+[
+  {
+    "question": "¿Qué son las venas?",
+    "options": [
+      { "text": "Vías de conducción que llevan sangre desde los tejidos hacia el corazón", "isCorrect": true, "rationale": "Las venas son vías de conducción que llevan sangre desde los tejidos, de retorno al corazón." },
+      { "text": "Vasos que llevan sangre desde el corazón", "isCorrect": false, "rationale": "Esos son las arterias." },
+      { "text": "Vasos microscópicos de intercambio", "isCorrect": false, "rationale": "Esos son los capilares." },
+      { "text": "Vasos que transportan linfa", "isCorrect": false, "rationale": "Esos son los vasos linfáticos." }
+    ],
+    "hint": "Las venas devuelven la sangre al corazón."
+  },
+  {
+    "question": "¿Qué tres capas tiene la pared de las venas?",
+    "options": [
+      { "text": "Túnica íntima, túnica media y túnica externa (adventicia)", "isCorrect": true, "rationale": "La pared de las venas tiene una túnica interna o íntima, una túnica media y una túnica externa o adventicia." },
+      { "text": "Endocardio, miocardio y pericardio", "isCorrect": false, "rationale": "Estas son capas del corazón." },
+      { "text": "Epidermis, dermis e hipodermis", "isCorrect": false, "rationale": "Estas son capas de la piel." },
+      { "text": "Interna, muscular y serosa", "isCorrect": false, "rationale": "Los nombres correctos son íntima, media y adventicia." }
+    ],
+    "hint": "Similar estructura que las arterias, pero más delgadas."
+  },
+  {
+    "question": "¿Qué constituye la túnica íntima de las venas?",
+    "options": [
+      { "text": "Capa de células endoteliales sobre membrana basal y tejido conectivo", "isCorrect": true, "rationale": "La capa íntima está constituida por células endoteliales fusiformes sobre una membrana basal y una delgada capa de tejido conectivo subendotelial." },
+      { "text": "Células musculares lisas circulares", "isCorrect": false, "rationale": "Estas están en la túnica media." },
+      { "text": "Fibras de colágeno longitudinales", "isCorrect": false, "rationale": "Estas están en la adventicia." },
+      { "text": "Tejido adiposo", "isCorrect": false, "rationale": "El tejido adiposo está alrededor de algunos vasos, no en la íntima." }
+    ],
+    "hint": "Es la capa más interna en contacto con la sangre."
+  },
+  {
+    "question": "¿Cuál es la función principal de la túnica íntima venosa?",
+    "options": [
+      { "text": "Intercambio de líquidos y gases entre las células y la sangre", "isCorrect": true, "rationale": "La función principal de la túnica íntima es el intercambio de líquidos y gases (intercambio metabólico) entre las células y la sangre." },
+      { "text": "Regular el flujo sanguíneo", "isCorrect": false, "rationale": "Esa es función de la túnica media." },
+      { "text": "Relacionar el vaso con las estructuras vecinas", "isCorrect": false, "rationale": "Esa es función de la adventicia." },
+      { "text": "Producir células sanguíneas", "isCorrect": false, "rationale": "La hematopoyesis ocurre en la médula ósea, no en las venas." }
+    ],
+    "hint": "Permite el paso de sustancias a través de la pared."
+  },
+  {
+    "question": "¿Qué forma la túnica media de las venas?",
+    "options": [
+      { "text": "Células musculares lisas, fibras elásticas, fibras de colágeno y proteoglicanos", "isCorrect": true, "rationale": "La capa media está formada por células musculares lisas, fibras elásticas, fibras de colágeno y proteoglicanos en disposición circular." },
+      { "text": "Solo células endoteliales", "isCorrect": false, "rationale": "El endotelio está en la íntima." },
+      { "text": "Solo tejido conectivo fibroso", "isCorrect": false, "rationale": "También tiene músculo liso y fibras elásticas." },
+      { "text": "Solo fibras musculares estriadas", "isCorrect": false, "rationale": "Las venas tienen músculo liso, no estriado." }
+    ],
+    "hint": "Es más delgada que en las arterias pero tiene músculo."
+  },
+  {
+    "question": "¿Cuál es la función de la túnica media venosa?",
+    "options": [
+      { "text": "Regular el flujo sanguíneo", "isCorrect": true, "rationale": "La túnica media tiene como función regular el flujo sanguíneo mediante la contracción del músculo liso." },
+      { "text": "Intercambio de gases", "isCorrect": false, "rationale": "El intercambio es función de la íntima." },
+      { "text": "Relacionar el vaso con estructuras vecinas", "isCorrect": false, "rationale": "Esa es función de la adventicia." },
+      { "text": "Proteger de infecciones", "isCorrect": false, "rationale": "No es función de la túnica media." }
+    ],
+    "hint": "El músculo liso puede contraerse para regular el calibre."
+  },
+  {
+    "question": "¿Qué contiene la túnica adventicia de las venas?",
+    "options": [
+      { "text": "Fibras de tejido conectivo en sentido longitudinal y nervios vegetativos", "isCorrect": true, "rationale": "La túnica adventicia se constituye de fibras de tejido conectivo longitudinales. Sobre ella se disponen los nervios vegetativos que llegan a la musculatura." },
+      { "text": "Células musculares lisas", "isCorrect": false, "rationale": "Estas están en la media." },
+      { "text": "Endotelio", "isCorrect": false, "rationale": "El endotelio está en la íntima." },
+      { "text": "Vasos sanguíneos únicamente", "isCorrect": false, "rationale": "También contiene nervios y tejido conectivo." }
+    ],
+    "hint": "Es la capa más externa que conecta con los tejidos vecinos."
+  },
+  {
+    "question": "¿Cuál es la principal diferencia estructural entre venas y arterias?",
+    "options": [
+      { "text": "La túnica media de las venas es más laxa con más fibras elásticas y colágeno", "isCorrect": true, "rationale": "En las venas, la túnica media es más laxa debido a mayor cantidad de fibras elásticas y colágeno, a diferencia de las arterias con capas compactas de músculo liso." },
+      { "text": "Las venas no tienen túnica media", "isCorrect": false, "rationale": "Las venas sí tienen túnica media, pero más delgada." },
+      { "text": "Las venas no tienen túnica íntima", "isCorrect": false, "rationale": "Las venas tienen las tres túnicas." },
+      { "text": "Las venas tienen más músculo liso que las arterias", "isCorrect": false, "rationale": "Las arterias tienen más músculo liso en su media." }
+    ],
+    "hint": "Las venas son más 'flojas' porque la presión es menor."
+  },
+  {
+    "question": "¿Qué característica NO presentan las venas respecto a las arterias?",
+    "options": [
+      { "text": "No hay clara estratificación ni membrana elástica interna", "isCorrect": true, "rationale": "En las venas no hay una clara estratificación así como tampoco presentan una membrana elástica interna, a diferencia de las arterias." },
+      { "text": "No tienen túnica media", "isCorrect": false, "rationale": "Las venas sí tienen túnica media." },
+      { "text": "No tienen adventicia", "isCorrect": false, "rationale": "Las venas sí tienen adventicia." },
+      { "text": "No tienen luz", "isCorrect": false, "rationale": "Las venas tienen luz, y más amplia que las arterias." }
+    ],
+    "hint": "Las capas venosas están menos organizadas que las arteriales."
+  },
+  {
+    "question": "¿Cuáles son los cuatro sistemas venosos según su disposición topográfica?",
+    "options": [
+      { "text": "Superficial, profundo, comunicante y perforante", "isCorrect": true, "rationale": "Las venas se clasifican en: sistema venoso superficial, sistema venoso profundo, sistema venoso comunicante y sistema venoso perforante." },
+      { "text": "Superior, inferior, derecho e izquierdo", "isCorrect": false, "rationale": "Esta clasificación no se usa para venas." },
+      { "text": "Sistémico, pulmonar, portal y linfático", "isCorrect": false, "rationale": "Estos son sistemas circulatorios, no clasificación de venas." },
+      { "text": "Grandes, medianas, pequeñas y capilares", "isCorrect": false, "rationale": "Esta es una clasificación por tamaño, no topográfica." }
+    ],
+    "hint": "Se basa en su relación con la fascia y otros planos."
+  },
+  {
+    "question": "¿Qué es el sistema venoso superficial?",
+    "options": [
+      { "text": "Venas ubicadas en el tejido subcutáneo, superficiales a la fascia", "isCorrect": true, "rationale": "El sistema venoso superficial se encuentra profundo a la piel pero superficial a la fascia de revestimiento, transitando por el tejido subcutáneo." },
+      { "text": "Venas que acompañan a las arterias", "isCorrect": false, "rationale": "Esas son las venas profundas (satélites)." },
+      { "text": "Venas que atraviesan la fascia", "isCorrect": false, "rationale": "Esas son las venas perforantes." },
+      { "text": "Venas dentro de los músculos", "isCorrect": false, "rationale": "Estas son venas profundas." }
+    ],
+    "hint": "Son las venas que se ven bajo la piel."
+  },
+  {
+    "question": "¿Qué porcentaje de sangre del miembro inferior drena el sistema venoso superficial?",
+    "options": [
+      { "text": "Aproximadamente el 10%", "isCorrect": true, "rationale": "El sistema venoso superficial del miembro inferior drena aproximadamente el 10% de su sangre." },
+      { "text": "El 50%", "isCorrect": false, "rationale": "Solo el 10% es drenado por el sistema superficial." },
+      { "text": "El 90%", "isCorrect": false, "rationale": "El 90% es drenado por el sistema profundo." },
+      { "text": "El 100%", "isCorrect": false, "rationale": "Ambos sistemas contribuyen al drenaje." }
+    ],
+    "hint": "La mayoría drena por el sistema profundo."
+  },
+  {
+    "question": "¿Qué es el sistema venoso profundo?",
+    "options": [
+      { "text": "Venas que discurren profundas a la fascia, generalmente acompañando arterias", "isCorrect": true, "rationale": "El sistema venoso profundo discurre profundo a la fascia de revestimiento y suele acompañar a las arterias de la región (venas satélites)." },
+      { "text": "Venas en el tejido subcutáneo", "isCorrect": false, "rationale": "Esas son venas superficiales." },
+      { "text": "Venas que comunican sistemas en el mismo plano", "isCorrect": false, "rationale": "Esas son venas comunicantes." },
+      { "text": "Venas que atraviesan la fascia", "isCorrect": false, "rationale": "Esas son venas perforantes." }
+    ],
+    "hint": "Son venas satélites de las arterias principales."
+  },
+  {
+    "question": "¿Qué son las venas perforantes?",
+    "options": [
+      { "text": "Venas que atraviesan la fascia comunicando sistemas superficial y profundo", "isCorrect": true, "rationale": "El sistema venoso perforante comunica el sistema superficial con el profundo, atravesando la fascia por orificios preformados." },
+      { "text": "Venas que comunican venas en el mismo plano", "isCorrect": false, "rationale": "Esas son venas comunicantes." },
+      { "text": "Venas que conectan dos arterias", "isCorrect": false, "rationale": "No existen venas que conecten arterias." },
+      { "text": "Venas que perforan la piel", "isCorrect": false, "rationale": "Las venas perforantes atraviesan la fascia, no la piel." }
+    ],
+    "hint": "Perforan la fascia para conectar sistemas superficiales con profundos."
+  },
+  {
+    "question": "¿Qué función tienen las válvulas de las venas perforantes?",
+    "options": [
+      { "text": "Impedir la circulación venosa desde el sistema profundo hacia el superficial", "isCorrect": true, "rationale": "Las venas perforantes poseen válvulas que impiden la circulación venosa desde el sistema profundo hacia el superficial." },
+      { "text": "Permitir flujo en ambos sentidos", "isCorrect": false, "rationale": "Las válvulas permiten flujo solo hacia el sistema profundo." },
+      { "text": "Impedir el flujo completamente", "isCorrect": false, "rationale": "Las válvulas regulan dirección, no detienen el flujo." },
+      { "text": "Aumentar la presión venosa", "isCorrect": false, "rationale": "Las válvulas no regulan presión." }
+    ],
+    "hint": "Dirigen el flujo desde superficial hacia profundo."
+  }
+]

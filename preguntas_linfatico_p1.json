@@ -1,0 +1,152 @@
+[
+  {
+    "question": "¿Qué constituye el sistema linfático?",
+    "options": [
+      { "text": "Órganos linfáticos primarios, secundarios y vasos linfáticos", "isCorrect": true, "rationale": "El sistema linfático está constituido por órganos linfáticos primarios, secundarios y por vasos linfáticos." },
+      { "text": "Solo los vasos linfáticos", "isCorrect": false, "rationale": "También incluye órganos linfáticos primarios y secundarios." },
+      { "text": "Solo los ganglios linfáticos", "isCorrect": false, "rationale": "Los ganglios son órganos secundarios, pero hay más componentes." },
+      { "text": "Solo el bazo y el timo", "isCorrect": false, "rationale": "Estos son órganos linfáticos, pero falta el sistema de vasos." }
+    ],
+    "hint": "Incluye órganos y una red de conductos."
+  },
+  {
+    "question": "¿Qué función tienen los vasos linfáticos?",
+    "options": [
+      { "text": "Recoger y aportar al sistema venoso la linfa y el quilo", "isCorrect": true, "rationale": "Los vasos linfáticos son conductos con ramificaciones convergentes, encargados de recoger y aportar al sistema venoso la linfa y el quilo (de origen intestinal)." },
+      { "text": "Transportar sangre", "isCorrect": false, "rationale": "Los vasos linfáticos transportan linfa, no sangre." },
+      { "text": "Producir linfocitos", "isCorrect": false, "rationale": "La producción de linfocitos ocurre en los órganos linfáticos." },
+      { "text": "Filtrar la linfa", "isCorrect": false, "rationale": "La filtración ocurre en los nodos linfáticos." }
+    ],
+    "hint": "Conectan el sistema linfático con el venoso."
+  },
+  {
+    "question": "¿Qué son el quilo y la linfa?",
+    "options": [
+      { "text": "Líquidos del organismo que los vasos linfáticos recogen: quilo es de origen intestinal", "isCorrect": true, "rationale": "Los vasos linfáticos recogen y aportan al sistema venoso dos líquidos: la linfa y el quilo (este último, de origen intestinal)." },
+      { "text": "Tipos de sangre", "isCorrect": false, "rationale": "No son sangre, son líquidos tisulares." },
+      { "text": "Hormonas linfáticas", "isCorrect": false, "rationale": "Son líquidos, no hormonas." },
+      { "text": "Componentes de la orina", "isCorrect": false, "rationale": "No tienen relación con la orina." }
+    ],
+    "hint": "El quilo proviene de la digestión de grasas en el intestino."
+  },
+  {
+    "question": "¿Qué estructuras atraviesan los vasos linfáticos en su trayecto?",
+    "options": [
+      { "text": "Nodos (ganglios) linfáticos que filtran la linfa", "isCorrect": true, "rationale": "En su trayecto, los vasos linfáticos atraviesan formaciones anexas: los nodos (ganglios) linfáticos, que filtran la linfa." },
+      { "text": "El hígado", "isCorrect": false, "rationale": "Los vasos linfáticos atraviesan nodos, no el hígado directamente." },
+      { "text": "Los pulmones", "isCorrect": false, "rationale": "Los vasos linfáticos atraviesan nodos linfáticos." },
+      { "text": "El bazo", "isCorrect": false, "rationale": "El bazo es un órgano linfático, no una estructura que atraviesan los vasos." }
+    ],
+    "hint": "Son como 'estaciones de filtrado' en el camino linfático."
+  },
+  {
+    "question": "¿Qué son los nodos linfáticos?",
+    "options": [
+      { "text": "Órganos linfáticos secundarios que filtran la linfa", "isCorrect": true, "rationale": "Los nodos linfáticos son órganos linfáticos secundarios que, entre otras funciones, filtran la linfa aportada por los vasos." },
+      { "text": "Vasos linfáticos agrandados", "isCorrect": false, "rationale": "Son órganos, no vasos." },
+      { "text": "Glándulas endocrinas", "isCorrect": false, "rationale": "Son órganos linfáticos, no glándulas endocrinas." },
+      { "text": "Células circulantes", "isCorrect": false, "rationale": "Son órganos con estructura definida." }
+    ],
+    "hint": "También llamados ganglios linfáticos."
+  },
+  {
+    "question": "¿En qué tejidos NO existen vasos linfáticos?",
+    "options": [
+      { "text": "En la placenta y en el sistema nervioso central", "isCorrect": true, "rationale": "Los vasos linfáticos existen en todos los tejidos irrigados por vasos sanguíneos, excepto en la placenta y en el sistema nervioso central." },
+      { "text": "En el corazón", "isCorrect": false, "rationale": "El corazón sí tiene vasos linfáticos." },
+      { "text": "En los pulmones", "isCorrect": false, "rationale": "Los pulmones sí tienen vasos linfáticos." },
+      { "text": "En el hígado", "isCorrect": false, "rationale": "El hígado sí tiene vasos linfáticos." }
+    ],
+    "hint": "El cerebro no tiene linfáticos tradicionales."
+  },
+  {
+    "question": "¿Cómo se originan los vasos linfáticos?",
+    "options": [
+      { "text": "En capilares linfáticos con extremo cerrado, más voluminosos que los sanguíneos", "isCorrect": true, "rationale": "Los vasos linfáticos se originan en vasos capilares con un extremo cerrado, más voluminosos que los capilares sanguíneos." },
+      { "text": "En las arterias", "isCorrect": false, "rationale": "Se originan en capilares linfáticos propios." },
+      { "text": "En el corazón", "isCorrect": false, "rationale": "No se originan en el corazón." },
+      { "text": "En los ganglios", "isCorrect": false, "rationale": "Los ganglios están en el trayecto, no son el origen." }
+    ],
+    "hint": "Son 'ciegos' en un extremo, como dedos de guante."
+  },
+  {
+    "question": "¿Qué forma tienen los vasos linfáticos?",
+    "options": [
+      { "text": "Variable: algunos irregulares con válvulas, otros rectilíneos sin válvulas", "isCorrect": true, "rationale": "Su forma es variable: algunos, provistos de válvulas, son irregulares; otros, avalvulados, son regulares y rectilíneos." },
+      { "text": "Siempre rectos y lisos", "isCorrect": false, "rationale": "Algunos son irregulares con válvulas." },
+      { "text": "Siempre tortuosos", "isCorrect": false, "rationale": "Algunos son rectilíneos cuando no tienen válvulas." },
+      { "text": "Circular uniforme", "isCorrect": false, "rationale": "Tienen forma variable según si tienen válvulas o no." }
+    ],
+    "hint": "Depende de si tienen válvulas o no."
+  },
+  {
+    "question": "¿Qué aspecto presentan los vasos linfáticos valvulados?",
+    "options": [
+      { "text": "Dilataciones y estrechamientos alternos que les dan aspecto irregular", "isCorrect": true, "rationale": "Cuando son valvulados, los vasos linfáticos presentan dilataciones y estrechamientos alternos, que les dan un aspecto irregular." },
+      { "text": "Aspecto liso uniforme", "isCorrect": false, "rationale": "Los valvulados tienen aspecto irregular." },
+      { "text": "Aspecto recto", "isCorrect": false, "rationale": "Los valvulados tienen dilataciones y estrechamientos." },
+      { "text": "Aspecto nudoso", "isCorrect": false, "rationale": "Tienen un aspecto perlado por las válvulas." }
+    ],
+    "hint": "Las válvulas crean 'perlas' a lo largo del vaso."
+  },
+  {
+    "question": "¿Dónde están implantadas las válvulas en los vasos linfáticos?",
+    "options": [
+      { "text": "Por pares en los estrechamientos de los vasos", "isCorrect": true, "rationale": "Las válvulas están implantadas por pares en los estrechamientos de los vasos linfáticos." },
+      { "text": "Individualmente en las dilataciones", "isCorrect": false, "rationale": "Están en los estrechamientos, por pares." },
+      { "text": "Solo en los troncos principales", "isCorrect": false, "rationale": "Están en los estrechamientos, más espaciados en troncos gruesos." },
+      { "text": "En el centro del vaso", "isCorrect": false, "rationale": "Están en los estrechamientos." }
+    ],
+    "hint": "Son válvulas bícuspidas como las venosas."
+  },
+  {
+    "question": "¿Qué ocurre con las insuficiencias valvulares en los vasos linfáticos?",
+    "options": [
+      { "text": "Permiten reflujo de linfa, generando edemas de origen linfático", "isCorrect": true, "rationale": "En los vasos linfáticos existen 'insuficiencias valvulares' que permiten el reflujo de la linfa; su estasis es generadora de edemas de origen linfático puro." },
+      { "text": "No tienen consecuencias", "isCorrect": false, "rationale": "Generan edemas linfáticos." },
+      { "text": "Aumentan el flujo linfático", "isCorrect": false, "rationale": "Causan estasis, no aumento de flujo." },
+      { "text": "Mejoran el drenaje", "isCorrect": false, "rationale": "Empeoran el drenaje linfático." }
+    ],
+    "hint": "El linfedema es la consecuencia de la insuficiencia valvular."
+  },
+  {
+    "question": "¿Cómo es la estructura de los vasos linfáticos?",
+    "options": [
+      { "text": "Semejante a las venas: endotelio, túnica media fibromuscular y adventicia", "isCorrect": true, "rationale": "La estructura de los vasos linfáticos es muy semejante a la de las venas con endotelio interno, una túnica media fibromuscular y una adventicia." },
+      { "text": "Igual a las arterias", "isCorrect": false, "rationale": "Se parece más a las venas." },
+      { "text": "Sin capas definidas", "isCorrect": false, "rationale": "Tienen tres capas como las venas." },
+      { "text": "Solo endotelio", "isCorrect": false, "rationale": "Tienen las tres túnicas típicas." }
+    ],
+    "hint": "Estructuralmente son muy similares a las venas."
+  },
+  {
+    "question": "¿Cómo se disponen los vasos linfáticos respecto a las venas?",
+    "options": [
+      { "text": "Generalmente adosados a las venas, superficiales o profundos", "isCorrect": true, "rationale": "Los vasos linfáticos están, generalmente, adosados a las venas y son superficiales o profundos." },
+      { "text": "Independientes de las venas", "isCorrect": false, "rationale": "Generalmente están adosados a las venas." },
+      { "text": "Solo profundos", "isCorrect": false, "rationale": "Pueden ser superficiales o profundos." },
+      { "text": "Solo superficiales", "isCorrect": false, "rationale": "Pueden ser superficiales o profundos." }
+    ],
+    "hint": "Viajan junto a las venas en su mayoría."
+  },
+  {
+    "question": "¿Los vasos linfáticos están anastomosados entre sí?",
+    "options": [
+      { "text": "Sí, pero esto no modifica su trayecto convergente hacia los nodos", "isCorrect": true, "rationale": "Los vasos linfáticos están anastomosados entre sí, lo que no modifica su trayecto convergente hacia los nodos." },
+      { "text": "No, son independientes", "isCorrect": false, "rationale": "Sí están anastomosados entre sí." },
+      { "text": "Solo los superficiales", "isCorrect": false, "rationale": "Todos pueden estar anastomosados." },
+      { "text": "Solo los profundos", "isCorrect": false, "rationale": "Todos pueden estar anastomosados." }
+    ],
+    "hint": "Hay conexiones pero el flujo siempre va hacia los nodos."
+  },
+  {
+    "question": "¿Qué forma tienen los nodos linfáticos?",
+    "options": [
+      { "text": "Redondeados u ovoides", "isCorrect": true, "rationale": "Los nodos linfáticos son redondeados u ovoides." },
+      { "text": "Alargados y cilíndricos", "isCorrect": false, "rationale": "Son redondeados u ovoides." },
+      { "text": "Planos y anchos", "isCorrect": false, "rationale": "Son redondeados u ovoides." },
+      { "text": "Irregulares y ramificados", "isCorrect": false, "rationale": "Tienen forma redondeada u ovoide." }
+    ],
+    "hint": "Se parecen a pequeños frijoles o almendras."
+  }
+]

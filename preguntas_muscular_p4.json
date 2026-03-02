@@ -1,0 +1,142 @@
+[
+  {
+    "question": "¿Qué son los tendones?",
+    "options": [
+      { "text": "Formaciones fibrosas que prolongan el músculo hasta su punto de inserción", "isCorrect": true, "rationale": "Los tendones son de estructura fibrosa y prolongan al músculo hasta su punto de inserción." },
+      { "text": "Extensiones musculares que conectan con el hueso", "isCorrect": false, "rationale": "Los tendones son fibrosos, no musculares." },
+      { "text": "Ligamentos que conectan huesos entre sí", "isCorrect": false, "rationale": "Los ligamentos conectan huesos; los tendones conectan músculos con huesos." },
+      { "text": "Membranas que envuelven los músculos", "isCorrect": false, "rationale": "Las fascias y el epimisio envuelven músculos, no los tendones." }
+    ],
+    "hint": "Son estructuras blanquecinas y brillantes que conectan músculo y hueso."
+  },
+  {
+    "question": "¿Qué color y características tienen los tendones?",
+    "options": [
+      { "text": "Blanquecino, brillante y nacarado", "isCorrect": true, "rationale": "Los tendones son de coloración blanquecina, brillante y nacarada." },
+      { "text": "Rojo oscuro y opaco", "isCorrect": false, "rationale": "El color rojo es característico del músculo, no del tendón." },
+      { "text": "Amarillento y mate", "isCorrect": false, "rationale": "Los tendones son brillantes y nacarados, no mates." },
+      { "text": "Traslúcido y gelatinoso", "isCorrect": false, "rationale": "Los tendones son firmes y nacarados, no gelatinosos." }
+    ],
+    "hint": "Se distinguen del músculo por su aspecto y color."
+  },
+  {
+    "question": "¿Por qué se dice que los tendones son prácticamente inextensibles?",
+    "options": [
+      { "text": "Para que la contracción muscular actúe sin pérdida de fuerza", "isCorrect": true, "rationale": "La inextensibilidad permite que la contracción actúe sin retardo ni pérdida de fuerza." },
+      { "text": "Porque no tienen fibras elásticas", "isCorrect": false, "rationale": "Aunque es cierto, la razón funcional es la transmisión eficiente de la fuerza." },
+      { "text": "Porque están hechos de cartílago", "isCorrect": false, "rationale": "Los tendones son de tejido conectivo fibroso, no cartílago." },
+      { "text": "Porque son muy cortos", "isCorrect": false, "rationale": "Los tendones pueden ser largos o cortos, pero son inextensibles." }
+    ],
+    "hint": "Transmiten la fuerza del músculo a la palanca ósea sin pérdida."
+  },
+  {
+    "question": "¿Qué son las aponeurosis?",
+    "options": [
+      { "text": "Amplias láminas fibrosas que prolongan los tendones anchos", "isCorrect": true, "rationale": "Las aponeurosis son láminas fibrosas amplias en las que se extienden algunos tendones." },
+      { "text": "Músculos aplanados del abdomen", "isCorrect": false, "rationale": "Los músculos abdominales son planos, pero las aponeurosis son láminas tendinosas." },
+      { "text": "Fascias que envuelven los músculos", "isCorrect": false, "rationale": "Las aponeurosis son tendones aplanados, no fascias." },
+      { "text": "Ligamentos anchos del tronco", "isCorrect": false, "rationale": "Las aponeurosis prolongan músculos, no son ligamentos." }
+    ],
+    "hint": "Son tendones en forma de lámina amplia."
+  },
+  {
+    "question": "¿Dónde se observan las aponeurosis según el texto?",
+    "options": [
+      { "text": "En los tendones anchos que prolongan los músculos oblicuos y transverso del abdomen", "isCorrect": true, "rationale": "Las aponeurosis se observan en tendones anchos que prolongan músculos abdominales hasta la línea media." },
+      { "text": "En los tendones de los músculos de la cara", "isCorrect": false, "rationale": "Los músculos faciales no forman aponeurosis típicas." },
+      { "text": "En los músculos de los miembros inferiores", "isCorrect": false, "rationale": "En los miembros predominan los tendones cilíndricos." },
+      { "text": "En el diafragma", "isCorrect": false, "rationale": "El diafragma es un músculo plano, pero su porción tendinosa es el centro frénico." }
+    ],
+    "hint": "Se extienden hacia la línea media del abdomen."
+  },
+  {
+    "question": "¿Qué se distingue como inserción de origen en un músculo?",
+    "options": [
+      { "text": "Una de las dos inserciones del músculo", "isCorrect": true, "rationale": "Se distinguen dos inserciones: la de origen y la terminal (o inserción de terminación)." },
+      { "text": "La inserción más cercana al tronco", "isCorrect": false, "rationale": "En miembros se habla de inserción proximal, pero origen es más general." },
+      { "text": "La inserción más móvil", "isCorrect": false, "rationale": "La movilidad define el punto móvil, que puede ser origen o terminación según el movimiento." },
+      { "text": "La inserción ósea exclusivamente", "isCorrect": false, "rationale": "Las inserciones pueden ser carnosas, tendinosas o mixtas." }
+    ],
+    "hint": "Es una de las dos inserciones que tiene cada músculo."
+  },
+  {
+    "question": "¿Qué tipos de inserciones de origen existen?",
+    "options": [
+      { "text": "Carnosas, tendinosas, tendinomusculares y arcos fibrosos", "isCorrect": true, "rationale": "Las inserciones de origen pueden ser carnosas, tendinosas, tendinomusculares o por arcos fibrosos." },
+      { "text": "Solo óseas y cartilaginosas", "isCorrect": false, "rationale": "Las inserciones tienen más variedades que estas." },
+      { "text": "Únicamente tendinosas", "isCorrect": false, "rationale": "Existen varios tipos de inserciones de origen." },
+      { "text": "Directas e indirectas", "isCorrect": false, "rationale": "Esta clasificación no se menciona en el texto." }
+    ],
+    "hint": "Incluyen cuatro tipos diferentes según el tejido involucrado."
+  },
+  {
+    "question": "¿Qué caracteriza a las inserciones de origen carnosas?",
+    "options": [
+      { "text": "Las fibras musculares llegan a la superficie ósea perdiéndose en el periostio", "isCorrect": true, "rationale": "En las inserciones carnosas, las fibras musculares llegan al hueso y se continúan con el periostio." },
+      { "text": "El músculo se origina por un tendón grueso", "isCorrect": false, "rationale": "Esta es una inserción tendinosa, no carnosa." },
+      { "text": "Son las más frecuentes", "isCorrect": false, "rationale": "El texto indica que las inserciones carnosas son poco frecuentes." },
+      { "text": "Conectan el músculo con otro músculo", "isCorrect": false, "rationale": "Las inserciones se realizan en huesos, no en otros músculos." }
+    ],
+    "hint": "Son poco frecuentes y carecen de tendón en el origen."
+  },
+  {
+    "question": "¿Qué son los arcos fibrosos como inserción de origen?",
+    "options": [
+      { "text": "Arcos entre dos puntos de inserción ósea de los que parten fibras carnosas", "isCorrect": true, "rationale": "Los arcos fibrosos se tienden entre dos puntos óseos y de su convexidad parten fibras carnosas." },
+      { "text": "Arcos óseos que sirven de inserción", "isCorrect": false, "rationale": "Los arcos fibrosos son de tejido conectivo, no óseos." },
+      { "text": "Arcos vasculares que nutren el músculo", "isCorrect": false, "rationale": "Los arcos fibrosos son estructuras de inserción muscular." },
+      { "text": "Arcos tendinosos que unen dos músculos", "isCorrect": false, "rationale": "Los arcos fibrosos unen puntos óseos, no músculos." }
+    ],
+    "hint": "Ejemplos: arco tendinoso del sóleo, arco tendinoso del elevador del ano."
+  },
+  {
+    "question": "¿Qué músculos se denominan bíceps, tríceps o cuádriceps?",
+    "options": [
+      { "text": "Los que tienen dos, tres o cuatro cabezas de origen reunidas en una inserción única", "isCorrect": true, "rationale": "Estos músculos tienen varios cuerpos musculares reunidos distalmente en una inserción única." },
+      { "text": "Los que tienen dos, tres o cuatro inserciones terminales", "isCorrect": false, "rationale": "Se refiere a las cabezas de origen, no a las inserciones terminales." },
+      { "text": "Los que cruzan dos, tres o cuatro articulaciones", "isCorrect": false, "rationale": "El número de articulaciones no determina este nombre." },
+      { "text": "Los que tienen dos, tres o cuatro vientres musculares", "isCorrect": false, "rationale": "Se refiere a las cabezas de origen, no a los vientres." }
+    ],
+    "hint": "El bíceps braquial tiene dos cabezas, el cuádriceps cuatro."
+  },
+  {
+    "question": "¿Qué son los músculos multífidos?",
+    "options": [
+      { "text": "Músculos cuya inserción terminal se efectúa por varios tendones", "isCorrect": true, "rationale": "Los músculos multífidos tienen una inserción terminal que se efectúa por varios tendones." },
+      { "text": "Músculos con múltiples cabezas de origen", "isCorrect": false, "rationale": "Esto se llama bíceps, tríceps o cuádriceps según el número." },
+      { "text": "Músculos que cruzan múltiples articulaciones", "isCorrect": false, "rationale": "No es la definición de músculos multífidos." },
+      { "text": "Músculos con múltiples inserciones de origen", "isCorrect": false, "rationale": "Los multífidos se refieren a las inserciones terminales múltiples." }
+    ],
+    "hint": "Ejemplo: los flexores de los dedos."
+  },
+  {
+    "question": "¿Qué son el punto fijo y el punto móvil de un músculo?",
+    "options": [
+      { "text": "Los puntos que determinan hacia dónde se dirige la contracción muscular", "isCorrect": true, "rationale": "La contracción muscular acerca el punto móvil al punto fijo." },
+      { "text": "Los puntos de inserción ósea del músculo", "isCorrect": false, "rationale": "Aunque relacionados, el punto fijo y móvil pueden cambiar según el movimiento." },
+      { "text": "El origen y la terminación del músculo respectivamente", "isCorrect": false, "rationale": "Punto fijo y móvil pueden invertirse según la función realizada." },
+      { "text": "Puntos anatómicos fijos del músculo", "isCorrect": false, "rationale": "El punto fijo y móvil cambian según el movimiento que se realice." }
+    ],
+    "hint": "Dependen del movimiento que realice el músculo."
+  },
+  {
+    "question": "¿Puede cambiar cuál es el punto fijo y el punto móvil de un músculo?",
+    "options": [
+      { "text": "Sí, depende del movimiento que realice el músculo", "isCorrect": true, "rationale": "Cada punto puede ser fijo o móvil según el movimiento que se realice." },
+      { "text": "No, el punto fijo siempre es el origen", "isCorrect": false, "rationale": "El punto fijo y móvil pueden invertirse según la función." },
+      { "text": "Solo en músculos especiales", "isCorrect": false, "rationale": "Es una característica general de los músculos." },
+      { "text": "No, siempre es el mismo", "isCorrect": false, "rationale": "El ejemplo del bíceps muestra que pueden invertirse." }
+    ],
+    "hint": "Ejemplo: el bíceps tiene punto fijo en escápula al flexionar, pero en radio al trepar."
+  },
+  {
+    "question": "¿Cómo se insertan los tendones en el esqueleto según el texto?",
+    "options": [
+      { "text": "Por fusión íntima con el periostio, penetrando superficialmente en el hueso", "isCorrect": true, "rationale": "Las fibras tendinosas atraviesan el periostio y penetran superficialmente en el hueso." },
+      { "text": "Directamente en el hueso sin intermediarios", "isCorrect": false, "rationale": "Se fusionan con el periostio antes de insertarse." },
+      { "text": "A través de cartílago de transición", "isCorrect": false, "rationale": "No se menciona cartílago en esta unión." },
+      { "text": "Por ligamentos que las conectan", "isCorrect": false, "rationale": "La unión es directa con el periostio y hueso." }
+    ],
+    "hint": "La tracción provoca la aparición de salientes óseas como apófisis."
+  }
+]

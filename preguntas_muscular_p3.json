@@ -1,0 +1,102 @@
+[
+  {
+    "question": "¿Qué ocurre con la longitud del músculo durante una contracción isométrica?",
+    "options": [
+      { "text": "Se mantiene sin modificación", "isCorrect": true, "rationale": "En la contracción isométrica o estática, el músculo se pone en tensión sin modificar su longitud." },
+      { "text": "Se acorta significativamente", "isCorrect": false, "rationale": "El acortamiento ocurre en la contracción isotónica, no isométrica." },
+      { "text": "Se alarga", "isCorrect": false, "rationale": "El alargamiento ocurre en la contracción excéntrica." },
+      { "text": "Fluctúa entre acortarse y alargarse", "isCorrect": false, "rationale": "En la contracción isométrica la longitud permanece constante." }
+    ],
+    "hint": "También se llama contracción estática."
+  },
+  {
+    "question": "¿Qué nombre alternativo recibe la contracción isométrica?",
+    "options": [
+      { "text": "Contracción estática", "isCorrect": true, "rationale": "La contracción isométrica también se denomina estática porque no hay cambio en la longitud." },
+      { "text": "Contracción dinámica", "isCorrect": false, "rationale": "La contracción dinámica implica movimiento, como la isotónica." },
+      { "text": "Contracción concéntrica", "isCorrect": false, "rationale": "La contracción concéntrica es un tipo de contracción isotónica." },
+      { "text": "Contracción fásica", "isCorrect": false, "rationale": "Las contracciones fásicas implican movimiento." }
+    ],
+    "hint": "No hay movimiento, el músculo permanece estático."
+  },
+  {
+    "question": "¿Qué ejemplo se menciona de contracción isométrica en el texto?",
+    "options": [
+      { "text": "El cuádriceps femoral en posición de pie", "isCorrect": true, "rationale": "El cuádriceps en posición de pie realiza contracción estática para oponerse a la flexión de la rodilla." },
+      { "text": "El bíceps al flexionar el antebrazo", "isCorrect": false, "rationale": "Este es un ejemplo de contracción isotónica concéntrica." },
+      { "text": "El tríceps al extender el codo", "isCorrect": false, "rationale": "Este es un ejemplo de contracción isotónica concéntrica." },
+      { "text": "El diafragma durante la respiración", "isCorrect": false, "rationale": "El diafragma se contrae isotónicamente durante la respiración." }
+    ],
+    "hint": "Mantiene una postura sin mover la articulación."
+  },
+  {
+    "question": "¿Qué produce la contracción isotónica?",
+    "options": [
+      { "text": "Acorta el músculo acercando sus inserciones y genera movimiento", "isCorrect": true, "rationale": "La contracción isotónica acorta el músculo, acerca sus inserciones y suscita un movimiento." },
+      { "text": "Mantiene la longitud del músculo constante", "isCorrect": false, "rationale": "Esta es la característica de la contracción isométrica." },
+      { "text": "Alarga el músculo de manera controlada", "isCorrect": false, "rationale": "Este es un tipo específico de contracción isotónica (excéntrica)." },
+      { "text": "No genera ningún tipo de movimiento", "isCorrect": false, "rationale": "La contracción isotónica sí genera movimiento." }
+    ],
+    "hint": "El prefijo 'iso-' significa igual, '-tónica' se refiere al tono o tensión."
+  },
+  {
+    "question": "¿Qué tipo de contracción isotónica disminuye la longitud del músculo?",
+    "options": [
+      { "text": "Contracción concéntrica", "isCorrect": true, "rationale": "La contracción concéntrica disminuye la longitud del músculo, acercando sus inserciones." },
+      { "text": "Contracción excéntrica", "isCorrect": false, "rationale": "La contracción excéntrica se produce mientras el músculo se alarga." },
+      { "text": "Contracción isométrica", "isCorrect": false, "rationale": "La contracción isométrica no modifica la longitud." },
+      { "text": "Contracción estática", "isCorrect": false, "rationale": "La contracción estática es sinónimo de isométrica." }
+    ],
+    "hint": "Es el tipo de contracción más común al levantar un peso."
+  },
+  {
+    "question": "¿Qué ocurre durante una contracción isotónica excéntrica?",
+    "options": [
+      { "text": "El músculo se alarga de manera controlada", "isCorrect": true, "rationale": "En la contracción excéntrica, el músculo se alarga de manera controlada mientras se contrae." },
+      { "text": "El músculo se acorta rápidamente", "isCorrect": false, "rationale": "El acortamiento ocurre en la contracción concéntrica." },
+      { "text": "El músculo mantiene su longitud", "isCorrect": false, "rationale": "Esto ocurre en la contracción isométrica." },
+      { "text": "El músculo permanece relajado", "isCorrect": false, "rationale": "En la contracción excéntrica el músculo está activo aunque se alarga." }
+    ],
+    "hint": "Ocurre al bajar un peso de manera controlada."
+  },
+  {
+    "question": "¿De qué depende la fuerza de la contracción muscular?",
+    "options": [
+      { "text": "De la longitud y el volumen de las fibras musculares", "isCorrect": true, "rationale": "La fuerza depende de la longitud y el volumen de las fibras musculares." },
+      { "text": "Solo del número de fibras musculares", "isCorrect": false, "rationale": "El número de fibras es constante; lo que varía es el volumen celular." },
+      { "text": "Exclusivamente del entrenamiento", "isCorrect": false, "rationale": "El entrenamiento aumenta la fuerza, pero depende de factores anatómicos." },
+      { "text": "De la velocidad de contracción", "isCorrect": false, "rationale": "La velocidad es una cualidad diferente a la fuerza." }
+    ],
+    "hint": "Músculos más grandes (más volumen) generalmente generan más fuerza."
+  },
+  {
+    "question": "¿Qué es la velocidad como cualidad de la contracción muscular?",
+    "options": [
+      { "text": "Una condición propia de la fibra muscular", "isCorrect": true, "rationale": "La velocidad es una condición propia de la fibra muscular que puede ser aumentada por entrenamiento." },
+      { "text": "Una cualidad que solo depende del tamaño del músculo", "isCorrect": false, "rationale": "La velocidad es inherente a la fibra, no solo al tamaño." },
+      { "text": "Una característica que no puede modificarse", "isCorrect": false, "rationale": "La velocidad puede aumentarse con entrenamiento." },
+      { "text": "El resultado de la fuerza aplicada", "isCorrect": false, "rationale": "La velocidad es independiente de la fuerza como cualidad muscular." }
+    ],
+    "hint": "Es diferente de la fuerza y puede mejorarse con entrenamiento."
+  },
+  {
+    "question": "¿Cómo puede aumentarse la velocidad muscular?",
+    "options": [
+      { "text": "Mediante el entrenamiento", "isCorrect": true, "rationale": "La velocidad muscular puede ser aumentada por el entrenamiento." },
+      { "text": "Solo mediante el aumento de la masa muscular", "isCorrect": false, "rationale": "El aumento de masa mejora la fuerza, no necesariamente la velocidad." },
+      { "text": "No puede aumentarse, es innata", "isCorrect": false, "rationale": "La velocidad puede aumentarse con entrenamiento." },
+      { "text": "Únicamente con suplementación", "isCorrect": false, "rationale": "El factor principal es el entrenamiento." }
+    ],
+    "hint": "Los atletas de velocidad trabajan específicamente en esto."
+  },
+  {
+    "question": "¿Cuál es la diferencia fundamental entre fuerza y velocidad como cualidades musculares?",
+    "options": [
+      { "text": "La fuerza depende del volumen, la velocidad es inherente a la fibra", "isCorrect": true, "rationale": "La fuerza depende de la longitud y volumen de las fibras, mientras que la velocidad es una condición propia de la fibra." },
+      { "text": "La fuerza es innata, la velocidad se entrena", "isCorrect": false, "rationale": "Ambas pueden mejorarse con entrenamiento." },
+      { "text": "La velocidad es más importante que la fuerza", "isCorrect": false, "rationale": "Ambas son cualidades independientes con diferentes aplicaciones." },
+      { "text": "No hay diferencia, son lo mismo", "isCorrect": false, "rationale": "Son cualidades diferentes de la contracción muscular." }
+    ],
+    "hint": "Una está relacionada con el tamaño, la otra con las características de la fibra."
+  }
+]

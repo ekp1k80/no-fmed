@@ -1,0 +1,152 @@
+[
+  {
+    "question": "¿Qué es la atrofia muscular?",
+    "options": [
+      { "text": "La disminución del tejido muscular", "isCorrect": true, "rationale": "La atrofia muscular es la disminución del tejido muscular." },
+      { "text": "El aumento del tejido muscular", "isCorrect": false, "rationale": "El aumento del tejido muscular se llama hipertrofia." },
+      { "text": "La inflamación del músculo", "isCorrect": false, "rationale": "La inflamación del músculo se llama miositis." },
+      { "text": "La ruptura de las fibras musculares", "isCorrect": false, "rationale": "La ruptura de fibras corresponde a un desgarro." }
+    ],
+    "hint": "El prefijo 'a-' indica ausencia o disminución."
+  },
+  {
+    "question": "¿Cuál es la causa más común de atrofia muscular?",
+    "options": [
+      { "text": "Falta de ejercicio del grupo muscular afectado", "isCorrect": true, "rationale": "La atrofia muscular se produce habitualmente por falta de ejercicio del grupo muscular afectado." },
+      { "text": "Exceso de ejercicio", "isCorrect": false, "rationale": "El exceso de ejercicio puede causar hipertrofia, no atrofia." },
+      { "text": "Infecciones virales", "isCorrect": false, "rationale": "Las infecciones pueden causar miositis, no atrofia como causa principal." },
+      { "text": "Traumatismos directos", "isCorrect": false, "rationale": "La falta de uso es la causa más común." }
+    ],
+    "hint": "Ocurre cuando el músculo no se utiliza."
+  },
+  {
+    "question": "¿Qué otras causas pueden producir atrofia muscular además de la falta de ejercicio?",
+    "options": [
+      { "text": "Patologías que comprometen la inervación motora", "isCorrect": true, "rationale": "La atrofia puede ser secundaria a patologías que afectan la inervación motora, central o periférica." },
+      { "text": "Solo por infecciones bacterianas", "isCorrect": false, "rationale": "Las infecciones no son la causa principal de atrofia." },
+      { "text": "Exclusivamente por enfermedades autoinmunes", "isCorrect": false, "rationale": "Las enfermedades nerviosas son causas importantes." },
+      { "text": "Únicamente por desnutrición", "isCorrect": false, "rationale": "La inervación motora es un factor clave mencionado en el texto." }
+    ],
+    "hint": "Incluye enfermedades del sistema nervioso central o periférico."
+  },
+  {
+    "question": "¿En qué tipo de personas es frecuente la atrofia por falta de ejercicio?",
+    "options": [
+      { "text": "Personas sedentarias, ancianos y personas con reposo prolongado", "isCorrect": true, "rationale": "Es frecuente en personas sedentarias, es normal en el envejecimiento y en reposo prolongado." },
+      { "text": "Exclusivamente en atletas", "isCorrect": false, "rationale": "Los atletas suelen tener hipertrofia, no atrofia." },
+      { "text": "Solo en niños", "isCorrect": false, "rationale": "Es más común en adultos y ancianos." },
+      { "text": "Únicamente en personas hospitalizadas", "isCorrect": false, "rationale": "También ocurre en personas sedentarias y en el envejecimiento normal." }
+    ],
+    "hint": "Es normal en el envejecimiento y en estilos de vida sedentarios."
+  },
+  {
+    "question": "¿Qué enfermedades del sistema nervioso pueden causar atrofia muscular?",
+    "options": [
+      { "text": "Poliomielitis, síndrome de Guillain-Barré y secuela de ACV", "isCorrect": true, "rationale": "Poliomielitis, Guillain-Barré y ACV con compromiso de área motora pueden causar atrofia muscular." },
+      { "text": "Solo la esclerosis múltiple", "isCorrect": false, "rationale": "El texto menciona otras enfermedades específicas." },
+      { "text": "Exclusivamente el Parkinson", "isCorrect": false, "rationale": "Se mencionan otras enfermedades neurológicas." },
+      { "text": "Únicamente el Alzheimer", "isCorrect": false, "rationale": "Las enfermedades mencionadas afectan el sistema motor." }
+    ],
+    "hint": "Son enfermedades que afectan la inervación motora."
+  },
+  {
+    "question": "¿Puede recuperarse la función muscular después de una atrofia?",
+    "options": [
+      { "text": "Depende de la causa; puede revertir con rehabilitación o no recuperarse", "isCorrect": true, "rationale": "La atrofia por falta de ejercicio suele revertir con rehabilitación, pero en patologías nerviosas puede no recuperarse." },
+      { "text": "Siempre se recupera completamente", "isCorrect": false, "rationale": "La recuperación depende de la causa." },
+      { "text": "Nunca se recupera", "isCorrect": false, "rationale": "La atrofia por desuso sí puede revertirse." },
+      { "text": "Solo con cirugía", "isCorrect": false, "rationale": "La rehabilitación es el tratamiento principal." }
+    ],
+    "hint": "La recuperación depende de la causa subyacente."
+  },
+  {
+    "question": "¿Qué es la hipertrofia muscular?",
+    "options": [
+      { "text": "El aumento de volumen del músculo por incremento del tamaño celular", "isCorrect": true, "rationale": "La hipertrofia es el aumento de volumen del músculo por aumento del tamaño de las células." },
+      { "text": "El aumento del número de células musculares", "isCorrect": false, "rationale": "En la hipertrofia el número celular se mantiene constante, solo aumenta el volumen." },
+      { "text": "La inflamación del músculo", "isCorrect": false, "rationale": "La inflamación es miositis, no hipertrofia." },
+      { "text": "El desarrollo de nuevos músculos", "isCorrect": false, "rationale": "No se crean nuevos músculos, se agrandan los existentes." }
+    ],
+    "hint": "Las células musculares se vuelven más grandes, no más numerosas."
+  },
+  {
+    "question": "¿Qué ocurre con el número de células musculares durante la hipertrofia?",
+    "options": [
+      { "text": "Se mantiene constante, solo se modifica el volumen celular", "isCorrect": true, "rationale": "En la hipertrofia, el número celular se mantiene constante y solo se modifica el volumen celular." },
+      { "text": "Aumenta significativamente", "isCorrect": false, "rationale": "El número de células permanece igual." },
+      { "text": "Disminuye", "isCorrect": false, "rationale": "El número celular no cambia en la hipertrofia." },
+      { "text": "Se duplica", "isCorrect": false, "rationale": "No hay aumento del número de células." }
+    ],
+    "hint": "Es el tamaño de las células lo que cambia, no su cantidad."
+  },
+  {
+    "question": "¿En qué personas se observa la hipertrofia muscular?",
+    "options": [
+      { "text": "Atletas o personas con entrenamiento anaeróbico como fisicoculturismo", "isCorrect": true, "rationale": "La hipertrofia se observa en atletas y personas que realizan entrenamiento anaeróbico como fisicoculturismo." },
+      { "text": "Solo en personas con enfermedades hormonales", "isCorrect": false, "rationale": "La hipertrofia fisiológica se observa en atletas." },
+      { "text": "Exclusivamente en adolescentes", "isCorrect": false, "rationale": "Se observa en adultos entrenados." },
+      { "text": "Únicamente en personas con trastornos genéticos", "isCorrect": false, "rationale": "La hipertrofia fisiológica es por entrenamiento." }
+    ],
+    "hint": "Es el resultado del entrenamiento con grandes esfuerzos repetidos."
+  },
+  {
+    "question": "¿Qué provoca el aumento del volumen celular en la hipertrofia?",
+    "options": [
+      { "text": "Aumento de la producción de proteínas contráctiles", "isCorrect": true, "rationale": "El aumento del volumen celular se debe a mayor producción de proteínas contráctiles para adaptarse a los esfuerzos." },
+      { "text": "Acumulación de grasa intracelular", "isCorrect": false, "rationale": "No es grasa, sino proteínas contráctiles." },
+      { "text": "Aumento del número de núcleos celulares", "isCorrect": false, "rationale": "Es el contenido proteico lo que aumenta." },
+      { "text": "Acumulación de líquido", "isCorrect": false, "rationale": "Es un aumento real de proteínas estructurales." }
+    ],
+    "hint": "El músculo se adapta produciendo más proteínas contráctiles."
+  },
+  {
+    "question": "¿Qué son las distrofias musculares?",
+    "options": [
+      { "text": "Enfermedades primarias del músculo esquelético por trastornos genéticos hereditarios", "isCorrect": true, "rationale": "Las distrofias musculares son enfermedades primarias del músculo esquelético debidas a trastornos genéticos hereditarios." },
+      { "text": "Inflamaciones del músculo esquelético", "isCorrect": false, "rationale": "Las inflamaciones son miositis, no distrofias." },
+      { "text": "Lesiones traumáticas del músculo", "isCorrect": false, "rationale": "Las distrofias son enfermedades, no lesiones." },
+      { "text": "Infecciones del músculo", "isCorrect": false, "rationale": "Son enfermedades genéticas, no infecciosas." }
+    ],
+    "hint": "Son enfermedades hereditarias del músculo."
+  },
+  {
+    "question": "¿Cuál es la causa molecular de las distrofias musculares?",
+    "options": [
+      { "text": "Alteraciones de proteínas estructurales del músculo", "isCorrect": true, "rationale": "Las distrofias se deben a alteraciones de proteínas estructurales como distrofina y espectrina." },
+      { "text": "Alteraciones de las proteínas contráctiles únicamente", "isCorrect": false, "rationale": "Son las proteínas estructurales de conexión las afectadas." },
+      { "text": "Deficiencia de calcio", "isCorrect": false, "rationale": "La causa es genética, no nutricional." },
+      { "text": "Exceso de ácido láctico", "isCorrect": false, "rationale": "Es un problema de proteínas estructurales." }
+    ],
+    "hint": "Afectan proteínas que conectan las proteínas contráctiles con la membrana."
+  },
+  {
+    "question": "¿Qué proteínas estructurales están alteradas en las distrofias musculares?",
+    "options": [
+      { "text": "Distrofina y espectrina", "isCorrect": true, "rationale": "La distrofina y la espectrina son proteínas estructurales alteradas en las distrofias musculares." },
+      { "text": "Solo actina y miosina", "isCorrect": false, "rationale": "Actina y miosina son proteínas contráctiles, no estructurales de conexión." },
+      { "text": "Exclusivamente el colágeno", "isCorrect": false, "rationale": "El colágeno no es la proteína afectada en las distrofias." },
+      { "text": "Solo la tropomiosina", "isCorrect": false, "rationale": "Las afectadas son distrofina y espectrina." }
+    ],
+    "hint": "Una de ellas da nombre a la distrofia más conocida."
+  },
+  {
+    "question": "¿Cómo están conectadas las proteínas contráctiles con la membrana celular?",
+    "options": [
+      { "text": "A través de proteínas estructurales como distrofina y espectrina", "isCorrect": true, "rationale": "Las proteínas contráctiles están conectadas a la membrana plasmática mediante proteínas como distrofina y espectrina." },
+      { "text": "Directamente sin intermediarios", "isCorrect": false, "rationale": "Existen proteínas intermedias de conexión." },
+      { "text": "Por el tejido conectivo externo", "isCorrect": false, "rationale": "La conexión es a través de proteínas internas." },
+      { "text": "Por el sarcoplasma únicamente", "isCorrect": false, "rationale": "Son proteínas específicas de conexión." }
+    ],
+    "hint": "Estas proteínas sirven de puente entre las contráctiles y la membrana."
+  },
+  {
+    "question": "¿Qué proteínas contráctiles se mencionan en relación con las distrofias?",
+    "options": [
+      { "text": "Actina, miosina, tropomiosina y troponina", "isCorrect": true, "rationale": "Las proteínas contráctiles del músculo estriado son actina, miosina, tropomiosina y troponina." },
+      { "text": "Solo actina y miosina", "isCorrect": false, "rationale": "También se mencionan tropomiosina y troponina." },
+      { "text": "Exclusivamente la distrofina", "isCorrect": false, "rationale": "La distrofina es una proteína estructural, no contráctil." },
+      { "text": "Solo el colágeno y la elastina", "isCorrect": false, "rationale": "Estas son proteínas del tejido conectivo, no musculares." }
+    ],
+    "hint": "Son las proteínas responsables de la contracción muscular."
+  }
+]

@@ -15054,4 +15054,14558 @@ const quizzes = {
     }
   ]
 }
+,
+  "anato-muscular": {
+  "titulo": "Sistema Muscular",
+  "descripcion": "Tipos, formas, contracción, tendones, estructura, patologías, fascias",
+  "totalPreguntas": 129,
+  "partes": [
+    {
+      "id": 1,
+      "nombre": "Tipos y Clasificación de Músculos",
+      "preguntas": 15,
+      "data": [
+        {
+          "question": "¿Qué tipo de músculo es el músculo estriado esquelético según su control voluntario?",
+          "options": [
+            {
+              "text": "Voluntario",
+              "isCorrect": true,
+              "rationale": "Los músculos estriados esqueléticos obedecen al control de la voluntad y permiten realizar movimientos voluntarios."
+            },
+            {
+              "text": "Involuntario",
+              "isCorrect": false,
+              "rationale": "Los músculos involuntarios son los lisos y el cardíaco, que funcionan fuera del control voluntario."
+            },
+            {
+              "text": "Mixto",
+              "isCorrect": false,
+              "rationale": "No existe control mixto; cada tipo muscular tiene un control definido."
+            },
+            {
+              "text": "Reflejo únicamente",
+              "isCorrect": false,
+              "rationale": "Aunque pueden actuar por reflejos, su control principal es voluntario."
+            }
+          ],
+          "hint": "Piensa en qué músculos puedes mover conscientemente, como los de los brazos o piernas."
+        },
+        {
+          "question": "¿Qué característica distintiva presenta el músculo estriado esquelético al examen microscópico?",
+          "options": [
+            {
+              "text": "Presenta estrías visibles",
+              "isCorrect": true,
+              "rationale": "Los músculos estriados muestran estrías en el examen microscópico, de ahí su nombre."
+            },
+            {
+              "text": "Es completamente liso",
+              "isCorrect": false,
+              "rationale": "Los músculos lisos no presentan estrías; los esqueléticos sí las tienen."
+            },
+            {
+              "text": "Tiene apariencia granular",
+              "isCorrect": false,
+              "rationale": "La característica distintiva es la presencia de estrías, no granularidad."
+            },
+            {
+              "text": "Es transparente",
+              "isCorrect": false,
+              "rationale": "La transparencia no es una característica distintiva de ningún tipo muscular."
+            }
+          ],
+          "hint": "Su nombre hace referencia a una característica visual microscópica."
+        },
+        {
+          "question": "¿A qué sistema pertenecen los músculos estriados esqueléticos según su localización?",
+          "options": [
+            {
+              "text": "Somáticos",
+              "isCorrect": true,
+              "rationale": "Los músculos estriados esqueléticos son somáticos, localizados en la pared corporal o soma."
+            },
+            {
+              "text": "Viscerales",
+              "isCorrect": false,
+              "rationale": "Los músculos viscerales forman parte de órganos huecos; los esqueléticos son somáticos."
+            },
+            {
+              "text": "Simpáticos",
+              "isCorrect": false,
+              "rationale": "El sistema simpático es parte del sistema nervioso autónomo, no una clasificación muscular."
+            },
+            {
+              "text": "Parasimpáticos",
+              "isCorrect": false,
+              "rationale": "El sistema parasimpático es parte del sistema nervioso autónomo."
+            }
+          ],
+          "hint": "Se encuentran en la pared corporal y movilizan el esqueleto."
+        },
+        {
+          "question": "¿Qué color caracteriza al músculo estriado esquelético?",
+          "options": [
+            {
+              "text": "Rojo",
+              "isCorrect": true,
+              "rationale": "Los músculos estriados esqueléticos son rojos debido a los pigmentos y la gran cantidad de sangre en las fibras."
+            },
+            {
+              "text": "Blanco",
+              "isCorrect": false,
+              "rationale": "Los músculos lisos son blancos, no los esqueléticos."
+            },
+            {
+              "text": "Amarillento",
+              "isCorrect": false,
+              "rationale": "Los tendones tienen coloración blanquecina amarillenta, no los músculos esqueléticos."
+            },
+            {
+              "text": "Rosado pálido",
+              "isCorrect": false,
+              "rationale": "El músculo esquelético vivo tiene un color rojo característico."
+            }
+          ],
+          "hint": "Su color está relacionado con la gran vascularización que posee."
+        },
+        {
+          "question": "¿Qué tipo de control tienen los músculos lisos?",
+          "options": [
+            {
+              "text": "Involuntario",
+              "isCorrect": true,
+              "rationale": "Los músculos lisos funcionan fuera del control de la voluntad, perteneciendo al sistema vegetativo."
+            },
+            {
+              "text": "Voluntario",
+              "isCorrect": false,
+              "rationale": "Los músculos voluntarios son los estriados esqueléticos."
+            },
+            {
+              "text": "Consciente",
+              "isCorrect": false,
+              "rationale": "El control consciente es sinónimo de voluntario; los lisos no tienen este control."
+            },
+            {
+              "text": "Mixto",
+              "isCorrect": false,
+              "rationale": "Los músculos lisos son exclusivamente involuntarios."
+            }
+          ],
+          "hint": "No puedes controlar conscientemente los movimientos de tu estómago o intestinos."
+        },
+        {
+          "question": "¿Qué estructura forman los músculos lisos?",
+          "options": [
+            {
+              "text": "Paredes de vasos sanguíneos y órganos huecos",
+              "isCorrect": true,
+              "rationale": "Los músculos lisos forman parte de las paredes de los vasos sanguíneos y de las vísceras."
+            },
+            {
+              "text": "El esqueleto axial",
+              "isCorrect": false,
+              "rationale": "Los músculos esqueléticos se insertan en el esqueleto; los lisos no."
+            },
+            {
+              "text": "Las articulaciones sinoviales",
+              "isCorrect": false,
+              "rationale": "Las articulaciones no están formadas por músculo liso."
+            },
+            {
+              "text": "Los tendones y ligamentos",
+              "isCorrect": false,
+              "rationale": "Los tendones y ligamentos son tejido conectivo fibroso, no muscular."
+            }
+          ],
+          "hint": "Son responsables de las contracciones peristálticas y pulsaciones."
+        },
+        {
+          "question": "¿Por qué se dice que los músculos lisos son 'no estriados'?",
+          "options": [
+            {
+              "text": "Porque no presentan estrías al examen microscópico",
+              "isCorrect": true,
+              "rationale": "A diferencia de los estriados, los músculos lisos no muestran estrías en el examen microscópico."
+            },
+            {
+              "text": "Porque tienen superficie lisa al tacto",
+              "isCorrect": false,
+              "rationale": "La denominación se refiere a la apariencia microscópica, no al tacto."
+            },
+            {
+              "text": "Porque no tienen fibras",
+              "isCorrect": false,
+              "rationale": "Los músculos lisos sí tienen fibras musculares, pero sin estrías."
+            },
+            {
+              "text": "Porque son de superficie uniforme",
+              "isCorrect": false,
+              "rationale": "La razón es la ausencia de estrías visibles al microscopio."
+            }
+          ],
+          "hint": "Es una característica que se observa con el microscopio."
+        },
+        {
+          "question": "¿Qué tipo de músculo es el miocardio según su control?",
+          "options": [
+            {
+              "text": "Involuntario",
+              "isCorrect": true,
+              "rationale": "El músculo cardíaco funciona fuera del control de la voluntad."
+            },
+            {
+              "text": "Voluntario",
+              "isCorrect": false,
+              "rationale": "No podemos controlar conscientemente los latidos del corazón."
+            },
+            {
+              "text": "Semi-voluntario",
+              "isCorrect": false,
+              "rationale": "El miocardio es completamente involuntario."
+            },
+            {
+              "text": "Condicionado",
+              "isCorrect": false,
+              "rationale": "No existe esta clasificación para el control muscular."
+            }
+          ],
+          "hint": "No puedes decidir cuándo late tu corazón."
+        },
+        {
+          "question": "¿Qué color tiene el músculo cardíaco?",
+          "options": [
+            {
+              "text": "Rojo",
+              "isCorrect": true,
+              "rationale": "El músculo estriado cardíaco es rojo, al igual que el esquelético."
+            },
+            {
+              "text": "Blanco",
+              "isCorrect": false,
+              "rationale": "El músculo blanco es el liso; el cardíaco es rojo."
+            },
+            {
+              "text": "Rosado",
+              "isCorrect": false,
+              "rationale": "El miocardio tiene una coloración roja intensa."
+            },
+            {
+              "text": "Púrpura oscuro",
+              "isCorrect": false,
+              "rationale": "El color característico del músculo cardíaco es rojo."
+            }
+          ],
+          "hint": "Tiene el mismo color que los músculos que mueves voluntariamente."
+        },
+        {
+          "question": "¿Qué estructura constituye principalmente el músculo cardíaco?",
+          "options": [
+            {
+              "text": "Las paredes del corazón",
+              "isCorrect": true,
+              "rationale": "El músculo estriado cardíaco constituye la mayor parte de las paredes del corazón."
+            },
+            {
+              "text": "Las válvulas cardíacas",
+              "isCorrect": false,
+              "rationale": "Las válvulas son tejido conectivo, no músculo."
+            },
+            {
+              "text": "El pericardio",
+              "isCorrect": false,
+              "rationale": "El pericardio es una membrana fibroserosa que envuelve al corazón."
+            },
+            {
+              "text": "Los grandes vasos",
+              "isCorrect": false,
+              "rationale": "Los vasos tienen músculo liso en sus paredes, no cardíaco."
+            }
+          ],
+          "hint": "Es el tejido muscular propio del órgano que bombea sangre."
+        },
+        {
+          "question": "¿Qué otro nombre reciben los músculos superficiales?",
+          "options": [
+            {
+              "text": "Músculos cutáneos",
+              "isCorrect": true,
+              "rationale": "Los músculos superficiales también se llaman cutáneos porque se encuentran bajo la piel."
+            },
+            {
+              "text": "Músculos subdérmicos",
+              "isCorrect": false,
+              "rationale": "El término correcto es músculos cutáneos."
+            },
+            {
+              "text": "Músculos epidérmicos",
+              "isCorrect": false,
+              "rationale": "No se denomina así a los músculos superficiales."
+            },
+            {
+              "text": "Músculos externos",
+              "isCorrect": false,
+              "rationale": "El término correcto es cutáneos por su relación con la piel."
+            }
+          ],
+          "hint": "Su nombre hace referencia a su relación con la piel (cutis)."
+        },
+        {
+          "question": "¿Dónde se encuentran principalmente los músculos cutáneos en el ser humano?",
+          "options": [
+            {
+              "text": "En la cara, cabeza y cuello",
+              "isCorrect": true,
+              "rationale": "En el hombre, los músculos cutáneos están poco desarrollados y se encuentran en la cara, cabeza y cuello."
+            },
+            {
+              "text": "En los miembros superiores",
+              "isCorrect": false,
+              "rationale": "Los músculos de los miembros son principalmente profundos."
+            },
+            {
+              "text": "En el tronco",
+              "isCorrect": false,
+              "rationale": "En el tronco predominan los músculos profundos."
+            },
+            {
+              "text": "En los miembros inferiores",
+              "isCorrect": false,
+              "rationale": "Los músculos de los miembros son principalmente profundos."
+            }
+          ],
+          "hint": "Incluyen los músculos de la mímica facial."
+        },
+        {
+          "question": "¿Qué estructura separa a los músculos profundos del tejido subcutáneo?",
+          "options": [
+            {
+              "text": "La fascia de revestimiento superficial",
+              "isCorrect": true,
+              "rationale": "Los músculos profundos están cubiertos por la fascia de revestimiento superficial que los separa del tejido subcutáneo."
+            },
+            {
+              "text": "El periostio",
+              "isCorrect": false,
+              "rationale": "El periostio recubre los huesos, no separa músculos del tejido subcutáneo."
+            },
+            {
+              "text": "La aponeurosis",
+              "isCorrect": false,
+              "rationale": "La aponeurosis es un tendón aplanado, no una fascia de separación."
+            },
+            {
+              "text": "El endomisio",
+              "isCorrect": false,
+              "rationale": "El endomisio envuelve fibras musculares dentro del músculo."
+            }
+          ],
+          "hint": "Es una lámina de tejido conectivo que envuelve los músculos profundos."
+        },
+        {
+          "question": "¿Cuál es la característica de la mayoría de los músculos profundos respecto al esqueleto?",
+          "options": [
+            {
+              "text": "Se insertan en el esqueleto",
+              "isCorrect": true,
+              "rationale": "La mayoría de los músculos profundos se insertan en el esqueleto (músculos esqueléticos)."
+            },
+            {
+              "text": "No tienen inserción ósea",
+              "isCorrect": false,
+              "rationale": "La mayoría sí se inserta en el esqueleto; solo algunos pocos no lo hacen."
+            },
+            {
+              "text": "Se insertan solo en otros músculos",
+              "isCorrect": false,
+              "rationale": "Esta no es la característica principal de los músculos profundos."
+            },
+            {
+              "text": "Flotan libremente en el tejido conectivo",
+              "isCorrect": false,
+              "rationale": "Los músculos profundos tienen inserciones definidas."
+            }
+          ],
+          "hint": "Son llamados también músculos esqueléticos."
+        },
+        {
+          "question": "¿Qué músculos profundos NO se insertan en el esqueleto?",
+          "options": [
+            {
+              "text": "Los músculos de la lengua, faringe y ano",
+              "isCorrect": true,
+              "rationale": "Estos músculos profundos se anexan a órganos sin soporte óseo."
+            },
+            {
+              "text": "Los músculos de la mímica facial",
+              "isCorrect": false,
+              "rationale": "Los músculos de la mímica son superficiales (cutáneos)."
+            },
+            {
+              "text": "Los músculos del corazón",
+              "isCorrect": false,
+              "rationale": "El corazón es músculo cardíaco, no profundo esquelético."
+            },
+            {
+              "text": "Los músculos de la pared abdominal",
+              "isCorrect": false,
+              "rationale": "Los músculos abdominales se insertan en el esqueleto."
+            }
+          ],
+          "hint": "Son músculos que se encuentran en órganos sin huesos."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nombre": "Formas de Músculos",
+      "preguntas": 17,
+      "data": [
+        {
+          "question": "¿Cuál es la forma característica de los músculos largos o fusiformes?",
+          "options": [
+            {
+              "text": "Forma de huso con vientre grueso y extremos adelgazados",
+              "isCorrect": true,
+              "rationale": "Los músculos fusiformes tienen forma de huso, con un vientre central grueso y extremos más delgados."
+            },
+            {
+              "text": "Forma plana y ancha",
+              "isCorrect": false,
+              "rationale": "Esta es la forma de los músculos planos, no de los fusiformes."
+            },
+            {
+              "text": "Forma cuadrangular",
+              "isCorrect": false,
+              "rationale": "Esta es la forma de los músculos cuadrados."
+            },
+            {
+              "text": "Forma circular",
+              "isCorrect": false,
+              "rationale": "Esta es la forma de los músculos esfinterianos."
+            }
+          ],
+          "hint": "Su nombre hace referencia a un objeto alargado que se usa en hilandería."
+        },
+        {
+          "question": "¿Dónde se encuentran principalmente los músculos fusiformes?",
+          "options": [
+            {
+              "text": "En los miembros",
+              "isCorrect": true,
+              "rationale": "Los músculos fusiformes se encuentran especialmente en los miembros."
+            },
+            {
+              "text": "En las paredes del tronco",
+              "isCorrect": false,
+              "rationale": "En las paredes del tronco predominan los músculos planos."
+            },
+            {
+              "text": "En la cara",
+              "isCorrect": false,
+              "rationale": "En la cara predominan los músculos cutáneos de la mímica."
+            },
+            {
+              "text": "Alrededor de los orificios",
+              "isCorrect": false,
+              "rationale": "Alrededor de orificios se encuentran los músculos esfinterianos."
+            }
+          ],
+          "hint": "Son típicos de las extremidades, como el bíceps braquial."
+        },
+        {
+          "question": "¿Qué característica tienen los músculos fusiformes más superficiales respecto a las articulaciones?",
+          "options": [
+            {
+              "text": "Son los más largos y pueden cruzar dos articulaciones",
+              "isCorrect": true,
+              "rationale": "Los músculos fusiformes más superficiales son los más largos y algunos pueden cruzar dos articulaciones."
+            },
+            {
+              "text": "Son los más cortos y cruzan una sola articulación",
+              "isCorrect": false,
+              "rationale": "Los más cortos son músculos profundos, no superficiales."
+            },
+            {
+              "text": "No cruzan ninguna articulación",
+              "isCorrect": false,
+              "rationale": "Los músculos fusiformes sí cruzan articulaciones para generar movimiento."
+            },
+            {
+              "text": "Cruzan siempre tres o más articulaciones",
+              "isCorrect": false,
+              "rationale": "Los músculos fusiformes pueden cruzar una o dos articulaciones."
+            }
+          ],
+          "hint": "Ejemplos son el bíceps braquial y el semimembranoso."
+        },
+        {
+          "question": "¿Dónde se localizan principalmente los músculos anchos o planos?",
+          "options": [
+            {
+              "text": "En las paredes de grandes cavidades como tórax y abdomen",
+              "isCorrect": true,
+              "rationale": "Los músculos planos se encuentran en las paredes del tórax y el abdomen."
+            },
+            {
+              "text": "En los miembros",
+              "isCorrect": false,
+              "rationale": "En los miembros predominan los músculos fusiformes."
+            },
+            {
+              "text": "En la cara",
+              "isCorrect": false,
+              "rationale": "Los músculos faciales son principalmente cutáneos."
+            },
+            {
+              "text": "En las articulaciones pequeñas",
+              "isCorrect": false,
+              "rationale": "En articulaciones pequeñas se encuentran músculos cortos."
+            }
+          ],
+          "hint": "Forman las paredes de cavidades importantes del cuerpo."
+        },
+        {
+          "question": "¿Qué forma pueden presentar los músculos planos?",
+          "options": [
+            {
+              "text": "Triangular, acintada o plana curva",
+              "isCorrect": true,
+              "rationale": "Los músculos planos pueden tener forma triangular, acintada, plana o curva."
+            },
+            {
+              "text": "Solo forma rectangular",
+              "isCorrect": false,
+              "rationale": "Los músculos planos pueden tener formas variadas, no solo rectangular."
+            },
+            {
+              "text": "Exclusivamente forma circular",
+              "isCorrect": false,
+              "rationale": "La forma circular corresponde a los músculos esfinterianos."
+            },
+            {
+              "text": "Solo forma de huso",
+              "isCorrect": false,
+              "rationale": "La forma de huso corresponde a los músculos fusiformes."
+            }
+          ],
+          "hint": "Su forma es variable: pueden ser triangulares, acintados, etc."
+        },
+        {
+          "question": "¿Qué músculo plano forma un tabique de separación?",
+          "options": [
+            {
+              "text": "El músculo diafragma",
+              "isCorrect": true,
+              "rationale": "El diafragma es un músculo plano que forma un tabique entre tórax y abdomen."
+            },
+            {
+              "text": "El músculo pectoral mayor",
+              "isCorrect": false,
+              "rationale": "El pectoral mayor es un músculo convergente, no forma tabique."
+            },
+            {
+              "text": "El músculo deltoides",
+              "isCorrect": false,
+              "rationale": "El deltoides es un músculo multipenniforme."
+            },
+            {
+              "text": "El músculo bíceps",
+              "isCorrect": false,
+              "rationale": "El bíceps es un músculo fusiforme."
+            }
+          ],
+          "hint": "Separa la cavidad torácica de la abdominal."
+        },
+        {
+          "question": "¿En qué tipo de articulaciones se encuentran los músculos cortos?",
+          "options": [
+            {
+              "text": "En articulaciones con movimientos poco extensos",
+              "isCorrect": true,
+              "rationale": "Los músculos cortos se encuentran en articulaciones donde los movimientos son poco extensos."
+            },
+            {
+              "text": "En articulaciones con gran amplitud de movimiento",
+              "isCorrect": false,
+              "rationale": "Las articulaciones con gran amplitud tienen músculos más largos."
+            },
+            {
+              "text": "Solo en articulaciones inmóviles",
+              "isCorrect": false,
+              "rationale": "Los músculos cortos sí generan movimiento, aunque sea limitado."
+            },
+            {
+              "text": "Exclusivamente en el tronco",
+              "isCorrect": false,
+              "rationale": "Un ejemplo típico está en la mano (eminencia tenar)."
+            }
+          ],
+          "hint": "Ejemplo: músculos de la eminencia tenar en la mano."
+        },
+        {
+          "question": "¿Qué característica tienen los músculos cortos respecto a su fuerza y especialización?",
+          "options": [
+            {
+              "text": "Pueden ser fuertes y especializados a pesar de su tamaño",
+              "isCorrect": true,
+              "rationale": "Los músculos cortos pueden tener gran fuerza y especialización, como los de la eminencia tenar."
+            },
+            {
+              "text": "Son siempre débiles por su tamaño reducido",
+              "isCorrect": false,
+              "rationale": "El tamaño no determina la fuerza; los cortos pueden ser muy fuertes."
+            },
+            {
+              "text": "No tienen funciones especializadas",
+              "isCorrect": false,
+              "rationale": "Los músculos cortos pueden ser muy especializados."
+            },
+            {
+              "text": "Solo generan movimientos groseros",
+              "isCorrect": false,
+              "rationale": "Los músculos cortos a menudo realizan movimientos finos y precisos."
+            }
+          ],
+          "hint": "Piensa en los movimientos finos del pulgar realizados por músculos cortos."
+        },
+        {
+          "question": "¿Cómo se disponen las fibras en los músculos penniformes?",
+          "options": [
+            {
+              "text": "De manera oblicua con respecto a un tendón central",
+              "isCorrect": true,
+              "rationale": "En los músculos penniformes, las fibras se disponen oblicuamente respecto a un tendón que forma un eje."
+            },
+            {
+              "text": "Paralelas al eje longitudinal del músculo",
+              "isCorrect": false,
+              "rationale": "Esta disposición es típica de los músculos fusiformes."
+            },
+            {
+              "text": "En forma circular alrededor de un orificio",
+              "isCorrect": false,
+              "rationale": "Esta es la disposición de los músculos esfinterianos."
+            },
+            {
+              "text": "De forma completamente aleatoria",
+              "isCorrect": false,
+              "rationale": "Las fibras penniformes tienen una organización específica oblicua."
+            }
+          ],
+          "hint": "Su nombre hace referencia a las barbas de las plumas."
+        },
+        {
+          "question": "¿Qué es un músculo semipenniforme?",
+          "options": [
+            {
+              "text": "Aquel cuyos fascículos se ubican de un solo lado del tendón",
+              "isCorrect": true,
+              "rationale": "En los músculos semipenniformes, los fascículos se disponen de un solo lado del tendón."
+            },
+            {
+              "text": "Aquel cuyos fascículos se ubican en ambos lados del tendón",
+              "isCorrect": false,
+              "rationale": "Esta es la característica de los músculos penniformes completos."
+            },
+            {
+              "text": "Aquel que tiene varios ejes tendinosos",
+              "isCorrect": false,
+              "rationale": "Esta es la característica de los músculos multipenniformes."
+            },
+            {
+              "text": "Aquel que tiene forma de media pluma",
+              "isCorrect": false,
+              "rationale": "Aunque el nombre sugiere esto, la definición anatómica se refiere a la disposición de los fascículos."
+            }
+          ],
+          "hint": "Ejemplo: músculo semitendinoso."
+        },
+        {
+          "question": "¿Qué caracteriza a un músculo multipenniforme?",
+          "options": [
+            {
+              "text": "Tiene varios ejes tendinosos",
+              "isCorrect": true,
+              "rationale": "Los músculos multipenniformes tienen varios ejes tendinosos con fascículos dispuestos oblicuamente."
+            },
+            {
+              "text": "Tiene un solo eje tendinoso central",
+              "isCorrect": false,
+              "rationale": "Esto caracteriza a los músculos penniformes simples."
+            },
+            {
+              "text": "Tiene fascículos de un solo lado del tendón",
+              "isCorrect": false,
+              "rationale": "Esto caracteriza a los músculos semipenniformes."
+            },
+            {
+              "text": "No tiene tendones",
+              "isCorrect": false,
+              "rationale": "Todos los músculos penniformes tienen tendones."
+            }
+          ],
+          "hint": "Ejemplo: músculo deltoides."
+        },
+        {
+          "question": "¿Cuál es un ejemplo de músculo penniforme (con fascículos en ambos lados)?",
+          "options": [
+            {
+              "text": "Músculo recto femoral",
+              "isCorrect": true,
+              "rationale": "El recto femoral es un músculo penniforme con fascículos en ambos lados del tendón."
+            },
+            {
+              "text": "Músculo semitendinoso",
+              "isCorrect": false,
+              "rationale": "El semitendinoso es semipenniforme (fascículos de un solo lado)."
+            },
+            {
+              "text": "Músculo deltoides",
+              "isCorrect": false,
+              "rationale": "El deltoides es multipenniforme (varios ejes tendinosos)."
+            },
+            {
+              "text": "Músculo bíceps braquial",
+              "isCorrect": false,
+              "rationale": "El bíceps braquial es fusiforme."
+            }
+          ],
+          "hint": "Es parte del cuádriceps femoral."
+        },
+        {
+          "question": "¿Cuál es la función principal de los músculos anulares o esfinterianos?",
+          "options": [
+            {
+              "text": "Cerrar orificios",
+              "isCorrect": true,
+              "rationale": "Los músculos esfinterianos se disponen alrededor de orificios y aseguran su cierre."
+            },
+            {
+              "text": "Generar movimientos amplios",
+              "isCorrect": false,
+              "rationale": "Los músculos esfinterianos no generan movimientos amplios."
+            },
+            {
+              "text": "Rotar segmentos corporales",
+              "isCorrect": false,
+              "rationale": "La rotación es función de otros tipos musculares."
+            },
+            {
+              "text": "Flexionar articulaciones",
+              "isCorrect": false,
+              "rationale": "La flexión es realizada por otros tipos de músculos."
+            }
+          ],
+          "hint": "Su disposición alrededor de orificios determina su función."
+        },
+        {
+          "question": "¿Qué otros nombres reciben los músculos esfinterianos?",
+          "options": [
+            {
+              "text": "Orbiculares o esfínteres",
+              "isCorrect": true,
+              "rationale": "Los músculos esfinterianos también se llaman orbiculares o esfínteres."
+            },
+            {
+              "text": "Circulares o concéntricos",
+              "isCorrect": false,
+              "rationale": "El término correcto es orbiculares o esfínteres."
+            },
+            {
+              "text": "Anulares o de cierre",
+              "isCorrect": false,
+              "rationale": "Aunque describen la forma, los nombres técnicos son orbiculares y esfínteres."
+            },
+            {
+              "text": "Constrictores o dilatadores",
+              "isCorrect": false,
+              "rationale": "Los esfínteres son constrictores, pero dilatadores es otra función."
+            }
+          ],
+          "hint": "Un ejemplo es el orbicular de los labios o de los ojos."
+        },
+        {
+          "question": "¿Qué es un músculo convergente?",
+          "options": [
+            {
+              "text": "Un músculo que se origina en un área amplia y converge en un solo tendón",
+              "isCorrect": true,
+              "rationale": "Los músculos convergentes se originan en un área amplia y convergen para formar un solo tendón."
+            },
+            {
+              "text": "Un músculo que diverge desde un punto central",
+              "isCorrect": false,
+              "rationale": "Los músculos convergentes hacen lo contrario: convergen hacia un punto."
+            },
+            {
+              "text": "Un músculo que se divide en varios tendones",
+              "isCorrect": false,
+              "rationale": "Esta característica se encuentra en los músculos multífidos."
+            },
+            {
+              "text": "Un músculo con forma triangular invertida",
+              "isCorrect": false,
+              "rationale": "Aunque pueden ser triangulares, la definición se refiere a la convergencia."
+            }
+          ],
+          "hint": "Ejemplo: músculo pectoral mayor."
+        },
+        {
+          "question": "¿Qué forma tiene un músculo cuadrado?",
+          "options": [
+            {
+              "text": "Cuatro lados iguales",
+              "isCorrect": true,
+              "rationale": "Los músculos cuadrados tienen cuatro lados de aproximadamente igual longitud."
+            },
+            {
+              "text": "Forma de trapecio",
+              "isCorrect": false,
+              "rationale": "El trapecio tiene una forma diferente a la cuadrada."
+            },
+            {
+              "text": "Forma de rombo",
+              "isCorrect": false,
+              "rationale": "La forma romboidal no define los músculos cuadrados."
+            },
+            {
+              "text": "Forma rectangular alargada",
+              "isCorrect": false,
+              "rationale": "Un rectángulo alargado tendría lados desiguales."
+            }
+          ],
+          "hint": "Ejemplo: músculo cuadrado femoral."
+        },
+        {
+          "question": "¿Qué característica especial tienen los músculos digástricos?",
+          "options": [
+            {
+              "text": "Tienen dos vientres musculares separados por una interrupción tendinosa",
+              "isCorrect": true,
+              "rationale": "Los músculos digástricos tienen un tendón intermedio que origina dos vientres musculares."
+            },
+            {
+              "text": "Tienen dos inserciones óseas diferentes",
+              "isCorrect": false,
+              "rationale": "No es la característica definitoria; muchos músculos tienen dos inserciones."
+            },
+            {
+              "text": "Tienen dos funciones diferentes",
+              "isCorrect": false,
+              "rationale": "La característica es anatómica, no funcional."
+            },
+            {
+              "text": "Tienen dos articulaciones que cruzar",
+              "isCorrect": false,
+              "rationale": "Esto es característico de algunos músculos fusiformes, no define los digástricos."
+            }
+          ],
+          "hint": "Su nombre significa 'dos vientres'."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "nombre": "Contracción Muscular",
+      "preguntas": 10,
+      "data": [
+        {
+          "question": "¿Qué ocurre con la longitud del músculo durante una contracción isométrica?",
+          "options": [
+            {
+              "text": "Se mantiene sin modificación",
+              "isCorrect": true,
+              "rationale": "En la contracción isométrica o estática, el músculo se pone en tensión sin modificar su longitud."
+            },
+            {
+              "text": "Se acorta significativamente",
+              "isCorrect": false,
+              "rationale": "El acortamiento ocurre en la contracción isotónica, no isométrica."
+            },
+            {
+              "text": "Se alarga",
+              "isCorrect": false,
+              "rationale": "El alargamiento ocurre en la contracción excéntrica."
+            },
+            {
+              "text": "Fluctúa entre acortarse y alargarse",
+              "isCorrect": false,
+              "rationale": "En la contracción isométrica la longitud permanece constante."
+            }
+          ],
+          "hint": "También se llama contracción estática."
+        },
+        {
+          "question": "¿Qué nombre alternativo recibe la contracción isométrica?",
+          "options": [
+            {
+              "text": "Contracción estática",
+              "isCorrect": true,
+              "rationale": "La contracción isométrica también se denomina estática porque no hay cambio en la longitud."
+            },
+            {
+              "text": "Contracción dinámica",
+              "isCorrect": false,
+              "rationale": "La contracción dinámica implica movimiento, como la isotónica."
+            },
+            {
+              "text": "Contracción concéntrica",
+              "isCorrect": false,
+              "rationale": "La contracción concéntrica es un tipo de contracción isotónica."
+            },
+            {
+              "text": "Contracción fásica",
+              "isCorrect": false,
+              "rationale": "Las contracciones fásicas implican movimiento."
+            }
+          ],
+          "hint": "No hay movimiento, el músculo permanece estático."
+        },
+        {
+          "question": "¿Qué ejemplo se menciona de contracción isométrica en el texto?",
+          "options": [
+            {
+              "text": "El cuádriceps femoral en posición de pie",
+              "isCorrect": true,
+              "rationale": "El cuádriceps en posición de pie realiza contracción estática para oponerse a la flexión de la rodilla."
+            },
+            {
+              "text": "El bíceps al flexionar el antebrazo",
+              "isCorrect": false,
+              "rationale": "Este es un ejemplo de contracción isotónica concéntrica."
+            },
+            {
+              "text": "El tríceps al extender el codo",
+              "isCorrect": false,
+              "rationale": "Este es un ejemplo de contracción isotónica concéntrica."
+            },
+            {
+              "text": "El diafragma durante la respiración",
+              "isCorrect": false,
+              "rationale": "El diafragma se contrae isotónicamente durante la respiración."
+            }
+          ],
+          "hint": "Mantiene una postura sin mover la articulación."
+        },
+        {
+          "question": "¿Qué produce la contracción isotónica?",
+          "options": [
+            {
+              "text": "Acorta el músculo acercando sus inserciones y genera movimiento",
+              "isCorrect": true,
+              "rationale": "La contracción isotónica acorta el músculo, acerca sus inserciones y suscita un movimiento."
+            },
+            {
+              "text": "Mantiene la longitud del músculo constante",
+              "isCorrect": false,
+              "rationale": "Esta es la característica de la contracción isométrica."
+            },
+            {
+              "text": "Alarga el músculo de manera controlada",
+              "isCorrect": false,
+              "rationale": "Este es un tipo específico de contracción isotónica (excéntrica)."
+            },
+            {
+              "text": "No genera ningún tipo de movimiento",
+              "isCorrect": false,
+              "rationale": "La contracción isotónica sí genera movimiento."
+            }
+          ],
+          "hint": "El prefijo 'iso-' significa igual, '-tónica' se refiere al tono o tensión."
+        },
+        {
+          "question": "¿Qué tipo de contracción isotónica disminuye la longitud del músculo?",
+          "options": [
+            {
+              "text": "Contracción concéntrica",
+              "isCorrect": true,
+              "rationale": "La contracción concéntrica disminuye la longitud del músculo, acercando sus inserciones."
+            },
+            {
+              "text": "Contracción excéntrica",
+              "isCorrect": false,
+              "rationale": "La contracción excéntrica se produce mientras el músculo se alarga."
+            },
+            {
+              "text": "Contracción isométrica",
+              "isCorrect": false,
+              "rationale": "La contracción isométrica no modifica la longitud."
+            },
+            {
+              "text": "Contracción estática",
+              "isCorrect": false,
+              "rationale": "La contracción estática es sinónimo de isométrica."
+            }
+          ],
+          "hint": "Es el tipo de contracción más común al levantar un peso."
+        },
+        {
+          "question": "¿Qué ocurre durante una contracción isotónica excéntrica?",
+          "options": [
+            {
+              "text": "El músculo se alarga de manera controlada",
+              "isCorrect": true,
+              "rationale": "En la contracción excéntrica, el músculo se alarga de manera controlada mientras se contrae."
+            },
+            {
+              "text": "El músculo se acorta rápidamente",
+              "isCorrect": false,
+              "rationale": "El acortamiento ocurre en la contracción concéntrica."
+            },
+            {
+              "text": "El músculo mantiene su longitud",
+              "isCorrect": false,
+              "rationale": "Esto ocurre en la contracción isométrica."
+            },
+            {
+              "text": "El músculo permanece relajado",
+              "isCorrect": false,
+              "rationale": "En la contracción excéntrica el músculo está activo aunque se alarga."
+            }
+          ],
+          "hint": "Ocurre al bajar un peso de manera controlada."
+        },
+        {
+          "question": "¿De qué depende la fuerza de la contracción muscular?",
+          "options": [
+            {
+              "text": "De la longitud y el volumen de las fibras musculares",
+              "isCorrect": true,
+              "rationale": "La fuerza depende de la longitud y el volumen de las fibras musculares."
+            },
+            {
+              "text": "Solo del número de fibras musculares",
+              "isCorrect": false,
+              "rationale": "El número de fibras es constante; lo que varía es el volumen celular."
+            },
+            {
+              "text": "Exclusivamente del entrenamiento",
+              "isCorrect": false,
+              "rationale": "El entrenamiento aumenta la fuerza, pero depende de factores anatómicos."
+            },
+            {
+              "text": "De la velocidad de contracción",
+              "isCorrect": false,
+              "rationale": "La velocidad es una cualidad diferente a la fuerza."
+            }
+          ],
+          "hint": "Músculos más grandes (más volumen) generalmente generan más fuerza."
+        },
+        {
+          "question": "¿Qué es la velocidad como cualidad de la contracción muscular?",
+          "options": [
+            {
+              "text": "Una condición propia de la fibra muscular",
+              "isCorrect": true,
+              "rationale": "La velocidad es una condición propia de la fibra muscular que puede ser aumentada por entrenamiento."
+            },
+            {
+              "text": "Una cualidad que solo depende del tamaño del músculo",
+              "isCorrect": false,
+              "rationale": "La velocidad es inherente a la fibra, no solo al tamaño."
+            },
+            {
+              "text": "Una característica que no puede modificarse",
+              "isCorrect": false,
+              "rationale": "La velocidad puede aumentarse con entrenamiento."
+            },
+            {
+              "text": "El resultado de la fuerza aplicada",
+              "isCorrect": false,
+              "rationale": "La velocidad es independiente de la fuerza como cualidad muscular."
+            }
+          ],
+          "hint": "Es diferente de la fuerza y puede mejorarse con entrenamiento."
+        },
+        {
+          "question": "¿Cómo puede aumentarse la velocidad muscular?",
+          "options": [
+            {
+              "text": "Mediante el entrenamiento",
+              "isCorrect": true,
+              "rationale": "La velocidad muscular puede ser aumentada por el entrenamiento."
+            },
+            {
+              "text": "Solo mediante el aumento de la masa muscular",
+              "isCorrect": false,
+              "rationale": "El aumento de masa mejora la fuerza, no necesariamente la velocidad."
+            },
+            {
+              "text": "No puede aumentarse, es innata",
+              "isCorrect": false,
+              "rationale": "La velocidad puede aumentarse con entrenamiento."
+            },
+            {
+              "text": "Únicamente con suplementación",
+              "isCorrect": false,
+              "rationale": "El factor principal es el entrenamiento."
+            }
+          ],
+          "hint": "Los atletas de velocidad trabajan específicamente en esto."
+        },
+        {
+          "question": "¿Cuál es la diferencia fundamental entre fuerza y velocidad como cualidades musculares?",
+          "options": [
+            {
+              "text": "La fuerza depende del volumen, la velocidad es inherente a la fibra",
+              "isCorrect": true,
+              "rationale": "La fuerza depende de la longitud y volumen de las fibras, mientras que la velocidad es una condición propia de la fibra."
+            },
+            {
+              "text": "La fuerza es innata, la velocidad se entrena",
+              "isCorrect": false,
+              "rationale": "Ambas pueden mejorarse con entrenamiento."
+            },
+            {
+              "text": "La velocidad es más importante que la fuerza",
+              "isCorrect": false,
+              "rationale": "Ambas son cualidades independientes con diferentes aplicaciones."
+            },
+            {
+              "text": "No hay diferencia, son lo mismo",
+              "isCorrect": false,
+              "rationale": "Son cualidades diferentes de la contracción muscular."
+            }
+          ],
+          "hint": "Una está relacionada con el tamaño, la otra con las características de la fibra."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "nombre": "Tendones e Inserciones",
+      "preguntas": 14,
+      "data": [
+        {
+          "question": "¿Qué son los tendones?",
+          "options": [
+            {
+              "text": "Formaciones fibrosas que prolongan el músculo hasta su punto de inserción",
+              "isCorrect": true,
+              "rationale": "Los tendones son de estructura fibrosa y prolongan al músculo hasta su punto de inserción."
+            },
+            {
+              "text": "Extensiones musculares que conectan con el hueso",
+              "isCorrect": false,
+              "rationale": "Los tendones son fibrosos, no musculares."
+            },
+            {
+              "text": "Ligamentos que conectan huesos entre sí",
+              "isCorrect": false,
+              "rationale": "Los ligamentos conectan huesos; los tendones conectan músculos con huesos."
+            },
+            {
+              "text": "Membranas que envuelven los músculos",
+              "isCorrect": false,
+              "rationale": "Las fascias y el epimisio envuelven músculos, no los tendones."
+            }
+          ],
+          "hint": "Son estructuras blanquecinas y brillantes que conectan músculo y hueso."
+        },
+        {
+          "question": "¿Qué color y características tienen los tendones?",
+          "options": [
+            {
+              "text": "Blanquecino, brillante y nacarado",
+              "isCorrect": true,
+              "rationale": "Los tendones son de coloración blanquecina, brillante y nacarada."
+            },
+            {
+              "text": "Rojo oscuro y opaco",
+              "isCorrect": false,
+              "rationale": "El color rojo es característico del músculo, no del tendón."
+            },
+            {
+              "text": "Amarillento y mate",
+              "isCorrect": false,
+              "rationale": "Los tendones son brillantes y nacarados, no mates."
+            },
+            {
+              "text": "Traslúcido y gelatinoso",
+              "isCorrect": false,
+              "rationale": "Los tendones son firmes y nacarados, no gelatinosos."
+            }
+          ],
+          "hint": "Se distinguen del músculo por su aspecto y color."
+        },
+        {
+          "question": "¿Por qué se dice que los tendones son prácticamente inextensibles?",
+          "options": [
+            {
+              "text": "Para que la contracción muscular actúe sin pérdida de fuerza",
+              "isCorrect": true,
+              "rationale": "La inextensibilidad permite que la contracción actúe sin retardo ni pérdida de fuerza."
+            },
+            {
+              "text": "Porque no tienen fibras elásticas",
+              "isCorrect": false,
+              "rationale": "Aunque es cierto, la razón funcional es la transmisión eficiente de la fuerza."
+            },
+            {
+              "text": "Porque están hechos de cartílago",
+              "isCorrect": false,
+              "rationale": "Los tendones son de tejido conectivo fibroso, no cartílago."
+            },
+            {
+              "text": "Porque son muy cortos",
+              "isCorrect": false,
+              "rationale": "Los tendones pueden ser largos o cortos, pero son inextensibles."
+            }
+          ],
+          "hint": "Transmiten la fuerza del músculo a la palanca ósea sin pérdida."
+        },
+        {
+          "question": "¿Qué son las aponeurosis?",
+          "options": [
+            {
+              "text": "Amplias láminas fibrosas que prolongan los tendones anchos",
+              "isCorrect": true,
+              "rationale": "Las aponeurosis son láminas fibrosas amplias en las que se extienden algunos tendones."
+            },
+            {
+              "text": "Músculos aplanados del abdomen",
+              "isCorrect": false,
+              "rationale": "Los músculos abdominales son planos, pero las aponeurosis son láminas tendinosas."
+            },
+            {
+              "text": "Fascias que envuelven los músculos",
+              "isCorrect": false,
+              "rationale": "Las aponeurosis son tendones aplanados, no fascias."
+            },
+            {
+              "text": "Ligamentos anchos del tronco",
+              "isCorrect": false,
+              "rationale": "Las aponeurosis prolongan músculos, no son ligamentos."
+            }
+          ],
+          "hint": "Son tendones en forma de lámina amplia."
+        },
+        {
+          "question": "¿Dónde se observan las aponeurosis según el texto?",
+          "options": [
+            {
+              "text": "En los tendones anchos que prolongan los músculos oblicuos y transverso del abdomen",
+              "isCorrect": true,
+              "rationale": "Las aponeurosis se observan en tendones anchos que prolongan músculos abdominales hasta la línea media."
+            },
+            {
+              "text": "En los tendones de los músculos de la cara",
+              "isCorrect": false,
+              "rationale": "Los músculos faciales no forman aponeurosis típicas."
+            },
+            {
+              "text": "En los músculos de los miembros inferiores",
+              "isCorrect": false,
+              "rationale": "En los miembros predominan los tendones cilíndricos."
+            },
+            {
+              "text": "En el diafragma",
+              "isCorrect": false,
+              "rationale": "El diafragma es un músculo plano, pero su porción tendinosa es el centro frénico."
+            }
+          ],
+          "hint": "Se extienden hacia la línea media del abdomen."
+        },
+        {
+          "question": "¿Qué se distingue como inserción de origen en un músculo?",
+          "options": [
+            {
+              "text": "Una de las dos inserciones del músculo",
+              "isCorrect": true,
+              "rationale": "Se distinguen dos inserciones: la de origen y la terminal (o inserción de terminación)."
+            },
+            {
+              "text": "La inserción más cercana al tronco",
+              "isCorrect": false,
+              "rationale": "En miembros se habla de inserción proximal, pero origen es más general."
+            },
+            {
+              "text": "La inserción más móvil",
+              "isCorrect": false,
+              "rationale": "La movilidad define el punto móvil, que puede ser origen o terminación según el movimiento."
+            },
+            {
+              "text": "La inserción ósea exclusivamente",
+              "isCorrect": false,
+              "rationale": "Las inserciones pueden ser carnosas, tendinosas o mixtas."
+            }
+          ],
+          "hint": "Es una de las dos inserciones que tiene cada músculo."
+        },
+        {
+          "question": "¿Qué tipos de inserciones de origen existen?",
+          "options": [
+            {
+              "text": "Carnosas, tendinosas, tendinomusculares y arcos fibrosos",
+              "isCorrect": true,
+              "rationale": "Las inserciones de origen pueden ser carnosas, tendinosas, tendinomusculares o por arcos fibrosos."
+            },
+            {
+              "text": "Solo óseas y cartilaginosas",
+              "isCorrect": false,
+              "rationale": "Las inserciones tienen más variedades que estas."
+            },
+            {
+              "text": "Únicamente tendinosas",
+              "isCorrect": false,
+              "rationale": "Existen varios tipos de inserciones de origen."
+            },
+            {
+              "text": "Directas e indirectas",
+              "isCorrect": false,
+              "rationale": "Esta clasificación no se menciona en el texto."
+            }
+          ],
+          "hint": "Incluyen cuatro tipos diferentes según el tejido involucrado."
+        },
+        {
+          "question": "¿Qué caracteriza a las inserciones de origen carnosas?",
+          "options": [
+            {
+              "text": "Las fibras musculares llegan a la superficie ósea perdiéndose en el periostio",
+              "isCorrect": true,
+              "rationale": "En las inserciones carnosas, las fibras musculares llegan al hueso y se continúan con el periostio."
+            },
+            {
+              "text": "El músculo se origina por un tendón grueso",
+              "isCorrect": false,
+              "rationale": "Esta es una inserción tendinosa, no carnosa."
+            },
+            {
+              "text": "Son las más frecuentes",
+              "isCorrect": false,
+              "rationale": "El texto indica que las inserciones carnosas son poco frecuentes."
+            },
+            {
+              "text": "Conectan el músculo con otro músculo",
+              "isCorrect": false,
+              "rationale": "Las inserciones se realizan en huesos, no en otros músculos."
+            }
+          ],
+          "hint": "Son poco frecuentes y carecen de tendón en el origen."
+        },
+        {
+          "question": "¿Qué son los arcos fibrosos como inserción de origen?",
+          "options": [
+            {
+              "text": "Arcos entre dos puntos de inserción ósea de los que parten fibras carnosas",
+              "isCorrect": true,
+              "rationale": "Los arcos fibrosos se tienden entre dos puntos óseos y de su convexidad parten fibras carnosas."
+            },
+            {
+              "text": "Arcos óseos que sirven de inserción",
+              "isCorrect": false,
+              "rationale": "Los arcos fibrosos son de tejido conectivo, no óseos."
+            },
+            {
+              "text": "Arcos vasculares que nutren el músculo",
+              "isCorrect": false,
+              "rationale": "Los arcos fibrosos son estructuras de inserción muscular."
+            },
+            {
+              "text": "Arcos tendinosos que unen dos músculos",
+              "isCorrect": false,
+              "rationale": "Los arcos fibrosos unen puntos óseos, no músculos."
+            }
+          ],
+          "hint": "Ejemplos: arco tendinoso del sóleo, arco tendinoso del elevador del ano."
+        },
+        {
+          "question": "¿Qué músculos se denominan bíceps, tríceps o cuádriceps?",
+          "options": [
+            {
+              "text": "Los que tienen dos, tres o cuatro cabezas de origen reunidas en una inserción única",
+              "isCorrect": true,
+              "rationale": "Estos músculos tienen varios cuerpos musculares reunidos distalmente en una inserción única."
+            },
+            {
+              "text": "Los que tienen dos, tres o cuatro inserciones terminales",
+              "isCorrect": false,
+              "rationale": "Se refiere a las cabezas de origen, no a las inserciones terminales."
+            },
+            {
+              "text": "Los que cruzan dos, tres o cuatro articulaciones",
+              "isCorrect": false,
+              "rationale": "El número de articulaciones no determina este nombre."
+            },
+            {
+              "text": "Los que tienen dos, tres o cuatro vientres musculares",
+              "isCorrect": false,
+              "rationale": "Se refiere a las cabezas de origen, no a los vientres."
+            }
+          ],
+          "hint": "El bíceps braquial tiene dos cabezas, el cuádriceps cuatro."
+        },
+        {
+          "question": "¿Qué son los músculos multífidos?",
+          "options": [
+            {
+              "text": "Músculos cuya inserción terminal se efectúa por varios tendones",
+              "isCorrect": true,
+              "rationale": "Los músculos multífidos tienen una inserción terminal que se efectúa por varios tendones."
+            },
+            {
+              "text": "Músculos con múltiples cabezas de origen",
+              "isCorrect": false,
+              "rationale": "Esto se llama bíceps, tríceps o cuádriceps según el número."
+            },
+            {
+              "text": "Músculos que cruzan múltiples articulaciones",
+              "isCorrect": false,
+              "rationale": "No es la definición de músculos multífidos."
+            },
+            {
+              "text": "Músculos con múltiples inserciones de origen",
+              "isCorrect": false,
+              "rationale": "Los multífidos se refieren a las inserciones terminales múltiples."
+            }
+          ],
+          "hint": "Ejemplo: los flexores de los dedos."
+        },
+        {
+          "question": "¿Qué son el punto fijo y el punto móvil de un músculo?",
+          "options": [
+            {
+              "text": "Los puntos que determinan hacia dónde se dirige la contracción muscular",
+              "isCorrect": true,
+              "rationale": "La contracción muscular acerca el punto móvil al punto fijo."
+            },
+            {
+              "text": "Los puntos de inserción ósea del músculo",
+              "isCorrect": false,
+              "rationale": "Aunque relacionados, el punto fijo y móvil pueden cambiar según el movimiento."
+            },
+            {
+              "text": "El origen y la terminación del músculo respectivamente",
+              "isCorrect": false,
+              "rationale": "Punto fijo y móvil pueden invertirse según la función realizada."
+            },
+            {
+              "text": "Puntos anatómicos fijos del músculo",
+              "isCorrect": false,
+              "rationale": "El punto fijo y móvil cambian según el movimiento que se realice."
+            }
+          ],
+          "hint": "Dependen del movimiento que realice el músculo."
+        },
+        {
+          "question": "¿Puede cambiar cuál es el punto fijo y el punto móvil de un músculo?",
+          "options": [
+            {
+              "text": "Sí, depende del movimiento que realice el músculo",
+              "isCorrect": true,
+              "rationale": "Cada punto puede ser fijo o móvil según el movimiento que se realice."
+            },
+            {
+              "text": "No, el punto fijo siempre es el origen",
+              "isCorrect": false,
+              "rationale": "El punto fijo y móvil pueden invertirse según la función."
+            },
+            {
+              "text": "Solo en músculos especiales",
+              "isCorrect": false,
+              "rationale": "Es una característica general de los músculos."
+            },
+            {
+              "text": "No, siempre es el mismo",
+              "isCorrect": false,
+              "rationale": "El ejemplo del bíceps muestra que pueden invertirse."
+            }
+          ],
+          "hint": "Ejemplo: el bíceps tiene punto fijo en escápula al flexionar, pero en radio al trepar."
+        },
+        {
+          "question": "¿Cómo se insertan los tendones en el esqueleto según el texto?",
+          "options": [
+            {
+              "text": "Por fusión íntima con el periostio, penetrando superficialmente en el hueso",
+              "isCorrect": true,
+              "rationale": "Las fibras tendinosas atraviesan el periostio y penetran superficialmente en el hueso."
+            },
+            {
+              "text": "Directamente en el hueso sin intermediarios",
+              "isCorrect": false,
+              "rationale": "Se fusionan con el periostio antes de insertarse."
+            },
+            {
+              "text": "A través de cartílago de transición",
+              "isCorrect": false,
+              "rationale": "No se menciona cartílago en esta unión."
+            },
+            {
+              "text": "Por ligamentos que las conectan",
+              "isCorrect": false,
+              "rationale": "La unión es directa con el periostio y hueso."
+            }
+          ],
+          "hint": "La tracción provoca la aparición de salientes óseas como apófisis."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "nombre": "Estructura del Músculo",
+      "preguntas": 13,
+      "data": [
+        {
+          "question": "¿Qué es el endomisio?",
+          "options": [
+            {
+              "text": "El tejido conectivo que envuelve los fascículos musculares primarios",
+              "isCorrect": true,
+              "rationale": "El endomisio envuelve los fascículos musculares primarios dentro del músculo."
+            },
+            {
+              "text": "La membrana que rodea todo el músculo",
+              "isCorrect": false,
+              "rationale": "La membrana que rodea todo el músculo es el epimisio."
+            },
+            {
+              "text": "El tejido que agrupa varios fascículos",
+              "isCorrect": false,
+              "rationale": "El perimisio agrupa fascículos secundarios."
+            },
+            {
+              "text": "La membrana celular de la fibra muscular",
+              "isCorrect": false,
+              "rationale": "La membrana celular de la fibra es el sarcolema."
+            }
+          ],
+          "hint": "Es la capa más interna de tejido conectivo muscular."
+        },
+        {
+          "question": "¿Qué función tiene el endomisio según el texto?",
+          "options": [
+            {
+              "text": "Envuelve los fascículos musculares primarios",
+              "isCorrect": true,
+              "rationale": "El endomisio envuelve los fascículos musculares primarios, proporcionando cohesión a las fibras."
+            },
+            {
+              "text": "Separa el músculo del tejido subcutáneo",
+              "isCorrect": false,
+              "rationale": "Esta es función de la fascia de revestimiento superficial."
+            },
+            {
+              "text": "Conecta el músculo con el tendón",
+              "isCorrect": false,
+              "rationale": "El tejido conectivo se continúa con el tendón, pero no es su función principal."
+            },
+            {
+              "text": "Protege al músculo de traumatismos externos",
+              "isCorrect": false,
+              "rationale": "Esta función corresponde a estructuras más superficiales."
+            }
+          ],
+          "hint": "Es la capa más íntima de tejido conectivo muscular."
+        },
+        {
+          "question": "¿Qué es el perimisio?",
+          "options": [
+            {
+              "text": "El tejido conectivo que agrupa fascículos primarios y envuelve fascículos secundarios",
+              "isCorrect": true,
+              "rationale": "El perimisio agrupa varios fascículos primarios y envuelve los fascículos secundarios."
+            },
+            {
+              "text": "El tejido que envuelve cada fibra muscular individual",
+              "isCorrect": false,
+              "rationale": "Cada fibra muscular está envuelta por endomisio."
+            },
+            {
+              "text": "La membrana que rodea todo el músculo",
+              "isCorrect": false,
+              "rationale": "La membrana que rodea todo el músculo es el epimisio."
+            },
+            {
+              "text": "El tejido que conecta músculo y tendón",
+              "isCorrect": false,
+              "rationale": "El perimisio es parte de la organización interna del músculo."
+            }
+          ],
+          "hint": "Está entre el endomisio y el epimisio en organización."
+        },
+        {
+          "question": "¿Cómo se relaciona el perimisio con el tendón?",
+          "options": [
+            {
+              "text": "El tejido conectivo del tendón se continúa con el perimisio muscular",
+              "isCorrect": true,
+              "rationale": "El tejido conectivo fibroso del tendón se continúa con el perimisio, asegurando la transmisión de fuerza."
+            },
+            {
+              "text": "El perimisio forma el tendón",
+              "isCorrect": false,
+              "rationale": "El tendón tiene su propia estructura, pero se continúa con el perimisio."
+            },
+            {
+              "text": "El perimisio está separado del tendón",
+              "isCorrect": false,
+              "rationale": "Existe continuidad entre ambos para la transmisión de fuerza."
+            },
+            {
+              "text": "El perimisio solo rodea el vientre muscular",
+              "isCorrect": false,
+              "rationale": "El perimisio se continúa con el tejido tendinoso."
+            }
+          ],
+          "hint": "Asegura la transmisión de la fuerza de tracción del músculo."
+        },
+        {
+          "question": "¿Qué es el epimisio?",
+          "options": [
+            {
+              "text": "El tejido conectivo laxo ubicado inmediatamente profundo a la fascia muscular",
+              "isCorrect": true,
+              "rationale": "El epimisio es tejido conectivo laxo que se ubica profundo a la fascia muscular, rodeando todo el músculo."
+            },
+            {
+              "text": "El tejido que envuelve cada fibra muscular",
+              "isCorrect": false,
+              "rationale": "Las fibras musculares están envueltas por endomisio."
+            },
+            {
+              "text": "El tejido que agrupa fascículos",
+              "isCorrect": false,
+              "rationale": "Los fascículos están envueltos por perimisio."
+            },
+            {
+              "text": "La fascia que rodea el músculo",
+              "isCorrect": false,
+              "rationale": "El epimisio está profundo a la fascia, no es la fascia misma."
+            }
+          ],
+          "hint": "Es la capa más externa de tejido conectivo dentro del músculo."
+        },
+        {
+          "question": "¿Dónde se ubica el epimisio respecto a la fascia muscular?",
+          "options": [
+            {
+              "text": "Inmediatamente profundo a la fascia muscular",
+              "isCorrect": true,
+              "rationale": "El epimisio se encuentra profundo (por debajo) de la fascia muscular."
+            },
+            {
+              "text": "Superficial a la fascia muscular",
+              "isCorrect": false,
+              "rationale": "El epimisio está por debajo de la fascia, no por encima."
+            },
+            {
+              "text": "En el interior de los fascículos",
+              "isCorrect": false,
+              "rationale": "Dentro de los fascículos está el endomisio."
+            },
+            {
+              "text": "Entre el músculo y el tendón",
+              "isCorrect": false,
+              "rationale": "El epimisio rodea todo el músculo, está en su superficie externa."
+            }
+          ],
+          "hint": "Está entre la fascia y las fibras musculares."
+        },
+        {
+          "question": "¿Qué son las fibras musculares?",
+          "options": [
+            {
+              "text": "Células musculares especializadas en la contracción, de forma alargada y estrecha",
+              "isCorrect": true,
+              "rationale": "Las fibras musculares son células especializadas en la contracción, con forma alargada cuando están relajadas."
+            },
+            {
+              "text": "Fibras de colágeno dentro del músculo",
+              "isCorrect": false,
+              "rationale": "Las fibras musculares son células, no fibras de colágeno."
+            },
+            {
+              "text": "Los tendones que conectan el músculo",
+              "isCorrect": false,
+              "rationale": "Los tendones son estructuras diferentes a las fibras musculares."
+            },
+            {
+              "text": "Las ramificaciones nerviosas del músculo",
+              "isCorrect": false,
+              "rationale": "Las fibras musculares son el tejido contráctil del músculo."
+            }
+          ],
+          "hint": "También se llaman células musculares."
+        },
+        {
+          "question": "¿Por qué se las llama 'fibras' a las células musculares?",
+          "options": [
+            {
+              "text": "Por su forma alargada y estrecha cuando están relajadas",
+              "isCorrect": true,
+              "rationale": "Las células musculares reciben el nombre de fibras por su forma alargada y estrecha."
+            },
+            {
+              "text": "Porque son filamentosas como las fibras textiles",
+              "isCorrect": false,
+              "rationale": "Aunque la analogía es válida, la razón es su forma celular."
+            },
+            {
+              "text": "Porque forman parte de un tejido fibroso",
+              "isCorrect": false,
+              "rationale": "El tejido muscular es diferente del tejido conectivo fibroso."
+            },
+            {
+              "text": "Porque tienen estrías longitudinales",
+              "isCorrect": false,
+              "rationale": "El nombre deriva de su forma, no de las estrías."
+            }
+          ],
+          "hint": "Su forma característica es alargada."
+        },
+        {
+          "question": "¿Qué son los fascículos musculares?",
+          "options": [
+            {
+              "text": "Agrupaciones de fibras musculares mantenidas unidas por tejido conectivo",
+              "isCorrect": true,
+              "rationale": "Los fascículos musculares son agrupaciones de fibras musculares cuya cohesión se debe al tejido conectivo."
+            },
+            {
+              "text": "Las ramificaciones nerviosas dentro del músculo",
+              "isCorrect": false,
+              "rationale": "Los fascículos son grupos de fibras musculares."
+            },
+            {
+              "text": "Los vasos sanguíneos que nutren el músculo",
+              "isCorrect": false,
+              "rationale": "Los fascículos son estructuras musculares, no vasculares."
+            },
+            {
+              "text": "Los tendones que se dividen dentro del músculo",
+              "isCorrect": false,
+              "rationale": "Los fascículos son grupos de células musculares."
+            }
+          ],
+          "hint": "Son haces de fibras musculares agrupadas."
+        },
+        {
+          "question": "¿Qué mantiene unidas las fibras dentro de los fascículos musculares?",
+          "options": [
+            {
+              "text": "El entrelazamiento y disposición helicoidal del tejido conectivo",
+              "isCorrect": true,
+              "rationale": "La cohesión de las fibras se debe al entrelazamiento y disposición helicoidal del tejido conectivo entre ellas."
+            },
+            {
+              "text": "Proteínas de adhesión celular exclusivamente",
+              "isCorrect": false,
+              "rationale": "Además de proteínas, el tejido conectivo tiene un papel estructural importante."
+            },
+            {
+              "text": "La membrana basal de cada fibra",
+              "isCorrect": false,
+              "rationale": "El tejido conectivo entre las fibras es el principal responsable."
+            },
+            {
+              "text": "Las estrías transversales que las conectan",
+              "isCorrect": false,
+              "rationale": "Las estrías son características de la estructura interna de la fibra."
+            }
+          ],
+          "hint": "El tejido conectivo tiene una disposición particular entre las fibras."
+        },
+        {
+          "question": "¿Qué es el sarcolema?",
+          "options": [
+            {
+              "text": "La membrana plasmática de la fibra muscular",
+              "isCorrect": true,
+              "rationale": "El sarcolema es la membrana plasmática de la célula muscular o fibra muscular."
+            },
+            {
+              "text": "El tejido conectivo que rodea la fibra",
+              "isCorrect": false,
+              "rationale": "El tejido conectivo que rodea la fibra es el endomisio."
+            },
+            {
+              "text": "El núcleo de la célula muscular",
+              "isCorrect": false,
+              "rationale": "El sarcolema es la membrana, no el núcleo."
+            },
+            {
+              "text": "El citoplasma de la fibra muscular",
+              "isCorrect": false,
+              "rationale": "El citoplasma muscular se llama sarcoplasma."
+            }
+          ],
+          "hint": "Es equivalente a la membrana celular de otras células."
+        },
+        {
+          "question": "¿Qué son las miofibrillas?",
+          "options": [
+            {
+              "text": "Elementos contráctiles cilíndricos dentro de la fibra muscular",
+              "isCorrect": true,
+              "rationale": "Las miofibrillas son estructuras cilíndricas dentro de la fibra muscular encargadas de la contracción."
+            },
+            {
+              "text": "Las fibras musculares individuales",
+              "isCorrect": false,
+              "rationale": "Las miofibrillas están dentro de cada fibra muscular."
+            },
+            {
+              "text": "Los fascículos musculares más pequeños",
+              "isCorrect": false,
+              "rationale": "Las miofibrillas son estructuras subcelulares, no fascículos."
+            },
+            {
+              "text": "Las ramificaciones nerviosas que inervan el músculo",
+              "isCorrect": false,
+              "rationale": "Las miofibrillas son estructuras intracelulares de la fibra muscular."
+            }
+          ],
+          "hint": "Son componentes subcelulares responsables de la contracción."
+        },
+        {
+          "question": "¿Qué es el sarcómero?",
+          "options": [
+            {
+              "text": "La unidad funcional contráctil de la miofibrilla",
+              "isCorrect": true,
+              "rationale": "El sarcómero es la unidad funcional de contracción que se repite a lo largo de la miofibrilla."
+            },
+            {
+              "text": "El conjunto de todas las miofibrillas",
+              "isCorrect": false,
+              "rationale": "El sarcómero es una unidad dentro de cada miofibrilla."
+            },
+            {
+              "text": "La membrana que rodea la miofibrilla",
+              "isCorrect": false,
+              "rationale": "El sarcómero es una estructura interna, no una membrana."
+            },
+            {
+              "text": "El núcleo de la célula muscular",
+              "isCorrect": false,
+              "rationale": "El sarcómero es parte de la maquinaria contráctil."
+            }
+          ],
+          "hint": "Es la unidad básica de contracción muscular."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "nombre": "Patologías Musculares I",
+      "preguntas": 16,
+      "data": [
+        {
+          "question": "¿Qué es la miositis?",
+          "options": [
+            {
+              "text": "La inflamación de un músculo estriado",
+              "isCorrect": true,
+              "rationale": "La miositis es la inflamación de un músculo estriado."
+            },
+            {
+              "text": "La inflamación del tendón",
+              "isCorrect": false,
+              "rationale": "La inflamación del tendón se llama tendinitis."
+            },
+            {
+              "text": "La ruptura de fibras musculares",
+              "isCorrect": false,
+              "rationale": "La ruptura de fibras corresponde a un desgarro muscular."
+            },
+            {
+              "text": "La inflamación de una articulación",
+              "isCorrect": false,
+              "rationale": "La inflamación articular se llama artritis."
+            }
+          ],
+          "hint": "El sufijo '-itis' indica inflamación."
+        },
+        {
+          "question": "¿Cuáles son las causas de la miositis?",
+          "options": [
+            {
+              "text": "Lesión del músculo, infección o enfermedad autoinmune",
+              "isCorrect": true,
+              "rationale": "La miositis puede deberse a lesión muscular, infección o enfermedad autoinmune."
+            },
+            {
+              "text": "Solo por traumatismos directos",
+              "isCorrect": false,
+              "rationale": "Existen otras causas además de los traumatismos."
+            },
+            {
+              "text": "Exclusivamente por enfermedades genéticas",
+              "isCorrect": false,
+              "rationale": "Las enfermedades genéticas causan distrofias, no necesariamente miositis."
+            },
+            {
+              "text": "Únicamente por sobrecarga muscular",
+              "isCorrect": false,
+              "rationale": "La sobrecarga es una causa, pero hay otras."
+            }
+          ],
+          "hint": "Incluye causas traumáticas, infecciosas e inmunes."
+        },
+        {
+          "question": "¿Qué agentes infecciosos pueden causar miositis?",
+          "options": [
+            {
+              "text": "Virus como el de la gripe, parásitos como triquinosis y toxoplasmosis, y bacterias",
+              "isCorrect": true,
+              "rationale": "Virus (gripe), parásitos (triquinosis, toxoplasmosis) y bacterias (Clostridium, Streptococcus) pueden causar miositis."
+            },
+            {
+              "text": "Solo virus",
+              "isCorrect": false,
+              "rationale": "También bacterias y parásitos pueden causar miositis."
+            },
+            {
+              "text": "Exclusivamente bacterias",
+              "isCorrect": false,
+              "rationale": "Virus y parásitos también pueden causarla."
+            },
+            {
+              "text": "Solo hongos",
+              "isCorrect": false,
+              "rationale": "El texto menciona virus, parásitos y bacterias, no hongos."
+            }
+          ],
+          "hint": "Incluye virus de la gripe, triquinosis, toxoplasmosis, Clostridium y Streptococcus."
+        },
+        {
+          "question": "¿Cuáles son los síntomas típicos de la miositis?",
+          "options": [
+            {
+              "text": "Dolor intenso, inflamación local e impotencia funcional",
+              "isCorrect": true,
+              "rationale": "La miositis generalmente cursa con dolor intenso, inflamación local e impotencia funcional del músculo afectado."
+            },
+            {
+              "text": "Solo dolor leve",
+              "isCorrect": false,
+              "rationale": "La miositis típicamente produce dolor intenso."
+            },
+            {
+              "text": "Debilidad muscular sin dolor",
+              "isCorrect": false,
+              "rationale": "El dolor es un síntoma característico."
+            },
+            {
+              "text": "Rigidez articular exclusivamente",
+              "isCorrect": false,
+              "rationale": "Los síntomas son musculares, no articulares."
+            }
+          ],
+          "hint": "Afecta la función del músculo inflamado."
+        },
+        {
+          "question": "¿Qué es la tenosinovitis?",
+          "options": [
+            {
+              "text": "La inflamación de la vaina sinovial",
+              "isCorrect": true,
+              "rationale": "La tenosinovitis es la inflamación de la vaina sinovial que rodea un tendón."
+            },
+            {
+              "text": "La inflamación del tendón",
+              "isCorrect": false,
+              "rationale": "La inflamación del tendón se llama tendinitis."
+            },
+            {
+              "text": "La inflamación del músculo",
+              "isCorrect": false,
+              "rationale": "La inflamación del músculo se llama miositis."
+            },
+            {
+              "text": "La inflamación de la vaina fibrosa",
+              "isCorrect": false,
+              "rationale": "La tenosinovitis afecta específicamente la vaina sinovial."
+            }
+          ],
+          "hint": "Afecta la estructura que facilita el deslizamiento del tendón."
+        },
+        {
+          "question": "¿Cuáles son las causas de la tenosinovitis?",
+          "options": [
+            {
+              "text": "Desconocida, lesión traumática, tensión extrema o infección",
+              "isCorrect": true,
+              "rationale": "La causa puede ser desconocida, traumática, por tensión extrema o infecciosa."
+            },
+            {
+              "text": "Solo por infecciones",
+              "isCorrect": false,
+              "rationale": "Existen múltiples causas además de las infecciones."
+            },
+            {
+              "text": "Exclusivamente por traumatismos",
+              "isCorrect": false,
+              "rationale": "Los traumatismos son una causa, pero no la única."
+            },
+            {
+              "text": "Únicamente por movimientos repetitivos",
+              "isCorrect": false,
+              "rationale": "Los movimientos repetitivos causan tensión extrema, pero hay otras causas."
+            }
+          ],
+          "hint": "Puede no tener causa identificable o deberse a varios factores."
+        },
+        {
+          "question": "¿Qué regiones son más afectadas por la tenosinovitis?",
+          "options": [
+            {
+              "text": "La región del carpo, las manos y los pies",
+              "isCorrect": true,
+              "rationale": "Las zonas más afectadas son la región del carpo, las manos y los pies."
+            },
+            {
+              "text": "El hombro y la cadera",
+              "isCorrect": false,
+              "rationale": "Estas regiones no son las más típicas para tenosinovitis."
+            },
+            {
+              "text": "La columna vertebral",
+              "isCorrect": false,
+              "rationale": "La columna no es una zona típica de tenosinovitis."
+            },
+            {
+              "text": "Los músculos faciales",
+              "isCorrect": false,
+              "rationale": "La cara no es región de tenosinovitis."
+            }
+          ],
+          "hint": "Son zonas donde los tendones tienen vainas sinoviales importantes."
+        },
+        {
+          "question": "¿Cuáles son los síntomas clínicos de la tenosinovitis?",
+          "options": [
+            {
+              "text": "Dolor y dificultad para mover una articulación",
+              "isCorrect": true,
+              "rationale": "La tenosinovitis se manifiesta con dolor y dificultad para mover una articulación."
+            },
+            {
+              "text": "Solo dolor en reposo",
+              "isCorrect": false,
+              "rationale": "El dolor se presenta especialmente con el movimiento."
+            },
+            {
+              "text": "Parálisis completa del miembro",
+              "isCorrect": false,
+              "rationale": "No produce parálisis, sino dificultad para mover."
+            },
+            {
+              "text": "Hinchazón sin dolor",
+              "isCorrect": false,
+              "rationale": "El dolor es un síntoma principal."
+            }
+          ],
+          "hint": "Especialmente se nota al mover la articulación afectada."
+        },
+        {
+          "question": "¿Qué signos pueden indicar infección en una tenosinovitis?",
+          "options": [
+            {
+              "text": "Fiebre, inflamación y enrojecimiento de la zona",
+              "isCorrect": true,
+              "rationale": "La fiebre, inflamación y enrojecimiento pueden indicar infección, especialmente con antecedente de lesión penetrante."
+            },
+            {
+              "text": "Solo dolor crónico",
+              "isCorrect": false,
+              "rationale": "El dolor crónico no es signo específico de infección."
+            },
+            {
+              "text": "Entumecimiento del miembro",
+              "isCorrect": false,
+              "rationale": "El entumecimiento no es signo típico de infección en tenosinovitis."
+            },
+            {
+              "text": "Rigidez matutina exclusivamente",
+              "isCorrect": false,
+              "rationale": "Los signos de infección incluyen fiebre, inflamación y enrojecimiento."
+            }
+          ],
+          "hint": "Son signos inflamatorios sistémicos y locales."
+        },
+        {
+          "question": "¿Qué es un desgarro muscular?",
+          "options": [
+            {
+              "text": "Una lesión en la que el músculo o sus fibras se distienden y rompen",
+              "isCorrect": true,
+              "rationale": "Un desgarro es una lesión donde el músculo se distiende y se rompen todas o parte de sus fibras."
+            },
+            {
+              "text": "Una inflamación del músculo",
+              "isCorrect": false,
+              "rationale": "La inflamación muscular es miositis, no desgarro."
+            },
+            {
+              "text": "Un calambre muscular intenso",
+              "isCorrect": false,
+              "rationale": "El desgarro implica daño estructural, no es solo un calambre."
+            },
+            {
+              "text": "Una contusión muscular",
+              "isCorrect": false,
+              "rationale": "La contusión es un golpe, el desgarro es por estiramiento."
+            }
+          ],
+          "hint": "Es una lesión por estiramiento excesivo y violento."
+        },
+        {
+          "question": "¿Cuál es la causa principal de los desgarros musculares?",
+          "options": [
+            {
+              "text": "Un estiramiento excesivo y violento",
+              "isCorrect": true,
+              "rationale": "Los desgarros surgen como consecuencia de un estiramiento excesivo y violento."
+            },
+            {
+              "text": "Una inflamación crónica",
+              "isCorrect": false,
+              "rationale": "La causa es traumática, no inflamatoria."
+            },
+            {
+              "text": "Una infección bacteriana",
+              "isCorrect": false,
+              "rationale": "Los desgarros no son causados por infecciones."
+            },
+            {
+              "text": "Una enfermedad autoinmune",
+              "isCorrect": false,
+              "rationale": "Los desgarros son lesiones mecánicas."
+            }
+          ],
+          "hint": "Ocurre cuando se estira el músculo más allá de su capacidad."
+        },
+        {
+          "question": "¿En qué regiones son más frecuentes los desgarros musculares?",
+          "options": [
+            {
+              "text": "Región infraescapular, lumbar y posterior del muslo",
+              "isCorrect": true,
+              "rationale": "Los desgarros son frecuentes en las regiones infraescapular, lumbar y posterior del muslo."
+            },
+            {
+              "text": "En los músculos de la cara",
+              "isCorrect": false,
+              "rationale": "Los músculos faciales raramente se desgarran."
+            },
+            {
+              "text": "En los músculos de la mano",
+              "isCorrect": false,
+              "rationale": "Las manos no son las regiones más típicas para desgarros."
+            },
+            {
+              "text": "En los músculos abdominales",
+              "isCorrect": false,
+              "rationale": "Las regiones más afectadas son espalda y muslo."
+            }
+          ],
+          "hint": "Incluyen la espalda baja y los isquiotibiales."
+        },
+        {
+          "question": "¿Qué puede causar la ruptura de un tendón?",
+          "options": [
+            {
+              "text": "Ruptura espontánea o traumatismo directo o indirecto",
+              "isCorrect": true,
+              "rationale": "Los tendones pueden romperse espontáneamente o por traumatismo directo (herida) o indirecto (tracción violenta)."
+            },
+            {
+              "text": "Solo por heridas penetrantes",
+              "isCorrect": false,
+              "rationale": "También pueden ser rupturas espontáneas o por tracción indirecta."
+            },
+            {
+              "text": "Exclusivamente por enfermedad",
+              "isCorrect": false,
+              "rationale": "Los traumatismos son una causa frecuente."
+            },
+            {
+              "text": "Únicamente por sobreuso crónico",
+              "isCorrect": false,
+              "rationale": "Existen rupturas agudas espontáneas o traumáticas."
+            }
+          ],
+          "hint": "Pueden ser sin causa externa aparente o por lesión."
+        },
+        {
+          "question": "¿En qué pacientes se produce típicamente la ruptura del tendón calcáneo (Aquiles)?",
+          "options": [
+            {
+              "text": "Pacientes de 40 años o más, realizando deporte o subiendo escaleras",
+              "isCorrect": true,
+              "rationale": "La ruptura del tendón de Aquiles se produce en pacientes de 40+ años, a menudo durante actividad física."
+            },
+            {
+              "text": "Exclusivamente en atletas jóvenes",
+              "isCorrect": false,
+              "rationale": "Es más común en personas de 40 años o más."
+            },
+            {
+              "text": "Solo en personas sedentarias",
+              "isCorrect": false,
+              "rationale": "A menudo ocurre durante actividad física."
+            },
+            {
+              "text": "Únicamente en ancianos",
+              "isCorrect": false,
+              "rationale": "Es típico desde los 40 años, no exclusivamente en ancianos."
+            }
+          ],
+          "hint": "Ocurre frecuentemente durante deporte o actividad física en adultos."
+        },
+        {
+          "question": "¿Cuáles son los síntomas de la ruptura del tendón calcáneo?",
+          "options": [
+            {
+              "text": "Dolor intenso súbito, incapacidad funcional y depresión palpable en el tendón",
+              "isCorrect": true,
+              "rationale": "El paciente siente dolor intenso súbito, incapacidad funcional y se palpa una depresión en el tendón."
+            },
+            {
+              "text": "Solo dolor leve progresivo",
+              "isCorrect": false,
+              "rationale": "El dolor es intenso y súbito, no leve ni progresivo."
+            },
+            {
+              "text": "Hinchazón sin dolor",
+              "isCorrect": false,
+              "rationale": "El dolor es un síntoma principal."
+            },
+            {
+              "text": "Rigidez matutina únicamente",
+              "isCorrect": false,
+              "rationale": "Los síntomas son agudos y relacionados con la ruptura."
+            }
+          ],
+          "hint": "El paciente no puede pararse en puntas de pie."
+        },
+        {
+          "question": "¿Qué puede causar la ruptura del tendón calcáneo además del traumatismo?",
+          "options": [
+            {
+              "text": "Proceso degenerativo previo, tendinitis crónica o esfuerzo inadecuado",
+              "isCorrect": true,
+              "rationale": "La ruptura puede producirse por degeneración previa, tendinitis crónica o esfuerzo inadecuado para el entrenamiento."
+            },
+            {
+              "text": "Solo por golpe directo",
+              "isCorrect": false,
+              "rationale": "Existen causas degenerativas y de sobreuso."
+            },
+            {
+              "text": "Exclusivamente por infección",
+              "isCorrect": false,
+              "rationale": "La infección no es causa típica de ruptura tendinosa."
+            },
+            {
+              "text": "Únicamente por enfermedad autoinmune",
+              "isCorrect": false,
+              "rationale": "Las causas principales son degenerativas y mecánicas."
+            }
+          ],
+          "hint": "Incluye factores predisponentes del propio tendón."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "nombre": "Patologías Musculares II",
+      "preguntas": 15,
+      "data": [
+        {
+          "question": "¿Qué es la atrofia muscular?",
+          "options": [
+            {
+              "text": "La disminución del tejido muscular",
+              "isCorrect": true,
+              "rationale": "La atrofia muscular es la disminución del tejido muscular."
+            },
+            {
+              "text": "El aumento del tejido muscular",
+              "isCorrect": false,
+              "rationale": "El aumento del tejido muscular se llama hipertrofia."
+            },
+            {
+              "text": "La inflamación del músculo",
+              "isCorrect": false,
+              "rationale": "La inflamación del músculo se llama miositis."
+            },
+            {
+              "text": "La ruptura de las fibras musculares",
+              "isCorrect": false,
+              "rationale": "La ruptura de fibras corresponde a un desgarro."
+            }
+          ],
+          "hint": "El prefijo 'a-' indica ausencia o disminución."
+        },
+        {
+          "question": "¿Cuál es la causa más común de atrofia muscular?",
+          "options": [
+            {
+              "text": "Falta de ejercicio del grupo muscular afectado",
+              "isCorrect": true,
+              "rationale": "La atrofia muscular se produce habitualmente por falta de ejercicio del grupo muscular afectado."
+            },
+            {
+              "text": "Exceso de ejercicio",
+              "isCorrect": false,
+              "rationale": "El exceso de ejercicio puede causar hipertrofia, no atrofia."
+            },
+            {
+              "text": "Infecciones virales",
+              "isCorrect": false,
+              "rationale": "Las infecciones pueden causar miositis, no atrofia como causa principal."
+            },
+            {
+              "text": "Traumatismos directos",
+              "isCorrect": false,
+              "rationale": "La falta de uso es la causa más común."
+            }
+          ],
+          "hint": "Ocurre cuando el músculo no se utiliza."
+        },
+        {
+          "question": "¿Qué otras causas pueden producir atrofia muscular además de la falta de ejercicio?",
+          "options": [
+            {
+              "text": "Patologías que comprometen la inervación motora",
+              "isCorrect": true,
+              "rationale": "La atrofia puede ser secundaria a patologías que afectan la inervación motora, central o periférica."
+            },
+            {
+              "text": "Solo por infecciones bacterianas",
+              "isCorrect": false,
+              "rationale": "Las infecciones no son la causa principal de atrofia."
+            },
+            {
+              "text": "Exclusivamente por enfermedades autoinmunes",
+              "isCorrect": false,
+              "rationale": "Las enfermedades nerviosas son causas importantes."
+            },
+            {
+              "text": "Únicamente por desnutrición",
+              "isCorrect": false,
+              "rationale": "La inervación motora es un factor clave mencionado en el texto."
+            }
+          ],
+          "hint": "Incluye enfermedades del sistema nervioso central o periférico."
+        },
+        {
+          "question": "¿En qué tipo de personas es frecuente la atrofia por falta de ejercicio?",
+          "options": [
+            {
+              "text": "Personas sedentarias, ancianos y personas con reposo prolongado",
+              "isCorrect": true,
+              "rationale": "Es frecuente en personas sedentarias, es normal en el envejecimiento y en reposo prolongado."
+            },
+            {
+              "text": "Exclusivamente en atletas",
+              "isCorrect": false,
+              "rationale": "Los atletas suelen tener hipertrofia, no atrofia."
+            },
+            {
+              "text": "Solo en niños",
+              "isCorrect": false,
+              "rationale": "Es más común en adultos y ancianos."
+            },
+            {
+              "text": "Únicamente en personas hospitalizadas",
+              "isCorrect": false,
+              "rationale": "También ocurre en personas sedentarias y en el envejecimiento normal."
+            }
+          ],
+          "hint": "Es normal en el envejecimiento y en estilos de vida sedentarios."
+        },
+        {
+          "question": "¿Qué enfermedades del sistema nervioso pueden causar atrofia muscular?",
+          "options": [
+            {
+              "text": "Poliomielitis, síndrome de Guillain-Barré y secuela de ACV",
+              "isCorrect": true,
+              "rationale": "Poliomielitis, Guillain-Barré y ACV con compromiso de área motora pueden causar atrofia muscular."
+            },
+            {
+              "text": "Solo la esclerosis múltiple",
+              "isCorrect": false,
+              "rationale": "El texto menciona otras enfermedades específicas."
+            },
+            {
+              "text": "Exclusivamente el Parkinson",
+              "isCorrect": false,
+              "rationale": "Se mencionan otras enfermedades neurológicas."
+            },
+            {
+              "text": "Únicamente el Alzheimer",
+              "isCorrect": false,
+              "rationale": "Las enfermedades mencionadas afectan el sistema motor."
+            }
+          ],
+          "hint": "Son enfermedades que afectan la inervación motora."
+        },
+        {
+          "question": "¿Puede recuperarse la función muscular después de una atrofia?",
+          "options": [
+            {
+              "text": "Depende de la causa; puede revertir con rehabilitación o no recuperarse",
+              "isCorrect": true,
+              "rationale": "La atrofia por falta de ejercicio suele revertir con rehabilitación, pero en patologías nerviosas puede no recuperarse."
+            },
+            {
+              "text": "Siempre se recupera completamente",
+              "isCorrect": false,
+              "rationale": "La recuperación depende de la causa."
+            },
+            {
+              "text": "Nunca se recupera",
+              "isCorrect": false,
+              "rationale": "La atrofia por desuso sí puede revertirse."
+            },
+            {
+              "text": "Solo con cirugía",
+              "isCorrect": false,
+              "rationale": "La rehabilitación es el tratamiento principal."
+            }
+          ],
+          "hint": "La recuperación depende de la causa subyacente."
+        },
+        {
+          "question": "¿Qué es la hipertrofia muscular?",
+          "options": [
+            {
+              "text": "El aumento de volumen del músculo por incremento del tamaño celular",
+              "isCorrect": true,
+              "rationale": "La hipertrofia es el aumento de volumen del músculo por aumento del tamaño de las células."
+            },
+            {
+              "text": "El aumento del número de células musculares",
+              "isCorrect": false,
+              "rationale": "En la hipertrofia el número celular se mantiene constante, solo aumenta el volumen."
+            },
+            {
+              "text": "La inflamación del músculo",
+              "isCorrect": false,
+              "rationale": "La inflamación es miositis, no hipertrofia."
+            },
+            {
+              "text": "El desarrollo de nuevos músculos",
+              "isCorrect": false,
+              "rationale": "No se crean nuevos músculos, se agrandan los existentes."
+            }
+          ],
+          "hint": "Las células musculares se vuelven más grandes, no más numerosas."
+        },
+        {
+          "question": "¿Qué ocurre con el número de células musculares durante la hipertrofia?",
+          "options": [
+            {
+              "text": "Se mantiene constante, solo se modifica el volumen celular",
+              "isCorrect": true,
+              "rationale": "En la hipertrofia, el número celular se mantiene constante y solo se modifica el volumen celular."
+            },
+            {
+              "text": "Aumenta significativamente",
+              "isCorrect": false,
+              "rationale": "El número de células permanece igual."
+            },
+            {
+              "text": "Disminuye",
+              "isCorrect": false,
+              "rationale": "El número celular no cambia en la hipertrofia."
+            },
+            {
+              "text": "Se duplica",
+              "isCorrect": false,
+              "rationale": "No hay aumento del número de células."
+            }
+          ],
+          "hint": "Es el tamaño de las células lo que cambia, no su cantidad."
+        },
+        {
+          "question": "¿En qué personas se observa la hipertrofia muscular?",
+          "options": [
+            {
+              "text": "Atletas o personas con entrenamiento anaeróbico como fisicoculturismo",
+              "isCorrect": true,
+              "rationale": "La hipertrofia se observa en atletas y personas que realizan entrenamiento anaeróbico como fisicoculturismo."
+            },
+            {
+              "text": "Solo en personas con enfermedades hormonales",
+              "isCorrect": false,
+              "rationale": "La hipertrofia fisiológica se observa en atletas."
+            },
+            {
+              "text": "Exclusivamente en adolescentes",
+              "isCorrect": false,
+              "rationale": "Se observa en adultos entrenados."
+            },
+            {
+              "text": "Únicamente en personas con trastornos genéticos",
+              "isCorrect": false,
+              "rationale": "La hipertrofia fisiológica es por entrenamiento."
+            }
+          ],
+          "hint": "Es el resultado del entrenamiento con grandes esfuerzos repetidos."
+        },
+        {
+          "question": "¿Qué provoca el aumento del volumen celular en la hipertrofia?",
+          "options": [
+            {
+              "text": "Aumento de la producción de proteínas contráctiles",
+              "isCorrect": true,
+              "rationale": "El aumento del volumen celular se debe a mayor producción de proteínas contráctiles para adaptarse a los esfuerzos."
+            },
+            {
+              "text": "Acumulación de grasa intracelular",
+              "isCorrect": false,
+              "rationale": "No es grasa, sino proteínas contráctiles."
+            },
+            {
+              "text": "Aumento del número de núcleos celulares",
+              "isCorrect": false,
+              "rationale": "Es el contenido proteico lo que aumenta."
+            },
+            {
+              "text": "Acumulación de líquido",
+              "isCorrect": false,
+              "rationale": "Es un aumento real de proteínas estructurales."
+            }
+          ],
+          "hint": "El músculo se adapta produciendo más proteínas contráctiles."
+        },
+        {
+          "question": "¿Qué son las distrofias musculares?",
+          "options": [
+            {
+              "text": "Enfermedades primarias del músculo esquelético por trastornos genéticos hereditarios",
+              "isCorrect": true,
+              "rationale": "Las distrofias musculares son enfermedades primarias del músculo esquelético debidas a trastornos genéticos hereditarios."
+            },
+            {
+              "text": "Inflamaciones del músculo esquelético",
+              "isCorrect": false,
+              "rationale": "Las inflamaciones son miositis, no distrofias."
+            },
+            {
+              "text": "Lesiones traumáticas del músculo",
+              "isCorrect": false,
+              "rationale": "Las distrofias son enfermedades, no lesiones."
+            },
+            {
+              "text": "Infecciones del músculo",
+              "isCorrect": false,
+              "rationale": "Son enfermedades genéticas, no infecciosas."
+            }
+          ],
+          "hint": "Son enfermedades hereditarias del músculo."
+        },
+        {
+          "question": "¿Cuál es la causa molecular de las distrofias musculares?",
+          "options": [
+            {
+              "text": "Alteraciones de proteínas estructurales del músculo",
+              "isCorrect": true,
+              "rationale": "Las distrofias se deben a alteraciones de proteínas estructurales como distrofina y espectrina."
+            },
+            {
+              "text": "Alteraciones de las proteínas contráctiles únicamente",
+              "isCorrect": false,
+              "rationale": "Son las proteínas estructurales de conexión las afectadas."
+            },
+            {
+              "text": "Deficiencia de calcio",
+              "isCorrect": false,
+              "rationale": "La causa es genética, no nutricional."
+            },
+            {
+              "text": "Exceso de ácido láctico",
+              "isCorrect": false,
+              "rationale": "Es un problema de proteínas estructurales."
+            }
+          ],
+          "hint": "Afectan proteínas que conectan las proteínas contráctiles con la membrana."
+        },
+        {
+          "question": "¿Qué proteínas estructurales están alteradas en las distrofias musculares?",
+          "options": [
+            {
+              "text": "Distrofina y espectrina",
+              "isCorrect": true,
+              "rationale": "La distrofina y la espectrina son proteínas estructurales alteradas en las distrofias musculares."
+            },
+            {
+              "text": "Solo actina y miosina",
+              "isCorrect": false,
+              "rationale": "Actina y miosina son proteínas contráctiles, no estructurales de conexión."
+            },
+            {
+              "text": "Exclusivamente el colágeno",
+              "isCorrect": false,
+              "rationale": "El colágeno no es la proteína afectada en las distrofias."
+            },
+            {
+              "text": "Solo la tropomiosina",
+              "isCorrect": false,
+              "rationale": "Las afectadas son distrofina y espectrina."
+            }
+          ],
+          "hint": "Una de ellas da nombre a la distrofia más conocida."
+        },
+        {
+          "question": "¿Cómo están conectadas las proteínas contráctiles con la membrana celular?",
+          "options": [
+            {
+              "text": "A través de proteínas estructurales como distrofina y espectrina",
+              "isCorrect": true,
+              "rationale": "Las proteínas contráctiles están conectadas a la membrana plasmática mediante proteínas como distrofina y espectrina."
+            },
+            {
+              "text": "Directamente sin intermediarios",
+              "isCorrect": false,
+              "rationale": "Existen proteínas intermedias de conexión."
+            },
+            {
+              "text": "Por el tejido conectivo externo",
+              "isCorrect": false,
+              "rationale": "La conexión es a través de proteínas internas."
+            },
+            {
+              "text": "Por el sarcoplasma únicamente",
+              "isCorrect": false,
+              "rationale": "Son proteínas específicas de conexión."
+            }
+          ],
+          "hint": "Estas proteínas sirven de puente entre las contráctiles y la membrana."
+        },
+        {
+          "question": "¿Qué proteínas contráctiles se mencionan en relación con las distrofias?",
+          "options": [
+            {
+              "text": "Actina, miosina, tropomiosina y troponina",
+              "isCorrect": true,
+              "rationale": "Las proteínas contráctiles del músculo estriado son actina, miosina, tropomiosina y troponina."
+            },
+            {
+              "text": "Solo actina y miosina",
+              "isCorrect": false,
+              "rationale": "También se mencionan tropomiosina y troponina."
+            },
+            {
+              "text": "Exclusivamente la distrofina",
+              "isCorrect": false,
+              "rationale": "La distrofina es una proteína estructural, no contráctil."
+            },
+            {
+              "text": "Solo el colágeno y la elastina",
+              "isCorrect": false,
+              "rationale": "Estas son proteínas del tejido conectivo, no musculares."
+            }
+          ],
+          "hint": "Son las proteínas responsables de la contracción muscular."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "nombre": "Vainas, Bolsas y Fascias",
+      "preguntas": 29,
+      "data": [
+        {
+          "question": "¿Qué son las vainas fibrosas de los tendones?",
+          "options": [
+            {
+              "text": "Formaciones en forma de puente o túnel sobre superficies óseas donde se deslizan los tendones",
+              "isCorrect": true,
+              "rationale": "Las vainas fibrosas son formaciones tipo puente o túnel sobre superficies óseas donde se deslizan los tendones."
+            },
+            {
+              "text": "Membranas que envuelven los músculos",
+              "isCorrect": false,
+              "rationale": "Las vainas fibrosas rodean tendones, no músculos."
+            },
+            {
+              "text": "Ligamentos que conectan huesos",
+              "isCorrect": false,
+              "rationale": "Las vainas fibrosas contienen tendones, no conectan huesos entre sí."
+            },
+            {
+              "text": "Tendones aplanados",
+              "isCorrect": false,
+              "rationale": "Los tendones aplanados son aponeurosis."
+            }
+          ],
+          "hint": "Funcionan como poleas de reflexión para los tendones."
+        },
+        {
+          "question": "¿Cuál es la función de las vainas fibrosas?",
+          "options": [
+            {
+              "text": "Contener el tendón permitiendo su deslizamiento o actuar como polea de reflexión",
+              "isCorrect": true,
+              "rationale": "Las vainas fibrosas contienen el tendón, permiten su deslizamiento fácil o actúan como polea de reflexión."
+            },
+            {
+              "text": "Unir el tendón al hueso permanentemente",
+              "isCorrect": false,
+              "rationale": "Las vainas permiten deslizamiento, no unión fija."
+            },
+            {
+              "text": "Nutrir el tendón",
+              "isCorrect": false,
+              "rationale": "La nutrición proviene de los mesotendones."
+            },
+            {
+              "text": "Producir líquido sinovial",
+              "isCorrect": false,
+              "rationale": "El líquido sinovial es producido por la vaina sinovial, no la fibrosa."
+            }
+          ],
+          "hint": "Mantienen el tendón en contacto con el esqueleto durante el movimiento."
+        },
+        {
+          "question": "¿Dónde se encuentran principalmente las vainas fibrosas?",
+          "options": [
+            {
+              "text": "En los extremos de los miembros donde los tendones deben permanecer en contacto con el esqueleto",
+              "isCorrect": true,
+              "rationale": "Se encuentran en especial en los extremos de los miembros donde los tendones deben permanecer en contacto con el esqueleto."
+            },
+            {
+              "text": "En el tronco",
+              "isCorrect": false,
+              "rationale": "Son típicas de las extremidades, no del tronco."
+            },
+            {
+              "text": "En la cara",
+              "isCorrect": false,
+              "rationale": "La cara no es región típica de vainas fibrosas."
+            },
+            {
+              "text": "En los músculos abdominales",
+              "isCorrect": false,
+              "rationale": "Son características de manos y pies."
+            }
+          ],
+          "hint": "Son típicas en la región de la mano y el pie."
+        },
+        {
+          "question": "¿Qué son las vainas sinoviales?",
+          "options": [
+            {
+              "text": "Envolturas serosas que tapizan el interior de los túneles osteofibrosos",
+              "isCorrect": true,
+              "rationale": "Las vainas sinoviales son envolturas serosas que tapizan el interior de los túneles osteofibrosos."
+            },
+            {
+              "text": "Vainas de tejido fibroso denso",
+              "isCorrect": false,
+              "rationale": "Las vainas sinoviales son serosas, no fibrosas."
+            },
+            {
+              "text": "Membranas musculares",
+              "isCorrect": false,
+              "rationale": "Son estructuras alrededor de tendones."
+            },
+            {
+              "text": "Ligamentos sinoviales",
+              "isCorrect": false,
+              "rationale": "Son envolturas serosas de tendones."
+            }
+          ],
+          "hint": "Son similares a las bolsas sinoviales de las articulaciones."
+        },
+        {
+          "question": "¿Cuál es la función de las vainas sinoviales?",
+          "options": [
+            {
+              "text": "Favorecer el deslizamiento de los tendones",
+              "isCorrect": true,
+              "rationale": "Las vainas sinoviales favorecen el deslizamiento de los tendones."
+            },
+            {
+              "text": "Unir el tendón al hueso",
+              "isCorrect": false,
+              "rationale": "Facilitan el movimiento, no la unión."
+            },
+            {
+              "text": "Contraer el músculo",
+              "isCorrect": false,
+              "rationale": "La contracción es función del músculo."
+            },
+            {
+              "text": "Proteger el hueso",
+              "isCorrect": false,
+              "rationale": "Su función está relacionada con el tendón."
+            }
+          ],
+          "hint": "Reducen la fricción durante el movimiento del tendón."
+        },
+        {
+          "question": "¿Qué láminas componen una vaina sinovial?",
+          "options": [
+            {
+              "text": "Una lámina visceral que reviste el tendón y una lámina parietal que tapiza la vaina osteofibrosa",
+              "isCorrect": true,
+              "rationale": "La vaina sinovial tiene lámina visceral (sobre el tendón) y lámina parietal (sobre la vaina osteofibrosa)."
+            },
+            {
+              "text": "Solo una lámina parietal",
+              "isCorrect": false,
+              "rationale": "Tiene dos láminas: visceral y parietal."
+            },
+            {
+              "text": "Tres láminas: interna, media y externa",
+              "isCorrect": false,
+              "rationale": "Son dos láminas, no tres."
+            },
+            {
+              "text": "Una sola lámina continua",
+              "isCorrect": false,
+              "rationale": "Existen dos láminas diferenciadas."
+            }
+          ],
+          "hint": "Similar a la estructura de las serosas como el peritoneo."
+        },
+        {
+          "question": "¿Qué son los mesotendones?",
+          "options": [
+            {
+              "text": "Repliegues conectivos revestidos por sinovial que contienen vasos para el tendón",
+              "isCorrect": true,
+              "rationale": "Los mesotendones son repliegues conectivos revestidos por sinovial que contienen vasos destinados al tendón."
+            },
+            {
+              "text": "Partes medias del tendón",
+              "isCorrect": false,
+              "rationale": "Son estructuras vasculares, no partes del tendón."
+            },
+            {
+              "text": "Músculos pequeños del tendón",
+              "isCorrect": false,
+              "rationale": "Son pliegues de tejido conectivo vascularizados."
+            },
+            {
+              "text": "Inserciones del tendón en el hueso",
+              "isCorrect": false,
+              "rationale": "Son estructuras que nutren el tendón."
+            }
+          ],
+          "hint": "Conectan la vaina sinovial con el tendón y aportan vascularización."
+        },
+        {
+          "question": "¿Qué son las bolsas serosas?",
+          "options": [
+            {
+              "text": "Pequeñas bolsas tapizadas por membrana serosa entre músculos o entre músculo y hueso",
+              "isCorrect": true,
+              "rationale": "Las bolsas serosas son pequeñas bolsas entre músculos o entre músculo y hueso, tapizadas por membrana serosa."
+            },
+            {
+              "text": "Bolsas de líquido dentro de los músculos",
+              "isCorrect": false,
+              "rationale": "Están entre estructuras, no dentro de los músculos."
+            },
+            {
+              "text": "Tumores del tejido muscular",
+              "isCorrect": false,
+              "rationale": "Son estructuras normales, no tumores."
+            },
+            {
+              "text": "Acumulaciones de grasa",
+              "isCorrect": false,
+              "rationale": "Son estructuras serosas."
+            }
+          ],
+          "hint": "Facilitan el deslizamiento entre estructuras adyacentes."
+        },
+        {
+          "question": "¿Cuál es la función de las bolsas serosas?",
+          "options": [
+            {
+              "text": "Favorecer el deslizamiento muscular",
+              "isCorrect": true,
+              "rationale": "Las bolsas serosas favorecen el deslizamiento muscular entre músculos o entre músculo y hueso."
+            },
+            {
+              "text": "Producir músculo nuevo",
+              "isCorrect": false,
+              "rationale": "No producen tejido muscular."
+            },
+            {
+              "text": "Almacenar energía",
+              "isCorrect": false,
+              "rationale": "Su función es mecánica, reducir fricción."
+            },
+            {
+              "text": "Nutrir el músculo",
+              "isCorrect": false,
+              "rationale": "Facilitan el movimiento, no la nutrición."
+            }
+          ],
+          "hint": "Reducen la fricción entre estructuras que se mueven."
+        },
+        {
+          "question": "¿Qué es una fascia según la definición del texto?",
+          "options": [
+            {
+              "text": "Una lámina o membrana de tejido conectivo fibroso denso que recubre o envuelve estructuras anatómicas",
+              "isCorrect": true,
+              "rationale": "Una fascia es una lámina de tejido conectivo fibroso denso que recubre o envuelve estructuras como músculos, vasos y vísceras."
+            },
+            {
+              "text": "Un tendón aplanado",
+              "isCorrect": false,
+              "rationale": "Un tendón aplanado es una aponeurosis, no una fascia."
+            },
+            {
+              "text": "Una membrana serosa",
+              "isCorrect": false,
+              "rationale": "Las fascias son de tejido conectivo fibroso, no seroso."
+            },
+            {
+              "text": "Un ligamento amplio",
+              "isCorrect": false,
+              "rationale": "Los ligamentos anchos son membranas fibrosas, no fascias."
+            }
+          ],
+          "hint": "Es tejido conectivo fibroso denso que envuelve estructuras."
+        },
+        {
+          "question": "¿Qué tipos de fascias se mencionan según su mecanismo de formación?",
+          "options": [
+            {
+              "text": "Fascias de condensación, de migración y de fusión",
+              "isCorrect": true,
+              "rationale": "Se diferencian tres tipos: fascias de condensación, fascias de migración y fascias de fusión."
+            },
+            {
+              "text": "Fascias superficiales y profundas únicamente",
+              "isCorrect": false,
+              "rationale": "El texto desaconseja estos términos como genéricos."
+            },
+            {
+              "text": "Fascias internas y externas",
+              "isCorrect": false,
+              "rationale": "Los tipos mencionados son por mecanismo de formación."
+            },
+            {
+              "text": "Fascias musculares y viscerales",
+              "isCorrect": false,
+              "rationale": "La clasificación es por formación: condensación, migración y fusión."
+            }
+          ],
+          "hint": "Se clasifican según cómo se forman durante el desarrollo."
+        },
+        {
+          "question": "¿De qué derivan las fascias?",
+          "options": [
+            {
+              "text": "Del mesodermo",
+              "isCorrect": true,
+              "rationale": "Las fascias derivan del mesodermo."
+            },
+            {
+              "text": "Del ectodermo",
+              "isCorrect": false,
+              "rationale": "El ectodermo da origen a piel y sistema nervioso."
+            },
+            {
+              "text": "Del endodermo",
+              "isCorrect": false,
+              "rationale": "El endodermo forma el tubo digestivo y respiratorio."
+            },
+            {
+              "text": "De la cresta neural",
+              "isCorrect": false,
+              "rationale": "Derivan del mesodermo."
+            }
+          ],
+          "hint": "Derivan de la misma capa embrionaria que el músculo."
+        },
+        {
+          "question": "¿Qué contiene el tejido de las fascias?",
+          "options": [
+            {
+              "text": "Rico en fibras de colágeno y en algunos casos fibras elásticas",
+              "isCorrect": true,
+              "rationale": "Las fascias están formadas por tejido rico en fibras de colágeno y en algunos casos fibras elásticas."
+            },
+            {
+              "text": "Solo fibras elásticas",
+              "isCorrect": false,
+              "rationale": "Predominan las fibras de colágeno."
+            },
+            {
+              "text": "Principalmente células musculares",
+              "isCorrect": false,
+              "rationale": "Las fascias son tejido conectivo, no muscular."
+            },
+            {
+              "text": "Exclusivamente células adiposas",
+              "isCorrect": false,
+              "rationale": "Son ricas en fibras de colágeno."
+            }
+          ],
+          "hint": "Son estructuras fibrosas resistentes."
+        },
+        {
+          "question": "¿Qué es la fascia de revestimiento superficial?",
+          "options": [
+            {
+              "text": "La fascia ubicada profunda al tejido subcutáneo que recubre músculos y otras estructuras",
+              "isCorrect": true,
+              "rationale": "La fascia de revestimiento superficial se ubica profunda al tejido subcutáneo y recubre músculos."
+            },
+            {
+              "text": "La fascia más superficial del cuerpo",
+              "isCorrect": false,
+              "rationale": "Está por debajo del tejido subcutáneo."
+            },
+            {
+              "text": "La piel",
+              "isCorrect": false,
+              "rationale": "La piel está por encima de esta fascia."
+            },
+            {
+              "text": "El tejido subcutáneo",
+              "isCorrect": false,
+              "rationale": "Está por debajo del tejido subcutáneo."
+            }
+          ],
+          "hint": "Envuelve las masas musculares en forma de cilindro hueco en los miembros."
+        },
+        {
+          "question": "¿Qué forma adopta la fascia de revestimiento superficial en los miembros?",
+          "options": [
+            {
+              "text": "Forma de cilindro hueco que rodea las masas musculares",
+              "isCorrect": true,
+              "rationale": "En los miembros, esta fascia adopta forma de cilindro hueco que rodea las masas musculares."
+            },
+            {
+              "text": "Forma plana como una sábana",
+              "isCorrect": false,
+              "rationale": "En los miembros forma un cilindro."
+            },
+            {
+              "text": "Forma esférica",
+              "isCorrect": false,
+              "rationale": "Adapta su forma a la del miembro."
+            },
+            {
+              "text": "Forma irregular variable",
+              "isCorrect": false,
+              "rationale": "Tiene forma de cilindro hueco en los miembros."
+            }
+          ],
+          "hint": "Aísla las masas musculares de los planos más superficiales."
+        },
+        {
+          "question": "¿Qué son los tabiques intermusculares?",
+          "options": [
+            {
+              "text": "Prolongaciones de la fascia hacia la profundidad que separan músculos o grupos musculares",
+              "isCorrect": true,
+              "rationale": "Los tabiques intermusculares son prolongaciones de la fascia que separan músculos y delimitan compartimentos."
+            },
+            {
+              "text": "Divisiones dentro del músculo",
+              "isCorrect": false,
+              "rationale": "Separan músculos entre sí, no dentro del músculo."
+            },
+            {
+              "text": "Tabiques óseos entre músculos",
+              "isCorrect": false,
+              "rationale": "Son prolongaciones de la fascia, no estructuras óseas."
+            },
+            {
+              "text": "Membranas sinoviales",
+              "isCorrect": false,
+              "rationale": "Son prolongaciones de tejido conectivo fibroso."
+            }
+          ],
+          "hint": "Delimitan compartimentos musculares."
+        },
+        {
+          "question": "¿Qué función tienen los tabiques intermusculares?",
+          "options": [
+            {
+              "text": "Separar músculos o grupos musculares y delimitar celdas o compartimentos",
+              "isCorrect": true,
+              "rationale": "Los tabiques intermusculares separan músculos y delimitan celdas o compartimentos musculares."
+            },
+            {
+              "text": "Nutrir los músculos",
+              "isCorrect": false,
+              "rationale": "Su función es de separación y organización."
+            },
+            {
+              "text": "Contraer los músculos",
+              "isCorrect": false,
+              "rationale": "Son estructuras pasivas de separación."
+            },
+            {
+              "text": "Producir movimiento",
+              "isCorrect": false,
+              "rationale": "Organizan los músculos, no producen movimiento."
+            }
+          ],
+          "hint": "Crean compartimentos anatómicos en los miembros."
+        },
+        {
+          "question": "¿Qué es el síndrome compartimental?",
+          "options": [
+            {
+              "text": "Aumento de presión dentro de un compartimento que compromete la circulación y función tisular",
+              "isCorrect": true,
+              "rationale": "El síndrome compartimental se produce cuando el aumento de presión en un compartimento compromete la circulación y función de los tejidos."
+            },
+            {
+              "text": "Inflamación de un compartimento muscular",
+              "isCorrect": false,
+              "rationale": "Es un problema de presión, no solo inflamación."
+            },
+            {
+              "text": "Infección de un compartimento",
+              "isCorrect": false,
+              "rationale": "Es un problema de presión, no infeccioso."
+            },
+            {
+              "text": "Ruptura de un músculo",
+              "isCorrect": false,
+              "rationale": "Es un problema de presión compartimental."
+            }
+          ],
+          "hint": "Las fascias son inextensibles, lo que favorece este síndrome."
+        },
+        {
+          "question": "¿Cuáles son los tipos de síndrome compartimental?",
+          "options": [
+            {
+              "text": "Agudo (generalmente postraumático) y crónico (frecuente en atletas)",
+              "isCorrect": true,
+              "rationale": "El síndrome compartimental puede ser agudo (postraumático) o crónico (por desarrollo muscular en atletas)."
+            },
+            {
+              "text": "Solo agudo",
+              "isCorrect": false,
+              "rationale": "Existe también la forma crónica."
+            },
+            {
+              "text": "Únicamente crónico",
+              "isCorrect": false,
+              "rationale": "La forma aguda es la más urgente."
+            },
+            {
+              "text": "Infeccioso y traumático",
+              "isCorrect": false,
+              "rationale": "Se clasifica en agudo y crónico según su evolución."
+            }
+          ],
+          "hint": "El agudo es emergencia quirúrgica; el crónico ocurre en atletas."
+        },
+        {
+          "question": "¿Qué causa el síndrome compartimental agudo?",
+          "options": [
+            {
+              "text": "Traumatismo con o sin fractura, produciendo hemorragia y edema en espacio cerrado",
+              "isCorrect": true,
+              "rationale": "El agudo generalmente se debe a traumatismo con hemorragia y edema dentro del espacio cerrado del compartimento."
+            },
+            {
+              "text": "Solo por fracturas óseas",
+              "isCorrect": false,
+              "rationale": "Puede ocurrir también sin fractura."
+            },
+            {
+              "text": "Exclusivamente por infecciones",
+              "isCorrect": false,
+              "rationale": "La causa principal es traumática."
+            },
+            {
+              "text": "Únicamente por ejercicio excesivo",
+              "isCorrect": false,
+              "rationale": "Esto causa la forma crónica."
+            }
+          ],
+          "hint": "Es una emergencia quirúrgica."
+        },
+        {
+          "question": "¿Qué síntomas presenta el síndrome compartimental agudo?",
+          "options": [
+            {
+              "text": "Dolor progresivo muy intenso, tumefacción tensa y relajación muscular",
+              "isCorrect": true,
+              "rationale": "El agudo presenta dolor progresivo intenso, tumefacción tensa y relajación de los músculos del compartimento."
+            },
+            {
+              "text": "Solo dolor leve",
+              "isCorrect": false,
+              "rationale": "El dolor es muy intenso y progresivo."
+            },
+            {
+              "text": "Ausencia de dolor",
+              "isCorrect": false,
+              "rationale": "El dolor intenso es característico."
+            },
+            {
+              "text": "Rigidez articular exclusivamente",
+              "isCorrect": false,
+              "rationale": "Los síntomas son musculares y de presión."
+            }
+          ],
+          "hint": "El dolor es desproporcionado a la lesión inicial."
+        },
+        {
+          "question": "¿Cuál es el tratamiento del síndrome compartimental agudo?",
+          "options": [
+            {
+              "text": "Fasciotomía para descomprimir la región",
+              "isCorrect": true,
+              "rationale": "El tratamiento del síndrome compartimental agudo incluye una fasciotomía que permite descomprimir la región."
+            },
+            {
+              "text": "Solo antibióticos",
+              "isCorrect": false,
+              "rationale": "No es una infección, es un problema de presión."
+            },
+            {
+              "text": "Reposo exclusivamente",
+              "isCorrect": false,
+              "rationale": "Requiere intervención quirúrgica urgente."
+            },
+            {
+              "text": "Medicación antiinflamatoria",
+              "isCorrect": false,
+              "rationale": "El tratamiento es quirúrgico: fasciotomía."
+            }
+          ],
+          "hint": "Es una emergencia quirúrgica que requiere descompresión."
+        },
+        {
+          "question": "¿Qué es la fascitis?",
+          "options": [
+            {
+              "text": "La inflamación de una fascia",
+              "isCorrect": true,
+              "rationale": "La fascitis es la inflamación de una fascia."
+            },
+            {
+              "text": "La inflamación de un músculo",
+              "isCorrect": false,
+              "rationale": "La inflamación del músculo es miositis."
+            },
+            {
+              "text": "La inflamación de un tendón",
+              "isCorrect": false,
+              "rationale": "La inflamación del tendón es tendinitis."
+            },
+            {
+              "text": "La inflamación de una articulación",
+              "isCorrect": false,
+              "rationale": "La inflamación articular es artritis."
+            }
+          ],
+          "hint": "El sufijo '-itis' indica inflamación."
+        },
+        {
+          "question": "¿Qué causa puede tener la fascitis?",
+          "options": [
+            {
+              "text": "Causa infecciosa o traumática",
+              "isCorrect": true,
+              "rationale": "La fascitis puede ser de causa infecciosa o traumática."
+            },
+            {
+              "text": "Solo infecciosa",
+              "isCorrect": false,
+              "rationale": "También puede ser traumática."
+            },
+            {
+              "text": "Exclusivamente traumática",
+              "isCorrect": false,
+              "rationale": "Puede ser infecciosa."
+            },
+            {
+              "text": "Únicamente autoinmune",
+              "isCorrect": false,
+              "rationale": "Las causas principales son infecciosa y traumática."
+            }
+          ],
+          "hint": "Puede deberse a gérmenes o a lesiones."
+        },
+        {
+          "question": "¿Qué es la fascitis necrosante?",
+          "options": [
+            {
+              "text": "Una infección grave que se extiende por el tejido subcutáneo y fascia, produciendo necrosis",
+              "isCorrect": true,
+              "rationale": "La fascitis necrosante es la más común de las fascitis infecciosas, se extiende por el tejido subcutáneo y fascia produciendo necrosis."
+            },
+            {
+              "text": "Una fascitis leve",
+              "isCorrect": false,
+              "rationale": "Es una infección muy grave."
+            },
+            {
+              "text": "Una inflamación crónica",
+              "isCorrect": false,
+              "rationale": "Es aguda y grave, requiere tratamiento urgente."
+            },
+            {
+              "text": "Un tipo de fascitis traumática",
+              "isCorrect": false,
+              "rationale": "Es de causa infecciosa."
+            }
+          ],
+          "hint": "Es una infección muy grave que requiere tratamiento antibiótico y remoción de tejido."
+        },
+        {
+          "question": "¿Qué tratamiento requiere la fascitis necrosante?",
+          "options": [
+            {
+              "text": "Tratamiento antibiótico enérgico y remoción del tejido afectado",
+              "isCorrect": true,
+              "rationale": "La fascitis necrosante requiere tratamiento antibiótico enérgico y la remoción del tejido afectado."
+            },
+            {
+              "text": "Solo antibióticos orales",
+              "isCorrect": false,
+              "rationale": "Requiere tratamiento enérgico y remoción de tejido."
+            },
+            {
+              "text": "Únicamente reposo",
+              "isCorrect": false,
+              "rationale": "Es una emergencia que requiere tratamiento agresivo."
+            },
+            {
+              "text": "Medicación antiinflamatoria exclusivamente",
+              "isCorrect": false,
+              "rationale": "Requiere antibióticos y desbridamiento quirúrgico."
+            }
+          ],
+          "hint": "Es una emergencia que requiere tratamiento agresivo."
+        },
+        {
+          "question": "¿Qué es la fascitis plantar?",
+          "options": [
+            {
+              "text": "Inflamación aguda de la aponeurosis plantar con dolor en talón o planta del pie",
+              "isCorrect": true,
+              "rationale": "La fascitis plantar es una inflamación de la aponeurosis plantar con dolor en el talón o planta del pie."
+            },
+            {
+              "text": "Inflamación del músculo de la pantorrilla",
+              "isCorrect": false,
+              "rationale": "Afecta la aponeurosis plantar del pie."
+            },
+            {
+              "text": "Inflamación del tendón de Aquiles",
+              "isCorrect": false,
+              "rationale": "Afecta la aponeurosis plantar, no el tendón."
+            },
+            {
+              "text": "Infección del pie",
+              "isCorrect": false,
+              "rationale": "Es una inflamación, no necesariamente infección."
+            }
+          ],
+          "hint": "Afecta la planta del pie, dolor más intenso por las mañanas."
+        },
+        {
+          "question": "¿Qué causa la fascitis plantar según el texto?",
+          "options": [
+            {
+              "text": "Pequeños traumatismos repetidos, malas posturas o trabajo excesivo de la región",
+              "isCorrect": true,
+              "rationale": "Se debe a pequeños traumatismos repetidos, malas posturas, trabajo excesivo (correr, saltar)."
+            },
+            {
+              "text": "Solo traumatismos intensos",
+              "isCorrect": false,
+              "rationale": "Suele deberse a pequeños traumatismos repetidos."
+            },
+            {
+              "text": "Exclusivamente infecciones",
+              "isCorrect": false,
+              "rationale": "No es de causa infecciosa."
+            },
+            {
+              "text": "Únicamente por uso de calzado inadecuado",
+              "isCorrect": false,
+              "rationale": "Puede ser por múltiples causas de sobrecarga."
+            }
+          ],
+          "hint": "Es por microtraumatismos repetidos, no por un solo evento traumático."
+        },
+        {
+          "question": "¿Qué son las aponeurosis?",
+          "options": [
+            {
+              "text": "Láminas gruesas de tejido conectivo fibroso denso, son tendones aplanados",
+              "isCorrect": true,
+              "rationale": "Las aponeurosis son láminas gruesas de tejido conectivo fibroso denso; son tendones aplanados."
+            },
+            {
+              "text": "Un tipo de fascia",
+              "isCorrect": false,
+              "rationale": "El texto especifica que las aponeurosis no son fascias."
+            },
+            {
+              "text": "Membranas serosas",
+              "isCorrect": false,
+              "rationale": "Son de tejido conectivo fibroso, no serosas."
+            },
+            {
+              "text": "Ligamentos anchos",
+              "isCorrect": false,
+              "rationale": "Son tendones aplanados."
+            }
+          ],
+          "hint": "Son tendones en forma de lámina."
+        }
+      ]
+    }
+  ]
+},
+
+  "anato-cardiovascular": {
+    "titulo": "Sistema Cardiovascular",
+    "descripcion": "Corazón, arterias, venas, capilares, circulación sistémica y pulmonar",
+    "totalPreguntas": 155,
+    "partes": [
+    {
+        "id": 1,
+        "nombre": "Parte 1",
+        "preguntas": 15,
+        "data": [
+            {
+                "question": "¿Qué estudia la angiología?",
+                "options": [
+                    {
+                        "text": "El sistema que asegura la circulación de sangre, quilo y linfa",
+                        "isCorrect": true,
+                        "rationale": "La angiología estudia el sistema que asegura la circulación de la sangre, del quilo y de la linfa en todo el organismo."
+                    },
+                    {
+                        "text": "Solo el corazón",
+                        "isCorrect": false,
+                        "rationale": "La cardiología estudia el corazón; la angiología es más amplia."
+                    },
+                    {
+                        "text": "Solo los vasos sanguíneos",
+                        "isCorrect": false,
+                        "rationale": "Incluye también el corazón y los vasos linfáticos."
+                    },
+                    {
+                        "text": "El sistema nervioso",
+                        "isCorrect": false,
+                        "rationale": "El sistema nervioso es estudiado por la neurología."
+                    }
+                ],
+                "hint": "Incluye todo el sistema circulatorio: sangre y linfa."
+            },
+            {
+                "question": "¿Qué comprende el sistema cardiovascular?",
+                "options": [
+                    {
+                        "text": "Un órgano central (corazón) y conductos (arterias, venas, capilares, linfáticos)",
+                        "isCorrect": true,
+                        "rationale": "El sistema cardiovascular comprende un órgano central de impulsión (corazón) y un conjunto de conductos (arterias, venas, capilares y vasos linfáticos)."
+                    },
+                    {
+                        "text": "Solo el corazón y las arterias",
+                        "isCorrect": false,
+                        "rationale": "Incluye también venas, capilares y vasos linfáticos."
+                    },
+                    {
+                        "text": "Solo los vasos sanguíneos",
+                        "isCorrect": false,
+                        "rationale": "El corazón es parte fundamental del sistema cardiovascular."
+                    },
+                    {
+                        "text": "Corazón, pulmones y vasos",
+                        "isCorrect": false,
+                        "rationale": "Los pulmones no son parte del sistema cardiovascular."
+                    }
+                ],
+                "hint": "Tiene un componente de bombeo y una red de conductos."
+            },
+            {
+                "question": "¿Cómo está compuesto el corazón?",
+                "options": [
+                    {
+                        "text": "Dos mitades (derecha e izquierda) con dos cavidades cada una",
+                        "isCorrect": true,
+                        "rationale": "El corazón tiene un corazón derecho y un corazón izquierdo, cada uno con un atrio y un ventrículo."
+                    },
+                    {
+                        "text": "Una sola cavidad",
+                        "isCorrect": false,
+                        "rationale": "El corazón tiene cuatro cavidades: dos atrios y dos ventrículos."
+                    },
+                    {
+                        "text": "Tres cavidades",
+                        "isCorrect": false,
+                        "rationale": "Tiene cuatro cavidades, no tres."
+                    },
+                    {
+                        "text": "Solo ventrículos",
+                        "isCorrect": false,
+                        "rationale": "Tiene dos atrios y dos ventrículos."
+                    }
+                ],
+                "hint": "Total de cuatro cavidades en el corazón."
+            },
+            {
+                "question": "¿Qué separa al corazón derecho del corazón izquierdo?",
+                "options": [
+                    {
+                        "text": "Un tabique",
+                        "isCorrect": true,
+                        "rationale": "El corazón derecho y el corazón izquierdo están separados por un tabique."
+                    },
+                    {
+                        "text": "Válvulas",
+                        "isCorrect": false,
+                        "rationale": "Las válvulas separan atrios de ventrículos, no los dos corazones entre sí."
+                    },
+                    {
+                        "text": "El pericardio",
+                        "isCorrect": false,
+                        "rationale": "El pericardio envuelve todo el corazón externamente."
+                    },
+                    {
+                        "text": "La aorta",
+                        "isCorrect": false,
+                        "rationale": "La aorta es un vaso que sale del ventrículo izquierdo."
+                    }
+                ],
+                "hint": "Es una pared interna que divide el corazón en dos."
+            },
+            {
+                "question": "¿Qué estructura comunica cada atrio con su ventrículo correspondiente?",
+                "options": [
+                    {
+                        "text": "Un orificio provisto de válvulas",
+                        "isCorrect": true,
+                        "rationale": "Cada atrio comunica con el ventrículo correspondiente por un orificio provisto de válvulas que aseguran circulación en sentido único."
+                    },
+                    {
+                        "text": "Un tabique",
+                        "isCorrect": false,
+                        "rationale": "Los tabiques separan, no comunican."
+                    },
+                    {
+                        "text": "Un vaso sanguíneo",
+                        "isCorrect": false,
+                        "rationale": "La comunicación es directa dentro del corazón, no por vasos."
+                    },
+                    {
+                        "text": "Una pared muscular",
+                        "isCorrect": false,
+                        "rationale": "Las paredes separan, no comunican."
+                    }
+                ],
+                "hint": "Es una abertura con estructuras que permiten flujo unidireccional."
+            },
+            {
+                "question": "¿De dónde llegan las venas al corazón?",
+                "options": [
+                    {
+                        "text": "A los atrios",
+                        "isCorrect": true,
+                        "rationale": "A los atrios (aurículas) llegan las venas."
+                    },
+                    {
+                        "text": "A los ventrículos",
+                        "isCorrect": false,
+                        "rationale": "De los ventrículos parten las arterias; las venas llegan a los atrios."
+                    },
+                    {
+                        "text": "Al tabique",
+                        "isCorrect": false,
+                        "rationale": "El tabique es una pared separadora, no recibe venas."
+                    },
+                    {
+                        "text": "Al pericardio",
+                        "isCorrect": false,
+                        "rationale": "El pericardio es la membrana externa que envuelve el corazón."
+                    }
+                ],
+                "hint": "Las aurículas reciben sangre, los ventrículos la bombean."
+            },
+            {
+                "question": "¿De dónde parten las arterias del corazón?",
+                "options": [
+                    {
+                        "text": "De los ventrículos",
+                        "isCorrect": true,
+                        "rationale": "De los ventrículos parten las arterias: aorta o tronco pulmonar."
+                    },
+                    {
+                        "text": "De los atrios",
+                        "isCorrect": false,
+                        "rationale": "A los atrios llegan las venas; de los ventrículos parten las arterias."
+                    },
+                    {
+                        "text": "Del pericardio",
+                        "isCorrect": false,
+                        "rationale": "El pericardio es una membrana, no origen de arterias."
+                    },
+                    {
+                        "text": "Del tabique",
+                        "isCorrect": false,
+                        "rationale": "El tabique separa cavidades, no es origen de vasos."
+                    }
+                ],
+                "hint": "Los ventrículos bombean sangre hacia las arterias."
+            },
+            {
+                "question": "¿Qué es el miocardio?",
+                "options": [
+                    {
+                        "text": "El músculo que forma el corazón",
+                        "isCorrect": true,
+                        "rationale": "El corazón está formado por un músculo con propiedades particulares: el miocardio."
+                    },
+                    {
+                        "text": "La membrana interna del corazón",
+                        "isCorrect": false,
+                        "rationale": "La membrana interna es el endocardio."
+                    },
+                    {
+                        "text": "La membrana externa del corazón",
+                        "isCorrect": false,
+                        "rationale": "La membrana externa es el epicardio."
+                    },
+                    {
+                        "text": "El saco que envuelve el corazón",
+                        "isCorrect": false,
+                        "rationale": "Ese es el pericardio."
+                    }
+                ],
+                "hint": "Es el tejido muscular cardíaco especializado."
+            },
+            {
+                "question": "¿Qué es el endocardio?",
+                "options": [
+                    {
+                        "text": "El revestimiento interno del corazón",
+                        "isCorrect": true,
+                        "rationale": "El miocardio está tapizado interiormente por el endocardio."
+                    },
+                    {
+                        "text": "El músculo cardíaco",
+                        "isCorrect": false,
+                        "rationale": "El músculo cardíaco es el miocardio."
+                    },
+                    {
+                        "text": "El revestimiento externo del corazón",
+                        "isCorrect": false,
+                        "rationale": "El revestimiento externo es el epicardio."
+                    },
+                    {
+                        "text": "El saco fibroso que envuelve el corazón",
+                        "isCorrect": false,
+                        "rationale": "Ese es el pericardio."
+                    }
+                ],
+                "hint": "'Endo' significa dentro, es la capa interna."
+            },
+            {
+                "question": "¿Qué es el epicardio?",
+                "options": [
+                    {
+                        "text": "El revestimiento externo del corazón",
+                        "isCorrect": true,
+                        "rationale": "El miocardio está tapizado exteriormente por el epicardio."
+                    },
+                    {
+                        "text": "El músculo cardíaco",
+                        "isCorrect": false,
+                        "rationale": "El músculo cardíaco es el miocardio."
+                    },
+                    {
+                        "text": "El revestimiento interno del corazón",
+                        "isCorrect": false,
+                        "rationale": "El revestimiento interno es el endocardio."
+                    },
+                    {
+                        "text": "El saco que separa el corazón de órganos vecinos",
+                        "isCorrect": false,
+                        "rationale": "Ese es el pericardio."
+                    }
+                ],
+                "hint": "'Epi' significa sobre, es la capa más externa del corazón."
+            },
+            {
+                "question": "¿Qué es el pericardio?",
+                "options": [
+                    {
+                        "text": "El conjunto fibroseroso que separa el corazón de los órganos vecinos",
+                        "isCorrect": true,
+                        "rationale": "El corazón está rodeado por el pericardio, conjunto fibroseroso que lo separa de los órganos vecinos."
+                    },
+                    {
+                        "text": "El músculo del corazón",
+                        "isCorrect": false,
+                        "rationale": "El músculo es el miocardio."
+                    },
+                    {
+                        "text": "La válvula cardíaca",
+                        "isCorrect": false,
+                        "rationale": "Las válvulas son estructuras diferentes del pericardio."
+                    },
+                    {
+                        "text": "La cavidad interior del corazón",
+                        "isCorrect": false,
+                        "rationale": "El pericardio es externo al corazón."
+                    }
+                ],
+                "hint": "'Peri' significa alrededor, envuelve el corazón."
+            },
+            {
+                "question": "¿Dónde está situado el corazón?",
+                "options": [
+                    {
+                        "text": "En el tórax, en el mediastino medio",
+                        "isCorrect": true,
+                        "rationale": "El corazón está situado en el tórax, detrás de la pared esternocondrocostal, en la parte inferior del mediastino (mediastino medio)."
+                    },
+                    {
+                        "text": "En el abdomen",
+                        "isCorrect": false,
+                        "rationale": "El corazón está en el tórax, no en el abdomen."
+                    },
+                    {
+                        "text": "En el cuello",
+                        "isCorrect": false,
+                        "rationale": "El corazón está en el tórax, no en el cuello."
+                    },
+                    {
+                        "text": "En el mediastino anterior",
+                        "isCorrect": false,
+                        "rationale": "Está en el mediastino medio, no anterior."
+                    }
+                ],
+                "hint": "Está en el centro del tórax, ligeramente desplazado a la izquierda."
+            },
+            {
+                "question": "¿Qué son las arterias?",
+                "options": [
+                    {
+                        "text": "Conductos que transportan sangre desde el corazón",
+                        "isCorrect": true,
+                        "rationale": "Las arterias son los conductos de transporte de la sangre desde el corazón."
+                    },
+                    {
+                        "text": "Conductos que transportan sangre hacia el corazón",
+                        "isCorrect": false,
+                        "rationale": "Esos son las venas."
+                    },
+                    {
+                        "text": "Vasos microscópicos de intercambio",
+                        "isCorrect": false,
+                        "rationale": "Esos son los capilares."
+                    },
+                    {
+                        "text": "Vasos que transportan linfa",
+                        "isCorrect": false,
+                        "rationale": "Esos son los vasos linfáticos."
+                    }
+                ],
+                "hint": "Las arterias llevan sangre alejándose del corazón."
+            },
+            {
+                "question": "¿De dónde se originan todas las arterias?",
+                "options": [
+                    {
+                        "text": "De la arteria aorta y la arteria pulmonar",
+                        "isCorrect": true,
+                        "rationale": "El origen de todas las arterias se reparte entre la arteria aorta y la arteria pulmonar."
+                    },
+                    {
+                        "text": "Solo de la aorta",
+                        "isCorrect": false,
+                        "rationale": "La arteria pulmonar también es origen de arterias para los pulmones."
+                    },
+                    {
+                        "text": "De los ventrículos directamente",
+                        "isCorrect": false,
+                        "rationale": "Los ventrículos dan origen a la aorta y el tronco pulmonar, que luego se ramifican."
+                    },
+                    {
+                        "text": "De los atrios",
+                        "isCorrect": false,
+                        "rationale": "De los atrios salen venas, no arterias."
+                    }
+                ],
+                "hint": "Dos grandes arterias son el origen de todo el sistema arterial."
+            },
+            {
+                "question": "¿Qué característica tienen las arterias respecto a las válvulas?",
+                "options": [
+                    {
+                        "text": "Están desprovistas de válvulas, salvo los orígenes de aorta y tronco pulmonar",
+                        "isCorrect": true,
+                        "rationale": "Las arterias están desprovistas de válvulas, salvo los orígenes de la aorta y el tronco pulmonar."
+                    },
+                    {
+                        "text": "Tienen válvulas en todo su trayecto",
+                        "isCorrect": false,
+                        "rationale": "Solo tienen válvulas en su origen, no en todo el trayecto."
+                    },
+                    {
+                        "text": "No tienen válvulas en ningún punto",
+                        "isCorrect": false,
+                        "rationale": "Tienen válvulas en sus orígenes (válvulas sigmoideas)."
+                    },
+                    {
+                        "text": "Tienen más válvulas que las venas",
+                        "isCorrect": false,
+                        "rationale": "Las venas tienen muchas más válvulas que las arterias."
+                    }
+                ],
+                "hint": "La presión arterial es tan alta que no necesitan válvulas en su trayecto."
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "nombre": "Parte 2",
+        "preguntas": 15,
+        "data": [
+            {
+                "question": "¿Qué tres túnicas tiene una arteria?",
+                "options": [
+                    {
+                        "text": "Túnica externa (adventicia), media e íntima (endotelio)",
+                        "isCorrect": true,
+                        "rationale": "Una arteria comprende tres túnicas: túnica externa o adventicia, túnica media y túnica íntima o endotelio."
+                    },
+                    {
+                        "text": "Endocardio, miocardio y epicardio",
+                        "isCorrect": false,
+                        "rationale": "Estas son las capas del corazón, no de las arterias."
+                    },
+                    {
+                        "text": "Externa, interna y muscular",
+                        "isCorrect": false,
+                        "rationale": "Los nombres correctos son adventicia, media e íntima."
+                    },
+                    {
+                        "text": "Dermis, epidermis e hipodermis",
+                        "isCorrect": false,
+                        "rationale": "Estas son capas de la piel, no de las arterias."
+                    }
+                ],
+                "hint": "Tres capas concéntricas desde afuera hacia adentro."
+            },
+            {
+                "question": "¿Qué se dispone en la adventicia de la arteria?",
+                "options": [
+                    {
+                        "text": "Los vasa vasorum y la inervación",
+                        "isCorrect": true,
+                        "rationale": "En la adventicia se disponen los vasa vasorum de la arteria y su inervación."
+                    },
+                    {
+                        "text": "Las células musculares",
+                        "isCorrect": false,
+                        "rationale": "Las células musculares están en la túnica media."
+                    },
+                    {
+                        "text": "El endotelio",
+                        "isCorrect": false,
+                        "rationale": "El endotelio está en la túnica íntima."
+                    },
+                    {
+                        "text": "Las fibras elásticas",
+                        "isCorrect": false,
+                        "rationale": "Las fibras elásticas están principalmente en la media."
+                    }
+                ],
+                "hint": "'Vasa vasorum' significa vasos de los vasos."
+            },
+            {
+                "question": "¿Qué función tiene la túnica media de las arterias?",
+                "options": [
+                    {
+                        "text": "Soportar la tensión de la sangre sobre los vasos",
+                        "isCorrect": true,
+                        "rationale": "La túnica media es musculoelástica y tiene como función soportar la tensión de la sangre sobre estos vasos."
+                    },
+                    {
+                        "text": "Nutrir la pared arterial",
+                        "isCorrect": false,
+                        "rationale": "Esta función corresponde a los vasa vasorum en la adventicia."
+                    },
+                    {
+                        "text": "Intercambiar gases",
+                        "isCorrect": false,
+                        "rationale": "Los intercambios ocurren en los capilares, no en las arterias."
+                    },
+                    {
+                        "text": "Inervar el vaso",
+                        "isCorrect": false,
+                        "rationale": "La inervación está en la adventicia."
+                    }
+                ],
+                "hint": "Es la capa más gruesa, con músculo y fibras elásticas."
+            },
+            {
+                "question": "¿Qué es el endotelio arterial?",
+                "options": [
+                    {
+                        "text": "Una monocapa continua que desempeña papel en la hemostasia",
+                        "isCorrect": true,
+                        "rationale": "El endotelio es una monocapa continua que se dispone hacia la luz, desempeña papel fundamental en la hemostasia y es sensible a modificaciones de presión y pH."
+                    },
+                    {
+                        "text": "Una capa de músculo liso",
+                        "isCorrect": false,
+                        "rationale": "El músculo liso está en la túnica media."
+                    },
+                    {
+                        "text": "Un tejido conectivo denso",
+                        "isCorrect": false,
+                        "rationale": "El endotelio es epitelial, no conectivo."
+                    },
+                    {
+                        "text": "Una membrana elástica",
+                        "isCorrect": false,
+                        "rationale": "Las membranas elásticas están en la media."
+                    }
+                ],
+                "hint": "Es la capa más interna en contacto con la sangre."
+            },
+            {
+                "question": "¿Qué caracteriza a las arterias elásticas?",
+                "options": [
+                    {
+                        "text": "Son de gran calibre con capa muscular entre dos membranas elásticas",
+                        "isCorrect": true,
+                        "rationale": "Las arterias elásticas son de gran calibre. Su túnica media tiene una capa muscular entre dos membranas elásticas (interna y externa)."
+                    },
+                    {
+                        "text": "Son de pequeño calibre sin membranas elásticas",
+                        "isCorrect": false,
+                        "rationale": "Eso describe a las arteriolas."
+                    },
+                    {
+                        "text": "Son de calibre mediano sin membrana elástica externa",
+                        "isCorrect": false,
+                        "rationale": "Eso describe a las arterias musculares."
+                    },
+                    {
+                        "text": "Son capilares con esfínter precapilar",
+                        "isCorrect": false,
+                        "rationale": "Los capilares no tienen túnica media."
+                    }
+                ],
+                "hint": "Son las arterias más grandes como la aorta."
+            },
+            {
+                "question": "¿Qué función cumplen las arterias elásticas durante la diástole?",
+                "options": [
+                    {
+                        "text": "Vuelven a su diámetro inicial transformando el flujo pulsátil en laminar",
+                        "isCorrect": true,
+                        "rationale": "Gracias a las membranas elásticas, durante la diástole vuelven a su diámetro inicial, transformando el flujo pulsátil en laminar continuo."
+                    },
+                    {
+                        "text": "Se contraen activamente",
+                        "isCorrect": false,
+                        "rationale": "La recuperación elástica es pasiva, no una contracción activa."
+                    },
+                    {
+                        "text": "Detienen el flujo sanguíneo",
+                        "isCorrect": false,
+                        "rationale": "Mantienen el flujo continuo, no lo detienen."
+                    },
+                    {
+                        "text": "Se dilatan más",
+                        "isCorrect": false,
+                        "rationale": "Durante la diástole vuelven a su diámetro normal, no se dilatan más."
+                    }
+                ],
+                "hint": "Actúan como un 'reservorio' que mantiene el flujo entre latidos."
+            },
+            {
+                "question": "¿Qué caracteriza a las arterias musculares?",
+                "options": [
+                    {
+                        "text": "Calibre mediano sin membrana elástica externa en general",
+                        "isCorrect": true,
+                        "rationale": "Las arterias musculares son de calibre mediano o intermedio y su túnica media no presenta, en general, membrana elástica externa."
+                    },
+                    {
+                        "text": "Gran calibre con dos membranas elásticas",
+                        "isCorrect": false,
+                        "rationale": "Eso caracteriza a las arterias elásticas."
+                    },
+                    {
+                        "text": "Pequeño calibre con poco tejido elástico",
+                        "isCorrect": false,
+                        "rationale": "Eso describe a las arteriolas."
+                    },
+                    {
+                        "text": "Calibre muy pequeño sin túnica media",
+                        "isCorrect": false,
+                        "rationale": "Eso describe a los capilares."
+                    }
+                ],
+                "hint": "Son las arterias de distribución hacia los órganos."
+            },
+            {
+                "question": "¿Qué son las arteriolas?",
+                "options": [
+                    {
+                        "text": "Arterias de pequeño calibre (menor a 0,5 mm) con poco tejido elástico",
+                        "isCorrect": true,
+                        "rationale": "Las arteriolas son de pequeño calibre (inferior a 0,5 mm). Su túnica intermedia tiene poco tejido elástico y escasas fibras de músculo liso."
+                    },
+                    {
+                        "text": "Arterias de gran calibre",
+                        "isCorrect": false,
+                        "rationale": "Las arteriolas son las más pequeñas de las arterias."
+                    },
+                    {
+                        "text": "Capilares agrandados",
+                        "isCorrect": false,
+                        "rationale": "Las arteriolas son arterias, no capilares."
+                    },
+                    {
+                        "text": "Venas pequeñas",
+                        "isCorrect": false,
+                        "rationale": "Las arteriolas son arterias, no venas."
+                    }
+                ],
+                "hint": "Son las arterias más pequeñas antes de los capilares."
+            },
+            {
+                "question": "¿Qué caracteriza a los capilares?",
+                "options": [
+                    {
+                        "text": "Muy pequeño calibre (5-30 micrones) sin túnica intermedia",
+                        "isCorrect": true,
+                        "rationale": "Los capilares son de muy pequeño calibre (5-30 micrones). No presentan túnica intermedia y tienen esfínter precapilar."
+                    },
+                    {
+                        "text": "Calibre de 0,5 mm con túnica media muscular",
+                        "isCorrect": false,
+                        "rationale": "Eso describe a las arteriolas."
+                    },
+                    {
+                        "text": "Gran calibre con membranas elásticas",
+                        "isCorrect": false,
+                        "rationale": "Eso describe a las arterias elásticas."
+                    },
+                    {
+                        "text": "Calibre mediano sin membrana elástica externa",
+                        "isCorrect": false,
+                        "rationale": "Eso describe a las arterias musculares."
+                    }
+                ],
+                "hint": "Son los vasos más pequeños donde ocurre el intercambio."
+            },
+            {
+                "question": "¿Qué estructura presenta el inicio de los capilares?",
+                "options": [
+                    {
+                        "text": "Una dilatación con esfínter precapilar",
+                        "isCorrect": true,
+                        "rationale": "A nivel del inicio de los capilares presentan una dilatación donde la arteriola forma un esfínter precapilar."
+                    },
+                    {
+                        "text": "Una válvula",
+                        "isCorrect": false,
+                        "rationale": "Los capilares no tienen válvulas."
+                    },
+                    {
+                        "text": "Una bifurcación",
+                        "isCorrect": false,
+                        "rationale": "Tienen un esfínter que regula el flujo, no una bifurcación."
+                    },
+                    {
+                        "text": "Un engrosamiento muscular",
+                        "isCorrect": false,
+                        "rationale": "Es un esfínter precapilar, no un engrosamiento general."
+                    }
+                ],
+                "hint": "Regula el ingreso de sangre al capilar."
+            },
+            {
+                "question": "¿Qué zonas NO son nutridas por las arterias?",
+                "options": [
+                    {
+                        "text": "Cartílago hialino, córnea, cristalino, epidermis y faneras",
+                        "isCorrect": true,
+                        "rationale": "Las arterias nutren todo el cuerpo, excepto el cartílago hialino, la córnea, el cristalino, la epidermis y las faneras."
+                    },
+                    {
+                        "text": "El cerebro y la médula espinal",
+                        "isCorrect": false,
+                        "rationale": "El sistema nervioso central tiene rica irrigación arterial."
+                    },
+                    {
+                        "text": "Los músculos esqueléticos",
+                        "isCorrect": false,
+                        "rationale": "Los músculos tienen abundante irrigación arterial."
+                    },
+                    {
+                        "text": "Los huesos",
+                        "isCorrect": false,
+                        "rationale": "Los huesos reciben irrigación arterial a través de nutrientes."
+                    }
+                ],
+                "hint": "Son estructuras avasculares que se nutren por difusión."
+            },
+            {
+                "question": "¿Dónde se disponen las arterias grandes e intermedias?",
+                "options": [
+                    {
+                        "text": "En planos profundos, subfasciales en miembros, retroperitoneales en abdomen",
+                        "isCorrect": true,
+                        "rationale": "Las arterias grandes e intermedias se disponen en planos profundos. En miembros son subfasciales. En abdomen son retroperitoneales."
+                    },
+                    {
+                        "text": "En planos superficiales bajo la piel",
+                        "isCorrect": false,
+                        "rationale": "Solo las pequeñas arterias pueden ser subcutáneas."
+                    },
+                    {
+                        "text": "Dentro de los órganos",
+                        "isCorrect": false,
+                        "rationale": "Las pequeñas arterias son intraviscerales, no las grandes."
+                    },
+                    {
+                        "text": "En el tejido celular subcutáneo",
+                        "isCorrect": false,
+                        "rationale": "Las arterias grandes están profundas, protegidas."
+                    }
+                ],
+                "hint": "Están protegidas en profundidad, cerca del esqueleto."
+            },
+            {
+                "question": "¿Qué son las ramas colaterales de las arterias?",
+                "options": [
+                    {
+                        "text": "Ramas que se desprenden de un tronco arterial",
+                        "isCorrect": true,
+                        "rationale": "Las ramas colaterales son ramas que se desprenden de un tronco arterial."
+                    },
+                    {
+                        "text": "Ramas que marcan la terminación de una arteria",
+                        "isCorrect": false,
+                        "rationale": "Esas son las ramas terminales."
+                    },
+                    {
+                        "text": "Comunicaciones entre dos arterias",
+                        "isCorrect": false,
+                        "rationale": "Esas son las anastomosis."
+                    },
+                    {
+                        "text": "Ramas que van hacia la piel",
+                        "isCorrect": false,
+                        "rationale": "Las colaterales pueden ir a cualquier estructura."
+                    }
+                ],
+                "hint": "Son 'salidas laterales' del vaso principal."
+            },
+            {
+                "question": "¿Qué son las ramas terminales de las arterias?",
+                "options": [
+                    {
+                        "text": "Las ramas que marcan la terminación de una arteria",
+                        "isCorrect": true,
+                        "rationale": "Las ramas terminales son las que marcan la terminación de una arteria."
+                    },
+                    {
+                        "text": "Ramas que salen lateralmente del vaso principal",
+                        "isCorrect": false,
+                        "rationale": "Esas son las ramas colaterales."
+                    },
+                    {
+                        "text": "Comunicaciones entre arterias",
+                        "isCorrect": false,
+                        "rationale": "Esas son las anastomosis."
+                    },
+                    {
+                        "text": "Arteriolas finales",
+                        "isCorrect": false,
+                        "rationale": "Son ramas de distribución terminal, no necesariamente arteriolas."
+                    }
+                ],
+                "hint": "Son el 'final del camino' de una arteria."
+            },
+            {
+                "question": "¿Qué es la distribución plexiforme de las arterias?",
+                "options": [
+                    {
+                        "text": "Cuando las ramas terminales se anastomosan con ramas vecinas",
+                        "isCorrect": true,
+                        "rationale": "En la distribución plexiforme, algunas ramas terminales terminan anastomosándose con las ramas vecinas."
+                    },
+                    {
+                        "text": "Cuando las arterias terminan sin anastomosis",
+                        "isCorrect": false,
+                        "rationale": "Eso es la distribución terminal."
+                    },
+                    {
+                        "text": "Cuando forman una red única sin conexiones",
+                        "isCorrect": false,
+                        "rationale": "La distribución plexiforme implica anastomosis."
+                    },
+                    {
+                        "text": "Cuando todas las ramas van al mismo órgano",
+                        "isCorrect": false,
+                        "rationale": "No se refiere al destino, sino al patrón de conexiones."
+                    }
+                ],
+                "hint": "Forma una red de conexiones entre arterias vecinas."
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "nombre": "Parte 3",
+        "preguntas": 16,
+        "data": [
+            {
+                "question": "¿Qué son las anastomosis arterioarteriales?",
+                "options": [
+                    {
+                        "text": "Comunicaciones intervasculares entre arterias que regulan la distribución de sangre",
+                        "isCorrect": true,
+                        "rationale": "Las anastomosis arterioarteriales constituyen una circulación colateral que regula la distribución de la sangre."
+                    },
+                    {
+                        "text": "Conexiones entre arterias y venas",
+                        "isCorrect": false,
+                        "rationale": "Esas son las anastomosis arteriovenosas."
+                    },
+                    {
+                        "text": "Comunicaciones entre dos venas",
+                        "isCorrect": false,
+                        "rationale": "Esas son las anastomosis venovenosas."
+                    },
+                    {
+                        "text": "Union entre capilares",
+                        "isCorrect": false,
+                        "rationale": "Las anastomosis arterioarteriales son entre arterias, no capilares."
+                    }
+                ],
+                "hint": "Permiten que la sangre fluya entre arterias conectadas."
+            },
+            {
+                "question": "¿Qué es la anastomosis por inosculación?",
+                "options": [
+                    {
+                        "text": "Continuidad entre dos arterias que se unen en su terminación",
+                        "isCorrect": true,
+                        "rationale": "La anastomosis por inosculación forma una continuidad entre dos arterias que se unen en su terminación (p. ej., los arcos palmares)."
+                    },
+                    {
+                        "text": "Un conducto de unión entre dos arterias paralelas",
+                        "isCorrect": false,
+                        "rationale": "Esa es la anastomosis transversal."
+                    },
+                    {
+                        "text": "Fusión de dos arterias en una sola",
+                        "isCorrect": false,
+                        "rationale": "Esa es la anastomosis por convergencia."
+                    },
+                    {
+                        "text": "Conexión entre arteria y vena",
+                        "isCorrect": false,
+                        "rationale": "Esa es la anastomosis arteriovenosa."
+                    }
+                ],
+                "hint": "Ejemplo: los arcos palmares de la mano."
+            },
+            {
+                "question": "¿Qué es la anastomosis transversal?",
+                "options": [
+                    {
+                        "text": "Un conducto de unión entre dos arterias paralelas",
+                        "isCorrect": true,
+                        "rationale": "La anastomosis transversal es un conducto de pequeño calibre que une dos arterias paralelas, permitiendo distribuir sangre entre ellas."
+                    },
+                    {
+                        "text": "Dos arterias que se unen en su terminación",
+                        "isCorrect": false,
+                        "rationale": "Esa es la anastomosis por inosculación."
+                    },
+                    {
+                        "text": "Fusión de dos arterias en una",
+                        "isCorrect": false,
+                        "rationale": "Esa es la anastomosis por convergencia."
+                    },
+                    {
+                        "text": "Conexión entre arteria y vena",
+                        "isCorrect": false,
+                        "rationale": "Esa es la anastomosis arteriovenosa."
+                    }
+                ],
+                "hint": "Es como un 'puente' entre dos arterias que corren paralelas."
+            },
+            {
+                "question": "¿Qué es la anastomosis por convergencia?",
+                "options": [
+                    {
+                        "text": "Dos arterias que se fusionan en una sola",
+                        "isCorrect": true,
+                        "rationale": "En la anastomosis por convergencia, dos arterias se fusionan en una (p. ej., la arteria basilar)."
+                    },
+                    {
+                        "text": "Dos arterias que se unen en su terminación",
+                        "isCorrect": false,
+                        "rationale": "Esa es la anastomosis por inosculación."
+                    },
+                    {
+                        "text": "Un conducto entre arterias paralelas",
+                        "isCorrect": false,
+                        "rationale": "Esa es la anastomosis transversal."
+                    },
+                    {
+                        "text": "Conexión entre arteria y vena",
+                        "isCorrect": false,
+                        "rationale": "Esa es la anastomosis arteriovenosa."
+                    }
+                ],
+                "hint": "Ejemplo: la arteria basilar se forma por fusión de dos vertebrales."
+            },
+            {
+                "question": "¿Qué son las anastomosis arteriovenosas?",
+                "options": [
+                    {
+                        "text": "Desviación entre arteriola y vénula que genera cortocircuito capilar",
+                        "isCorrect": true,
+                        "rationale": "Las anastomosis arteriovenosas son una desviación entre arteriola y vénula que genera un cortocircuito, permitiendo saltear el paso por los capilares."
+                    },
+                    {
+                        "text": "Conexiones entre dos arterias",
+                        "isCorrect": false,
+                        "rationale": "Esas son anastomosis arterioarteriales."
+                    },
+                    {
+                        "text": "Conexiones entre dos venas",
+                        "isCorrect": false,
+                        "rationale": "Esas son anastomosis venovenosas."
+                    },
+                    {
+                        "text": "Comunicaciones entre capilares",
+                        "isCorrect": false,
+                        "rationale": "Las arteriovenosas son entre arteriola y vénula, no entre capilares."
+                    }
+                ],
+                "hint": "Permiten que la sangre pase directamente de arterias a venas."
+            },
+            {
+                "question": "¿Cuál es la función de las anastomosis arteriovenosas?",
+                "options": [
+                    {
+                        "text": "Sistema de regulación de la circulación por diferentes tejidos",
+                        "isCorrect": true,
+                        "rationale": "Es un sistema de regulación de la circulación por diferentes tejidos, que puede convertirse en circulación con doble sentido."
+                    },
+                    {
+                        "text": "Aumentar la presión arterial",
+                        "isCorrect": false,
+                        "rationale": "No regulan presión, regulan distribución de flujo."
+                    },
+                    {
+                        "text": "Disminuir el retorno venoso",
+                        "isCorrect": false,
+                        "rationale": "Pueden aumentar el retorno venoso al saltear capilares."
+                    },
+                    {
+                        "text": "Mejorar la oxigenación tisular",
+                        "isCorrect": false,
+                        "rationale": "Al saltear capilares, no mejoran oxigenación directamente."
+                    }
+                ],
+                "hint": "Regulan el flujo sanguíneo según las necesidades del tejido."
+            },
+            {
+                "question": "¿Qué es la arteriosclerosis?",
+                "options": [
+                    {
+                        "text": "Término que incluye enfermedades vasculares con engrosamiento y pérdida de elasticidad",
+                        "isCorrect": true,
+                        "rationale": "La arteriosclerosis es un término que incluye distintas enfermedades vasculares que llevan al engrosamiento y la pérdida de elasticidad de la pared arterial."
+                    },
+                    {
+                        "text": "Inflamación de la pared arterial",
+                        "isCorrect": false,
+                        "rationale": "La inflamación arterial es la arteritis."
+                    },
+                    {
+                        "text": "Dilatación permanente de una arteria",
+                        "isCorrect": false,
+                        "rationale": "La dilatación permanente es un aneurisma."
+                    },
+                    {
+                        "text": "Obstrucción arterial por coágulo",
+                        "isCorrect": false,
+                        "rationale": "La obstrucción por coágulo es trombosis."
+                    }
+                ],
+                "hint": "'Esclerosis' significa endurecimiento."
+            },
+            {
+                "question": "¿Qué es la aterosclerosis?",
+                "options": [
+                    {
+                        "text": "Formación progresiva de placas fibrosas con núcleo de colesterol en la arteria",
+                        "isCorrect": true,
+                        "rationale": "La aterosclerosis es la forma más frecuente de arteriosclerosis, caracterizada por placas fibrosas con núcleo de colesterol y lípidos que sobresalen hacia la luz."
+                    },
+                    {
+                        "text": "Inflamación de la pared arterial",
+                        "isCorrect": false,
+                        "rationale": "Eso es la arteritis."
+                    },
+                    {
+                        "text": "Dilatación anormal de la arteria",
+                        "isCorrect": false,
+                        "rationale": "Eso es el aneurisma."
+                    },
+                    {
+                        "text": "Rotura de la pared arterial",
+                        "isCorrect": false,
+                        "rationale": "La rotura es una complicación, no la definición de aterosclerosis."
+                    }
+                ],
+                "hint": "'Atero' se refiere a la placa de lípidos (como 'ateroma')."
+            },
+            {
+                "question": "¿Qué consecuencias tiene la aterosclerosis?",
+                "options": [
+                    {
+                        "text": "Estenosis de la arteria, obstrucción del flujo y aumento de riesgo de isquemia",
+                        "isCorrect": true,
+                        "rationale": "La aterosclerosis produce estenosis de la arteria, obstrucción del flujo sanguíneo y aumento de probabilidades de desarrollar episodios de isquemia en diferentes órganos."
+                    },
+                    {
+                        "text": "Dilatación de la arteria",
+                        "isCorrect": false,
+                        "rationale": "La aterosclerosis estrecha, no dilata."
+                    },
+                    {
+                        "text": "Aumento del flujo sanguíneo",
+                        "isCorrect": false,
+                        "rationale": "Disminuye el flujo por la estenosis."
+                    },
+                    {
+                        "text": "Mejora de la elasticidad arterial",
+                        "isCorrect": false,
+                        "rationale": "La arteriosclerosis causa pérdida de elasticidad."
+                    }
+                ],
+                "hint": "Las placas reducen el espacio interno de la arteria."
+            },
+            {
+                "question": "¿Qué es la arteritis (vasculitis)?",
+                "options": [
+                    {
+                        "text": "Inflamación de la pared de los vasos que puede ser autoinmunitaria o por lesión directa",
+                        "isCorrect": true,
+                        "rationale": "La arteritis o vasculitis es la inflamación de la pared de los vasos. Puede ser de etiología autoinmunitaria o por lesión directa (toxinas, radiación, infecciones)."
+                    },
+                    {
+                        "text": "Endurecimiento de la pared arterial",
+                        "isCorrect": false,
+                        "rationale": "Eso es la arteriosclerosis."
+                    },
+                    {
+                        "text": "Dilatación de la arteria",
+                        "isCorrect": false,
+                        "rationale": "Eso es el aneurisma."
+                    },
+                    {
+                        "text": "Obstrucción por coágulo",
+                        "isCorrect": false,
+                        "rationale": "Eso es la trombosis."
+                    }
+                ],
+                "hint": "El sufijo '-itis' siempre indica inflamación."
+            },
+            {
+                "question": "¿Qué manifestaciones clínicas puede presentar la arteritis?",
+                "options": [
+                    {
+                        "text": "Fiebre, dolores musculares, dolores articulares y malestar general",
+                        "isCorrect": true,
+                        "rationale": "La arteritis puede presentar fiebre, dolores musculares, dolores articulares y malestar general, ya que afecta vasos de distinto calibre y localización."
+                    },
+                    {
+                        "text": "Solo dolor localizado",
+                        "isCorrect": false,
+                        "rationale": "Las manifestaciones son más sistémicas."
+                    },
+                    {
+                        "text": "Solo síntomas cutáneos",
+                        "isCorrect": false,
+                        "rationale": "Afecta múltiples órganos y sistemas."
+                    },
+                    {
+                        "text": "Asintomática siempre",
+                        "isCorrect": false,
+                        "rationale": "Generalmente produce síntomas sistémicos."
+                    }
+                ],
+                "hint": "Es una enfermedad inflamatoria sistémica."
+            },
+            {
+                "question": "¿Cómo se diagnostica habitualmente la arteritis?",
+                "options": [
+                    {
+                        "text": "Mediante biopsia de la pared del vaso",
+                        "isCorrect": true,
+                        "rationale": "Habitualmente el diagnóstico de arteritis se realiza mediante la biopsia de la pared del vaso."
+                    },
+                    {
+                        "text": "Solo con análisis de sangre",
+                        "isCorrect": false,
+                        "rationale": "Los análisis ayudan pero el diagnóstico definitivo es por biopsia."
+                    },
+                    {
+                        "text": "Solo con ecografía",
+                        "isCorrect": false,
+                        "rationale": "La ecografía puede sugerir pero no reemplaza la biopsia."
+                    },
+                    {
+                        "text": "Con radiografía",
+                        "isCorrect": false,
+                        "rationale": "La radiografía no es útil para diagnosticar inflamación vascular."
+                    }
+                ],
+                "hint": "Se necesita muestra del tejido vascular afectado."
+            },
+            {
+                "question": "¿Qué son los aneurismas?",
+                "options": [
+                    {
+                        "text": "Dilataciones permanentes y localizadas de una arteria",
+                        "isCorrect": true,
+                        "rationale": "Los aneurismas son dilataciones permanentes y localizadas de una arteria."
+                    },
+                    {
+                        "text": "Estrechamiento de una arteria",
+                        "isCorrect": false,
+                        "rationale": "El estrechamiento es estenosis."
+                    },
+                    {
+                        "text": "Inflamación de la pared arterial",
+                        "isCorrect": false,
+                        "rationale": "Eso es la arteritis."
+                    },
+                    {
+                        "text": "Obstrucción completa de una arteria",
+                        "isCorrect": false,
+                        "rationale": "Eso es la oclusión arterial."
+                    }
+                ],
+                "hint": "'Aneurisma' viene del griego 'ensanchar'."
+            },
+            {
+                "question": "¿Cuál es la complicación más grave de los aneurismas?",
+                "options": [
+                    {
+                        "text": "La rotura que ocasiona hemorragia",
+                        "isCorrect": true,
+                        "rationale": "La complicación más grave que pueden presentar los aneurismas es su rotura, que ocasiona una gran hemorragia."
+                    },
+                    {
+                        "text": "La infección",
+                        "isCorrect": false,
+                        "rationale": "La rotura es mucho más grave y potencialmente mortal."
+                    },
+                    {
+                        "text": "El dolor crónico",
+                        "isCorrect": false,
+                        "rationale": "El dolor es síntoma, pero la rotura es la complicación grave."
+                    },
+                    {
+                        "text": "La trombosis",
+                        "isCorrect": false,
+                        "rationale": "La trombosis puede ocurrir, pero la rotura es más grave."
+                    }
+                ],
+                "hint": "Puede causar muerte por hemorragia interna masiva."
+            },
+            {
+                "question": "¿Qué arterias se afectan con mayor frecuencia por aneurismas?",
+                "options": [
+                    {
+                        "text": "La aorta y las de la base del cerebro",
+                        "isCorrect": true,
+                        "rationale": "Las arterias afectadas con mayor frecuencia por aneurismas son la aorta y las de la base del cerebro."
+                    },
+                    {
+                        "text": "Las arterias de los miembros",
+                        "isCorrect": false,
+                        "rationale": "Los aneurismas son más frecuentes en aorta y cerebro."
+                    },
+                    {
+                        "text": "Las arterias renales",
+                        "isCorrect": false,
+                        "rationale": "Pueden ocurrir, pero son menos frecuentes."
+                    },
+                    {
+                        "text": "Las arterias coronarias",
+                        "isCorrect": false,
+                        "rationale": "Pueden ocurrir, pero son menos frecuentes que en aorta y cerebro."
+                    }
+                ],
+                "hint": "Son los vasos de mayor calibre y presión."
+            },
+            {
+                "question": "¿Qué ocurre con la rotura o corte de un vaso?",
+                "options": [
+                    {
+                        "text": "Extravasación de sangre (hemorragia) que puede ser externa o interna",
+                        "isCorrect": true,
+                        "rationale": "La rotura o el corte de un vaso provoca una extravasación de sangre (hemorragia). Si sale del cuerpo es externa; si se acumula en cavidades, es interna."
+                    },
+                    {
+                        "text": "Siempre hemorragia externa visible",
+                        "isCorrect": false,
+                        "rationale": "Puede ser interna y no visible externamente."
+                    },
+                    {
+                        "text": "Siempre formación de coágulo",
+                        "isCorrect": false,
+                        "rationale": "El coágulo puede formarse, pero el problema inicial es la hemorragia."
+                    },
+                    {
+                        "text": "Detención inmediata del flujo",
+                        "isCorrect": false,
+                        "rationale": "La sangre sale del vaso; no se detiene inmediatamente."
+                    }
+                ],
+                "hint": "Puede ser visible fuera del cuerpo o acumularse adentro."
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "nombre": "Parte 4",
+        "preguntas": 15,
+        "data": [
+            {
+                "question": "¿Qué son las venas?",
+                "options": [
+                    {
+                        "text": "Vías de conducción que llevan sangre desde los tejidos hacia el corazón",
+                        "isCorrect": true,
+                        "rationale": "Las venas son vías de conducción que llevan sangre desde los tejidos, de retorno al corazón."
+                    },
+                    {
+                        "text": "Vasos que llevan sangre desde el corazón",
+                        "isCorrect": false,
+                        "rationale": "Esos son las arterias."
+                    },
+                    {
+                        "text": "Vasos microscópicos de intercambio",
+                        "isCorrect": false,
+                        "rationale": "Esos son los capilares."
+                    },
+                    {
+                        "text": "Vasos que transportan linfa",
+                        "isCorrect": false,
+                        "rationale": "Esos son los vasos linfáticos."
+                    }
+                ],
+                "hint": "Las venas devuelven la sangre al corazón."
+            },
+            {
+                "question": "¿Qué tres capas tiene la pared de las venas?",
+                "options": [
+                    {
+                        "text": "Túnica íntima, túnica media y túnica externa (adventicia)",
+                        "isCorrect": true,
+                        "rationale": "La pared de las venas tiene una túnica interna o íntima, una túnica media y una túnica externa o adventicia."
+                    },
+                    {
+                        "text": "Endocardio, miocardio y pericardio",
+                        "isCorrect": false,
+                        "rationale": "Estas son capas del corazón."
+                    },
+                    {
+                        "text": "Epidermis, dermis e hipodermis",
+                        "isCorrect": false,
+                        "rationale": "Estas son capas de la piel."
+                    },
+                    {
+                        "text": "Interna, muscular y serosa",
+                        "isCorrect": false,
+                        "rationale": "Los nombres correctos son íntima, media y adventicia."
+                    }
+                ],
+                "hint": "Similar estructura que las arterias, pero más delgadas."
+            },
+            {
+                "question": "¿Qué constituye la túnica íntima de las venas?",
+                "options": [
+                    {
+                        "text": "Capa de células endoteliales sobre membrana basal y tejido conectivo",
+                        "isCorrect": true,
+                        "rationale": "La capa íntima está constituida por células endoteliales fusiformes sobre una membrana basal y una delgada capa de tejido conectivo subendotelial."
+                    },
+                    {
+                        "text": "Células musculares lisas circulares",
+                        "isCorrect": false,
+                        "rationale": "Estas están en la túnica media."
+                    },
+                    {
+                        "text": "Fibras de colágeno longitudinales",
+                        "isCorrect": false,
+                        "rationale": "Estas están en la adventicia."
+                    },
+                    {
+                        "text": "Tejido adiposo",
+                        "isCorrect": false,
+                        "rationale": "El tejido adiposo está alrededor de algunos vasos, no en la íntima."
+                    }
+                ],
+                "hint": "Es la capa más interna en contacto con la sangre."
+            },
+            {
+                "question": "¿Cuál es la función principal de la túnica íntima venosa?",
+                "options": [
+                    {
+                        "text": "Intercambio de líquidos y gases entre las células y la sangre",
+                        "isCorrect": true,
+                        "rationale": "La función principal de la túnica íntima es el intercambio de líquidos y gases (intercambio metabólico) entre las células y la sangre."
+                    },
+                    {
+                        "text": "Regular el flujo sanguíneo",
+                        "isCorrect": false,
+                        "rationale": "Esa es función de la túnica media."
+                    },
+                    {
+                        "text": "Relacionar el vaso con las estructuras vecinas",
+                        "isCorrect": false,
+                        "rationale": "Esa es función de la adventicia."
+                    },
+                    {
+                        "text": "Producir células sanguíneas",
+                        "isCorrect": false,
+                        "rationale": "La hematopoyesis ocurre en la médula ósea, no en las venas."
+                    }
+                ],
+                "hint": "Permite el paso de sustancias a través de la pared."
+            },
+            {
+                "question": "¿Qué forma la túnica media de las venas?",
+                "options": [
+                    {
+                        "text": "Células musculares lisas, fibras elásticas, fibras de colágeno y proteoglicanos",
+                        "isCorrect": true,
+                        "rationale": "La capa media está formada por células musculares lisas, fibras elásticas, fibras de colágeno y proteoglicanos en disposición circular."
+                    },
+                    {
+                        "text": "Solo células endoteliales",
+                        "isCorrect": false,
+                        "rationale": "El endotelio está en la íntima."
+                    },
+                    {
+                        "text": "Solo tejido conectivo fibroso",
+                        "isCorrect": false,
+                        "rationale": "También tiene músculo liso y fibras elásticas."
+                    },
+                    {
+                        "text": "Solo fibras musculares estriadas",
+                        "isCorrect": false,
+                        "rationale": "Las venas tienen músculo liso, no estriado."
+                    }
+                ],
+                "hint": "Es más delgada que en las arterias pero tiene músculo."
+            },
+            {
+                "question": "¿Cuál es la función de la túnica media venosa?",
+                "options": [
+                    {
+                        "text": "Regular el flujo sanguíneo",
+                        "isCorrect": true,
+                        "rationale": "La túnica media tiene como función regular el flujo sanguíneo mediante la contracción del músculo liso."
+                    },
+                    {
+                        "text": "Intercambio de gases",
+                        "isCorrect": false,
+                        "rationale": "El intercambio es función de la íntima."
+                    },
+                    {
+                        "text": "Relacionar el vaso con estructuras vecinas",
+                        "isCorrect": false,
+                        "rationale": "Esa es función de la adventicia."
+                    },
+                    {
+                        "text": "Proteger de infecciones",
+                        "isCorrect": false,
+                        "rationale": "No es función de la túnica media."
+                    }
+                ],
+                "hint": "El músculo liso puede contraerse para regular el calibre."
+            },
+            {
+                "question": "¿Qué contiene la túnica adventicia de las venas?",
+                "options": [
+                    {
+                        "text": "Fibras de tejido conectivo en sentido longitudinal y nervios vegetativos",
+                        "isCorrect": true,
+                        "rationale": "La túnica adventicia se constituye de fibras de tejido conectivo longitudinales. Sobre ella se disponen los nervios vegetativos que llegan a la musculatura."
+                    },
+                    {
+                        "text": "Células musculares lisas",
+                        "isCorrect": false,
+                        "rationale": "Estas están en la media."
+                    },
+                    {
+                        "text": "Endotelio",
+                        "isCorrect": false,
+                        "rationale": "El endotelio está en la íntima."
+                    },
+                    {
+                        "text": "Vasos sanguíneos únicamente",
+                        "isCorrect": false,
+                        "rationale": "También contiene nervios y tejido conectivo."
+                    }
+                ],
+                "hint": "Es la capa más externa que conecta con los tejidos vecinos."
+            },
+            {
+                "question": "¿Cuál es la principal diferencia estructural entre venas y arterias?",
+                "options": [
+                    {
+                        "text": "La túnica media de las venas es más laxa con más fibras elásticas y colágeno",
+                        "isCorrect": true,
+                        "rationale": "En las venas, la túnica media es más laxa debido a mayor cantidad de fibras elásticas y colágeno, a diferencia de las arterias con capas compactas de músculo liso."
+                    },
+                    {
+                        "text": "Las venas no tienen túnica media",
+                        "isCorrect": false,
+                        "rationale": "Las venas sí tienen túnica media, pero más delgada."
+                    },
+                    {
+                        "text": "Las venas no tienen túnica íntima",
+                        "isCorrect": false,
+                        "rationale": "Las venas tienen las tres túnicas."
+                    },
+                    {
+                        "text": "Las venas tienen más músculo liso que las arterias",
+                        "isCorrect": false,
+                        "rationale": "Las arterias tienen más músculo liso en su media."
+                    }
+                ],
+                "hint": "Las venas son más 'flojas' porque la presión es menor."
+            },
+            {
+                "question": "¿Qué característica NO presentan las venas respecto a las arterias?",
+                "options": [
+                    {
+                        "text": "No hay clara estratificación ni membrana elástica interna",
+                        "isCorrect": true,
+                        "rationale": "En las venas no hay una clara estratificación así como tampoco presentan una membrana elástica interna, a diferencia de las arterias."
+                    },
+                    {
+                        "text": "No tienen túnica media",
+                        "isCorrect": false,
+                        "rationale": "Las venas sí tienen túnica media."
+                    },
+                    {
+                        "text": "No tienen adventicia",
+                        "isCorrect": false,
+                        "rationale": "Las venas sí tienen adventicia."
+                    },
+                    {
+                        "text": "No tienen luz",
+                        "isCorrect": false,
+                        "rationale": "Las venas tienen luz, y más amplia que las arterias."
+                    }
+                ],
+                "hint": "Las capas venosas están menos organizadas que las arteriales."
+            },
+            {
+                "question": "¿Cuáles son los cuatro sistemas venosos según su disposición topográfica?",
+                "options": [
+                    {
+                        "text": "Superficial, profundo, comunicante y perforante",
+                        "isCorrect": true,
+                        "rationale": "Las venas se clasifican en: sistema venoso superficial, sistema venoso profundo, sistema venoso comunicante y sistema venoso perforante."
+                    },
+                    {
+                        "text": "Superior, inferior, derecho e izquierdo",
+                        "isCorrect": false,
+                        "rationale": "Esta clasificación no se usa para venas."
+                    },
+                    {
+                        "text": "Sistémico, pulmonar, portal y linfático",
+                        "isCorrect": false,
+                        "rationale": "Estos son sistemas circulatorios, no clasificación de venas."
+                    },
+                    {
+                        "text": "Grandes, medianas, pequeñas y capilares",
+                        "isCorrect": false,
+                        "rationale": "Esta es una clasificación por tamaño, no topográfica."
+                    }
+                ],
+                "hint": "Se basa en su relación con la fascia y otros planos."
+            },
+            {
+                "question": "¿Qué es el sistema venoso superficial?",
+                "options": [
+                    {
+                        "text": "Venas ubicadas en el tejido subcutáneo, superficiales a la fascia",
+                        "isCorrect": true,
+                        "rationale": "El sistema venoso superficial se encuentra profundo a la piel pero superficial a la fascia de revestimiento, transitando por el tejido subcutáneo."
+                    },
+                    {
+                        "text": "Venas que acompañan a las arterias",
+                        "isCorrect": false,
+                        "rationale": "Esas son las venas profundas (satélites)."
+                    },
+                    {
+                        "text": "Venas que atraviesan la fascia",
+                        "isCorrect": false,
+                        "rationale": "Esas son las venas perforantes."
+                    },
+                    {
+                        "text": "Venas dentro de los músculos",
+                        "isCorrect": false,
+                        "rationale": "Estas son venas profundas."
+                    }
+                ],
+                "hint": "Son las venas que se ven bajo la piel."
+            },
+            {
+                "question": "¿Qué porcentaje de sangre del miembro inferior drena el sistema venoso superficial?",
+                "options": [
+                    {
+                        "text": "Aproximadamente el 10%",
+                        "isCorrect": true,
+                        "rationale": "El sistema venoso superficial del miembro inferior drena aproximadamente el 10% de su sangre."
+                    },
+                    {
+                        "text": "El 50%",
+                        "isCorrect": false,
+                        "rationale": "Solo el 10% es drenado por el sistema superficial."
+                    },
+                    {
+                        "text": "El 90%",
+                        "isCorrect": false,
+                        "rationale": "El 90% es drenado por el sistema profundo."
+                    },
+                    {
+                        "text": "El 100%",
+                        "isCorrect": false,
+                        "rationale": "Ambos sistemas contribuyen al drenaje."
+                    }
+                ],
+                "hint": "La mayoría drena por el sistema profundo."
+            },
+            {
+                "question": "¿Qué es el sistema venoso profundo?",
+                "options": [
+                    {
+                        "text": "Venas que discurren profundas a la fascia, generalmente acompañando arterias",
+                        "isCorrect": true,
+                        "rationale": "El sistema venoso profundo discurre profundo a la fascia de revestimiento y suele acompañar a las arterias de la región (venas satélites)."
+                    },
+                    {
+                        "text": "Venas en el tejido subcutáneo",
+                        "isCorrect": false,
+                        "rationale": "Esas son venas superficiales."
+                    },
+                    {
+                        "text": "Venas que comunican sistemas en el mismo plano",
+                        "isCorrect": false,
+                        "rationale": "Esas son venas comunicantes."
+                    },
+                    {
+                        "text": "Venas que atraviesan la fascia",
+                        "isCorrect": false,
+                        "rationale": "Esas son venas perforantes."
+                    }
+                ],
+                "hint": "Son venas satélites de las arterias principales."
+            },
+            {
+                "question": "¿Qué son las venas perforantes?",
+                "options": [
+                    {
+                        "text": "Venas que atraviesan la fascia comunicando sistemas superficial y profundo",
+                        "isCorrect": true,
+                        "rationale": "El sistema venoso perforante comunica el sistema superficial con el profundo, atravesando la fascia por orificios preformados."
+                    },
+                    {
+                        "text": "Venas que comunican venas en el mismo plano",
+                        "isCorrect": false,
+                        "rationale": "Esas son venas comunicantes."
+                    },
+                    {
+                        "text": "Venas que conectan dos arterias",
+                        "isCorrect": false,
+                        "rationale": "No existen venas que conecten arterias."
+                    },
+                    {
+                        "text": "Venas que perforan la piel",
+                        "isCorrect": false,
+                        "rationale": "Las venas perforantes atraviesan la fascia, no la piel."
+                    }
+                ],
+                "hint": "Perforan la fascia para conectar sistemas superficiales con profundos."
+            },
+            {
+                "question": "¿Qué función tienen las válvulas de las venas perforantes?",
+                "options": [
+                    {
+                        "text": "Impedir la circulación venosa desde el sistema profundo hacia el superficial",
+                        "isCorrect": true,
+                        "rationale": "Las venas perforantes poseen válvulas que impiden la circulación venosa desde el sistema profundo hacia el superficial."
+                    },
+                    {
+                        "text": "Permitir flujo en ambos sentidos",
+                        "isCorrect": false,
+                        "rationale": "Las válvulas permiten flujo solo hacia el sistema profundo."
+                    },
+                    {
+                        "text": "Impedir el flujo completamente",
+                        "isCorrect": false,
+                        "rationale": "Las válvulas regulan dirección, no detienen el flujo."
+                    },
+                    {
+                        "text": "Aumentar la presión venosa",
+                        "isCorrect": false,
+                        "rationale": "Las válvulas no regulan presión."
+                    }
+                ],
+                "hint": "Dirigen el flujo desde superficial hacia profundo."
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "nombre": "Parte 5",
+        "preguntas": 18,
+        "data": [
+            {
+                "question": "¿Qué son las válvulas venosas?",
+                "options": [
+                    {
+                        "text": "Estructuras endoteliales que evitan el reflujo de sangre hacia distal",
+                        "isCorrect": true,
+                        "rationale": "Las válvulas venosas son estructuras endoteliales que funcionan como compuertas evitando el reflujo hacia distal de la sangre."
+                    },
+                    {
+                        "text": "Estructuras que aumentan el flujo sanguíneo",
+                        "isCorrect": false,
+                        "rationale": "Las válvulas regulan dirección, no aumentan flujo."
+                    },
+                    {
+                        "text": "Dilataciones en las paredes venosas",
+                        "isCorrect": false,
+                        "rationale": "Las válvulas son pliegues del endotelio, no dilataciones."
+                    },
+                    {
+                        "text": "Músculos que bombean sangre",
+                        "isCorrect": false,
+                        "rationale": "Las válvulas son pasivas, no musculares."
+                    }
+                ],
+                "hint": "Son como 'compuertas' que permiten flujo en un solo sentido."
+            },
+            {
+                "question": "¿De cuántas valvas se componen las válvulas venosas?",
+                "options": [
+                    {
+                        "text": "Dos valvas o cúspides",
+                        "isCorrect": true,
+                        "rationale": "Las válvulas venosas se componen de dos valvas o cúspides."
+                    },
+                    {
+                        "text": "Una sola valva",
+                        "isCorrect": false,
+                        "rationale": "Tienen dos valvas, no una."
+                    },
+                    {
+                        "text": "Tres valvas",
+                        "isCorrect": false,
+                        "rationale": "Tienen dos valvas, no tres como las válvulas semilunares del corazón."
+                    },
+                    {
+                        "text": "Cuatro valvas",
+                        "isCorrect": false,
+                        "rationale": "Tienen dos valvas únicamente."
+                    }
+                ],
+                "hint": "Son bíuspides (dos cúspides)."
+            },
+            {
+                "question": "¿Dónde se encuentran principalmente las válvulas venosas?",
+                "options": [
+                    {
+                        "text": "A nivel de los orificios de desembocadura de las venas",
+                        "isCorrect": true,
+                        "rationale": "Las válvulas se encuentran principalmente a nivel de los orificios (ostium) de desembocadura de las venas."
+                    },
+                    {
+                        "text": "En el centro de las venas grandes",
+                        "isCorrect": false,
+                        "rationale": "Se ubican en puntos específicos, especialmente donde hay desembocaduras."
+                    },
+                    {
+                        "text": "Solo en las venas superficiales",
+                        "isCorrect": false,
+                        "rationale": "Están en venas superficiales y profundas."
+                    },
+                    {
+                        "text": "Solo en las venas de los miembros inferiores",
+                        "isCorrect": false,
+                        "rationale": "Están en múltiples regiones del cuerpo."
+                    }
+                ],
+                "hint": "Se localizan donde una vena desemboca en otra."
+            },
+            {
+                "question": "¿Qué estructuras venosas son avalvulares?",
+                "options": [
+                    {
+                        "text": "Senos de la duramadre, vena cava superior, vena porta y venas renales",
+                        "isCorrect": true,
+                        "rationale": "Son avalvulares: los senos de la duramadre, la vena cava superior, la vena porta y las venas renales."
+                    },
+                    {
+                        "text": "Las venas de los miembros inferiores",
+                        "isCorrect": false,
+                        "rationale": "Estas tienen abundantes válvulas."
+                    },
+                    {
+                        "text": "Las venas superficiales",
+                        "isCorrect": false,
+                        "rationale": "Las venas superficiales tienen válvulas."
+                    },
+                    {
+                        "text": "Todas las venas profundas",
+                        "isCorrect": false,
+                        "rationale": "Muchas venas profundas tienen válvulas."
+                    }
+                ],
+                "hint": "Son venas de gran calibre o encefálicas."
+            },
+            {
+                "question": "¿Cuáles son los factores que permiten el retorno venoso al corazón?",
+                "options": [
+                    {
+                        "text": "Efecto de succión del corazón, onda pulsátil arterial, bombas musculares y válvulas venosas",
+                        "isCorrect": true,
+                        "rationale": "Los factores son: succión del corazón, acoplamiento arteriovenoso, bombas musculofasciales y apertura/cierre de válvulas venosas."
+                    },
+                    {
+                        "text": "Solo la gravedad",
+                        "isCorrect": false,
+                        "rationale": "La gravedad en realidad dificulta el retorno venoso en bipedestación."
+                    },
+                    {
+                        "text": "Solo las válvulas",
+                        "isCorrect": false,
+                        "rationale": "Las válvulas son solo uno de los factores."
+                    },
+                    {
+                        "text": "Solo la contracción muscular",
+                        "isCorrect": false,
+                        "rationale": "La contracción muscular es uno de varios factores."
+                    }
+                ],
+                "hint": "Son múltiples mecanismos que trabajan en conjunto."
+            },
+            {
+                "question": "¿Qué es el efecto de succión del corazón (vis a fronte)?",
+                "options": [
+                    {
+                        "text": "Presión negativa generada por el desplazamiento ventricular durante la sístole",
+                        "isCorrect": true,
+                        "rationale": "El efecto de succión del corazón genera una presión hipobárica por desplazamiento del nivel ventricular hacia el vértice durante la sístole."
+                    },
+                    {
+                        "text": "La presión arterial impulsando sangre",
+                        "isCorrect": false,
+                        "rationale": "Esa es la vis a tergo (fuerza propulsora)."
+                    },
+                    {
+                        "text": "La contracción muscular de las piernas",
+                        "isCorrect": false,
+                        "rationale": "Esa es la bomba muscular."
+                    },
+                    {
+                        "text": "Las válvulas venosas",
+                        "isCorrect": false,
+                        "rationale": "Las válvulas previenen reflujo, no generan succión."
+                    }
+                ],
+                "hint": "'Vis a fronte' significa 'fuerza desde adelante' (el corazón atrae)."
+            },
+            {
+                "question": "¿Qué es la vis a tergo en el retorno venoso?",
+                "options": [
+                    {
+                        "text": "La fuerza propulsora del corazón estimada en 35 mmHg a nivel de arteriolas",
+                        "isCorrect": true,
+                        "rationale": "La fuerza propulsora del corazón (vis a tergo) es eficaz y se estima en 35 mmHg de presión a nivel de las arteriolas precapilares."
+                    },
+                    {
+                        "text": "La succión del corazón",
+                        "isCorrect": false,
+                        "rationale": "Esa es la vis a fronte."
+                    },
+                    {
+                        "text": "La bomba muscular",
+                        "isCorrect": false,
+                        "rationale": "La bomba muscular es un mecanismo diferente."
+                    },
+                    {
+                        "text": "Las válvulas venosas",
+                        "isCorrect": false,
+                        "rationale": "Las válvulas son un mecanismo pasivo."
+                    }
+                ],
+                "hint": "'Vis a tergo' significa 'fuerza desde atrás' (presión arterial empuja)."
+            },
+            {
+                "question": "¿Qué favorece la fuerza aspirante del corazón?",
+                "options": [
+                    {
+                        "text": "Las presiones intratorácicas y abdominales, especialmente durante la inspiración",
+                        "isCorrect": true,
+                        "rationale": "La fuerza aspirante se ve favorecida por las presiones intratorácicas y abdominales. El fin de la sístole y la inspiración son factores esenciales."
+                    },
+                    {
+                        "text": "La contracción muscular intensa",
+                        "isCorrect": false,
+                        "rationale": "La contracción muscular es otro mecanismo, no la aspiración torácica."
+                    },
+                    {
+                        "text": "Las válvulas venosas",
+                        "isCorrect": false,
+                        "rationale": "Las válvulas no generan aspiración."
+                    },
+                    {
+                        "text": "La presión arterial alta",
+                        "isCorrect": false,
+                        "rationale": "La presión arterial es la vis a tergo, no la aspiración."
+                    }
+                ],
+                "hint": "La respiración crea cambios de presión que ayudan al retorno."
+            },
+            {
+                "question": "¿Qué papel juegan los músculos en el retorno venoso?",
+                "options": [
+                    {
+                        "text": "La contracción muscular y el apoyo plantar favorecen la propulsión de sangre",
+                        "isCorrect": true,
+                        "rationale": "La contracción muscular (bomba muscular de la pierna) y el aplastamiento de la planta de los pies (red venosa plantar) favorecen la propulsión de sangre hacia proximal."
+                    },
+                    {
+                        "text": "Los músculos no participan en el retorno venoso",
+                        "isCorrect": false,
+                        "rationale": "Los músculos son fundamentales, especialmente en miembros inferiores."
+                    },
+                    {
+                        "text": "Solo los músculos respiratorios participan",
+                        "isCorrect": false,
+                        "rationale": "Todos los músculos, especialmente de piernas, participan."
+                    },
+                    {
+                        "text": "Los músculos dificultan el retorno venoso",
+                        "isCorrect": false,
+                        "rationale": "Lo facilitan mediante la bomba muscular."
+                    }
+                ],
+                "hint": "Al caminar se activa la 'bomba muscular' de las piernas."
+            },
+            {
+                "question": "¿Qué ocurre con la inmovilización prolongada respecto a la circulación venosa?",
+                "options": [
+                    {
+                        "text": "Reduce la circulación venosa y favorece la trombosis venosa",
+                        "isCorrect": true,
+                        "rationale": "La inmovilización prolongada reduce la circulación venosa y favorece la trombosis venosa."
+                    },
+                    {
+                        "text": "Mejora el retorno venoso",
+                        "isCorrect": false,
+                        "rationale": "La inmovilización empeora el retorno venoso."
+                    },
+                    {
+                        "text": "No tiene efecto sobre la circulación",
+                        "isCorrect": false,
+                        "rationale": "Tiene efectos significativos y potencialmente peligrosos."
+                    },
+                    {
+                        "text": "Aumenta la presión arterial",
+                        "isCorrect": false,
+                        "rationale": "El efecto principal es sobre el retorno venoso."
+                    }
+                ],
+                "hint": "Sin movimiento no hay bomba muscular activa."
+            },
+            {
+                "question": "¿Qué son las várices?",
+                "options": [
+                    {
+                        "text": "Venas dilatadas anormalmente con trayecto tortuoso",
+                        "isCorrect": true,
+                        "rationale": "Las várices son venas dilatadas de manera anormal que presentan un trayecto tortuoso."
+                    },
+                    {
+                        "text": "Venas inflamadas",
+                        "isCorrect": false,
+                        "rationale": "La inflamación venosa es la flebitis."
+                    },
+                    {
+                        "text": "Venas obstruidas",
+                        "isCorrect": false,
+                        "rationale": "La obstrucción es la trombosis."
+                    },
+                    {
+                        "text": "Arterias dilatadas",
+                        "isCorrect": false,
+                        "rationale": "Las várices afectan venas, no arterias."
+                    }
+                ],
+                "hint": "Son venas que se hinchan y se vuelven tortuosas."
+            },
+            {
+                "question": "¿Qué causa la formación de várices?",
+                "options": [
+                    {
+                        "text": "Aumento de presión sobre la vena y pérdida del tono de la pared venosa",
+                        "isCorrect": true,
+                        "rationale": "Las várices se generan por aumento de la presión que ejerce la sangre sobre el vaso y por la pérdida del tono de la pared de la vena."
+                    },
+                    {
+                        "text": "Infección de la vena",
+                        "isCorrect": false,
+                        "rationale": "La infección causa flebitis, no várices."
+                    },
+                    {
+                        "text": "Disminución de la presión venosa",
+                        "isCorrect": false,
+                        "rationale": "Es el aumento de presión, no la disminución."
+                    },
+                    {
+                        "text": "Exceso de ejercicio",
+                        "isCorrect": false,
+                        "rationale": "El ejercicio ayuda al retorno venoso, no causa várices."
+                    }
+                ],
+                "hint": "La presión crónica dilata las venas como un globo."
+            },
+            {
+                "question": "¿Qué ocurre con las válvulas en las venas varicosas?",
+                "options": [
+                    {
+                        "text": "Se tornan incompetentes, perdiendo capacidad de contener el reflujo",
+                        "isCorrect": true,
+                        "rationale": "Las válvulas de estas venas pueden perder su capacidad de contener el reflujo, tornándose incompetentes."
+                    },
+                    {
+                        "text": "Se vuelven más eficientes",
+                        "isCorrect": false,
+                        "rationale": "Se vuelven incompetentes, no más eficientes."
+                    },
+                    {
+                        "text": "Desaparecen completamente",
+                        "isCorrect": false,
+                        "rationale": "Se dañan pero no desaparecen."
+                    },
+                    {
+                        "text": "Se multiplican",
+                        "isCorrect": false,
+                        "rationale": "No se multiplican, se dañan."
+                    }
+                ],
+                "hint": "La incompetencia valvular perpetúa el problema."
+            },
+            {
+                "question": "¿Qué factores favorecen la aparición de várices?",
+                "options": [
+                    {
+                        "text": "Bipedestación prolongada, posición sentada con piernas en declive, obesidad y sexo femenino",
+                        "isCorrect": true,
+                        "rationale": "Factores favorables: bipedestación prolongada, posición sentada con piernas en declive, obesidad y ser mujer (predomina en mayores de 50 años, 20% de la población)."
+                    },
+                    {
+                        "text": "El ejercicio intenso",
+                        "isCorrect": false,
+                        "rationale": "El ejercicio ayuda al retorno venoso."
+                    },
+                    {
+                        "text": "La dieta rica en grasas",
+                        "isCorrect": false,
+                        "rationale": "La dieta no es factor directo de várices."
+                    },
+                    {
+                        "text": "El descanso en cama",
+                        "isCorrect": false,
+                        "rationale": "El reposo con piernas elevadas ayuda, no perjudica."
+                    }
+                ],
+                "hint": "La gravedad actuando por tiempo prolongado sobre las venas."
+            },
+            {
+                "question": "¿Qué es la trombosis?",
+                "options": [
+                    {
+                        "text": "Obstrucción de un vaso sanguíneo por formación de un coágulo (trombo)",
+                        "isCorrect": true,
+                        "rationale": "La trombosis es la obstrucción de un vaso sanguíneo por la formación de un coágulo de sangre (trombo) en su interior."
+                    },
+                    {
+                        "text": "Dilatación de un vaso",
+                        "isCorrect": false,
+                        "rationale": "La dilatación es el aneurisma o várice."
+                    },
+                    {
+                        "text": "Inflamación de un vaso",
+                        "isCorrect": false,
+                        "rationale": "La inflamación es la vasculitis."
+                    },
+                    {
+                        "text": "Rotura de un vaso",
+                        "isCorrect": false,
+                        "rationale": "La rotura causa hemorragia."
+                    }
+                ],
+                "hint": "Un trombo es un coágulo dentro de un vaso."
+            },
+            {
+                "question": "¿Qué es la tromboflebitis?",
+                "options": [
+                    {
+                        "text": "Obstrucción trombótica con inflamación del vaso venoso",
+                        "isCorrect": true,
+                        "rationale": "Si el vaso afectado por trombosis es una vena se denomina tromboflebitis: obstrucción trombótica con inflamación del vaso."
+                    },
+                    {
+                        "text": "Trombosis arterial",
+                        "isCorrect": false,
+                        "rationale": "La tromboflebitis afecta venas."
+                    },
+                    {
+                        "text": "Inflamación sin trombosis",
+                        "isCorrect": false,
+                        "rationale": "La tromboflebitis incluye trombosis."
+                    },
+                    {
+                        "text": "Dilatación venosa",
+                        "isCorrect": false,
+                        "rationale": "Es una obstrucción, no una dilatación."
+                    }
+                ],
+                "hint": "'Flebitis' significa inflamación de vena."
+            },
+            {
+                "question": "¿Qué es la tromboembolia?",
+                "options": [
+                    {
+                        "text": "Migración de un trombo desde su sitio de origen hacia otra localización",
+                        "isCorrect": true,
+                        "rationale": "Los trombos pueden migrar desde su sitio de origen generando una tromboembolia."
+                    },
+                    {
+                        "text": "Formación de un trombo in situ",
+                        "isCorrect": false,
+                        "rationale": "Eso es trombosis, no embolia."
+                    },
+                    {
+                        "text": "Disolución del trombo",
+                        "isCorrect": false,
+                        "rationale": "La embolia es migración, no disolución."
+                    },
+                    {
+                        "text": "Inflamación del trombo",
+                        "isCorrect": false,
+                        "rationale": "La embolia es el viaje del trombo."
+                    }
+                ],
+                "hint": "'Embolia' significa algo que viaja por el torrente sanguíneo."
+            },
+            {
+                "question": "¿Cuál es la consecuencia de una trombosis arterial?",
+                "options": [
+                    {
+                        "text": "Isquemia del territorio irrigado por esa arteria",
+                        "isCorrect": true,
+                        "rationale": "La consecuencia de una trombosis arterial es la isquemia: infarto miocárdico, ACV isquémico, necrosis de dedos, etc., según el vaso afectado."
+                    },
+                    {
+                        "text": "Hemorragia",
+                        "isCorrect": false,
+                        "rationale": "La trombosis obstruye, no causa hemorragia."
+                    },
+                    {
+                        "text": "Dilatación vascular",
+                        "isCorrect": false,
+                        "rationale": "La trombosis estrecha, no dilata."
+                    },
+                    {
+                        "text": "Aumento del flujo",
+                        "isCorrect": false,
+                        "rationale": "Disminuye o detiene el flujo."
+                    }
+                ],
+                "hint": "Sin riego sanguíneo = isquemia = daño tisular."
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "nombre": "Parte 6",
+        "preguntas": 15,
+        "data": [
+            {
+                "question": "¿Qué es una úlcera?",
+                "options": [
+                    {
+                        "text": "Excavación en la superficie de un tejido por desprendimiento de tejido necrótico",
+                        "isCorrect": true,
+                        "rationale": "Una úlcera es una excavación en la superficie de un tejido que se produce como consecuencia del desprendimiento de tejido necrótico."
+                    },
+                    {
+                        "text": "Una inflamación de la piel",
+                        "isCorrect": false,
+                        "rationale": "La úlcera es una pérdida de sustancia, no solo inflamación."
+                    },
+                    {
+                        "text": "Un tumor cutáneo",
+                        "isCorrect": false,
+                        "rationale": "La úlcera es una lesión por pérdida de tejido."
+                    },
+                    {
+                        "text": "Una infección superficial",
+                        "isCorrect": false,
+                        "rationale": "Puede infectarse, pero la úlcera es la lesión misma."
+                    }
+                ],
+                "hint": "Es como un 'hueco' en la piel o mucosa."
+            },
+            {
+                "question": "¿Qué porcentaje de úlceras de la pierna son venosas?",
+                "options": [
+                    {
+                        "text": "Aproximadamente el 70%",
+                        "isCorrect": true,
+                        "rationale": "Aproximadamente el 70% de las úlceras de la pierna son de origen venoso."
+                    },
+                    {
+                        "text": "El 10%",
+                        "isCorrect": false,
+                        "rationale": "Son la mayoría, aproximadamente 70%."
+                    },
+                    {
+                        "text": "El 30%",
+                        "isCorrect": false,
+                        "rationale": "Son más frecuentes, cerca del 70%."
+                    },
+                    {
+                        "text": "El 50%",
+                        "isCorrect": false,
+                        "rationale": "Son más frecuentes, aproximadamente 70%."
+                    }
+                ],
+                "hint": "La mayoría de las úlceras de pierna son venosas."
+            },
+            {
+                "question": "¿Dónde se ubican típicamente las úlceras venosas?",
+                "options": [
+                    {
+                        "text": "En la cara medial de la pierna, en su tercio inferior o medio",
+                        "isCorrect": true,
+                        "rationale": "Las úlceras venosas se ubican en la cara medial de la pierna, en su tercio inferior o medio."
+                    },
+                    {
+                        "text": "En el lado lateral de la pierna",
+                        "isCorrect": false,
+                        "rationale": "Las úlceras arteriales se ubican en el lado lateral."
+                    },
+                    {
+                        "text": "En el pie",
+                        "isCorrect": false,
+                        "rationale": "Se ubican en la pierna, no principalmente en el pie."
+                    },
+                    {
+                        "text": "En el muslo",
+                        "isCorrect": false,
+                        "rationale": "Se ubican en el tercio inferior de la pierna."
+                    }
+                ],
+                "hint": "Cara medial = lado interno de la pierna."
+            },
+            {
+                "question": "¿Qué características presentan las úlceras venosas?",
+                "options": [
+                    {
+                        "text": "Bordes irregulares y fondo sucio, con pierna hinchada",
+                        "isCorrect": true,
+                        "rationale": "Las úlceras venosas presentan bordes irregulares, fondo sucio, pierna hinchada y dolorosa si se infecta."
+                    },
+                    {
+                        "text": "Bordes netos y fondo limpio",
+                        "isCorrect": false,
+                        "rationale": "Esas son características de úlceras arteriales."
+                    },
+                    {
+                        "text": "Sin inflamación circundante",
+                        "isCorrect": false,
+                        "rationale": "Generalmente hay inflamación y edema."
+                    },
+                    {
+                        "text": "Pierna fría y pálida",
+                        "isCorrect": false,
+                        "rationale": "Esas son características de úlceras arteriales."
+                    }
+                ],
+                "hint": "Son úlceras 'sucias' con bordes mal definidos."
+            },
+            {
+                "question": "¿Qué causa las úlceras venosas?",
+                "options": [
+                    {
+                        "text": "Compromiso vascular que dificulta el retorno venoso, produciendo hipertensión venosa",
+                        "isCorrect": true,
+                        "rationale": "Las úlceras venosas son consecuencia del compromiso vascular que dificulta el retorno venoso, produciendo hipertensión venosa y alteraciones tróficas."
+                    },
+                    {
+                        "text": "Falta de irrigación arterial",
+                        "isCorrect": false,
+                        "rationale": "Esa es la causa de úlceras arteriales."
+                    },
+                    {
+                        "text": "Infección bacteriana primaria",
+                        "isCorrect": false,
+                        "rationale": "La causa es vascular, aunque pueden infectarse secundariamente."
+                    },
+                    {
+                        "text": "Traumatismo directo",
+                        "isCorrect": false,
+                        "rationale": "La causa es la insuficiencia venosa crónica."
+                    }
+                ],
+                "hint": "El problema es el retorno venoso deficiente."
+            },
+            {
+                "question": "¿Dónde se ubican las úlceras arteriales?",
+                "options": [
+                    {
+                        "text": "En el lado lateral de la pierna",
+                        "isCorrect": true,
+                        "rationale": "Las úlceras arteriales suelen ubicarse en el lado lateral de la pierna."
+                    },
+                    {
+                        "text": "En la cara medial",
+                        "isCorrect": false,
+                        "rationale": "Las úlceras venosas se ubican en la cara medial."
+                    },
+                    {
+                        "text": "En el muslo",
+                        "isCorrect": false,
+                        "rationale": "Se ubican en la pierna, no en el muslo."
+                    },
+                    {
+                        "text": "En el pie únicamente",
+                        "isCorrect": false,
+                        "rationale": "Pueden estar en pierna, especialmente lateral."
+                    }
+                ],
+                "hint": "Lateral = lado externo de la pierna."
+            },
+            {
+                "question": "¿Qué características presentan las úlceras arteriales?",
+                "options": [
+                    {
+                        "text": "Bordes netos, causa isquémica, dolorosas en reposo o con pierna elevada",
+                        "isCorrect": true,
+                        "rationale": "Las úlceras arteriales son de causa isquémica, presentan bordes netos, y suelen ser dolorosas sobre todo durante el reposo o con la pierna elevada."
+                    },
+                    {
+                        "text": "Bordes irregulares y fondo sucio",
+                        "isCorrect": false,
+                        "rationale": "Esas son características de úlceras venosas."
+                    },
+                    {
+                        "text": "Pierna hinchada y caliente",
+                        "isCorrect": false,
+                        "rationale": "Las úlceras arteriales tienen pierna fría y pálida por isquemia."
+                    },
+                    {
+                        "text": "Indoloras",
+                        "isCorrect": false,
+                        "rationale": "Son dolorosas, especialmente en reposo."
+                    }
+                ],
+                "hint": "Son úlceras 'limpias' con bordes bien definidos."
+            },
+            {
+                "question": "¿Qué puede causar las úlceras arteriales?",
+                "options": [
+                    {
+                        "text": "Aterosclerosis arterial o diabetes mellitus",
+                        "isCorrect": true,
+                        "rationale": "La causa de úlceras arteriales puede ser la aterosclerosis arterial o la diabetes mellitus."
+                    },
+                    {
+                        "text": "Insuficiencia venosa",
+                        "isCorrect": false,
+                        "rationale": "Esa es causa de úlceras venosas."
+                    },
+                    {
+                        "text": "Infección bacteriana",
+                        "isCorrect": false,
+                        "rationale": "La causa es la isquemia por enfermedad arterial."
+                    },
+                    {
+                        "text": "Traumatismo",
+                        "isCorrect": false,
+                        "rationale": "La causa es la falta de irrigación."
+                    }
+                ],
+                "hint": "Son enfermedades que afectan las arterias."
+            },
+            {
+                "question": "¿Qué comprende la gran circulación o circulación sistémica?",
+                "options": [
+                    {
+                        "text": "Ventrículo izquierdo, aorta, arterias, capilares, venas hasta el atrio derecho",
+                        "isCorrect": true,
+                        "rationale": "La gran circulación comprende: el ventrículo izquierdo, la aorta y todas las arterias, los capilares y las venas que conducen la sangre al atrio derecho."
+                    },
+                    {
+                        "text": "Ventrículo derecho, pulmonar, capilares pulmonares y venas pulmonares",
+                        "isCorrect": false,
+                        "rationale": "Esa es la pequeña circulación."
+                    },
+                    {
+                        "text": "Solo el corazón izquierdo",
+                        "isCorrect": false,
+                        "rationale": "Incluye todo el circuito desde ventrículo izquierdo hasta atrio derecho."
+                    },
+                    {
+                        "text": "Solo las arterias sistémicas",
+                        "isCorrect": false,
+                        "rationale": "Incluye arterias, capilares y venas del sistema sistémico."
+                    }
+                ],
+                "hint": "Es el circuito que recorre todo el cuerpo excepto los pulmones."
+            },
+            {
+                "question": "¿Qué desembocan en la gran circulación?",
+                "options": [
+                    {
+                        "text": "Los vasos linfáticos: conducto torácico y conducto linfático derecho",
+                        "isCorrect": true,
+                        "rationale": "En la gran circulación desembocan los vasos linfáticos: conducto torácico a la izquierda y conducto linfático derecho a la derecha."
+                    },
+                    {
+                        "text": "Las venas pulmonares",
+                        "isCorrect": false,
+                        "rationale": "Las venas pulmonares van al atrio izquierdo (pequeña circulación)."
+                    },
+                    {
+                        "text": "Solo la vena cava",
+                        "isCorrect": false,
+                        "rationale": "También desembocan los vasos linfáticos."
+                    },
+                    {
+                        "text": "Las arterias sistémicas",
+                        "isCorrect": false,
+                        "rationale": "Las arterias salen del corazón, no desembocan."
+                    }
+                ],
+                "hint": "El sistema linfático se conecta con el sistema venoso."
+            },
+            {
+                "question": "¿Qué comprende la pequeña circulación o circulación pulmonar?",
+                "options": [
+                    {
+                        "text": "Ventrículo derecho, arteria pulmonar, capilares pulmonares, venas pulmonares al atrio izquierdo",
+                        "isCorrect": true,
+                        "rationale": "La pequeña circulación comprende: el ventrículo derecho, la arteria pulmonar, los capilares pulmonares, las venas pulmonares y el atrio izquierdo."
+                    },
+                    {
+                        "text": "Ventrículo izquierdo y aorta",
+                        "isCorrect": false,
+                        "rationale": "Eso es parte de la gran circulación."
+                    },
+                    {
+                        "text": "Solo los pulmones",
+                        "isCorrect": false,
+                        "rationale": "Incluye el circuito completo con corazón y vasos."
+                    },
+                    {
+                        "text": "Solo las arterias pulmonares",
+                        "isCorrect": false,
+                        "rationale": "Incluye todo el circuito pulmonar."
+                    }
+                ],
+                "hint": "Es el circuito que va del corazón a los pulmones y vuelve."
+            },
+            {
+                "question": "¿Qué diferencia hay entre arterias y venas en la circulación pulmonar respecto a la sangre?",
+                "options": [
+                    {
+                        "text": "Las arterias pulmonares llevan sangre venosa y las venas pulmonares llevan sangre arterial",
+                        "isCorrect": true,
+                        "rationale": "En la circulación pulmonar, las arterias contienen sangre carbooxigenada y las venas sangre oxigenada: es lo contrario de la circulación sistémica."
+                    },
+                    {
+                        "text": "Ambas llevan sangre arterial",
+                        "isCorrect": false,
+                        "rationale": "Las arterias pulmonares llevan sangre venosa."
+                    },
+                    {
+                        "text": "Ambas llevan sangre venosa",
+                        "isCorrect": false,
+                        "rationale": "Las venas pulmonares llevan sangre arterial."
+                    },
+                    {
+                        "text": "Es igual que en la circulación sistémica",
+                        "isCorrect": false,
+                        "rationale": "Es exactamente lo contrario."
+                    }
+                ],
+                "hint": "En pulmones, arterias = venosa, venas = arterial."
+            },
+            {
+                "question": "¿Qué es la oximetría de pulso?",
+                "options": [
+                    {
+                        "text": "Instrumento que mide la saturación de oxígeno de la sangre arterial de manera no invasiva",
+                        "isCorrect": true,
+                        "rationale": "Los oxímetros de pulso miden la saturación de oxígeno de la sangre arterial, a través de la piel o las uñas sin necesidad de penetrarlas (no invasiva)."
+                    },
+                    {
+                        "text": "Un análisis de sangre",
+                        "isCorrect": false,
+                        "rationale": "Es no invasivo, no requiere extraer sangre."
+                    },
+                    {
+                        "text": "Un electrocardiograma",
+                        "isCorrect": false,
+                        "rationale": "Mide oxigenación, no actividad eléctrica cardíaca."
+                    },
+                    {
+                        "text": "Una radiografía",
+                        "isCorrect": false,
+                        "rationale": "No utiliza radiación, es un sensor de luz."
+                    }
+                ],
+                "hint": "Es el 'dedal' que ponen en el dedo en hospitales."
+            },
+            {
+                "question": "¿Qué ventaja tiene la oximetría de pulso?",
+                "options": [
+                    {
+                        "text": "Detecta descenso de saturación de oxígeno antes de que ocurra daño o aparezcan signos físicos",
+                        "isCorrect": true,
+                        "rationale": "La oximetría de pulso permite detectar el descenso de los niveles de saturación de oxígeno antes de que ocurra daño en el organismo y antes de que aparezcan los signos físicos."
+                    },
+                    {
+                        "text": "Diagnostica todas las enfermedades pulmonares",
+                        "isCorrect": false,
+                        "rationale": "Solo mide saturación de oxígeno, no diagnostica enfermedades específicas."
+                    },
+                    {
+                        "text": "Reemplaza todos los análisis de sangre",
+                        "isCorrect": false,
+                        "rationale": "No reemplaza otros análisis, es complementario."
+                    },
+                    {
+                        "text": "Mide la presión arterial",
+                        "isCorrect": false,
+                        "rationale": "Mide saturación de O₂, no presión."
+                    }
+                ],
+                "hint": "Es una herramienta de monitoreo precoz."
+            },
+            {
+                "question": "¿Cuál es la capacidad del sistema venoso comparado con el arterial?",
+                "options": [
+                    {
+                        "text": "4.700 ml el venoso frente a 800 ml el arterial (aproximadamente 6 veces mayor)",
+                        "isCorrect": true,
+                        "rationale": "La capacidad del sistema venoso es de 4.700 ml frente a los 800 ml de las arterias. Esta reserva vascular es 100 a 200 veces más distensible."
+                    },
+                    {
+                        "text": "Son iguales",
+                        "isCorrect": false,
+                        "rationale": "El sistema venoso tiene mucha más capacidad."
+                    },
+                    {
+                        "text": "El arterial es mayor",
+                        "isCorrect": false,
+                        "rationale": "El venoso tiene aproximadamente 6 veces más capacidad."
+                    },
+                    {
+                        "text": "El venoso tiene la mitad de capacidad",
+                        "isCorrect": false,
+                        "rationale": "Tiene mucho más capacidad que el arterial."
+                    }
+                ],
+                "hint": "Las venas son el 'reservorio' de sangre del cuerpo."
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "nombre": "Parte 7",
+        "preguntas": 21,
+        "data": [
+            {
+                "question": "¿Cuáles son las dos vías principales de la circulación venosa?",
+                "options": [
+                    {
+                        "text": "La pequeña circulación venosa (pulmonares) y la gran circulación venosa (cavas)",
+                        "isCorrect": true,
+                        "rationale": "Las venas se reagrupan según dos vías principales: la pequeña circulación venosa (venas pulmonares) y la gran circulación venosa (sistemas de venas cavas)."
+                    },
+                    {
+                        "text": "Circulación arterial y linfática",
+                        "isCorrect": false,
+                        "rationale": "Se refiere a las dos vías venosas principales del cuerpo."
+                    },
+                    {
+                        "text": "Sistémica y portal",
+                        "isCorrect": false,
+                        "rationale": "Las dos vías principales son la pequeña (pulmonar) y la gran (sistémica con cavas)."
+                    },
+                    {
+                        "text": "Superior e inferior",
+                        "isCorrect": false,
+                        "rationale": "Esas son partes de la gran circulación venosa."
+                    }
+                ],
+                "hint": "Una va a los pulmones, la otra al resto del cuerpo."
+            },
+            {
+                "question": "¿Qué forma la pequeña circulación venosa?",
+                "options": [
+                    {
+                        "text": "Las cuatro venas pulmonares que drenan sangre oxigenada al atrio izquierdo",
+                        "isCorrect": true,
+                        "rationale": "La pequeña circulación venosa está formada por las cuatro venas pulmonares y drena la sangre oxigenada de los pulmones hacia el atrio izquierdo."
+                    },
+                    {
+                        "text": "Las venas cavas",
+                        "isCorrect": false,
+                        "rationale": "Las venas cavas son parte de la gran circulación venosa."
+                    },
+                    {
+                        "text": "Las venas sistémicas",
+                        "isCorrect": false,
+                        "rationale": "Las venas sistémicas son parte de la gran circulación."
+                    },
+                    {
+                        "text": "Los vasos linfáticos",
+                        "isCorrect": false,
+                        "rationale": "Los vasos linfáticos no son parte de la circulación venosa."
+                    }
+                ],
+                "hint": "Son las únicas venas que transportan sangre oxigenada."
+            },
+            {
+                "question": "¿Qué constituye la gran circulación venosa?",
+                "options": [
+                    {
+                        "text": "El sistema de la vena cava superior y el sistema de la vena cava inferior",
+                        "isCorrect": true,
+                        "rationale": "La gran circulación venosa está constituida por dos sistemas que desembocan en el atrio derecho: el sistema de la vena cava superior y el sistema de la vena cava inferior."
+                    },
+                    {
+                        "text": "Solo la vena cava inferior",
+                        "isCorrect": false,
+                        "rationale": "Incluye ambos sistemas: cava superior e inferior."
+                    },
+                    {
+                        "text": "Las venas pulmonares",
+                        "isCorrect": false,
+                        "rationale": "Las venas pulmonares son la pequeña circulación."
+                    },
+                    {
+                        "text": "Las venas porta",
+                        "isCorrect": false,
+                        "rationale": "La vena porta es parte del sistema de la cava inferior."
+                    }
+                ],
+                "hint": "Dos grandes colectores que llegan al atrio derecho."
+            },
+            {
+                "question": "¿Cómo está constituida la vena cava superior?",
+                "options": [
+                    {
+                        "text": "Por la reunión de las venas braquiocefálicas derecha e izquierda",
+                        "isCorrect": true,
+                        "rationale": "La vena cava superior está constituida por la reunión de las venas braquiocefálicas derecha e izquierda."
+                    },
+                    {
+                        "text": "Por las venas ilíacas comunes",
+                        "isCorrect": false,
+                        "rationale": "Esas forman la vena cava inferior."
+                    },
+                    {
+                        "text": "Por las venas pulmonares",
+                        "isCorrect": false,
+                        "rationale": "Las venas pulmonares van al atrio izquierdo."
+                    },
+                    {
+                        "text": "Por las venas renales",
+                        "isCorrect": false,
+                        "rationale": "Las venas renales desembocan en la cava inferior."
+                    }
+                ],
+                "hint": "Recibe sangre de la cabeza, cuello y miembros superiores."
+            },
+            {
+                "question": "¿Qué drenan las venas braquiocefálicas hacia la vena cava superior?",
+                "options": [
+                    {
+                        "text": "Cabeza y cuello (venas vertebrales, yugulares) y miembros superiores (venas subclavias)",
+                        "isCorrect": true,
+                        "rationale": "Las venas braquiocefálicas drenan: la cabeza y cuello (venas vertebrales, yugulares internas, externas y anteriores) y los miembros superiores (venas subclavias)."
+                    },
+                    {
+                        "text": "Solo el cerebro",
+                        "isCorrect": false,
+                        "rationale": "Drenan cabeza, cuello y miembros superiores."
+                    },
+                    {
+                        "text": "Solo los miembros superiores",
+                        "isCorrect": false,
+                        "rationale": "También drenan cabeza y cuello."
+                    },
+                    {
+                        "text": "El abdomen",
+                        "isCorrect": false,
+                        "rationale": "El abdomen es drenado por la cava inferior."
+                    }
+                ],
+                "hint": "Drenan la parte superior del cuerpo."
+            },
+            {
+                "question": "¿Qué vena afluente tiene la vena cava superior?",
+                "options": [
+                    {
+                        "text": "La vena ácigos, que drena la pared del tronco",
+                        "isCorrect": true,
+                        "rationale": "La vena cava superior posee una sola vena afluente: la vena ácigos, que drena la pared del tronco."
+                    },
+                    {
+                        "text": "Las venas renales",
+                        "isCorrect": false,
+                        "rationale": "Las venas renales van a la cava inferior."
+                    },
+                    {
+                        "text": "Las venas hepáticas",
+                        "isCorrect": false,
+                        "rationale": "Las venas hepáticas van a la cava inferior."
+                    },
+                    {
+                        "text": "No tiene venas afluentes",
+                        "isCorrect": false,
+                        "rationale": "Tiene la vena ácigos como afluente."
+                    }
+                ],
+                "hint": "Es una sola vena que drena el tronco."
+            },
+            {
+                "question": "¿Cómo está constituida la vena cava inferior?",
+                "options": [
+                    {
+                        "text": "Por la reunión de las venas ilíacas comunes",
+                        "isCorrect": true,
+                        "rationale": "La vena cava inferior está constituida por la reunión de las venas ilíacas comunes."
+                    },
+                    {
+                        "text": "Por las venas braquiocefálicas",
+                        "isCorrect": false,
+                        "rationale": "Esas forman la vena cava superior."
+                    },
+                    {
+                        "text": "Por las venas pulmonares",
+                        "isCorrect": false,
+                        "rationale": "Las venas pulmonares van al atrio izquierdo."
+                    },
+                    {
+                        "text": "Por la vena porta",
+                        "isCorrect": false,
+                        "rationale": "La vena porta va al hígado, no forma la cava inferior."
+                    }
+                ],
+                "hint": "Recibe sangre de la mitad inferior del cuerpo."
+            },
+            {
+                "question": "¿Qué drenan las venas ilíacas comunes hacia la cava inferior?",
+                "options": [
+                    {
+                        "text": "Miembros inferiores (venas ilíacas externas) y órganos de la pelvis (venas ilíacas internas)",
+                        "isCorrect": true,
+                        "rationale": "Las venas ilíacas comunes drenan el miembro inferior (por venas ilíacas externas) y los órganos de la pelvis (por venas ilíacas internas)."
+                    },
+                    {
+                        "text": "Solo los miembros inferiores",
+                        "isCorrect": false,
+                        "rationale": "También drenan los órganos pélvicos."
+                    },
+                    {
+                        "text": "Solo la pelvis",
+                        "isCorrect": false,
+                        "rationale": "También drenan los miembros inferiores."
+                    },
+                    {
+                        "text": "El hígado",
+                        "isCorrect": false,
+                        "rationale": "El hígado drena por venas hepáticas directamente."
+                    }
+                ],
+                "hint": "Drenan la mitad inferior del cuerpo."
+            },
+            {
+                "question": "¿Qué venas afluentes tiene la vena cava inferior?",
+                "options": [
+                    {
+                        "text": "Venas renales, suprarrenal derecha, testicular/ovárica derecha, frénicas inferiores y hepáticas",
+                        "isCorrect": true,
+                        "rationale": "La vena cava inferior posee numerosas venas afluentes: venas renales (con suprarrenal y testicular/ovárica izquierdas), suprarrenal derecha, testicular/ovárica derecha, frénicas inferiores y venas hepáticas."
+                    },
+                    {
+                        "text": "Solo las venas renales",
+                        "isCorrect": false,
+                        "rationale": "Tiene muchas más venas afluentes."
+                    },
+                    {
+                        "text": "Solo las venas hepáticas",
+                        "isCorrect": false,
+                        "rationale": "Tiene múltiples afluentes además de las hepáticas."
+                    },
+                    {
+                        "text": "La vena ácigos",
+                        "isCorrect": false,
+                        "rationale": "La vena ácigos es afluente de la cava superior."
+                    }
+                ],
+                "hint": "Son múltiples venas que drenan órganos abdominales."
+            },
+            {
+                "question": "¿Qué particularidad tiene la vena renal izquierda?",
+                "options": [
+                    {
+                        "text": "Recibe a la vena suprarrenal izquierda y a la vena testicular/ovárica izquierda",
+                        "isCorrect": true,
+                        "rationale": "La vena renal izquierda recibe a la vena suprarrenal izquierda y a la vena testicular u ovárica izquierda antes de desembocar en la cava."
+                    },
+                    {
+                        "text": "No tiene afluentes",
+                        "isCorrect": false,
+                        "rationale": "Recibe las venas suprarrenal y gonadal izquierdas."
+                    },
+                    {
+                        "text": "Desemboca en la cava superior",
+                        "isCorrect": false,
+                        "rationale": "Desemboca en la cava inferior."
+                    },
+                    {
+                        "text": "Es más corta que la derecha",
+                        "isCorrect": false,
+                        "rationale": "Es más larga que la derecha porque cruza la línea media."
+                    }
+                ],
+                "hint": "Recibe sangre de la glándula suprarrenal y gónada del mismo lado."
+            },
+            {
+                "question": "¿Qué es la vena porta?",
+                "options": [
+                    {
+                        "text": "Vena que drena todas las venas del intestino y del bazo hacia el hígado",
+                        "isCorrect": true,
+                        "rationale": "La vena porta drena todas las venas del intestino y del bazo hacia el hígado, donde la sangre pasa a las venas hepáticas."
+                    },
+                    {
+                        "text": "Una vena que va directo al corazón",
+                        "isCorrect": false,
+                        "rationale": "La vena porta va al hígado, no directo al corazón."
+                    },
+                    {
+                        "text": "Una arteria",
+                        "isCorrect": false,
+                        "rationale": "La vena porta es una vena, no una arteria."
+                    },
+                    {
+                        "text": "Un vaso linfático",
+                        "isCorrect": false,
+                        "rationale": "Es una vena del sistema portal hepático."
+                    }
+                ],
+                "hint": "Es un sistema venoso especial que pasa por el hígado."
+            },
+            {
+                "question": "¿Qué drenan las venas hepáticas?",
+                "options": [
+                    {
+                        "text": "La sangre del hígado que incluye la sangre de la vena porta",
+                        "isCorrect": true,
+                        "rationale": "Las venas hepáticas drenan la sangre del hígado, que a su vez recibió la sangre de la vena porta (del intestino y bazo)."
+                    },
+                    {
+                        "text": "Solo la sangre del estómago",
+                        "isCorrect": false,
+                        "rationale": "Drenan la sangre que ya pasó por el hígado."
+                    },
+                    {
+                        "text": "La sangre del bazo directamente",
+                        "isCorrect": false,
+                        "rationale": "El bazo drena en la vena porta primero."
+                    },
+                    {
+                        "text": "La sangre de los riñones",
+                        "isCorrect": false,
+                        "rationale": "Los riñones drenan por venas renales."
+                    }
+                ],
+                "hint": "Son la 'salida' venosa del hígado hacia la cava inferior."
+            },
+            {
+                "question": "¿Cuáles son los tres tipos de anastomosis venosas?",
+                "options": [
+                    {
+                        "text": "Venovenosas, arteriovenosas y venolinfáticas",
+                        "isCorrect": true,
+                        "rationale": "Las venas presentan tres tipos de anastomosis: las venovenosas, las arteriovenosas y las venolinfáticas."
+                    },
+                    {
+                        "text": "Solo venovenosas",
+                        "isCorrect": false,
+                        "rationale": "Hay tres tipos de anastomosis venosas."
+                    },
+                    {
+                        "text": "Arteriales y venosas",
+                        "isCorrect": false,
+                        "rationale": "Son tres tipos específicos de anastomosis venosas."
+                    },
+                    {
+                        "text": "Lináticas y sanguíneas",
+                        "isCorrect": false,
+                        "rationale": "Los tres tipos son venovenosas, arteriovenosas y venolinfáticas."
+                    }
+                ],
+                "hint": "Conectan venas entre sí, con arterias o con vasos linfáticos."
+            },
+            {
+                "question": "¿Cómo se efectúan las anastomosis venovenosas?",
+                "options": [
+                    {
+                        "text": "Por inosculación, por conducto de unión o por convergencia",
+                        "isCorrect": true,
+                        "rationale": "Las anastomosis venovenosas se efectúan por inosculación, por conducto de unión o por convergencia. A veces constituyen una red o plexo venoso."
+                    },
+                    {
+                        "text": "Solo por convergencia",
+                        "isCorrect": false,
+                        "rationale": "Hay tres formas: inosculación, conducto de unión y convergencia."
+                    },
+                    {
+                        "text": "Solo por inosculación",
+                        "isCorrect": false,
+                        "rationale": "Hay tres formas diferentes."
+                    },
+                    {
+                        "text": "Por fusión completa",
+                        "isCorrect": false,
+                        "rationale": "Las formas son inosculación, conducto de unión o convergencia."
+                    }
+                ],
+                "hint": "Tres formas de conectar venas entre sí."
+            },
+            {
+                "question": "¿Qué puede formar una anastomosis venovenosa?",
+                "options": [
+                    {
+                        "text": "Una red o plexo venoso",
+                        "isCorrect": true,
+                        "rationale": "Las anastomosis venovenosas a veces constituyen una red o plexo venoso."
+                    },
+                    {
+                        "text": "Un aneurisma",
+                        "isCorrect": false,
+                        "rationale": "Un aneurisma es una dilatación arterial, no una red venosa."
+                    },
+                    {
+                        "text": "Un trombo",
+                        "isCorrect": false,
+                        "rationale": "Un trombo es un coágulo, no una anastomosis."
+                    },
+                    {
+                        "text": "Una válvula",
+                        "isCorrect": false,
+                        "rationale": "Las válvulas son estructuras diferentes de las anastomosis."
+                    }
+                ],
+                "hint": "Múltiples conexiones venosas pueden formar redes."
+            },
+            {
+                "question": "¿Qué son las anastomosis arteriovenosas?",
+                "options": [
+                    {
+                        "text": "Vías de derivación entre arteriola y vénula que evitan el plexo capilar",
+                        "isCorrect": true,
+                        "rationale": "Las anastomosis arteriovenosas son vías de derivación entre una arteriola y una vénula, un sistema de regulación que puede permitir evitar el pasaje por un plexo capilar."
+                    },
+                    {
+                        "text": "Conexiones entre dos arterias",
+                        "isCorrect": false,
+                        "rationale": "Conectan arteriola con vénula, no dos arterias."
+                    },
+                    {
+                        "text": "Conexiones entre dos venas",
+                        "isCorrect": false,
+                        "rationale": "Conectan arteriola con vénula, no dos venas."
+                    },
+                    {
+                        "text": "Conexiones linfáticas",
+                        "isCorrect": false,
+                        "rationale": "Conectan vasos sanguíneos, no linfáticos."
+                    }
+                ],
+                "hint": "Permiten 'saltar' los capilares."
+            },
+            {
+                "question": "¿Qué función tienen las anastomosis arteriovenosas?",
+                "options": [
+                    {
+                        "text": "Sistema de regulación que puede evitar el pasaje por el plexo capilar",
+                        "isCorrect": true,
+                        "rationale": "Las anastomosis arteriovenosas son un sistema de regulación que puede permitir evitar el pasaje por un plexo capilar."
+                    },
+                    {
+                        "text": "Aumentar la presión arterial",
+                        "isCorrect": false,
+                        "rationale": "Regulan distribución de flujo, no aumentan presión."
+                    },
+                    {
+                        "text": "Filtrar la sangre",
+                        "isCorrect": false,
+                        "rationale": "No filtran, derivan flujo."
+                    },
+                    {
+                        "text": "Producir linfa",
+                        "isCorrect": false,
+                        "rationale": "No producen linfa, regulan flujo sanguíneo."
+                    }
+                ],
+                "hint": "Regulan el flujo según las necesidades del tejido."
+            },
+            {
+                "question": "¿Qué son las anastomosis venolinfáticas?",
+                "options": [
+                    {
+                        "text": "La vía de drenaje final de los vasos linfáticos hacia el sistema venoso",
+                        "isCorrect": true,
+                        "rationale": "Las anastomosis venolinfáticas constituyen la vía de drenaje final de los vasos linfáticos."
+                    },
+                    {
+                        "text": "Conexiones entre venas",
+                        "isCorrect": false,
+                        "rationale": "Conectan vasos linfáticos con venas."
+                    },
+                    {
+                        "text": "Conexiones entre arterias y venas",
+                        "isCorrect": false,
+                        "rationale": "Esas son anastomosis arteriovenosas."
+                    },
+                    {
+                        "text": "Conexiones entre linfáticos",
+                        "isCorrect": false,
+                        "rationale": "Conectan linfáticos con el sistema venoso."
+                    }
+                ],
+                "hint": "Es donde el sistema linfático se conecta con el venoso."
+            },
+            {
+                "question": "¿Qué ocurre en la insuficiencia de la circulación venosa?",
+                "options": [
+                    {
+                        "text": "Aumento de producción de linfa que no puede drenarse correctamente, generando edemas",
+                        "isCorrect": true,
+                        "rationale": "En la insuficiencia venosa se produce aumento en la producción de linfa que no puede ser correctamente drenado y genera edemas."
+                    },
+                    {
+                        "text": "Disminución de la producción de linfa",
+                        "isCorrect": false,
+                        "rationale": "La producción de linfa aumenta, no disminuye."
+                    },
+                    {
+                        "text": "No afecta al sistema linfático",
+                        "isCorrect": false,
+                        "rationale": "La insuficiencia venosa afecta el drenaje linfático."
+                    },
+                    {
+                        "text": "Mejora el retorno venoso",
+                        "isCorrect": false,
+                        "rationale": "Precisamente es lo contrario: el retorno venoso falla."
+                    }
+                ],
+                "hint": "El edema es un signo de insuficiencia venosa."
+            },
+            {
+                "question": "¿Cómo es la vascularización de las venas?",
+                "options": [
+                    {
+                        "text": "Semejante a la de las arterias: por difusión de sangre circulante y vasa vasorum",
+                        "isCorrect": true,
+                        "rationale": "La vascularización de las venas es semejante a la de las arterias: por difusión de sangre circulante y de los vasa vasorum en las grandes venas."
+                    },
+                    {
+                        "text": "No tienen vascularización",
+                        "isCorrect": false,
+                        "rationale": "Las venas sí tienen vascularización, especialmente las grandes."
+                    },
+                    {
+                        "text": "Solo por difusión",
+                        "isCorrect": false,
+                        "rationale": "Las grandes venas también tienen vasa vasorum."
+                    },
+                    {
+                        "text": "Solo por vasa vasorum",
+                        "isCorrect": false,
+                        "rationale": "También hay difusión desde la sangre circulante."
+                    }
+                ],
+                "hint": "'Vasa vasorum' = vasos de los vasos."
+            },
+            {
+                "question": "¿Cómo es la inervación de las venas?",
+                "options": [
+                    {
+                        "text": "Rica en venas viscerales e idéntica a la de las arterias en venas periféricas",
+                        "isCorrect": true,
+                        "rationale": "La inervación es rica a nivel de las venas viscerales y es idéntica a la de las arterias en las venas periféricas."
+                    },
+                    {
+                        "text": "Ausente en todas las venas",
+                        "isCorrect": false,
+                        "rationale": "Las venas sí tienen inervación."
+                    },
+                    {
+                        "text": "Solo en las venas superficiales",
+                        "isCorrect": false,
+                        "rationale": "Las venas viscerales tienen inervación especialmente rica."
+                    },
+                    {
+                        "text": "Solo en las venas profundas",
+                        "isCorrect": false,
+                        "rationale": "Todas las venas tienen inervación."
+                    }
+                ],
+                "hint": "Los nervios controlan el tono de la pared venosa."
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "nombre": "Parte 8",
+        "preguntas": 40,
+        "data": [
+            {
+                "question": "¿Qué ocurre con la resistencia gravitatoria al pasar de decúbito supino a posición de pie?",
+                "options": [
+                    {
+                        "text": "Aumenta por un aporte de 500 cm³ de sangre en venas del miembro inferior",
+                        "isCorrect": true,
+                        "rationale": "La resistencia gravitatoria aumenta por un aporte de 500 centímetros cúbicos de sangre en las venas del miembro inferior al cambiar a bipedestación."
+                    },
+                    {
+                        "text": "Disminuye la resistencia",
+                        "isCorrect": false,
+                        "rationale": "La resistencia aumenta, no disminuye, por efecto de la gravedad."
+                    },
+                    {
+                        "text": "No cambia la resistencia",
+                        "isCorrect": false,
+                        "rationale": "Cambiar de posición afecta significativamente la resistencia venosa."
+                    },
+                    {
+                        "text": "Aumenta solo 50 cm³",
+                        "isCorrect": false,
+                        "rationale": "El aporte es de 500 cm³, no 50."
+                    }
+                ],
+                "hint": "La gravedad dificulta el retorno venoso cuando nos ponemos de pie."
+            },
+            {
+                "question": "¿Qué compresiones pueden comprometer el retorno venoso?",
+                "options": [
+                    {
+                        "text": "Compresiones externas o internas (presión abdominal, útero grávido, tumor abdominal)",
+                        "isCorrect": true,
+                        "rationale": "Las compresiones externas o internas como presión abdominal, útero grávido o tumor abdominal pueden comprometer el retorno venoso."
+                    },
+                    {
+                        "text": "Solo compresiones en los pies",
+                        "isCorrect": false,
+                        "rationale": "Las compresiones abdominales y pélvicas también afectan el retorno."
+                    },
+                    {
+                        "text": "Solo compresiones en el cuello",
+                        "isCorrect": false,
+                        "rationale": "Las compresiones abdominales son más significativas para el retorno venoso."
+                    },
+                    {
+                        "text": "Las compresiones no afectan el retorno venoso",
+                        "isCorrect": false,
+                        "rationale": "Sí pueden comprometerlo significativamente."
+                    }
+                ],
+                "hint": "El embarazo y los tumores abdominales pueden dificultar el retorno venoso."
+            },
+            {
+                "question": "¿Cuál es la capacidad del sistema venoso comparado con el arterial?",
+                "options": [
+                    {
+                        "text": "4.700 ml el venoso frente a 800 ml el arterial",
+                        "isCorrect": true,
+                        "rationale": "La capacidad del sistema venoso es de 4.700 mililitros frente a los 800 mililitros de las arterias."
+                    },
+                    {
+                        "text": "800 ml el venoso frente a 4.700 ml el arterial",
+                        "isCorrect": false,
+                        "rationale": "Es al revés: el venoso tiene mayor capacidad."
+                    },
+                    {
+                        "text": "Ambos tienen la misma capacidad",
+                        "isCorrect": false,
+                        "rationale": "El sistema venoso tiene casi 6 veces más capacidad."
+                    },
+                    {
+                        "text": "1.000 ml cada uno",
+                        "isCorrect": false,
+                        "rationale": "El venoso tiene 4.700 ml y el arterial 800 ml."
+                    }
+                ],
+                "hint": "Las venas son el 'reservorio' de sangre del cuerpo."
+            },
+            {
+                "question": "¿Cuántas veces más distensible es el sistema venoso que el arterial?",
+                "options": [
+                    {
+                        "text": "100 a 200 veces más distensible",
+                        "isCorrect": true,
+                        "rationale": "La reserva vascular venosa es 100 a 200 veces más distensible que el sistema arterial."
+                    },
+                    {
+                        "text": "10 veces más distensible",
+                        "isCorrect": false,
+                        "rationale": "Es mucho más distensible: 100 a 200 veces."
+                    },
+                    {
+                        "text": "Igual de distensible",
+                        "isCorrect": false,
+                        "rationale": "El sistema venoso es mucho más distensible."
+                    },
+                    {
+                        "text": "Menos distensible que el arterial",
+                        "isCorrect": false,
+                        "rationale": "Es más distensible, no menos."
+                    }
+                ],
+                "hint": "Las venas pueden expandirse mucho más que las arterias."
+            },
+            {
+                "question": "¿Qué papel desempeñan las venas esplácnicas en la reserva vascular?",
+                "options": [
+                    {
+                        "text": "Desempeñan un papel central en la reserva vascular",
+                        "isCorrect": true,
+                        "rationale": "Las venas esplácnicas (de las vísceras) desempeñan un papel central en la reserva vascular."
+                    },
+                    {
+                        "text": "No participan en la reserva vascular",
+                        "isCorrect": false,
+                        "rationale": "Son fundamentales en la reserva vascular."
+                    },
+                    {
+                        "text": "Solo participan en la circulación pulmonar",
+                        "isCorrect": false,
+                        "rationale": "Son venas sistémicas, no pulmonares."
+                    },
+                    {
+                        "text": "Son las menos importantes",
+                        "isCorrect": false,
+                        "rationale": "Desempeñan un papel central."
+                    }
+                ],
+                "hint": "Las venas de las vísceras abdominales son un gran reservorio."
+            },
+            {
+                "question": "¿Cómo varía la presión venosa desde los capilares hacia las venas cavas?",
+                "options": [
+                    {
+                        "text": "Disminuye progresivamente y llega a ser negativa en las venas cavas",
+                        "isCorrect": true,
+                        "rationale": "La presión venosa disminuye progresivamente desde los capilares hacia las venas cavas donde es negativa."
+                    },
+                    {
+                        "text": "Aumenta hacia las venas cavas",
+                        "isCorrect": false,
+                        "rationale": "Disminuye, no aumenta."
+                    },
+                    {
+                        "text": "Se mantiene constante",
+                        "isCorrect": false,
+                        "rationale": "Disminuye progresivamente."
+                    },
+                    {
+                        "text": "Es siempre positiva",
+                        "isCorrect": false,
+                        "rationale": "En las venas cavas es negativa."
+                    }
+                ],
+                "hint": "La presión negativa en cavas ayuda a 'aspirar' la sangre."
+            },
+            {
+                "question": "¿Qué explica la presión negativa en las venas cavas?",
+                "options": [
+                    {
+                        "text": "La posibilidad de embolias gaseosas en traumatismos de grandes venas",
+                        "isCorrect": true,
+                        "rationale": "Esta presión negativa explica la posibilidad de producción de embolias gaseosas cuando hay traumatismos de las grandes venas."
+                    },
+                    {
+                        "text": "Que la sangre no circula",
+                        "isCorrect": false,
+                        "rationale": "La sangre sí circula; la presión negativa es por la succión del corazón."
+                    },
+                    {
+                        "text": "Que las venas están vacías",
+                        "isCorrect": false,
+                        "rationale": "Las venas contienen sangre; la presión negativa es relativa."
+                    },
+                    {
+                        "text": "Un error de medición",
+                        "isCorrect": false,
+                        "rationale": "Es un fenómeno físico real producido por la succión cardíaca."
+                    }
+                ],
+                "hint": "Si se perfora una vena grande con presión negativa, puede entrar aire."
+            },
+            {
+                "question": "¿Cuál es el papel de las válvulas en el retorno venoso?",
+                "options": [
+                    {
+                        "text": "Se oponen al reflujo venoso manteniendo la dirección centrípeta de la sangre",
+                        "isCorrect": true,
+                        "rationale": "Las válvulas se oponen al reflujo venoso manteniendo la dirección centrípeta de la corriente sanguínea."
+                    },
+                    {
+                        "text": "Bombear sangre hacia el corazón",
+                        "isCorrect": false,
+                        "rationale": "Las válvulas no bombean, solo impiden el reflujo."
+                    },
+                    {
+                        "text": "Aumentar la presión venosa",
+                        "isCorrect": false,
+                        "rationale": "No aumentan presión, regulan dirección."
+                    },
+                    {
+                        "text": "Producir linfa",
+                        "isCorrect": false,
+                        "rationale": "No tienen relación con la producción de linfa."
+                    }
+                ],
+                "hint": "Actúan como compuertas que permiten solo un sentido de flujo."
+            },
+            {
+                "question": "¿Dónde son más importantes las válvulas venosas?",
+                "options": [
+                    {
+                        "text": "En las pequeñas venas más que en las grandes",
+                        "isCorrect": true,
+                        "rationale": "Las válvulas son más importantes en las pequeñas venas que en las grandes."
+                    },
+                    {
+                        "text": "En las grandes venas exclusivamente",
+                        "isCorrect": false,
+                        "rationale": "Son más importantes en las venas pequeñas."
+                    },
+                    {
+                        "text": "En todas por igual",
+                        "isCorrect": false,
+                        "rationale": "Son más importantes en las pequeñas venas."
+                    },
+                    {
+                        "text": "Solo en las venas cavas",
+                        "isCorrect": false,
+                        "rationale": "Las venas cavas son avalvulares."
+                    }
+                ],
+                "hint": "Las venas pequeñas tienen más válvulas y dependen más de ellas."
+            },
+            {
+                "question": "¿Qué protegen las válvulas venosas?",
+                "options": [
+                    {
+                        "text": "Protegen a los capilares de los aumentos de presión retrógrados",
+                        "isCorrect": true,
+                        "rationale": "Las válvulas protegen a los capilares de los aumentos de presión retrógrados."
+                    },
+                    {
+                        "text": "Protegen al corazón",
+                        "isCorrect": false,
+                        "rationale": "Protegen principalmente a los capilares."
+                    },
+                    {
+                        "text": "Protegen a las arterias",
+                        "isCorrect": false,
+                        "rationale": "Protegen a los capilares del sistema venoso."
+                    },
+                    {
+                        "text": "No tienen función protectora",
+                        "isCorrect": false,
+                        "rationale": "Protegen a los capilares de la presión retrógrada."
+                    }
+                ],
+                "hint": "Evitan que la presión retroceda hacia los capilares."
+            },
+            {
+                "question": "¿Cuál es el papel de la motricidad propia de la vena?",
+                "options": [
+                    {
+                        "text": "Débil en venas superficiales, importante en venas esplácnicas",
+                        "isCorrect": true,
+                        "rationale": "El papel de la motricidad propia es débil en las venas superficiales, pero importante en las venas esplácnicas."
+                    },
+                    {
+                        "text": "Igual en todas las venas",
+                        "isCorrect": false,
+                        "rationale": "Es diferente según el tipo de vena."
+                    },
+                    {
+                        "text": "Muy importante en venas superficiales",
+                        "isCorrect": false,
+                        "rationale": "Es débil en las venas superficiales."
+                    },
+                    {
+                        "text": "Inexistente",
+                        "isCorrect": false,
+                        "rationale": "Existe y es importante en las venas esplácnicas."
+                    }
+                ],
+                "hint": "Las venas de las vísceras se vacían activamente."
+            },
+            {
+                "question": "¿En cuánto tiempo se vacían las venas esplácnicas a la mitad de su volumen?",
+                "options": [
+                    {
+                        "text": "En 20 segundos",
+                        "isCorrect": true,
+                        "rationale": "Las venas esplácnicas se vacían a la mitad de su volumen en 20 segundos."
+                    },
+                    {
+                        "text": "En 2 segundos",
+                        "isCorrect": false,
+                        "rationale": "Tarda 20 segundos, no 2."
+                    },
+                    {
+                        "text": "En 2 minutos",
+                        "isCorrect": false,
+                        "rationale": "Es 20 segundos, no minutos."
+                    },
+                    {
+                        "text": "No se vacían nunca",
+                        "isCorrect": false,
+                        "rationale": "Se vacían activamente en 20 segundos a la mitad."
+                    }
+                ],
+                "hint": "Es un vaciado relativamente rápido por contracción propia."
+            },
+            {
+                "question": "¿Qué es el acoplamiento arteriovenoso?",
+                "options": [
+                    {
+                        "text": "Transmisión de onda pulsátil arterial a las paredes venosas colapsándolas",
+                        "isCorrect": true,
+                        "rationale": "La onda pulsátil se transmite desde las arterias hacia las paredes de las venas, colapsándolas por contracciones musculares."
+                    },
+                    {
+                        "text": "Conexión anatómica entre arteria y vena",
+                        "isCorrect": false,
+                        "rationale": "No es conexión anatómica, es transmisión de pulso."
+                    },
+                    {
+                        "text": "Fusión de arteria y vena",
+                        "isCorrect": false,
+                        "rationale": "Es un fenómeno dinámico, no anatómico."
+                    },
+                    {
+                        "text": "Mezcla de sangre arterial y venosa",
+                        "isCorrect": false,
+                        "rationale": "No hay mezcla de sangre."
+                    }
+                ],
+                "hint": "Las arterias 'masajean' a las venas vecinas."
+            },
+            {
+                "question": "¿Qué son las venas contiguas en el acoplamiento arteriovenoso?",
+                "options": [
+                    {
+                        "text": "Venas comprendidas en la misma vaina fibrosa que la arteria",
+                        "isCorrect": true,
+                        "rationale": "El acoplamiento arteriovenoso se produce en venas contiguas, comprendidas en la misma vaina fibrosa que la arteria."
+                    },
+                    {
+                        "text": "Venas lejos de las arterias",
+                        "isCorrect": false,
+                        "rationale": "Son venas en la misma vaina que las arterias."
+                    },
+                    {
+                        "text": "Solo las venas superficiales",
+                        "isCorrect": false,
+                        "rationale": "Son venas profundas que acompañan arterias."
+                    },
+                    {
+                        "text": "Las venas pulmonares",
+                        "isCorrect": false,
+                        "rationale": "Son venas sistémicas satélites de arterias."
+                    }
+                ],
+                "hint": "Son las venas satélites que viajan junto a las arterias."
+            },
+            {
+                "question": "¿Qué efecto tienen las pulsaciones arteriales sobre las venas contiguas?",
+                "options": [
+                    {
+                        "text": "Les dan una contracción pasiva favorable al retorno venoso",
+                        "isCorrect": true,
+                        "rationale": "Las pulsaciones arteriales, transmitidas a la vena, le dan una contracción pasiva favorable al retorno venoso."
+                    },
+                    {
+                        "text": "Obstruyen las venas",
+                        "isCorrect": false,
+                        "rationale": "Ayudan al retorno, no obstruyen."
+                    },
+                    {
+                        "text": "Disminuyen el flujo venoso",
+                        "isCorrect": false,
+                        "rationale": "Favorecen el flujo venoso."
+                    },
+                    {
+                        "text": "No tienen efecto",
+                        "isCorrect": false,
+                        "rationale": "Tienen un efecto positivo en el retorno."
+                    }
+                ],
+                "hint": "El pulso arterial 'empuja' la sangre venosa hacia el corazón."
+            },
+            {
+                "question": "¿Cuál es la fuerza propulsora del corazón (vis a tergo)?",
+                "options": [
+                    {
+                        "text": "Aproximadamente 35 mmHg de presión a nivel de arteriolas precapilares",
+                        "isCorrect": true,
+                        "rationale": "La fuerza propulsora del corazón (vis a tergo) es eficaz y se estima en 35 mmHg de presión a nivel de las arteriolas precapilares."
+                    },
+                    {
+                        "text": "100 mmHg",
+                        "isCorrect": false,
+                        "rationale": "Es aproximadamente 35 mmHg, no 100."
+                    },
+                    {
+                        "text": "5 mmHg",
+                        "isCorrect": false,
+                        "rationale": "Es 35 mmHg, bastante más."
+                    },
+                    {
+                        "text": "120 mmHg",
+                        "isCorrect": false,
+                        "rationale": "Esa es la presión arterial sistólica, no la vis a tergo."
+                    }
+                ],
+                "hint": "'Vis a tergo' = fuerza desde atrás (presión arterial empuja)."
+            },
+            {
+                "question": "¿Qué favorece la fuerza aspirante del corazón (vis a fronte)?",
+                "options": [
+                    {
+                        "text": "Las presiones intratorácicas y abdominales, el fin de la sístole y la inspiración",
+                        "isCorrect": true,
+                        "rationale": "La fuerza aspirante del corazón se ve favorecida por las presiones intratorácicas y abdominales. El fin de la sístole y la inspiración son factores esenciales."
+                    },
+                    {
+                        "text": "La espiración solamente",
+                        "isCorrect": false,
+                        "rationale": "La inspiración es más importante que la espiración."
+                    },
+                    {
+                        "text": "La contracción muscular",
+                        "isCorrect": false,
+                        "rationale": "Ese es otro mecanismo diferente."
+                    },
+                    {
+                        "text": "Las válvulas venosas",
+                        "isCorrect": false,
+                        "rationale": "Las válvulas son otro mecanismo."
+                    }
+                ],
+                "hint": "'Vis a fronte' = fuerza desde adelante (el corazón aspira)."
+            },
+            {
+                "question": "¿Qué ocurre con la inmovilización prolongada de un paciente?",
+                "options": [
+                    {
+                        "text": "Reduce la circulación venosa y favorece la trombosis venosa",
+                        "isCorrect": true,
+                        "rationale": "La inmovilización prolongada de un paciente reduce la circulación venosa y favorece la trombosis venosa."
+                    },
+                    {
+                        "text": "Mejora el retorno venoso",
+                        "isCorrect": false,
+                        "rationale": "Empeora el retorno venoso."
+                    },
+                    {
+                        "text": "No tiene efectos sobre la circulación",
+                        "isCorrect": false,
+                        "rationale": "Tiene efectos significativos y peligrosos."
+                    },
+                    {
+                        "text": "Aumenta la presión arterial",
+                        "isCorrect": false,
+                        "rationale": "El efecto principal es sobre el sistema venoso."
+                    }
+                ],
+                "hint": "Sin movimiento no hay bomba muscular activa."
+            },
+            {
+                "question": "¿Dónde están interpuestos los capilares?",
+                "options": [
+                    {
+                        "text": "Entre las arterias y las venas",
+                        "isCorrect": true,
+                        "rationale": "Los capilares están interpuestos entre las arterias y las venas."
+                    },
+                    {
+                        "text": "Solo entre arterias",
+                        "isCorrect": false,
+                        "rationale": "Conectan arterias con venas."
+                    },
+                    {
+                        "text": "Solo entre venas",
+                        "isCorrect": false,
+                        "rationale": "Conectan arterias con venas."
+                    },
+                    {
+                        "text": "Dentro del corazón",
+                        "isCorrect": false,
+                        "rationale": "Están en los tejidos, no en el corazón."
+                    }
+                ],
+                "hint": "Son el puente entre el sistema arterial y venoso."
+            },
+            {
+                "question": "¿Qué se produce en los capilares?",
+                "options": [
+                    {
+                        "text": "Intercambios entre la sangre y los órganos (nutrición y eliminación)",
+                        "isCorrect": true,
+                        "rationale": "En los capilares se producen los intercambios entre la sangre y los órganos, en sentido sangre-tejido (nutrición) o tejido-sangre (eliminación)."
+                    },
+                    {
+                        "text": "Producción de sangre",
+                        "isCorrect": false,
+                        "rationale": "La sangre se produce en la médula ósea."
+                    },
+                    {
+                        "text": "Filtración renal únicamente",
+                        "isCorrect": false,
+                        "rationale": "Los intercambios ocurren en todos los tejidos."
+                    },
+                    {
+                        "text": "Almacenamiento de sangre",
+                        "isCorrect": false,
+                        "rationale": "El almacenamiento es función de las venas."
+                    }
+                ],
+                "hint": "Son el sitio de intercambio de nutrientes y desechos."
+            },
+            {
+                "question": "¿Cuál es el resultado de los intercambios capilares?",
+                "options": [
+                    {
+                        "text": "Transformación de sangre arterial en sangre venosa",
+                        "isCorrect": true,
+                        "rationale": "El resultado de los intercambios es la transformación de sangre arterial (rica en O₂) en sangre venosa (cargada de CO₂)."
+                    },
+                    {
+                        "text": "Sangre arterial permanece arterial",
+                        "isCorrect": false,
+                        "rationale": "La sangre se transforma de arterial a venosa."
+                    },
+                    {
+                        "text": "No hay cambios en la sangre",
+                        "isCorrect": false,
+                        "rationale": "La sangre cambia significativamente."
+                    },
+                    {
+                        "text": "Sangre venosa se vuelve arterial",
+                        "isCorrect": false,
+                        "rationale": "Eso ocurre en los pulmones, no en los capilares sistémicos."
+                    }
+                ],
+                "hint": "La sangre pierde O₂ y gana CO₂."
+            },
+            {
+                "question": "¿Qué son las uniones arteriolocapilar y capilarovenular?",
+                "options": [
+                    {
+                        "text": "Zonas intermediarias entre arterias-capilares y capilares-venas",
+                        "isCorrect": true,
+                        "rationale": "La unión entre arterias y capilares, y entre capilares y venas, constituye una zona intermediaria denominada uniones arteriolocapilar y capilarovenular."
+                    },
+                    {
+                        "text": "Tipos de capilares",
+                        "isCorrect": false,
+                        "rationale": "Son zonas de transición, no tipos de capilares."
+                    },
+                    {
+                        "text": "Válvulas en los capilares",
+                        "isCorrect": false,
+                        "rationale": "Son zonas de unión, no válvulas."
+                    },
+                    {
+                        "text": "Anastomosis arteriovenosas",
+                        "isCorrect": false,
+                        "rationale": "Son zonas de unión normal, no cortocircuitos."
+                    }
+                ],
+                "hint": "Son las zonas de transición entre los diferentes vasos."
+            },
+            {
+                "question": "¿Qué son los cortocircuitos arteriovenosos?",
+                "options": [
+                    {
+                        "text": "Vasos que unen arteriolas a vénulas salteando el territorio capilar",
+                        "isCorrect": true,
+                        "rationale": "Los cortocircuitos arteriovenosos son vasos que reúnen arteriolas con vénulas estableciendo un pasaje que saltea el territorio capilar."
+                    },
+                    {
+                        "text": "Conexiones entre dos arterias",
+                        "isCorrect": false,
+                        "rationale": "Conectan arteriola con vénula, no arterias entre sí."
+                    },
+                    {
+                        "text": "Conexiones entre dos venas",
+                        "isCorrect": false,
+                        "rationale": "Conectan arteriola con vénula."
+                    },
+                    {
+                        "text": "Capilares agrandados",
+                        "isCorrect": false,
+                        "rationale": "No son capilares, son vías de derivación."
+                    }
+                ],
+                "hint": "Permiten que la sangre pase directo sin intercambiar."
+            },
+            {
+                "question": "¿Desde cuándo se sabe que la sangre circula a partir del ventrículo izquierdo?",
+                "options": [
+                    {
+                        "text": "Desde William Harvey (1628)",
+                        "isCorrect": true,
+                        "rationale": "Desde William Harvey (1628) se sabe que la sangre circula en el organismo a partir del ventrículo izquierdo."
+                    },
+                    {
+                        "text": "Desde la antigüedad",
+                        "isCorrect": false,
+                        "rationale": "El conocimiento correcto es de Harvey en 1628."
+                    },
+                    {
+                        "text": "Desde el siglo XX",
+                        "isCorrect": false,
+                        "rationale": "Se conoció mucho antes, en 1628."
+                    },
+                    {
+                        "text": "Desde Galeno",
+                        "isCorrect": false,
+                        "rationale": "Galeno tenía teorías erróneas sobre la circulación."
+                    }
+                ],
+                "hint": "Harvey descubrió la circulación sanguínea."
+            },
+            {
+                "question": "¿Qué hace el ventrículo izquierdo con la sangre arterial?",
+                "options": [
+                    {
+                        "text": "La impulsa a la aorta para repartirla en todo el cuerpo excepto pulmones",
+                        "isCorrect": true,
+                        "rationale": "El ventrículo izquierdo impulsa la sangre arterial a la aorta para repartirse en todo el cuerpo excepto los pulmones."
+                    },
+                    {
+                        "text": "La envía a los pulmones",
+                        "isCorrect": false,
+                        "rationale": "El ventrículo derecho envía sangre a los pulmones."
+                    },
+                    {
+                        "text": "La recibe de las venas",
+                        "isCorrect": false,
+                        "rationale": "El atrio izquierdo recibe sangre de las venas pulmonares."
+                    },
+                    {
+                        "text": "La almacena",
+                        "isCorrect": false,
+                        "rationale": "El ventrículo bombea sangre, no la almacena."
+                    }
+                ],
+                "hint": "El ventrículo izquierdo es la bomba del circuito sistémico."
+            },
+            {
+                "question": "¿Qué ocurre en los diferentes órganos y capilares?",
+                "options": [
+                    {
+                        "text": "Se establecen intercambios fisicoquímicos que aseguran la vida de los tejidos",
+                        "isCorrect": true,
+                        "rationale": "En los diferentes órganos y en los capilares se establecen intercambios fisicoquímicos que aseguran la vida de los diferentes tejidos."
+                    },
+                    {
+                        "text": "No ocurren intercambios",
+                        "isCorrect": false,
+                        "rationale": "Los intercambios son fundamentales para la vida."
+                    },
+                    {
+                        "text": "Solo ocurre filtración",
+                        "isCorrect": false,
+                        "rationale": "Ocurren múltiples tipos de intercambios."
+                    },
+                    {
+                        "text": "Solo ocurre en el hígado",
+                        "isCorrect": false,
+                        "rationale": "Ocurre en todos los órganos."
+                    }
+                ],
+                "hint": "Los capilares son el sitio de intercambio nutricional."
+            },
+            {
+                "question": "¿A dónde llega la sangre desde los diferentes órganos?",
+                "options": [
+                    {
+                        "text": "Al atrio derecho por las venas cavas superior e inferior",
+                        "isCorrect": true,
+                        "rationale": "La sangre es recogida por las venas que la conducen al atrio derecho por intermedio de las venas cavas superior e inferior."
+                    },
+                    {
+                        "text": "Al atrio izquierdo",
+                        "isCorrect": false,
+                        "rationale": "El atrio izquierdo recibe sangre de los pulmones."
+                    },
+                    {
+                        "text": "Al ventrículo derecho directamente",
+                        "isCorrect": false,
+                        "rationale": "Pasa primero por el atrio derecho."
+                    },
+                    {
+                        "text": "A los pulmones",
+                        "isCorrect": false,
+                        "rationale": "Va a los pulmones desde el ventrículo derecho."
+                    }
+                ],
+                "hint": "Las venas cavas drenan en el atrio derecho."
+            },
+            {
+                "question": "¿Qué hace el ventrículo derecho con la sangre?",
+                "options": [
+                    {
+                        "text": "La impulsa al tronco pulmonar hacia los dos pulmones",
+                        "isCorrect": true,
+                        "rationale": "Del atrio derecho la sangre pasa al ventrículo derecho, que impulsa la sangre venosa al tronco pulmonar y de allí a los dos pulmones."
+                    },
+                    {
+                        "text": "La envía a la aorta",
+                        "isCorrect": false,
+                        "rationale": "El ventrículo izquierdo envía sangre a la aorta."
+                    },
+                    {
+                        "text": "La recibe de las venas cavas",
+                        "isCorrect": false,
+                        "rationale": "El atrio derecho recibe de las venas cavas."
+                    },
+                    {
+                        "text": "La almacena",
+                        "isCorrect": false,
+                        "rationale": "El ventrículo bombea sangre, no la almacena."
+                    }
+                ],
+                "hint": "El ventrículo derecho es la bomba del circuito pulmonar."
+            },
+            {
+                "question": "¿Qué transformación sufre la sangre en los pulmones?",
+                "options": [
+                    {
+                        "text": "Elimina CO₂ y se enriquece en O₂",
+                        "isCorrect": true,
+                        "rationale": "En los pulmones, la sangre venosa sufre una transformación donde se elimina el anhídrido carbónico y se enriquece en oxígeno."
+                    },
+                    {
+                        "text": "Elimina O₂ y gana CO₂",
+                        "isCorrect": false,
+                        "rationale": "Es al revés: gana O₂ y pierde CO₂."
+                    },
+                    {
+                        "text": "No cambia su composición",
+                        "isCorrect": false,
+                        "rationale": "Cambia significativamente su composición gaseosa."
+                    },
+                    {
+                        "text": "Se vuelve más oscura",
+                        "isCorrect": false,
+                        "rationale": "Se vuelve más roja brillante por la oxigenación."
+                    }
+                ],
+                "hint": "Es el proceso de hematosis u oxigenación."
+            },
+            {
+                "question": "¿Por dónde vuelve la sangre oxigenada al corazón?",
+                "options": [
+                    {
+                        "text": "Por las venas pulmonares al atrio izquierdo",
+                        "isCorrect": true,
+                        "rationale": "La sangre oxigenada vuelve al corazón por las venas pulmonares que terminan en el atrio izquierdo."
+                    },
+                    {
+                        "text": "Por las venas cavas",
+                        "isCorrect": false,
+                        "rationale": "Las venas cavas traen sangre venosa."
+                    },
+                    {
+                        "text": "Por la aorta",
+                        "isCorrect": false,
+                        "rationale": "La aorta sale del ventrículo izquierdo."
+                    },
+                    {
+                        "text": "Por el tronco pulmonar",
+                        "isCorrect": false,
+                        "rationale": "El tronco pulmonar lleva sangre venosa a los pulmones."
+                    }
+                ],
+                "hint": "Las venas pulmonares son las únicas que traen sangre oxigenada."
+            },
+            {
+                "question": "¿Qué sentido tiene la sangre en las arterias?",
+                "options": [
+                    {
+                        "text": "Se aleja del corazón",
+                        "isCorrect": true,
+                        "rationale": "La sangre circula en los vasos con sentido único: se aleja del corazón en las arterias."
+                    },
+                    {
+                        "text": "Se dirige hacia el corazón",
+                        "isCorrect": false,
+                        "rationale": "En las venas se dirige hacia el corazón."
+                    },
+                    {
+                        "text": "Puede ir en ambos sentidos",
+                        "isCorrect": false,
+                        "rationale": "El flujo es unidireccional."
+                    },
+                    {
+                        "text": "Circula en círculos",
+                        "isCorrect": false,
+                        "rationale": "Tiene dirección definida alejándose del corazón."
+                    }
+                ],
+                "hint": "Arterias = Alejan (ambas empiezan con A)."
+            },
+            {
+                "question": "¿Qué sentido tiene la sangre en las venas?",
+                "options": [
+                    {
+                        "text": "Se dirige hacia el corazón",
+                        "isCorrect": true,
+                        "rationale": "La sangre se dirige hacia el corazón en las venas."
+                    },
+                    {
+                        "text": "Se aleja del corazón",
+                        "isCorrect": false,
+                        "rationale": "En las arterias se aleja del corazón."
+                    },
+                    {
+                        "text": "Puede ir en ambos sentidos",
+                        "isCorrect": false,
+                        "rationale": "El flujo es unidireccional."
+                    },
+                    {
+                        "text": "Circula alejándose",
+                        "isCorrect": false,
+                        "rationale": "Se dirige hacia el corazón."
+                    }
+                ],
+                "hint": "Venas = Vienen al corazón (ambas empiezan con V)."
+            },
+            {
+                "question": "¿Qué función tienen las válvulas auriculoventriculares?",
+                "options": [
+                    {
+                        "text": "Se oponen al reflujo de sangre desde los ventrículos hacia los atrios",
+                        "isCorrect": true,
+                        "rationale": "Las válvulas auriculoventriculares se oponen al reflujo de la sangre desde los ventrículos hacia los atrios."
+                    },
+                    {
+                        "text": "Evitan el reflujo desde las arterias",
+                        "isCorrect": false,
+                        "rationale": "Esa es función de las válvulas aórtica y pulmonar."
+                    },
+                    {
+                        "text": "Permiten flujo en ambos sentidos",
+                        "isCorrect": false,
+                        "rationale": "Solo permiten flujo unidireccional."
+                    },
+                    {
+                        "text": "Regulan la presión arterial",
+                        "isCorrect": false,
+                        "rationale": "No regulan presión, previenen reflujo."
+                    }
+                ],
+                "hint": "Están entre los atrios y los ventrículos."
+            },
+            {
+                "question": "¿Qué función tienen las válvulas pulmonar y aórtica?",
+                "options": [
+                    {
+                        "text": "Evitan el reflujo de sangre desde las arterias hacia los ventrículos",
+                        "isCorrect": true,
+                        "rationale": "Las válvulas pulmonar y aórtica evitan el reflujo de la sangre desde las arterias (pulmonar y aorta) hacia los ventrículos."
+                    },
+                    {
+                        "text": "Evitan reflujo hacia los atrios",
+                        "isCorrect": false,
+                        "rationale": "Esa es función de las válvulas auriculoventriculares."
+                    },
+                    {
+                        "text": "Permiten flujo bidireccional",
+                        "isCorrect": false,
+                        "rationale": "Solo permiten flujo unidireccional."
+                    },
+                    {
+                        "text": "Conectan arterias con venas",
+                        "isCorrect": false,
+                        "rationale": "Son válvulas del corazón, no conexiones."
+                    }
+                ],
+                "hint": "Están en la salida de los ventrículos hacia las arterias."
+            },
+            {
+                "question": "¿Qué comprende la gran circulación o circulación sistémica?",
+                "options": [
+                    {
+                        "text": "Ventrículo izquierdo, aorta, arterias, capilares, venas hasta el atrio derecho",
+                        "isCorrect": true,
+                        "rationale": "La gran circulación comprende: el ventrículo izquierdo, la aorta y todas las arterias, los capilares y las venas hasta el atrio derecho."
+                    },
+                    {
+                        "text": "Solo el corazón izquierdo",
+                        "isCorrect": false,
+                        "rationale": "Incluye todo el circuito sistémico."
+                    },
+                    {
+                        "text": "Solo las arterias",
+                        "isCorrect": false,
+                        "rationale": "Incluye arterias, capilares y venas."
+                    },
+                    {
+                        "text": "El circuito pulmonar",
+                        "isCorrect": false,
+                        "rationale": "Esa es la pequeña circulación."
+                    }
+                ],
+                "hint": "Es el circuito que recorre todo el cuerpo excepto pulmones."
+            },
+            {
+                "question": "¿Qué desembocan en la gran circulación?",
+                "options": [
+                    {
+                        "text": "Los vasos linfáticos: conducto torácico y conducto linfático derecho",
+                        "isCorrect": true,
+                        "rationale": "En la gran circulación desembocan los vasos linfáticos: conducto torácico a la izquierda y conducto linfático derecho a la derecha."
+                    },
+                    {
+                        "text": "Las venas pulmonares",
+                        "isCorrect": false,
+                        "rationale": "Las venas pulmonares van al atrio izquierdo."
+                    },
+                    {
+                        "text": "Solo la vena cava",
+                        "isCorrect": false,
+                        "rationale": "También desembocan los vasos linfáticos."
+                    },
+                    {
+                        "text": "Las arterias",
+                        "isCorrect": false,
+                        "rationale": "Las arterias salen del corazón, no desembocan."
+                    }
+                ],
+                "hint": "El sistema linfático se conecta con el sistema venoso."
+            },
+            {
+                "question": "¿Qué comprende la pequeña circulación o circulación pulmonar?",
+                "options": [
+                    {
+                        "text": "Ventrículo derecho, arteria pulmonar, capilares pulmonares, venas pulmonares al atrio izquierdo",
+                        "isCorrect": true,
+                        "rationale": "La pequeña circulación comprende: el ventrículo derecho, la arteria pulmonar y sus ramas, los capilares pulmonares, las venas pulmonares y el atrio izquierdo."
+                    },
+                    {
+                        "text": "El circuito sistémico completo",
+                        "isCorrect": false,
+                        "rationale": "Esa es la gran circulación."
+                    },
+                    {
+                        "text": "Solo los pulmones",
+                        "isCorrect": false,
+                        "rationale": "Incluye el circuito completo con corazón y vasos."
+                    },
+                    {
+                        "text": "Solo las venas pulmonares",
+                        "isCorrect": false,
+                        "rationale": "Incluye todo el circuito pulmonar."
+                    }
+                ],
+                "hint": "Es el circuito que va del corazón a los pulmones y vuelve."
+            },
+            {
+                "question": "¿Qué diferencia hay entre arterias y venas en la circulación pulmonar?",
+                "options": [
+                    {
+                        "text": "Las arterias contienen sangre carbooxigenada y las venas sangre oxigenada",
+                        "isCorrect": true,
+                        "rationale": "En la circulación pulmonar, las arterias contienen sangre carbooxigenada y las venas sangre oxigenada: es lo contrario de la circulación sistémica."
+                    },
+                    {
+                        "text": "Ambas contienen sangre arterial",
+                        "isCorrect": false,
+                        "rationale": "Las arterias pulmonares tienen sangre venosa."
+                    },
+                    {
+                        "text": "Ambas contienen sangre venosa",
+                        "isCorrect": false,
+                        "rationale": "Las venas pulmonares tienen sangre arterial."
+                    },
+                    {
+                        "text": "Es igual que en la circulación sistémica",
+                        "isCorrect": false,
+                        "rationale": "Es exactamente lo contrario."
+                    }
+                ],
+                "hint": "En pulmones, arterias = venosa, venas = arterial."
+            },
+            {
+                "question": "¿Qué contiene el corazón derecho y qué hace con ella?",
+                "options": [
+                    {
+                        "text": "Sangre venosa que envía a los pulmones",
+                        "isCorrect": true,
+                        "rationale": "El corazón derecho contiene sangre venosa y la envía a los pulmones para oxigenarla."
+                    },
+                    {
+                        "text": "Sangre arterial que envía al cuerpo",
+                        "isCorrect": false,
+                        "rationale": "El corazón izquierdo hace esto."
+                    },
+                    {
+                        "text": "Sangre arterial que envía a los pulmones",
+                        "isCorrect": false,
+                        "rationale": "Contiene sangre venosa, no arterial."
+                    },
+                    {
+                        "text": "Sangre venosa que envía al cuerpo",
+                        "isCorrect": false,
+                        "rationale": "Envía sangre a los pulmones, no al cuerpo."
+                    }
+                ],
+                "hint": "El corazón derecho es la bomba del circuito pulmonar."
+            },
+            {
+                "question": "¿Qué contiene el corazón izquierdo y qué hace con ella?",
+                "options": [
+                    {
+                        "text": "Sangre arterial que reparte en el resto del cuerpo",
+                        "isCorrect": true,
+                        "rationale": "El corazón izquierdo recibe sangre arterial y la reparte en el resto del cuerpo."
+                    },
+                    {
+                        "text": "Sangre venosa que envía a los pulmones",
+                        "isCorrect": false,
+                        "rationale": "El corazón derecho hace esto."
+                    },
+                    {
+                        "text": "Sangre mixta",
+                        "isCorrect": false,
+                        "rationale": "Cada lado del corazón tiene un tipo de sangre específico."
+                    },
+                    {
+                        "text": "Sangre arterial que envía a los pulmones",
+                        "isCorrect": false,
+                        "rationale": "Envía sangre al cuerpo, no a los pulmones."
+                    }
+                ],
+                "hint": "El corazón izquierdo es la bomba del circuito sistémico."
+            }
+        ]
+    }
+]
+  },
+
+  "anato-linfatico": {
+    "titulo": "Sistema Linfático",
+    "descripcion": "Vasos linfáticos, nodos, drenaje linfático, linfedema",
+    "totalPreguntas": 41,
+    "partes": [
+    {
+        "id": 1,
+        "nombre": "Parte 1",
+        "preguntas": 15,
+        "data": [
+            {
+                "question": "¿Qué constituye el sistema linfático?",
+                "options": [
+                    {
+                        "text": "Órganos linfáticos primarios, secundarios y vasos linfáticos",
+                        "isCorrect": true,
+                        "rationale": "El sistema linfático está constituido por órganos linfáticos primarios, secundarios y por vasos linfáticos."
+                    },
+                    {
+                        "text": "Solo los vasos linfáticos",
+                        "isCorrect": false,
+                        "rationale": "También incluye órganos linfáticos primarios y secundarios."
+                    },
+                    {
+                        "text": "Solo los ganglios linfáticos",
+                        "isCorrect": false,
+                        "rationale": "Los ganglios son órganos secundarios, pero hay más componentes."
+                    },
+                    {
+                        "text": "Solo el bazo y el timo",
+                        "isCorrect": false,
+                        "rationale": "Estos son órganos linfáticos, pero falta el sistema de vasos."
+                    }
+                ],
+                "hint": "Incluye órganos y una red de conductos."
+            },
+            {
+                "question": "¿Qué función tienen los vasos linfáticos?",
+                "options": [
+                    {
+                        "text": "Recoger y aportar al sistema venoso la linfa y el quilo",
+                        "isCorrect": true,
+                        "rationale": "Los vasos linfáticos son conductos con ramificaciones convergentes, encargados de recoger y aportar al sistema venoso la linfa y el quilo (de origen intestinal)."
+                    },
+                    {
+                        "text": "Transportar sangre",
+                        "isCorrect": false,
+                        "rationale": "Los vasos linfáticos transportan linfa, no sangre."
+                    },
+                    {
+                        "text": "Producir linfocitos",
+                        "isCorrect": false,
+                        "rationale": "La producción de linfocitos ocurre en los órganos linfáticos."
+                    },
+                    {
+                        "text": "Filtrar la linfa",
+                        "isCorrect": false,
+                        "rationale": "La filtración ocurre en los nodos linfáticos."
+                    }
+                ],
+                "hint": "Conectan el sistema linfático con el venoso."
+            },
+            {
+                "question": "¿Qué son el quilo y la linfa?",
+                "options": [
+                    {
+                        "text": "Líquidos del organismo que los vasos linfáticos recogen: quilo es de origen intestinal",
+                        "isCorrect": true,
+                        "rationale": "Los vasos linfáticos recogen y aportan al sistema venoso dos líquidos: la linfa y el quilo (este último, de origen intestinal)."
+                    },
+                    {
+                        "text": "Tipos de sangre",
+                        "isCorrect": false,
+                        "rationale": "No son sangre, son líquidos tisulares."
+                    },
+                    {
+                        "text": "Hormonas linfáticas",
+                        "isCorrect": false,
+                        "rationale": "Son líquidos, no hormonas."
+                    },
+                    {
+                        "text": "Componentes de la orina",
+                        "isCorrect": false,
+                        "rationale": "No tienen relación con la orina."
+                    }
+                ],
+                "hint": "El quilo proviene de la digestión de grasas en el intestino."
+            },
+            {
+                "question": "¿Qué estructuras atraviesan los vasos linfáticos en su trayecto?",
+                "options": [
+                    {
+                        "text": "Nodos (ganglios) linfáticos que filtran la linfa",
+                        "isCorrect": true,
+                        "rationale": "En su trayecto, los vasos linfáticos atraviesan formaciones anexas: los nodos (ganglios) linfáticos, que filtran la linfa."
+                    },
+                    {
+                        "text": "El hígado",
+                        "isCorrect": false,
+                        "rationale": "Los vasos linfáticos atraviesan nodos, no el hígado directamente."
+                    },
+                    {
+                        "text": "Los pulmones",
+                        "isCorrect": false,
+                        "rationale": "Los vasos linfáticos atraviesan nodos linfáticos."
+                    },
+                    {
+                        "text": "El bazo",
+                        "isCorrect": false,
+                        "rationale": "El bazo es un órgano linfático, no una estructura que atraviesan los vasos."
+                    }
+                ],
+                "hint": "Son como 'estaciones de filtrado' en el camino linfático."
+            },
+            {
+                "question": "¿Qué son los nodos linfáticos?",
+                "options": [
+                    {
+                        "text": "Órganos linfáticos secundarios que filtran la linfa",
+                        "isCorrect": true,
+                        "rationale": "Los nodos linfáticos son órganos linfáticos secundarios que, entre otras funciones, filtran la linfa aportada por los vasos."
+                    },
+                    {
+                        "text": "Vasos linfáticos agrandados",
+                        "isCorrect": false,
+                        "rationale": "Son órganos, no vasos."
+                    },
+                    {
+                        "text": "Glándulas endocrinas",
+                        "isCorrect": false,
+                        "rationale": "Son órganos linfáticos, no glándulas endocrinas."
+                    },
+                    {
+                        "text": "Células circulantes",
+                        "isCorrect": false,
+                        "rationale": "Son órganos con estructura definida."
+                    }
+                ],
+                "hint": "También llamados ganglios linfáticos."
+            },
+            {
+                "question": "¿En qué tejidos NO existen vasos linfáticos?",
+                "options": [
+                    {
+                        "text": "En la placenta y en el sistema nervioso central",
+                        "isCorrect": true,
+                        "rationale": "Los vasos linfáticos existen en todos los tejidos irrigados por vasos sanguíneos, excepto en la placenta y en el sistema nervioso central."
+                    },
+                    {
+                        "text": "En el corazón",
+                        "isCorrect": false,
+                        "rationale": "El corazón sí tiene vasos linfáticos."
+                    },
+                    {
+                        "text": "En los pulmones",
+                        "isCorrect": false,
+                        "rationale": "Los pulmones sí tienen vasos linfáticos."
+                    },
+                    {
+                        "text": "En el hígado",
+                        "isCorrect": false,
+                        "rationale": "El hígado sí tiene vasos linfáticos."
+                    }
+                ],
+                "hint": "El cerebro no tiene linfáticos tradicionales."
+            },
+            {
+                "question": "¿Cómo se originan los vasos linfáticos?",
+                "options": [
+                    {
+                        "text": "En capilares linfáticos con extremo cerrado, más voluminosos que los sanguíneos",
+                        "isCorrect": true,
+                        "rationale": "Los vasos linfáticos se originan en vasos capilares con un extremo cerrado, más voluminosos que los capilares sanguíneos."
+                    },
+                    {
+                        "text": "En las arterias",
+                        "isCorrect": false,
+                        "rationale": "Se originan en capilares linfáticos propios."
+                    },
+                    {
+                        "text": "En el corazón",
+                        "isCorrect": false,
+                        "rationale": "No se originan en el corazón."
+                    },
+                    {
+                        "text": "En los ganglios",
+                        "isCorrect": false,
+                        "rationale": "Los ganglios están en el trayecto, no son el origen."
+                    }
+                ],
+                "hint": "Son 'ciegos' en un extremo, como dedos de guante."
+            },
+            {
+                "question": "¿Qué forma tienen los vasos linfáticos?",
+                "options": [
+                    {
+                        "text": "Variable: algunos irregulares con válvulas, otros rectilíneos sin válvulas",
+                        "isCorrect": true,
+                        "rationale": "Su forma es variable: algunos, provistos de válvulas, son irregulares; otros, avalvulados, son regulares y rectilíneos."
+                    },
+                    {
+                        "text": "Siempre rectos y lisos",
+                        "isCorrect": false,
+                        "rationale": "Algunos son irregulares con válvulas."
+                    },
+                    {
+                        "text": "Siempre tortuosos",
+                        "isCorrect": false,
+                        "rationale": "Algunos son rectilíneos cuando no tienen válvulas."
+                    },
+                    {
+                        "text": "Circular uniforme",
+                        "isCorrect": false,
+                        "rationale": "Tienen forma variable según si tienen válvulas o no."
+                    }
+                ],
+                "hint": "Depende de si tienen válvulas o no."
+            },
+            {
+                "question": "¿Qué aspecto presentan los vasos linfáticos valvulados?",
+                "options": [
+                    {
+                        "text": "Dilataciones y estrechamientos alternos que les dan aspecto irregular",
+                        "isCorrect": true,
+                        "rationale": "Cuando son valvulados, los vasos linfáticos presentan dilataciones y estrechamientos alternos, que les dan un aspecto irregular."
+                    },
+                    {
+                        "text": "Aspecto liso uniforme",
+                        "isCorrect": false,
+                        "rationale": "Los valvulados tienen aspecto irregular."
+                    },
+                    {
+                        "text": "Aspecto recto",
+                        "isCorrect": false,
+                        "rationale": "Los valvulados tienen dilataciones y estrechamientos."
+                    },
+                    {
+                        "text": "Aspecto nudoso",
+                        "isCorrect": false,
+                        "rationale": "Tienen un aspecto perlado por las válvulas."
+                    }
+                ],
+                "hint": "Las válvulas crean 'perlas' a lo largo del vaso."
+            },
+            {
+                "question": "¿Dónde están implantadas las válvulas en los vasos linfáticos?",
+                "options": [
+                    {
+                        "text": "Por pares en los estrechamientos de los vasos",
+                        "isCorrect": true,
+                        "rationale": "Las válvulas están implantadas por pares en los estrechamientos de los vasos linfáticos."
+                    },
+                    {
+                        "text": "Individualmente en las dilataciones",
+                        "isCorrect": false,
+                        "rationale": "Están en los estrechamientos, por pares."
+                    },
+                    {
+                        "text": "Solo en los troncos principales",
+                        "isCorrect": false,
+                        "rationale": "Están en los estrechamientos, más espaciados en troncos gruesos."
+                    },
+                    {
+                        "text": "En el centro del vaso",
+                        "isCorrect": false,
+                        "rationale": "Están en los estrechamientos."
+                    }
+                ],
+                "hint": "Son válvulas bícuspidas como las venosas."
+            },
+            {
+                "question": "¿Qué ocurre con las insuficiencias valvulares en los vasos linfáticos?",
+                "options": [
+                    {
+                        "text": "Permiten reflujo de linfa, generando edemas de origen linfático",
+                        "isCorrect": true,
+                        "rationale": "En los vasos linfáticos existen 'insuficiencias valvulares' que permiten el reflujo de la linfa; su estasis es generadora de edemas de origen linfático puro."
+                    },
+                    {
+                        "text": "No tienen consecuencias",
+                        "isCorrect": false,
+                        "rationale": "Generan edemas linfáticos."
+                    },
+                    {
+                        "text": "Aumentan el flujo linfático",
+                        "isCorrect": false,
+                        "rationale": "Causan estasis, no aumento de flujo."
+                    },
+                    {
+                        "text": "Mejoran el drenaje",
+                        "isCorrect": false,
+                        "rationale": "Empeoran el drenaje linfático."
+                    }
+                ],
+                "hint": "El linfedema es la consecuencia de la insuficiencia valvular."
+            },
+            {
+                "question": "¿Cómo es la estructura de los vasos linfáticos?",
+                "options": [
+                    {
+                        "text": "Semejante a las venas: endotelio, túnica media fibromuscular y adventicia",
+                        "isCorrect": true,
+                        "rationale": "La estructura de los vasos linfáticos es muy semejante a la de las venas con endotelio interno, una túnica media fibromuscular y una adventicia."
+                    },
+                    {
+                        "text": "Igual a las arterias",
+                        "isCorrect": false,
+                        "rationale": "Se parece más a las venas."
+                    },
+                    {
+                        "text": "Sin capas definidas",
+                        "isCorrect": false,
+                        "rationale": "Tienen tres capas como las venas."
+                    },
+                    {
+                        "text": "Solo endotelio",
+                        "isCorrect": false,
+                        "rationale": "Tienen las tres túnicas típicas."
+                    }
+                ],
+                "hint": "Estructuralmente son muy similares a las venas."
+            },
+            {
+                "question": "¿Cómo se disponen los vasos linfáticos respecto a las venas?",
+                "options": [
+                    {
+                        "text": "Generalmente adosados a las venas, superficiales o profundos",
+                        "isCorrect": true,
+                        "rationale": "Los vasos linfáticos están, generalmente, adosados a las venas y son superficiales o profundos."
+                    },
+                    {
+                        "text": "Independientes de las venas",
+                        "isCorrect": false,
+                        "rationale": "Generalmente están adosados a las venas."
+                    },
+                    {
+                        "text": "Solo profundos",
+                        "isCorrect": false,
+                        "rationale": "Pueden ser superficiales o profundos."
+                    },
+                    {
+                        "text": "Solo superficiales",
+                        "isCorrect": false,
+                        "rationale": "Pueden ser superficiales o profundos."
+                    }
+                ],
+                "hint": "Viajan junto a las venas en su mayoría."
+            },
+            {
+                "question": "¿Los vasos linfáticos están anastomosados entre sí?",
+                "options": [
+                    {
+                        "text": "Sí, pero esto no modifica su trayecto convergente hacia los nodos",
+                        "isCorrect": true,
+                        "rationale": "Los vasos linfáticos están anastomosados entre sí, lo que no modifica su trayecto convergente hacia los nodos."
+                    },
+                    {
+                        "text": "No, son independientes",
+                        "isCorrect": false,
+                        "rationale": "Sí están anastomosados entre sí."
+                    },
+                    {
+                        "text": "Solo los superficiales",
+                        "isCorrect": false,
+                        "rationale": "Todos pueden estar anastomosados."
+                    },
+                    {
+                        "text": "Solo los profundos",
+                        "isCorrect": false,
+                        "rationale": "Todos pueden estar anastomosados."
+                    }
+                ],
+                "hint": "Hay conexiones pero el flujo siempre va hacia los nodos."
+            },
+            {
+                "question": "¿Qué forma tienen los nodos linfáticos?",
+                "options": [
+                    {
+                        "text": "Redondeados u ovoides",
+                        "isCorrect": true,
+                        "rationale": "Los nodos linfáticos son redondeados u ovoides."
+                    },
+                    {
+                        "text": "Alargados y cilíndricos",
+                        "isCorrect": false,
+                        "rationale": "Son redondeados u ovoides."
+                    },
+                    {
+                        "text": "Planos y anchos",
+                        "isCorrect": false,
+                        "rationale": "Son redondeados u ovoides."
+                    },
+                    {
+                        "text": "Irregulares y ramificados",
+                        "isCorrect": false,
+                        "rationale": "Tienen forma redondeada u ovoide."
+                    }
+                ],
+                "hint": "Se parecen a pequeños frijoles o almendras."
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "nombre": "Parte 2",
+        "preguntas": 9,
+        "data": [
+            {
+                "question": "¿Cómo llegan los vasos aferentes a los nodos linfáticos?",
+                "options": [
+                    {
+                        "text": "Por la periferia del nodo por cualquier punto",
+                        "isCorrect": true,
+                        "rationale": "Los vasos aferentes llegan a la periferia del nodo por un punto cualquiera."
+                    },
+                    {
+                        "text": "Por el hilio del nodo",
+                        "isCorrect": false,
+                        "rationale": "Los aferentes llegan por la periferia; los eferentes salen por el hilio."
+                    },
+                    {
+                        "text": "Solo por un punto específico",
+                        "isCorrect": false,
+                        "rationale": "Llegan por cualquier punto de la periferia."
+                    },
+                    {
+                        "text": "Por el centro del nodo",
+                        "isCorrect": false,
+                        "rationale": "Llegan por la periferia."
+                    }
+                ],
+                "hint": "Aferente = que llega; entran por los lados."
+            },
+            {
+                "question": "¿Por dónde emergen los vasos eferentes del nodo linfático?",
+                "options": [
+                    {
+                        "text": "Por una depresión llamada hilio del nodo",
+                        "isCorrect": true,
+                        "rationale": "Los vasos eferentes emergen por una depresión, el hilio del nodo."
+                    },
+                    {
+                        "text": "Por cualquier punto de la periferia",
+                        "isCorrect": false,
+                        "rationale": "Salen por el hilio, no por cualquier punto."
+                    },
+                    {
+                        "text": "Por el centro de la cápsula",
+                        "isCorrect": false,
+                        "rationale": "Salen por el hilio, una depresión en la superficie."
+                    },
+                    {
+                        "text": "Por múltiples puntos",
+                        "isCorrect": false,
+                        "rationale": "Salen por el hilio, un punto específico."
+                    }
+                ],
+                "hint": "Eferente = que sale; el hilio es como el 'ombligo' del ganglio."
+            },
+            {
+                "question": "¿Qué color tienen habitualmente los nodos linfáticos?",
+                "options": [
+                    {
+                        "text": "Gris rojizo, pero pueden oscurecerse por antracosis en nodos intratorácicos",
+                        "isCorrect": true,
+                        "rationale": "Habitualmente son de color gris rojizo. Los nodos intratorácicos pueden estar impregnados de polvo de carbón (antracosis) y volverse oscuros."
+                    },
+                    {
+                        "text": "Blanco siempre",
+                        "isCorrect": false,
+                        "rationale": "Son gris rojizo, y pueden oscurecerse."
+                    },
+                    {
+                        "text": "Negro siempre",
+                        "isCorrect": false,
+                        "rationale": "Solo se oscurecen por antracosis en casos específicos."
+                    },
+                    {
+                        "text": "Amarillento",
+                        "isCorrect": false,
+                        "rationale": "Son gris rojizo."
+                    }
+                ],
+                "hint": "El color puede cambiar por acumulación de partículas."
+            },
+            {
+                "question": "¿Cómo se disponen los nodos linfáticos?",
+                "options": [
+                    {
+                        "text": "Aislados, en cadenas o en grupos regionales",
+                        "isCorrect": true,
+                        "rationale": "Algunos nodos están aislados, pero más a menudo están dispuestos en cadenas o en grupos regionales (axila, inguinales)."
+                    },
+                    {
+                        "text": "Siempre aislados",
+                        "isCorrect": false,
+                        "rationale": "Más a menudo están en cadenas o grupos."
+                    },
+                    {
+                        "text": "Siempre en grupos",
+                        "isCorrect": false,
+                        "rationale": "Pueden estar aislados, en cadenas o grupos."
+                    },
+                    {
+                        "text": "Solo en pares",
+                        "isCorrect": false,
+                        "rationale": "Pueden estar aislados, en cadenas o grupos regionales."
+                    }
+                ],
+                "hint": "Los grupos principales están en axila, ingles, cuello."
+            },
+            {
+                "question": "¿Qué estructura caracteriza a los nodos linfáticos?",
+                "options": [
+                    {
+                        "text": "Cápsula fibrosa periférica con trabéculas y folículos rodeados por senos perifoliculares",
+                        "isCorrect": true,
+                        "rationale": "Los nodos tienen una cápsula fibrosa periférica, trabéculas conectivas que circunscriben folículos linfoides, rodeados por senos perifoliculares."
+                    },
+                    {
+                        "text": "Solo una cápsula sin estructura interna",
+                        "isCorrect": false,
+                        "rationale": "Tienen estructura interna compleja con trabéculas y folículos."
+                    },
+                    {
+                        "text": "Solo células sueltas sin organización",
+                        "isCorrect": false,
+                        "rationale": "Tienen una estructura organizada."
+                    },
+                    {
+                        "text": "Múltiples lúmenes conectados",
+                        "isCorrect": false,
+                        "rationale": "La estructura es de tejido linfoide organizado."
+                    }
+                ],
+                "hint": "Tienen organización interna con compartimentos."
+            },
+            {
+                "question": "¿Qué son los senos perifoliculares en los nodos?",
+                "options": [
+                    {
+                        "text": "Terminación de vasos aferentes y origen de vasos eferentes",
+                        "isCorrect": true,
+                        "rationale": "Los senos perifoliculares son la terminación de los vasos aferentes y el origen de los vasos eferentes."
+                    },
+                    {
+                        "text": "Espacios dentro de los folículos",
+                        "isCorrect": false,
+                        "rationale": "Están alrededor de los folículos, no dentro."
+                    },
+                    {
+                        "text": "Conexiones entre nodos",
+                        "isCorrect": false,
+                        "rationale": "Son espacios internos del nodo."
+                    },
+                    {
+                        "text": "Vasos sanguíneos",
+                        "isCorrect": false,
+                        "rationale": "Son parte del sistema linfático dentro del nodo."
+                    }
+                ],
+                "hint": "Son donde la linfa pasa a través del nodo."
+            },
+            {
+                "question": "¿Cuáles son los dos colectores terminales del sistema linfático?",
+                "options": [
+                    {
+                        "text": "El conducto torácico (izquierda) y el conducto linfático derecho",
+                        "isCorrect": true,
+                        "rationale": "Las vías linfáticas son drenadas por dos colectores terminales: el conducto torácico a la izquierda y el conducto linfático derecho."
+                    },
+                    {
+                        "text": "Solo el conducto torácico",
+                        "isCorrect": false,
+                        "rationale": "Hay dos: derecho e izquierdo."
+                    },
+                    {
+                        "text": "Solo el conducto linfático derecho",
+                        "isCorrect": false,
+                        "rationale": "Hay dos colectores terminales."
+                    },
+                    {
+                        "text": "Las venas cavas",
+                        "isCorrect": false,
+                        "rationale": "Los conductos linfáticos desembocan en los confluentes venosos."
+                    }
+                ],
+                "hint": "Uno para cada lado del cuerpo."
+            },
+            {
+                "question": "¿Dónde terminan los conductos linfáticos?",
+                "options": [
+                    {
+                        "text": "En los confluentes venosos yugulosubclavios",
+                        "isCorrect": true,
+                        "rationale": "Los conductos torácico y linfático derecho terminan en los confluentes venosos yugulosubclavios del lado correspondiente o sus proximidades."
+                    },
+                    {
+                        "text": "En el corazón",
+                        "isCorrect": false,
+                        "rationale": "Terminan en los confluentes venosos."
+                    },
+                    {
+                        "text": "En los riñones",
+                        "isCorrect": false,
+                        "rationale": "Terminan en los confluentes venosos yugulosubclavios."
+                    },
+                    {
+                        "text": "En el hígado",
+                        "isCorrect": false,
+                        "rationale": "Terminan en la unión de vena yugular y subclavia."
+                    }
+                ],
+                "hint": "Es donde la linfa se une al sistema venoso."
+            },
+            {
+                "question": "¿Qué troncos linfáticos convergen en los conductos linfáticos?",
+                "options": [
+                    {
+                        "text": "Troncos yugular, subclavio, broncomediastínico, lumbar e intestinales",
+                        "isCorrect": true,
+                        "rationale": "En los dos conductos linfáticos converge la linfa de: troncos yugulares, subclavios, broncomediastínicos, lumbares e intestinales."
+                    },
+                    {
+                        "text": "Solo troncos yugulares",
+                        "isCorrect": false,
+                        "rationale": "Son múltiples troncos los que convergen."
+                    },
+                    {
+                        "text": "Solo troncos lumbares",
+                        "isCorrect": false,
+                        "rationale": "Hay varios troncos principales."
+                    },
+                    {
+                        "text": "Solo troncos intestinales",
+                        "isCorrect": false,
+                        "rationale": "Hay múltiples troncos que drenan diferentes regiones."
+                    }
+                ],
+                "hint": "Drenan diferentes regiones del cuerpo."
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "nombre": "Parte 3",
+        "preguntas": 17,
+        "data": [
+            {
+                "question": "¿Cómo se ven los nodos y vasos linfáticos en estado normal en el ser vivo?",
+                "options": [
+                    {
+                        "text": "Son inaparentes en estado normal",
+                        "isCorrect": true,
+                        "rationale": "Los nodos y vasos linfáticos son inaparentes en estado normal."
+                    },
+                    {
+                        "text": "Son muy visibles bajo la piel",
+                        "isCorrect": false,
+                        "rationale": "En estado normal son inaparentes."
+                    },
+                    {
+                        "text": "Siempre son palpables",
+                        "isCorrect": false,
+                        "rationale": "Solo algunos nodos son palpables en sujetos delgados."
+                    },
+                    {
+                        "text": "Son rojos y prominentes",
+                        "isCorrect": false,
+                        "rationale": "Son inaparentes en estado normal."
+                    }
+                ],
+                "hint": "No se ven ni se palpan fácilmente cuando todo está bien."
+            },
+            {
+                "question": "¿Qué nodos superficiales pueden ser visibles o palpables en ciertos sujetos?",
+                "options": [
+                    {
+                        "text": "Algunos nodos superficiales en sujetos delgados",
+                        "isCorrect": true,
+                        "rationale": "Algunos nodos superficiales son visibles o palpables en ciertos sujetos delgados."
+                    },
+                    {
+                        "text": "Todos los nodos siempre",
+                        "isCorrect": false,
+                        "rationale": "Solo algunos en sujetos delgados."
+                    },
+                    {
+                        "text": "Solo los nodos profundos",
+                        "isCorrect": false,
+                        "rationale": "Los nodos superficiales son los que pueden verse."
+                    },
+                    {
+                        "text": "Ningún nodo es palpable",
+                        "isCorrect": false,
+                        "rationale": "Algunos nodos superficiales pueden palparse en delgados."
+                    }
+                ],
+                "hint": "Depende de la constitución física de la persona."
+            },
+            {
+                "question": "¿Cuándo son visibles las redes linfáticas superficiales?",
+                "options": [
+                    {
+                        "text": "Cuando están inflamadas (linfangitis)",
+                        "isCorrect": true,
+                        "rationale": "Las redes superficiales son visibles cuando están inflamadas (linfangitis)."
+                    },
+                    {
+                        "text": "Siempre son visibles",
+                        "isCorrect": false,
+                        "rationale": "Solo son visibles cuando están inflamadas."
+                    },
+                    {
+                        "text": "Solo en ancianos",
+                        "isCorrect": false,
+                        "rationale": "Son visibles cuando hay inflamación."
+                    },
+                    {
+                        "text": "Nunca son visibles",
+                        "isCorrect": false,
+                        "rationale": "Son visibles en caso de linfangitis."
+                    }
+                ],
+                "hint": "La inflamación las hace evidentes."
+            },
+            {
+                "question": "¿Por qué se hipertrofian los nodos linfáticos?",
+                "options": [
+                    {
+                        "text": "Frente a inflamación e infección, ya que constituyen una barrera antiinfecciosa",
+                        "isCorrect": true,
+                        "rationale": "Los nodos se hipertrofian frente a la inflamación y la infección, puesto que constituyen una barrera antiinfecciosa."
+                    },
+                    {
+                        "text": "Por ejercicio físico",
+                        "isCorrect": false,
+                        "rationale": "Se hipertrofian por inflamación e infección."
+                    },
+                    {
+                        "text": "Por dieta rica en grasas",
+                        "isCorrect": false,
+                        "rationale": "Se hipertrofian por procesos inflamatorios e infecciosos."
+                    },
+                    {
+                        "text": "Por edad avanzada",
+                        "isCorrect": false,
+                        "rationale": "Se hipertrofian como respuesta a inflamación e infección."
+                    }
+                ],
+                "hint": "Se agrandan cuando 'trabajan' contra infecciones."
+            },
+            {
+                "question": "¿En qué otras condiciones se hipertrofian los nodos linfáticos además de infecciones?",
+                "options": [
+                    {
+                        "text": "En enfermedades propias del tejido linfático (infecciones, cánceres del tejido linfático)",
+                        "isCorrect": true,
+                        "rationale": "Los nodos se hipertrofian igualmente en ciertas enfermedades que le son propias: infecciones, cánceres del tejido linfático, etc."
+                    },
+                    {
+                        "text": "Solo en infecciones bacterianas",
+                        "isCorrect": false,
+                        "rationale": "También en enfermedades propias del tejido linfático."
+                    },
+                    {
+                        "text": "Solo en traumatismos",
+                        "isCorrect": false,
+                        "rationale": "Se hipertrofian en enfermedades del tejido linfático."
+                    },
+                    {
+                        "text": "Solo en personas mayores",
+                        "isCorrect": false,
+                        "rationale": "Pueden afectar a cualquier edad."
+                    }
+                ],
+                "hint": "Incluye linfomas y otras enfermedades linfáticas."
+            },
+            {
+                "question": "¿Qué puede ocurrir con los nodos que drenan un órgano con cáncer?",
+                "options": [
+                    {
+                        "text": "Pueden estar invadidos por células neoplásicas",
+                        "isCorrect": true,
+                        "rationale": "Los nodos que drenan un órgano con cáncer pueden estar invadidos por células neoplásicas."
+                    },
+                    {
+                        "text": "Siempre permanecen normales",
+                        "isCorrect": false,
+                        "rationale": "Pueden ser invadidos por células cancerosas."
+                    },
+                    {
+                        "text": "Se encogen",
+                        "isCorrect": false,
+                        "rationale": "Pueden agrandarse por invasión tumoral."
+                    },
+                    {
+                        "text": "Desaparecen",
+                        "isCorrect": false,
+                        "rationale": "Pueden ser invadidos y agrandarse."
+                    }
+                ],
+                "hint": "El cáncer puede diseminarse a través de los ganglios."
+            },
+            {
+                "question": "¿Qué expresa una adenopatía en un nodo que drena un órgano con cáncer?",
+                "options": [
+                    {
+                        "text": "La diseminación del cáncer más allá del órgano inicial",
+                        "isCorrect": true,
+                        "rationale": "En estos casos la adenopatía expresa la diseminación del cáncer, más allá del órgano inicial."
+                    },
+                    {
+                        "text": "Una infección local",
+                        "isCorrect": false,
+                        "rationale": "Expresa diseminación del cáncer."
+                    },
+                    {
+                        "text": "Una respuesta inmune normal",
+                        "isCorrect": false,
+                        "rationale": "Indica que el cáncer se ha diseminado."
+                    },
+                    {
+                        "text": "Que el cáncer está curado",
+                        "isCorrect": false,
+                        "rationale": "Indica diseminación, no curación."
+                    }
+                ],
+                "hint": "'Adenopatía' = ganglio agrandado, en este caso por metástasis."
+            },
+            {
+                "question": "¿Qué es una adenopatía?",
+                "options": [
+                    {
+                        "text": "Un ganglio linfático agrandado o inflamado",
+                        "isCorrect": true,
+                        "rationale": "Una adenopatía es el aumento de tamaño de un ganglio linfático, que puede ser por inflamación, infección o invasión tumoral."
+                    },
+                    {
+                        "text": "Una infección de la sangre",
+                        "isCorrect": false,
+                        "rationale": "Es el agrandamiento de un ganglio."
+                    },
+                    {
+                        "text": "Un tipo de cáncer",
+                        "isCorrect": false,
+                        "rationale": "Es un signo, no un tipo de cáncer específico."
+                    },
+                    {
+                        "text": "Una enfermedad de la piel",
+                        "isCorrect": false,
+                        "rationale": "Afecta a los ganglios linfáticos."
+                    }
+                ],
+                "hint": "'Adeno' = glándula/ganglio, 'patía' = enfermedad."
+            },
+            {
+                "question": "¿Qué función de barrera cumplen los nodos linfáticos?",
+                "options": [
+                    {
+                        "text": "Funcionan como barrera antiinfecciosa",
+                        "isCorrect": true,
+                        "rationale": "Los nodos linfáticos constituyen una barrera antiinfecciosa, filtrando la linfa y capturando agentes patógenos."
+                    },
+                    {
+                        "text": "Barrera mecánica contra traumatismos",
+                        "isCorrect": false,
+                        "rationale": "Son barrera biológica, no mecánica."
+                    },
+                    {
+                        "text": "Barrera contra radiación",
+                        "isCorrect": false,
+                        "rationale": "Son barrera antiinfecciosa."
+                    },
+                    {
+                        "text": "Barrera contra el frío",
+                        "isCorrect": false,
+                        "rationale": "Filtran agentes infecciosos de la linfa."
+                    }
+                ],
+                "hint": "Filtran la linfa atrapando gérmenes."
+            },
+            {
+                "question": "¿Por qué es importante palpar los ganglios en el examen físico?",
+                "options": [
+                    {
+                        "text": "Porque su agrandamiento puede indicar infección o cáncer",
+                        "isCorrect": true,
+                        "rationale": "La palpación de ganglios es importante porque su agrandamiento puede indicar infección local, enfermedad sistémica o diseminación de cáncer."
+                    },
+                    {
+                        "text": "Porque siempre están visibles",
+                        "isCorrect": false,
+                        "rationale": "En estado normal son inaparentes."
+                    },
+                    {
+                        "text": "No tiene importancia clínica",
+                        "isCorrect": false,
+                        "rationale": "Es muy importante para el diagnóstico."
+                    },
+                    {
+                        "text": "Solo para detectar anemia",
+                        "isCorrect": false,
+                        "rationale": "Detecta patología linfática, no anemia."
+                    }
+                ],
+                "hint": "Los ganglios aumentados son un signo clínico importante."
+            },
+            {
+                "question": "¿Qué son la linfangitis y la linfadenitis?",
+                "options": [
+                    {
+                        "text": "Inflamación de vasos linfáticos (linfangitis) o de nodos linfáticos (linfadenitis)",
+                        "isCorrect": true,
+                        "rationale": "Durante un proceso inflamatorio, la linfa puede transportar el agente causal ocasionando inflamación de vasos linfáticos (linfangitis) o de nodos (linfadenitis)."
+                    },
+                    {
+                        "text": "Inflamación de vasos sanguíneos",
+                        "isCorrect": false,
+                        "rationale": "Afectan el sistema linfático, no sanguíneo."
+                    },
+                    {
+                        "text": "Cáncer de ganglios",
+                        "isCorrect": false,
+                        "rationale": "Son inflamaciones, no necesariamente cáncer."
+                    },
+                    {
+                        "text": "Infecciones virales únicamente",
+                        "isCorrect": false,
+                        "rationale": "Pueden ser causadas por agentes infecciosos o químicos."
+                    }
+                ],
+                "hint": "El sufijo '-itis' indica inflamación."
+            },
+            {
+                "question": "¿Qué ocurre durante un proceso inflamatorio con el flujo linfático?",
+                "options": [
+                    {
+                        "text": "Aumenta para ayudar a drenar el líquido del edema de la región afectada",
+                        "isCorrect": true,
+                        "rationale": "Durante un proceso inflamatorio, el flujo linfático aumenta para ayudar a drenar el líquido del edema de la región afectada."
+                    },
+                    {
+                        "text": "Disminuye",
+                        "isCorrect": false,
+                        "rationale": "El flujo aumenta para ayudar al drenaje."
+                    },
+                    {
+                        "text": "Se detiene",
+                        "isCorrect": false,
+                        "rationale": "Aumenta para ayudar a la zona afectada."
+                    },
+                    {
+                        "text": "No cambia",
+                        "isCorrect": false,
+                        "rationale": "Aumenta como respuesta a la inflamación."
+                    }
+                ],
+                "hint": "El sistema linfático ayuda a limpiar el exceso de líquido."
+            },
+            {
+                "question": "¿Qué es el linfedema?",
+                "options": [
+                    {
+                        "text": "Edema causado por falla en el funcionamiento del sistema linfático",
+                        "isCorrect": true,
+                        "rationale": "El linfedema es el edema causado por una falla en el normal funcionamiento de los componentes del sistema linfático."
+                    },
+                    {
+                        "text": "Edema por insuficiencia cardíaca",
+                        "isCorrect": false,
+                        "rationale": "El linfedema es específicamente por falla linfática."
+                    },
+                    {
+                        "text": "Edema por problemas renales",
+                        "isCorrect": false,
+                        "rationale": "El linfedema es por disfunción del sistema linfático."
+                    },
+                    {
+                        "text": "Hinchazón temporal",
+                        "isCorrect": false,
+                        "rationale": "Es un edema por falla del sistema linfático."
+                    }
+                ],
+                "hint": "'Linf-' indica que el origen es el sistema linfático."
+            },
+            {
+                "question": "¿Qué ocurre cuando se resecan los nodos linfáticos?",
+                "options": [
+                    {
+                        "text": "El territorio drenado acumula linfa en el intersticio (linfedema)",
+                        "isCorrect": true,
+                        "rationale": "Cuando se resecan nodos linfáticos, el territorio que drenaba allí ya no puede hacerlo y se acumula linfa en el intersticio. Ejemplo: linfedema en brazo tras resección de nodos axilares por cáncer de mama."
+                    },
+                    {
+                        "text": "El drenaje mejora",
+                        "isCorrect": false,
+                        "rationale": "El drenaje se ve afectado negativamente."
+                    },
+                    {
+                        "text": "No hay consecuencias",
+                        "isCorrect": false,
+                        "rationale": "Genera linfedema en el territorio afectado."
+                    },
+                    {
+                        "text": "Se forman nuevos nodos",
+                        "isCorrect": false,
+                        "rationale": "No se regeneran los nodos, causando linfedema."
+                    }
+                ],
+                "hint": "Es una complicación común después de cirugía oncológica."
+            },
+            {
+                "question": "¿Qué es la metástasis?",
+                "options": [
+                    {
+                        "text": "Aparición de células tumorales en un sitio diferente del que originó al tumor",
+                        "isCorrect": true,
+                        "rationale": "La metástasis es la aparición de células tumorales separadas en un sitio diferente del que originó al tumor."
+                    },
+                    {
+                        "text": "El tumor original",
+                        "isCorrect": false,
+                        "rationale": "Es la diseminación a otros sitios, no el tumor original."
+                    },
+                    {
+                        "text": "Un tipo de cáncer benigno",
+                        "isCorrect": false,
+                        "rationale": "Es característica de tumores malignos."
+                    },
+                    {
+                        "text": "La curación del tumor",
+                        "isCorrect": false,
+                        "rationale": "Es la diseminación del cáncer, lo opuesto a la curación."
+                    }
+                ],
+                "hint": "Es la propagación del cáncer a otras partes del cuerpo."
+            },
+            {
+                "question": "¿Por qué vías pueden diseminarse los cánceres?",
+                "options": [
+                    {
+                        "text": "Hematógena (sangre), linfática o siembra de cavidades orgánicas",
+                        "isCorrect": true,
+                        "rationale": "Los cánceres pueden diseminarse por tres vías: hematógena (por sangre), linfática o por siembra de cavidades orgánicas (peritoneo, pleura)."
+                    },
+                    {
+                        "text": "Solo por sangre",
+                        "isCorrect": false,
+                        "rationale": "Hay tres vías de diseminación."
+                    },
+                    {
+                        "text": "Solo por linfa",
+                        "isCorrect": false,
+                        "rationale": "Hay múltiples vías de diseminación."
+                    },
+                    {
+                        "text": "Solo por contacto directo",
+                        "isCorrect": false,
+                        "rationale": "Las tres vías principales son hematógena, linfática y siembra."
+                    }
+                ],
+                "hint": "Pueden viajar por sangre, linfa o sembrar cavidades."
+            },
+            {
+                "question": "¿Qué característica tienen los tumores malignos respecto a la metástasis?",
+                "options": [
+                    {
+                        "text": "Pueden penetrar en vasos sanguíneos o linfáticos y cavidades para diseminarse",
+                        "isCorrect": true,
+                        "rationale": "Los tumores malignos pueden penetrar en los vasos sanguíneos o linfáticos y en las cavidades corporales para diseminarse hacia otras regiones."
+                    },
+                    {
+                        "text": "Nunca se diseminan",
+                        "isCorrect": false,
+                        "rationale": "Los malignos sí pueden diseminarse."
+                    },
+                    {
+                        "text": "Solo crecen localmente",
+                        "isCorrect": false,
+                        "rationale": "Los malignos tienen capacidad de invasión y metástasis."
+                    },
+                    {
+                        "text": "Se diseminan solo por contacto",
+                        "isCorrect": false,
+                        "rationale": "Pueden diseminarse por múltiples vías."
+                    }
+                ],
+                "hint": "La capacidad de metástasis distingue malignos de benignos."
+            }
+        ]
+    }
+]
+  },
+
+  "anato-sangre": {
+    "titulo": "Sangre y Médula Ósea",
+    "descripcion": "Hematopoyesis, células sanguíneas, tejidos linfoides",
+    "totalPreguntas": 14,
+    "partes": [
+    {
+        "id": 1,
+        "nombre": "Parte 1",
+        "preguntas": 14,
+        "data": [
+            {
+                "question": "¿Dónde se forman las células sanguíneas después del nacimiento?",
+                "options": [
+                    {
+                        "text": "En la médula ósea",
+                        "isCorrect": true,
+                        "rationale": "Las células sanguíneas se forman, después del nacimiento, en la médula ósea."
+                    },
+                    {
+                        "text": "En el bazo",
+                        "isCorrect": false,
+                        "rationale": "El bazo es un órgano linfoide secundario, no el sitio principal de hematopoyesis postnatal."
+                    },
+                    {
+                        "text": "En el hígado",
+                        "isCorrect": false,
+                        "rationale": "El hígado es sitio de hematopoyesis fetal, no postnatal."
+                    },
+                    {
+                        "text": "En los ganglios linfáticos",
+                        "isCorrect": false,
+                        "rationale": "Los ganglios son órganos linfáticos secundarios."
+                    }
+                ],
+                "hint": "Es el tejido que llena el interior de los huesos."
+            },
+            {
+                "question": "¿Qué es la hematopoyesis?",
+                "options": [
+                    {
+                        "text": "El proceso de producción de células sanguíneas",
+                        "isCorrect": true,
+                        "rationale": "El proceso de hematopoyesis produce glóbulos rojos (eritrocitos) y glóbulos blancos."
+                    },
+                    {
+                        "text": "La destrucción de células sanguíneas",
+                        "isCorrect": false,
+                        "rationale": "La hematopoyesis es producción, no destrucción."
+                    },
+                    {
+                        "text": "La circulación sanguínea",
+                        "isCorrect": false,
+                        "rationale": "Es el proceso de formación de células."
+                    },
+                    {
+                        "text": "La coagulación",
+                        "isCorrect": false,
+                        "rationale": "La coagulación es otro proceso diferente."
+                    }
+                ],
+                "hint": "'Hemato' = sangre, 'poiesis' = formación."
+            },
+            {
+                "question": "¿Qué células produce la hematopoyesis?",
+                "options": [
+                    {
+                        "text": "Glóbulos rojos (eritrocitos) y glóbulos blancos (leucocitos)",
+                        "isCorrect": true,
+                        "rationale": "La hematopoyesis produce glóbulos rojos (eritrocitos) y glóbulos blancos, que incluyen granulocitos, linfocitos B y monocitos."
+                    },
+                    {
+                        "text": "Solo glóbulos rojos",
+                        "isCorrect": false,
+                        "rationale": "También produce glóbulos blancos y plaquetas."
+                    },
+                    {
+                        "text": "Solo glóbulos blancos",
+                        "isCorrect": false,
+                        "rationale": "También produce glóbulos rojos y plaquetas."
+                    },
+                    {
+                        "text": "Solo plaquetas",
+                        "isCorrect": false,
+                        "rationale": "Produce múltiples tipos de células sanguíneas."
+                    }
+                ],
+                "hint": "Incluye todas las células de la sangre."
+            },
+            {
+                "question": "¿Qué tipos de granulocitos se producen en la médula ósea?",
+                "options": [
+                    {
+                        "text": "Neutrófilos, eosinófilos y basófilos",
+                        "isCorrect": true,
+                        "rationale": "Los granulocitos incluyen neutrófilos, eosinófilos y basófilos."
+                    },
+                    {
+                        "text": "Solo neutrófilos",
+                        "isCorrect": false,
+                        "rationale": "Hay tres tipos de granulocitos."
+                    },
+                    {
+                        "text": "Linfocitos y monocitos",
+                        "isCorrect": false,
+                        "rationale": "Los linfocitos y monocitos son agranulocitos."
+                    },
+                    {
+                        "text": "Eritrocitos y plaquetas",
+                        "isCorrect": false,
+                        "rationale": "Los eritrocitos y plaquetas no son granulocitos."
+                    }
+                ],
+                "hint": "'Granulo' indica que tienen gránulos en su citoplasma."
+            },
+            {
+                "question": "¿Dónde se desarrollan y maduran los linfocitos T?",
+                "options": [
+                    {
+                        "text": "En el timo, aunque se generan en la médula ósea",
+                        "isCorrect": true,
+                        "rationale": "Los linfocitos T se desarrollan y maduran en el timo, habiendo sido generados en la médula ósea."
+                    },
+                    {
+                        "text": "En la médula ósea solamente",
+                        "isCorrect": false,
+                        "rationale": "Se generan en la médula ósea pero maduran en el timo."
+                    },
+                    {
+                        "text": "En el bazo",
+                        "isCorrect": false,
+                        "rationale": "Maduran en el timo."
+                    },
+                    {
+                        "text": "En los ganglios linfáticos",
+                        "isCorrect": false,
+                        "rationale": "Maduran en el timo."
+                    }
+                ],
+                "hint": "'T' de Timo."
+            },
+            {
+                "question": "¿Dónde se generan los linfocitos T?",
+                "options": [
+                    {
+                        "text": "En la médula ósea",
+                        "isCorrect": true,
+                        "rationale": "Los linfocitos T son generados en la médula ósea ubicada en los huesos, luego migran al timo para madurar."
+                    },
+                    {
+                        "text": "En el timo",
+                        "isCorrect": false,
+                        "rationale": "Se generan en la médula ósea, maduran en el timo."
+                    },
+                    {
+                        "text": "En el bazo",
+                        "isCorrect": false,
+                        "rationale": "Se generan en la médula ósea."
+                    },
+                    {
+                        "text": "En los ganglios",
+                        "isCorrect": false,
+                        "rationale": "Se generan en la médula ósea."
+                    }
+                ],
+                "hint": "Todas las células sanguíneas se originan en la médula ósea."
+            },
+            {
+                "question": "¿Cómo se producen las plaquetas?",
+                "options": [
+                    {
+                        "text": "Como fragmentos celulares de los megacariocitos en la médula ósea",
+                        "isCorrect": true,
+                        "rationale": "Las plaquetas se producen en la médula ósea como fragmentos celulares de los megacariocitos."
+                    },
+                    {
+                        "text": "Como células completas",
+                        "isCorrect": false,
+                        "rationale": "Son fragmentos celulares, no células completas."
+                    },
+                    {
+                        "text": "En el bazo",
+                        "isCorrect": false,
+                        "rationale": "Se producen en la médula ósea."
+                    },
+                    {
+                        "text": "Por división de otras plaquetas",
+                        "isCorrect": false,
+                        "rationale": "Provienen de megacariocitos."
+                    }
+                ],
+                "hint": "Los megacariocitos son células grandes que 'estallan' en fragmentos."
+            },
+            {
+                "question": "¿Qué células sanguíneas permanecen dentro de los vasos sanguíneos?",
+                "options": [
+                    {
+                        "text": "Los eritrocitos y las plaquetas",
+                        "isCorrect": true,
+                        "rationale": "Solo los eritrocitos y las plaquetas se limitan a permanecer dentro de la sangre."
+                    },
+                    {
+                        "text": "Todos los leucocitos",
+                        "isCorrect": false,
+                        "rationale": "Los leucocitos pueden salir de los vasos."
+                    },
+                    {
+                        "text": "Solo los neutrófilos",
+                        "isCorrect": false,
+                        "rationale": "Los neutrófilos pueden salir de los vasos."
+                    },
+                    {
+                        "text": "Los linfocitos",
+                        "isCorrect": false,
+                        "rationale": "Los linfocitos pueden entrar en los tejidos."
+                    }
+                ],
+                "hint": "Los glóbulos blancos pueden 'caminar' fuera de los vasos."
+            },
+            {
+                "question": "¿Qué pueden hacer los leucocitos que los eritrocitos no pueden?",
+                "options": [
+                    {
+                        "text": "Dejar la circulación y entrar en los tejidos extravasculares",
+                        "isCorrect": true,
+                        "rationale": "Todos los leucocitos pueden dejar la circulación y entrar en los tejidos extravasculares."
+                    },
+                    {
+                        "text": "Transportar oxígeno",
+                        "isCorrect": false,
+                        "rationale": "El oxígeno es transportado por los eritrocitos."
+                    },
+                    {
+                        "text": "Coagular la sangre",
+                        "isCorrect": false,
+                        "rationale": "La coagulación involucra plaquetas y factores de coagulación."
+                    },
+                    {
+                        "text": "Permanecer siempre en los vasos",
+                        "isCorrect": false,
+                        "rationale": "Precisamente pueden salir de los vasos."
+                    }
+                ],
+                "hint": "Esta capacidad se llama 'diapédesis' o extravasación."
+            },
+            {
+                "question": "¿Qué son los tejidos linfoides?",
+                "options": [
+                    {
+                        "text": "El timo, los nodos linfáticos, el bazo y el tejido linfoide asociado a digestivo y respiratorio",
+                        "isCorrect": true,
+                        "rationale": "Los tejidos linfoides son el timo, los nodos linfáticos, el bazo y el tejido linfoide asociado principalmente con el sistema digestivo y respiratorio."
+                    },
+                    {
+                        "text": "Solo el timo y el bazo",
+                        "isCorrect": false,
+                        "rationale": "También incluyen nodos linfáticos y tejido linfoide asociado."
+                    },
+                    {
+                        "text": "Solo los ganglios linfáticos",
+                        "isCorrect": false,
+                        "rationale": "Incluye múltiples órganos y tejidos."
+                    },
+                    {
+                        "text": "Solo la médula ósea",
+                        "isCorrect": false,
+                        "rationale": "La médula ósea es sitio de hematopoyesis, pero los tejidos linfoides incluyen otros órganos."
+                    }
+                ],
+                "hint": "Son los órganos donde se desarrollan y almacenan linfocitos."
+            },
+            {
+                "question": "¿Qué células del estroma (de apoyo) hay en el tejido linfoide que NO son de origen hematopoyético?",
+                "options": [
+                    {
+                        "text": "Epitelio del timo, células dendríticas foliculares, células dendríticas y macrófagos",
+                        "isCorrect": true,
+                        "rationale": "El tejido linfoide contiene células del estroma no hematopoyéticas: epitelio del timo, células dendríticas foliculares, células dendríticas y macrófagos del sistema fagocítico mononuclear."
+                    },
+                    {
+                        "text": "Solo linfocitos",
+                        "isCorrect": false,
+                        "rationale": "Los linfocitos son de origen hematopoyético."
+                    },
+                    {
+                        "text": "Solo células sanguíneas",
+                        "isCorrect": false,
+                        "rationale": "Las células del estroma son de apoyo, no sanguíneas."
+                    },
+                    {
+                        "text": "Solo fibroblastos",
+                        "isCorrect": false,
+                        "rationale": "Incluye células especializadas como las dendríticas y macrófagos."
+                    }
+                ],
+                "hint": "Son células de 'sostén' que no vienen de la médula ósea."
+            },
+            {
+                "question": "¿De dónde derivan las células dendríticas y los macrófagos?",
+                "options": [
+                    {
+                        "text": "De monocitos de la sangre",
+                        "isCorrect": true,
+                        "rationale": "Las células dendríticas y los macrófagos son derivados de monocitos de la sangre que se encuentran en la mayoría de los tejidos y órganos."
+                    },
+                    {
+                        "text": "De linfocitos",
+                        "isCorrect": false,
+                        "rationale": "Derivan de monocitos, no de linfocitos."
+                    },
+                    {
+                        "text": "De eritrocitos",
+                        "isCorrect": false,
+                        "rationale": "Derivan de monocitos."
+                    },
+                    {
+                        "text": "De plaquetas",
+                        "isCorrect": false,
+                        "rationale": "Derivan de monocitos de la sangre."
+                    }
+                ],
+                "hint": "Los monocitos pueden transformarse en macrófagos tisulares."
+            },
+            {
+                "question": "¿Qué efecto tienen las células dendríticas y los macrófagos?",
+                "options": [
+                    {
+                        "text": "Efecto inmunoestimulante como células presentadoras de antígeno (CPA)",
+                        "isCorrect": true,
+                        "rationale": "Las células dendríticas y los macrófagos tienen un efecto inmunoestimulante, como células presentadoras de antígeno (CPA)."
+                    },
+                    {
+                        "text": "Suprimir el sistema inmune",
+                        "isCorrect": false,
+                        "rationale": "Tienen efecto estimulante, no supresor."
+                    },
+                    {
+                        "text": "Producir anticuerpos",
+                        "isCorrect": false,
+                        "rationale": "Los anticuerpos son producidos por linfocitos B activados."
+                    },
+                    {
+                        "text": "Destruir células propias",
+                        "isCorrect": false,
+                        "rationale": "Presentan antígenos para activar la respuesta inmune."
+                    }
+                ],
+                "hint": "'Presentan' los antígenos a los linfocitos para activarlos."
+            },
+            {
+                "question": "¿Qué ocurre con el número de leucocitos en infecciones y enfermedades locales?",
+                "options": [
+                    {
+                        "text": "Aumenta considerablemente porque los leucocitos pueden entrar en los tejidos",
+                        "isCorrect": true,
+                        "rationale": "El número de células aumenta considerablemente en las infecciones y enfermedades locales, ya que los leucocitos pueden dejar la circulación y entrar en los tejidos extravasculares."
+                    },
+                    {
+                        "text": "Disminuye",
+                        "isCorrect": false,
+                        "rationale": "Aumenta, no disminuye."
+                    },
+                    {
+                        "text": "Permanece igual",
+                        "isCorrect": false,
+                        "rationale": "Aumenta considerablemente."
+                    },
+                    {
+                        "text": "Solo aumentan los eritrocitos",
+                        "isCorrect": false,
+                        "rationale": "Son los leucocitos los que aumentan."
+                    }
+                ],
+                "hint": "La 'leucocitosis' es el aumento de glóbulos blancos en infecciones."
+            }
+        ]
+    }
+]
+  },
+
+  "anato-cardiovascular": {
+    "titulo": "Sistema Cardiovascular",
+    "descripcion": "Corazón, arterias, venas, capilares, circulación sistémica y pulmonar",
+    "totalPreguntas": 155,
+    "partes": [
+    {
+        "id": 1,
+        "nombre": "Parte 1",
+        "preguntas": 15,
+        "data": [
+            {
+                "question": "¿Qué estudia la angiología?",
+                "options": [
+                    {
+                        "text": "El sistema que asegura la circulación de sangre, quilo y linfa",
+                        "isCorrect": true,
+                        "rationale": "La angiología estudia el sistema que asegura la circulación de la sangre, del quilo y de la linfa en todo el organismo."
+                    },
+                    {
+                        "text": "Solo el corazón",
+                        "isCorrect": false,
+                        "rationale": "La cardiología estudia el corazón; la angiología es más amplia."
+                    },
+                    {
+                        "text": "Solo los vasos sanguíneos",
+                        "isCorrect": false,
+                        "rationale": "Incluye también el corazón y los vasos linfáticos."
+                    },
+                    {
+                        "text": "El sistema nervioso",
+                        "isCorrect": false,
+                        "rationale": "El sistema nervioso es estudiado por la neurología."
+                    }
+                ],
+                "hint": "Incluye todo el sistema circulatorio: sangre y linfa."
+            },
+            {
+                "question": "¿Qué comprende el sistema cardiovascular?",
+                "options": [
+                    {
+                        "text": "Un órgano central (corazón) y conductos (arterias, venas, capilares, linfáticos)",
+                        "isCorrect": true,
+                        "rationale": "El sistema cardiovascular comprende un órgano central de impulsión (corazón) y un conjunto de conductos (arterias, venas, capilares y vasos linfáticos)."
+                    },
+                    {
+                        "text": "Solo el corazón y las arterias",
+                        "isCorrect": false,
+                        "rationale": "Incluye también venas, capilares y vasos linfáticos."
+                    },
+                    {
+                        "text": "Solo los vasos sanguíneos",
+                        "isCorrect": false,
+                        "rationale": "El corazón es parte fundamental del sistema cardiovascular."
+                    },
+                    {
+                        "text": "Corazón, pulmones y vasos",
+                        "isCorrect": false,
+                        "rationale": "Los pulmones no son parte del sistema cardiovascular."
+                    }
+                ],
+                "hint": "Tiene un componente de bombeo y una red de conductos."
+            },
+            {
+                "question": "¿Cómo está compuesto el corazón?",
+                "options": [
+                    {
+                        "text": "Dos mitades (derecha e izquierda) con dos cavidades cada una",
+                        "isCorrect": true,
+                        "rationale": "El corazón tiene un corazón derecho y un corazón izquierdo, cada uno con un atrio y un ventrículo."
+                    },
+                    {
+                        "text": "Una sola cavidad",
+                        "isCorrect": false,
+                        "rationale": "El corazón tiene cuatro cavidades: dos atrios y dos ventrículos."
+                    },
+                    {
+                        "text": "Tres cavidades",
+                        "isCorrect": false,
+                        "rationale": "Tiene cuatro cavidades, no tres."
+                    },
+                    {
+                        "text": "Solo ventrículos",
+                        "isCorrect": false,
+                        "rationale": "Tiene dos atrios y dos ventrículos."
+                    }
+                ],
+                "hint": "Total de cuatro cavidades en el corazón."
+            },
+            {
+                "question": "¿Qué separa al corazón derecho del corazón izquierdo?",
+                "options": [
+                    {
+                        "text": "Un tabique",
+                        "isCorrect": true,
+                        "rationale": "El corazón derecho y el corazón izquierdo están separados por un tabique."
+                    },
+                    {
+                        "text": "Válvulas",
+                        "isCorrect": false,
+                        "rationale": "Las válvulas separan atrios de ventrículos, no los dos corazones entre sí."
+                    },
+                    {
+                        "text": "El pericardio",
+                        "isCorrect": false,
+                        "rationale": "El pericardio envuelve todo el corazón externamente."
+                    },
+                    {
+                        "text": "La aorta",
+                        "isCorrect": false,
+                        "rationale": "La aorta es un vaso que sale del ventrículo izquierdo."
+                    }
+                ],
+                "hint": "Es una pared interna que divide el corazón en dos."
+            },
+            {
+                "question": "¿Qué estructura comunica cada atrio con su ventrículo correspondiente?",
+                "options": [
+                    {
+                        "text": "Un orificio provisto de válvulas",
+                        "isCorrect": true,
+                        "rationale": "Cada atrio comunica con el ventrículo correspondiente por un orificio provisto de válvulas que aseguran circulación en sentido único."
+                    },
+                    {
+                        "text": "Un tabique",
+                        "isCorrect": false,
+                        "rationale": "Los tabiques separan, no comunican."
+                    },
+                    {
+                        "text": "Un vaso sanguíneo",
+                        "isCorrect": false,
+                        "rationale": "La comunicación es directa dentro del corazón, no por vasos."
+                    },
+                    {
+                        "text": "Una pared muscular",
+                        "isCorrect": false,
+                        "rationale": "Las paredes separan, no comunican."
+                    }
+                ],
+                "hint": "Es una abertura con estructuras que permiten flujo unidireccional."
+            },
+            {
+                "question": "¿De dónde llegan las venas al corazón?",
+                "options": [
+                    {
+                        "text": "A los atrios",
+                        "isCorrect": true,
+                        "rationale": "A los atrios (aurículas) llegan las venas."
+                    },
+                    {
+                        "text": "A los ventrículos",
+                        "isCorrect": false,
+                        "rationale": "De los ventrículos parten las arterias; las venas llegan a los atrios."
+                    },
+                    {
+                        "text": "Al tabique",
+                        "isCorrect": false,
+                        "rationale": "El tabique es una pared separadora, no recibe venas."
+                    },
+                    {
+                        "text": "Al pericardio",
+                        "isCorrect": false,
+                        "rationale": "El pericardio es la membrana externa que envuelve el corazón."
+                    }
+                ],
+                "hint": "Las aurículas reciben sangre, los ventrículos la bombean."
+            },
+            {
+                "question": "¿De dónde parten las arterias del corazón?",
+                "options": [
+                    {
+                        "text": "De los ventrículos",
+                        "isCorrect": true,
+                        "rationale": "De los ventrículos parten las arterias: aorta o tronco pulmonar."
+                    },
+                    {
+                        "text": "De los atrios",
+                        "isCorrect": false,
+                        "rationale": "A los atrios llegan las venas; de los ventrículos parten las arterias."
+                    },
+                    {
+                        "text": "Del pericardio",
+                        "isCorrect": false,
+                        "rationale": "El pericardio es una membrana, no origen de arterias."
+                    },
+                    {
+                        "text": "Del tabique",
+                        "isCorrect": false,
+                        "rationale": "El tabique separa cavidades, no es origen de vasos."
+                    }
+                ],
+                "hint": "Los ventrículos bombean sangre hacia las arterias."
+            },
+            {
+                "question": "¿Qué es el miocardio?",
+                "options": [
+                    {
+                        "text": "El músculo que forma el corazón",
+                        "isCorrect": true,
+                        "rationale": "El corazón está formado por un músculo con propiedades particulares: el miocardio."
+                    },
+                    {
+                        "text": "La membrana interna del corazón",
+                        "isCorrect": false,
+                        "rationale": "La membrana interna es el endocardio."
+                    },
+                    {
+                        "text": "La membrana externa del corazón",
+                        "isCorrect": false,
+                        "rationale": "La membrana externa es el epicardio."
+                    },
+                    {
+                        "text": "El saco que envuelve el corazón",
+                        "isCorrect": false,
+                        "rationale": "Ese es el pericardio."
+                    }
+                ],
+                "hint": "Es el tejido muscular cardíaco especializado."
+            },
+            {
+                "question": "¿Qué es el endocardio?",
+                "options": [
+                    {
+                        "text": "El revestimiento interno del corazón",
+                        "isCorrect": true,
+                        "rationale": "El miocardio está tapizado interiormente por el endocardio."
+                    },
+                    {
+                        "text": "El músculo cardíaco",
+                        "isCorrect": false,
+                        "rationale": "El músculo cardíaco es el miocardio."
+                    },
+                    {
+                        "text": "El revestimiento externo del corazón",
+                        "isCorrect": false,
+                        "rationale": "El revestimiento externo es el epicardio."
+                    },
+                    {
+                        "text": "El saco fibroso que envuelve el corazón",
+                        "isCorrect": false,
+                        "rationale": "Ese es el pericardio."
+                    }
+                ],
+                "hint": "'Endo' significa dentro, es la capa interna."
+            },
+            {
+                "question": "¿Qué es el epicardio?",
+                "options": [
+                    {
+                        "text": "El revestimiento externo del corazón",
+                        "isCorrect": true,
+                        "rationale": "El miocardio está tapizado exteriormente por el epicardio."
+                    },
+                    {
+                        "text": "El músculo cardíaco",
+                        "isCorrect": false,
+                        "rationale": "El músculo cardíaco es el miocardio."
+                    },
+                    {
+                        "text": "El revestimiento interno del corazón",
+                        "isCorrect": false,
+                        "rationale": "El revestimiento interno es el endocardio."
+                    },
+                    {
+                        "text": "El saco que separa el corazón de órganos vecinos",
+                        "isCorrect": false,
+                        "rationale": "Ese es el pericardio."
+                    }
+                ],
+                "hint": "'Epi' significa sobre, es la capa más externa del corazón."
+            },
+            {
+                "question": "¿Qué es el pericardio?",
+                "options": [
+                    {
+                        "text": "El conjunto fibroseroso que separa el corazón de los órganos vecinos",
+                        "isCorrect": true,
+                        "rationale": "El corazón está rodeado por el pericardio, conjunto fibroseroso que lo separa de los órganos vecinos."
+                    },
+                    {
+                        "text": "El músculo del corazón",
+                        "isCorrect": false,
+                        "rationale": "El músculo es el miocardio."
+                    },
+                    {
+                        "text": "La válvula cardíaca",
+                        "isCorrect": false,
+                        "rationale": "Las válvulas son estructuras diferentes del pericardio."
+                    },
+                    {
+                        "text": "La cavidad interior del corazón",
+                        "isCorrect": false,
+                        "rationale": "El pericardio es externo al corazón."
+                    }
+                ],
+                "hint": "'Peri' significa alrededor, envuelve el corazón."
+            },
+            {
+                "question": "¿Dónde está situado el corazón?",
+                "options": [
+                    {
+                        "text": "En el tórax, en el mediastino medio",
+                        "isCorrect": true,
+                        "rationale": "El corazón está situado en el tórax, detrás de la pared esternocondrocostal, en la parte inferior del mediastino (mediastino medio)."
+                    },
+                    {
+                        "text": "En el abdomen",
+                        "isCorrect": false,
+                        "rationale": "El corazón está en el tórax, no en el abdomen."
+                    },
+                    {
+                        "text": "En el cuello",
+                        "isCorrect": false,
+                        "rationale": "El corazón está en el tórax, no en el cuello."
+                    },
+                    {
+                        "text": "En el mediastino anterior",
+                        "isCorrect": false,
+                        "rationale": "Está en el mediastino medio, no anterior."
+                    }
+                ],
+                "hint": "Está en el centro del tórax, ligeramente desplazado a la izquierda."
+            },
+            {
+                "question": "¿Qué son las arterias?",
+                "options": [
+                    {
+                        "text": "Conductos que transportan sangre desde el corazón",
+                        "isCorrect": true,
+                        "rationale": "Las arterias son los conductos de transporte de la sangre desde el corazón."
+                    },
+                    {
+                        "text": "Conductos que transportan sangre hacia el corazón",
+                        "isCorrect": false,
+                        "rationale": "Esos son las venas."
+                    },
+                    {
+                        "text": "Vasos microscópicos de intercambio",
+                        "isCorrect": false,
+                        "rationale": "Esos son los capilares."
+                    },
+                    {
+                        "text": "Vasos que transportan linfa",
+                        "isCorrect": false,
+                        "rationale": "Esos son los vasos linfáticos."
+                    }
+                ],
+                "hint": "Las arterias llevan sangre alejándose del corazón."
+            },
+            {
+                "question": "¿De dónde se originan todas las arterias?",
+                "options": [
+                    {
+                        "text": "De la arteria aorta y la arteria pulmonar",
+                        "isCorrect": true,
+                        "rationale": "El origen de todas las arterias se reparte entre la arteria aorta y la arteria pulmonar."
+                    },
+                    {
+                        "text": "Solo de la aorta",
+                        "isCorrect": false,
+                        "rationale": "La arteria pulmonar también es origen de arterias para los pulmones."
+                    },
+                    {
+                        "text": "De los ventrículos directamente",
+                        "isCorrect": false,
+                        "rationale": "Los ventrículos dan origen a la aorta y el tronco pulmonar, que luego se ramifican."
+                    },
+                    {
+                        "text": "De los atrios",
+                        "isCorrect": false,
+                        "rationale": "De los atrios salen venas, no arterias."
+                    }
+                ],
+                "hint": "Dos grandes arterias son el origen de todo el sistema arterial."
+            },
+            {
+                "question": "¿Qué característica tienen las arterias respecto a las válvulas?",
+                "options": [
+                    {
+                        "text": "Están desprovistas de válvulas, salvo los orígenes de aorta y tronco pulmonar",
+                        "isCorrect": true,
+                        "rationale": "Las arterias están desprovistas de válvulas, salvo los orígenes de la aorta y el tronco pulmonar."
+                    },
+                    {
+                        "text": "Tienen válvulas en todo su trayecto",
+                        "isCorrect": false,
+                        "rationale": "Solo tienen válvulas en su origen, no en todo el trayecto."
+                    },
+                    {
+                        "text": "No tienen válvulas en ningún punto",
+                        "isCorrect": false,
+                        "rationale": "Tienen válvulas en sus orígenes (válvulas sigmoideas)."
+                    },
+                    {
+                        "text": "Tienen más válvulas que las venas",
+                        "isCorrect": false,
+                        "rationale": "Las venas tienen muchas más válvulas que las arterias."
+                    }
+                ],
+                "hint": "La presión arterial es tan alta que no necesitan válvulas en su trayecto."
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "nombre": "Parte 2",
+        "preguntas": 15,
+        "data": [
+            {
+                "question": "¿Qué tres túnicas tiene una arteria?",
+                "options": [
+                    {
+                        "text": "Túnica externa (adventicia), media e íntima (endotelio)",
+                        "isCorrect": true,
+                        "rationale": "Una arteria comprende tres túnicas: túnica externa o adventicia, túnica media y túnica íntima o endotelio."
+                    },
+                    {
+                        "text": "Endocardio, miocardio y epicardio",
+                        "isCorrect": false,
+                        "rationale": "Estas son las capas del corazón, no de las arterias."
+                    },
+                    {
+                        "text": "Externa, interna y muscular",
+                        "isCorrect": false,
+                        "rationale": "Los nombres correctos son adventicia, media e íntima."
+                    },
+                    {
+                        "text": "Dermis, epidermis e hipodermis",
+                        "isCorrect": false,
+                        "rationale": "Estas son capas de la piel, no de las arterias."
+                    }
+                ],
+                "hint": "Tres capas concéntricas desde afuera hacia adentro."
+            },
+            {
+                "question": "¿Qué se dispone en la adventicia de la arteria?",
+                "options": [
+                    {
+                        "text": "Los vasa vasorum y la inervación",
+                        "isCorrect": true,
+                        "rationale": "En la adventicia se disponen los vasa vasorum de la arteria y su inervación."
+                    },
+                    {
+                        "text": "Las células musculares",
+                        "isCorrect": false,
+                        "rationale": "Las células musculares están en la túnica media."
+                    },
+                    {
+                        "text": "El endotelio",
+                        "isCorrect": false,
+                        "rationale": "El endotelio está en la túnica íntima."
+                    },
+                    {
+                        "text": "Las fibras elásticas",
+                        "isCorrect": false,
+                        "rationale": "Las fibras elásticas están principalmente en la media."
+                    }
+                ],
+                "hint": "'Vasa vasorum' significa vasos de los vasos."
+            },
+            {
+                "question": "¿Qué función tiene la túnica media de las arterias?",
+                "options": [
+                    {
+                        "text": "Soportar la tensión de la sangre sobre los vasos",
+                        "isCorrect": true,
+                        "rationale": "La túnica media es musculoelástica y tiene como función soportar la tensión de la sangre sobre estos vasos."
+                    },
+                    {
+                        "text": "Nutrir la pared arterial",
+                        "isCorrect": false,
+                        "rationale": "Esta función corresponde a los vasa vasorum en la adventicia."
+                    },
+                    {
+                        "text": "Intercambiar gases",
+                        "isCorrect": false,
+                        "rationale": "Los intercambios ocurren en los capilares, no en las arterias."
+                    },
+                    {
+                        "text": "Inervar el vaso",
+                        "isCorrect": false,
+                        "rationale": "La inervación está en la adventicia."
+                    }
+                ],
+                "hint": "Es la capa más gruesa, con músculo y fibras elásticas."
+            },
+            {
+                "question": "¿Qué es el endotelio arterial?",
+                "options": [
+                    {
+                        "text": "Una monocapa continua que desempeña papel en la hemostasia",
+                        "isCorrect": true,
+                        "rationale": "El endotelio es una monocapa continua que se dispone hacia la luz, desempeña papel fundamental en la hemostasia y es sensible a modificaciones de presión y pH."
+                    },
+                    {
+                        "text": "Una capa de músculo liso",
+                        "isCorrect": false,
+                        "rationale": "El músculo liso está en la túnica media."
+                    },
+                    {
+                        "text": "Un tejido conectivo denso",
+                        "isCorrect": false,
+                        "rationale": "El endotelio es epitelial, no conectivo."
+                    },
+                    {
+                        "text": "Una membrana elástica",
+                        "isCorrect": false,
+                        "rationale": "Las membranas elásticas están en la media."
+                    }
+                ],
+                "hint": "Es la capa más interna en contacto con la sangre."
+            },
+            {
+                "question": "¿Qué caracteriza a las arterias elásticas?",
+                "options": [
+                    {
+                        "text": "Son de gran calibre con capa muscular entre dos membranas elásticas",
+                        "isCorrect": true,
+                        "rationale": "Las arterias elásticas son de gran calibre. Su túnica media tiene una capa muscular entre dos membranas elásticas (interna y externa)."
+                    },
+                    {
+                        "text": "Son de pequeño calibre sin membranas elásticas",
+                        "isCorrect": false,
+                        "rationale": "Eso describe a las arteriolas."
+                    },
+                    {
+                        "text": "Son de calibre mediano sin membrana elástica externa",
+                        "isCorrect": false,
+                        "rationale": "Eso describe a las arterias musculares."
+                    },
+                    {
+                        "text": "Son capilares con esfínter precapilar",
+                        "isCorrect": false,
+                        "rationale": "Los capilares no tienen túnica media."
+                    }
+                ],
+                "hint": "Son las arterias más grandes como la aorta."
+            },
+            {
+                "question": "¿Qué función cumplen las arterias elásticas durante la diástole?",
+                "options": [
+                    {
+                        "text": "Vuelven a su diámetro inicial transformando el flujo pulsátil en laminar",
+                        "isCorrect": true,
+                        "rationale": "Gracias a las membranas elásticas, durante la diástole vuelven a su diámetro inicial, transformando el flujo pulsátil en laminar continuo."
+                    },
+                    {
+                        "text": "Se contraen activamente",
+                        "isCorrect": false,
+                        "rationale": "La recuperación elástica es pasiva, no una contracción activa."
+                    },
+                    {
+                        "text": "Detienen el flujo sanguíneo",
+                        "isCorrect": false,
+                        "rationale": "Mantienen el flujo continuo, no lo detienen."
+                    },
+                    {
+                        "text": "Se dilatan más",
+                        "isCorrect": false,
+                        "rationale": "Durante la diástole vuelven a su diámetro normal, no se dilatan más."
+                    }
+                ],
+                "hint": "Actúan como un 'reservorio' que mantiene el flujo entre latidos."
+            },
+            {
+                "question": "¿Qué caracteriza a las arterias musculares?",
+                "options": [
+                    {
+                        "text": "Calibre mediano sin membrana elástica externa en general",
+                        "isCorrect": true,
+                        "rationale": "Las arterias musculares son de calibre mediano o intermedio y su túnica media no presenta, en general, membrana elástica externa."
+                    },
+                    {
+                        "text": "Gran calibre con dos membranas elásticas",
+                        "isCorrect": false,
+                        "rationale": "Eso caracteriza a las arterias elásticas."
+                    },
+                    {
+                        "text": "Pequeño calibre con poco tejido elástico",
+                        "isCorrect": false,
+                        "rationale": "Eso describe a las arteriolas."
+                    },
+                    {
+                        "text": "Calibre muy pequeño sin túnica media",
+                        "isCorrect": false,
+                        "rationale": "Eso describe a los capilares."
+                    }
+                ],
+                "hint": "Son las arterias de distribución hacia los órganos."
+            },
+            {
+                "question": "¿Qué son las arteriolas?",
+                "options": [
+                    {
+                        "text": "Arterias de pequeño calibre (menor a 0,5 mm) con poco tejido elástico",
+                        "isCorrect": true,
+                        "rationale": "Las arteriolas son de pequeño calibre (inferior a 0,5 mm). Su túnica intermedia tiene poco tejido elástico y escasas fibras de músculo liso."
+                    },
+                    {
+                        "text": "Arterias de gran calibre",
+                        "isCorrect": false,
+                        "rationale": "Las arteriolas son las más pequeñas de las arterias."
+                    },
+                    {
+                        "text": "Capilares agrandados",
+                        "isCorrect": false,
+                        "rationale": "Las arteriolas son arterias, no capilares."
+                    },
+                    {
+                        "text": "Venas pequeñas",
+                        "isCorrect": false,
+                        "rationale": "Las arteriolas son arterias, no venas."
+                    }
+                ],
+                "hint": "Son las arterias más pequeñas antes de los capilares."
+            },
+            {
+                "question": "¿Qué caracteriza a los capilares?",
+                "options": [
+                    {
+                        "text": "Muy pequeño calibre (5-30 micrones) sin túnica intermedia",
+                        "isCorrect": true,
+                        "rationale": "Los capilares son de muy pequeño calibre (5-30 micrones). No presentan túnica intermedia y tienen esfínter precapilar."
+                    },
+                    {
+                        "text": "Calibre de 0,5 mm con túnica media muscular",
+                        "isCorrect": false,
+                        "rationale": "Eso describe a las arteriolas."
+                    },
+                    {
+                        "text": "Gran calibre con membranas elásticas",
+                        "isCorrect": false,
+                        "rationale": "Eso describe a las arterias elásticas."
+                    },
+                    {
+                        "text": "Calibre mediano sin membrana elástica externa",
+                        "isCorrect": false,
+                        "rationale": "Eso describe a las arterias musculares."
+                    }
+                ],
+                "hint": "Son los vasos más pequeños donde ocurre el intercambio."
+            },
+            {
+                "question": "¿Qué estructura presenta el inicio de los capilares?",
+                "options": [
+                    {
+                        "text": "Una dilatación con esfínter precapilar",
+                        "isCorrect": true,
+                        "rationale": "A nivel del inicio de los capilares presentan una dilatación donde la arteriola forma un esfínter precapilar."
+                    },
+                    {
+                        "text": "Una válvula",
+                        "isCorrect": false,
+                        "rationale": "Los capilares no tienen válvulas."
+                    },
+                    {
+                        "text": "Una bifurcación",
+                        "isCorrect": false,
+                        "rationale": "Tienen un esfínter que regula el flujo, no una bifurcación."
+                    },
+                    {
+                        "text": "Un engrosamiento muscular",
+                        "isCorrect": false,
+                        "rationale": "Es un esfínter precapilar, no un engrosamiento general."
+                    }
+                ],
+                "hint": "Regula el ingreso de sangre al capilar."
+            },
+            {
+                "question": "¿Qué zonas NO son nutridas por las arterias?",
+                "options": [
+                    {
+                        "text": "Cartílago hialino, córnea, cristalino, epidermis y faneras",
+                        "isCorrect": true,
+                        "rationale": "Las arterias nutren todo el cuerpo, excepto el cartílago hialino, la córnea, el cristalino, la epidermis y las faneras."
+                    },
+                    {
+                        "text": "El cerebro y la médula espinal",
+                        "isCorrect": false,
+                        "rationale": "El sistema nervioso central tiene rica irrigación arterial."
+                    },
+                    {
+                        "text": "Los músculos esqueléticos",
+                        "isCorrect": false,
+                        "rationale": "Los músculos tienen abundante irrigación arterial."
+                    },
+                    {
+                        "text": "Los huesos",
+                        "isCorrect": false,
+                        "rationale": "Los huesos reciben irrigación arterial a través de nutrientes."
+                    }
+                ],
+                "hint": "Son estructuras avasculares que se nutren por difusión."
+            },
+            {
+                "question": "¿Dónde se disponen las arterias grandes e intermedias?",
+                "options": [
+                    {
+                        "text": "En planos profundos, subfasciales en miembros, retroperitoneales en abdomen",
+                        "isCorrect": true,
+                        "rationale": "Las arterias grandes e intermedias se disponen en planos profundos. En miembros son subfasciales. En abdomen son retroperitoneales."
+                    },
+                    {
+                        "text": "En planos superficiales bajo la piel",
+                        "isCorrect": false,
+                        "rationale": "Solo las pequeñas arterias pueden ser subcutáneas."
+                    },
+                    {
+                        "text": "Dentro de los órganos",
+                        "isCorrect": false,
+                        "rationale": "Las pequeñas arterias son intraviscerales, no las grandes."
+                    },
+                    {
+                        "text": "En el tejido celular subcutáneo",
+                        "isCorrect": false,
+                        "rationale": "Las arterias grandes están profundas, protegidas."
+                    }
+                ],
+                "hint": "Están protegidas en profundidad, cerca del esqueleto."
+            },
+            {
+                "question": "¿Qué son las ramas colaterales de las arterias?",
+                "options": [
+                    {
+                        "text": "Ramas que se desprenden de un tronco arterial",
+                        "isCorrect": true,
+                        "rationale": "Las ramas colaterales son ramas que se desprenden de un tronco arterial."
+                    },
+                    {
+                        "text": "Ramas que marcan la terminación de una arteria",
+                        "isCorrect": false,
+                        "rationale": "Esas son las ramas terminales."
+                    },
+                    {
+                        "text": "Comunicaciones entre dos arterias",
+                        "isCorrect": false,
+                        "rationale": "Esas son las anastomosis."
+                    },
+                    {
+                        "text": "Ramas que van hacia la piel",
+                        "isCorrect": false,
+                        "rationale": "Las colaterales pueden ir a cualquier estructura."
+                    }
+                ],
+                "hint": "Son 'salidas laterales' del vaso principal."
+            },
+            {
+                "question": "¿Qué son las ramas terminales de las arterias?",
+                "options": [
+                    {
+                        "text": "Las ramas que marcan la terminación de una arteria",
+                        "isCorrect": true,
+                        "rationale": "Las ramas terminales son las que marcan la terminación de una arteria."
+                    },
+                    {
+                        "text": "Ramas que salen lateralmente del vaso principal",
+                        "isCorrect": false,
+                        "rationale": "Esas son las ramas colaterales."
+                    },
+                    {
+                        "text": "Comunicaciones entre arterias",
+                        "isCorrect": false,
+                        "rationale": "Esas son las anastomosis."
+                    },
+                    {
+                        "text": "Arteriolas finales",
+                        "isCorrect": false,
+                        "rationale": "Son ramas de distribución terminal, no necesariamente arteriolas."
+                    }
+                ],
+                "hint": "Son el 'final del camino' de una arteria."
+            },
+            {
+                "question": "¿Qué es la distribución plexiforme de las arterias?",
+                "options": [
+                    {
+                        "text": "Cuando las ramas terminales se anastomosan con ramas vecinas",
+                        "isCorrect": true,
+                        "rationale": "En la distribución plexiforme, algunas ramas terminales terminan anastomosándose con las ramas vecinas."
+                    },
+                    {
+                        "text": "Cuando las arterias terminan sin anastomosis",
+                        "isCorrect": false,
+                        "rationale": "Eso es la distribución terminal."
+                    },
+                    {
+                        "text": "Cuando forman una red única sin conexiones",
+                        "isCorrect": false,
+                        "rationale": "La distribución plexiforme implica anastomosis."
+                    },
+                    {
+                        "text": "Cuando todas las ramas van al mismo órgano",
+                        "isCorrect": false,
+                        "rationale": "No se refiere al destino, sino al patrón de conexiones."
+                    }
+                ],
+                "hint": "Forma una red de conexiones entre arterias vecinas."
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "nombre": "Parte 3",
+        "preguntas": 16,
+        "data": [
+            {
+                "question": "¿Qué son las anastomosis arterioarteriales?",
+                "options": [
+                    {
+                        "text": "Comunicaciones intervasculares entre arterias que regulan la distribución de sangre",
+                        "isCorrect": true,
+                        "rationale": "Las anastomosis arterioarteriales constituyen una circulación colateral que regula la distribución de la sangre."
+                    },
+                    {
+                        "text": "Conexiones entre arterias y venas",
+                        "isCorrect": false,
+                        "rationale": "Esas son las anastomosis arteriovenosas."
+                    },
+                    {
+                        "text": "Comunicaciones entre dos venas",
+                        "isCorrect": false,
+                        "rationale": "Esas son las anastomosis venovenosas."
+                    },
+                    {
+                        "text": "Union entre capilares",
+                        "isCorrect": false,
+                        "rationale": "Las anastomosis arterioarteriales son entre arterias, no capilares."
+                    }
+                ],
+                "hint": "Permiten que la sangre fluya entre arterias conectadas."
+            },
+            {
+                "question": "¿Qué es la anastomosis por inosculación?",
+                "options": [
+                    {
+                        "text": "Continuidad entre dos arterias que se unen en su terminación",
+                        "isCorrect": true,
+                        "rationale": "La anastomosis por inosculación forma una continuidad entre dos arterias que se unen en su terminación (p. ej., los arcos palmares)."
+                    },
+                    {
+                        "text": "Un conducto de unión entre dos arterias paralelas",
+                        "isCorrect": false,
+                        "rationale": "Esa es la anastomosis transversal."
+                    },
+                    {
+                        "text": "Fusión de dos arterias en una sola",
+                        "isCorrect": false,
+                        "rationale": "Esa es la anastomosis por convergencia."
+                    },
+                    {
+                        "text": "Conexión entre arteria y vena",
+                        "isCorrect": false,
+                        "rationale": "Esa es la anastomosis arteriovenosa."
+                    }
+                ],
+                "hint": "Ejemplo: los arcos palmares de la mano."
+            },
+            {
+                "question": "¿Qué es la anastomosis transversal?",
+                "options": [
+                    {
+                        "text": "Un conducto de unión entre dos arterias paralelas",
+                        "isCorrect": true,
+                        "rationale": "La anastomosis transversal es un conducto de pequeño calibre que une dos arterias paralelas, permitiendo distribuir sangre entre ellas."
+                    },
+                    {
+                        "text": "Dos arterias que se unen en su terminación",
+                        "isCorrect": false,
+                        "rationale": "Esa es la anastomosis por inosculación."
+                    },
+                    {
+                        "text": "Fusión de dos arterias en una",
+                        "isCorrect": false,
+                        "rationale": "Esa es la anastomosis por convergencia."
+                    },
+                    {
+                        "text": "Conexión entre arteria y vena",
+                        "isCorrect": false,
+                        "rationale": "Esa es la anastomosis arteriovenosa."
+                    }
+                ],
+                "hint": "Es como un 'puente' entre dos arterias que corren paralelas."
+            },
+            {
+                "question": "¿Qué es la anastomosis por convergencia?",
+                "options": [
+                    {
+                        "text": "Dos arterias que se fusionan en una sola",
+                        "isCorrect": true,
+                        "rationale": "En la anastomosis por convergencia, dos arterias se fusionan en una (p. ej., la arteria basilar)."
+                    },
+                    {
+                        "text": "Dos arterias que se unen en su terminación",
+                        "isCorrect": false,
+                        "rationale": "Esa es la anastomosis por inosculación."
+                    },
+                    {
+                        "text": "Un conducto entre arterias paralelas",
+                        "isCorrect": false,
+                        "rationale": "Esa es la anastomosis transversal."
+                    },
+                    {
+                        "text": "Conexión entre arteria y vena",
+                        "isCorrect": false,
+                        "rationale": "Esa es la anastomosis arteriovenosa."
+                    }
+                ],
+                "hint": "Ejemplo: la arteria basilar se forma por fusión de dos vertebrales."
+            },
+            {
+                "question": "¿Qué son las anastomosis arteriovenosas?",
+                "options": [
+                    {
+                        "text": "Desviación entre arteriola y vénula que genera cortocircuito capilar",
+                        "isCorrect": true,
+                        "rationale": "Las anastomosis arteriovenosas son una desviación entre arteriola y vénula que genera un cortocircuito, permitiendo saltear el paso por los capilares."
+                    },
+                    {
+                        "text": "Conexiones entre dos arterias",
+                        "isCorrect": false,
+                        "rationale": "Esas son anastomosis arterioarteriales."
+                    },
+                    {
+                        "text": "Conexiones entre dos venas",
+                        "isCorrect": false,
+                        "rationale": "Esas son anastomosis venovenosas."
+                    },
+                    {
+                        "text": "Comunicaciones entre capilares",
+                        "isCorrect": false,
+                        "rationale": "Las arteriovenosas son entre arteriola y vénula, no entre capilares."
+                    }
+                ],
+                "hint": "Permiten que la sangre pase directamente de arterias a venas."
+            },
+            {
+                "question": "¿Cuál es la función de las anastomosis arteriovenosas?",
+                "options": [
+                    {
+                        "text": "Sistema de regulación de la circulación por diferentes tejidos",
+                        "isCorrect": true,
+                        "rationale": "Es un sistema de regulación de la circulación por diferentes tejidos, que puede convertirse en circulación con doble sentido."
+                    },
+                    {
+                        "text": "Aumentar la presión arterial",
+                        "isCorrect": false,
+                        "rationale": "No regulan presión, regulan distribución de flujo."
+                    },
+                    {
+                        "text": "Disminuir el retorno venoso",
+                        "isCorrect": false,
+                        "rationale": "Pueden aumentar el retorno venoso al saltear capilares."
+                    },
+                    {
+                        "text": "Mejorar la oxigenación tisular",
+                        "isCorrect": false,
+                        "rationale": "Al saltear capilares, no mejoran oxigenación directamente."
+                    }
+                ],
+                "hint": "Regulan el flujo sanguíneo según las necesidades del tejido."
+            },
+            {
+                "question": "¿Qué es la arteriosclerosis?",
+                "options": [
+                    {
+                        "text": "Término que incluye enfermedades vasculares con engrosamiento y pérdida de elasticidad",
+                        "isCorrect": true,
+                        "rationale": "La arteriosclerosis es un término que incluye distintas enfermedades vasculares que llevan al engrosamiento y la pérdida de elasticidad de la pared arterial."
+                    },
+                    {
+                        "text": "Inflamación de la pared arterial",
+                        "isCorrect": false,
+                        "rationale": "La inflamación arterial es la arteritis."
+                    },
+                    {
+                        "text": "Dilatación permanente de una arteria",
+                        "isCorrect": false,
+                        "rationale": "La dilatación permanente es un aneurisma."
+                    },
+                    {
+                        "text": "Obstrucción arterial por coágulo",
+                        "isCorrect": false,
+                        "rationale": "La obstrucción por coágulo es trombosis."
+                    }
+                ],
+                "hint": "'Esclerosis' significa endurecimiento."
+            },
+            {
+                "question": "¿Qué es la aterosclerosis?",
+                "options": [
+                    {
+                        "text": "Formación progresiva de placas fibrosas con núcleo de colesterol en la arteria",
+                        "isCorrect": true,
+                        "rationale": "La aterosclerosis es la forma más frecuente de arteriosclerosis, caracterizada por placas fibrosas con núcleo de colesterol y lípidos que sobresalen hacia la luz."
+                    },
+                    {
+                        "text": "Inflamación de la pared arterial",
+                        "isCorrect": false,
+                        "rationale": "Eso es la arteritis."
+                    },
+                    {
+                        "text": "Dilatación anormal de la arteria",
+                        "isCorrect": false,
+                        "rationale": "Eso es el aneurisma."
+                    },
+                    {
+                        "text": "Rotura de la pared arterial",
+                        "isCorrect": false,
+                        "rationale": "La rotura es una complicación, no la definición de aterosclerosis."
+                    }
+                ],
+                "hint": "'Atero' se refiere a la placa de lípidos (como 'ateroma')."
+            },
+            {
+                "question": "¿Qué consecuencias tiene la aterosclerosis?",
+                "options": [
+                    {
+                        "text": "Estenosis de la arteria, obstrucción del flujo y aumento de riesgo de isquemia",
+                        "isCorrect": true,
+                        "rationale": "La aterosclerosis produce estenosis de la arteria, obstrucción del flujo sanguíneo y aumento de probabilidades de desarrollar episodios de isquemia en diferentes órganos."
+                    },
+                    {
+                        "text": "Dilatación de la arteria",
+                        "isCorrect": false,
+                        "rationale": "La aterosclerosis estrecha, no dilata."
+                    },
+                    {
+                        "text": "Aumento del flujo sanguíneo",
+                        "isCorrect": false,
+                        "rationale": "Disminuye el flujo por la estenosis."
+                    },
+                    {
+                        "text": "Mejora de la elasticidad arterial",
+                        "isCorrect": false,
+                        "rationale": "La arteriosclerosis causa pérdida de elasticidad."
+                    }
+                ],
+                "hint": "Las placas reducen el espacio interno de la arteria."
+            },
+            {
+                "question": "¿Qué es la arteritis (vasculitis)?",
+                "options": [
+                    {
+                        "text": "Inflamación de la pared de los vasos que puede ser autoinmunitaria o por lesión directa",
+                        "isCorrect": true,
+                        "rationale": "La arteritis o vasculitis es la inflamación de la pared de los vasos. Puede ser de etiología autoinmunitaria o por lesión directa (toxinas, radiación, infecciones)."
+                    },
+                    {
+                        "text": "Endurecimiento de la pared arterial",
+                        "isCorrect": false,
+                        "rationale": "Eso es la arteriosclerosis."
+                    },
+                    {
+                        "text": "Dilatación de la arteria",
+                        "isCorrect": false,
+                        "rationale": "Eso es el aneurisma."
+                    },
+                    {
+                        "text": "Obstrucción por coágulo",
+                        "isCorrect": false,
+                        "rationale": "Eso es la trombosis."
+                    }
+                ],
+                "hint": "El sufijo '-itis' siempre indica inflamación."
+            },
+            {
+                "question": "¿Qué manifestaciones clínicas puede presentar la arteritis?",
+                "options": [
+                    {
+                        "text": "Fiebre, dolores musculares, dolores articulares y malestar general",
+                        "isCorrect": true,
+                        "rationale": "La arteritis puede presentar fiebre, dolores musculares, dolores articulares y malestar general, ya que afecta vasos de distinto calibre y localización."
+                    },
+                    {
+                        "text": "Solo dolor localizado",
+                        "isCorrect": false,
+                        "rationale": "Las manifestaciones son más sistémicas."
+                    },
+                    {
+                        "text": "Solo síntomas cutáneos",
+                        "isCorrect": false,
+                        "rationale": "Afecta múltiples órganos y sistemas."
+                    },
+                    {
+                        "text": "Asintomática siempre",
+                        "isCorrect": false,
+                        "rationale": "Generalmente produce síntomas sistémicos."
+                    }
+                ],
+                "hint": "Es una enfermedad inflamatoria sistémica."
+            },
+            {
+                "question": "¿Cómo se diagnostica habitualmente la arteritis?",
+                "options": [
+                    {
+                        "text": "Mediante biopsia de la pared del vaso",
+                        "isCorrect": true,
+                        "rationale": "Habitualmente el diagnóstico de arteritis se realiza mediante la biopsia de la pared del vaso."
+                    },
+                    {
+                        "text": "Solo con análisis de sangre",
+                        "isCorrect": false,
+                        "rationale": "Los análisis ayudan pero el diagnóstico definitivo es por biopsia."
+                    },
+                    {
+                        "text": "Solo con ecografía",
+                        "isCorrect": false,
+                        "rationale": "La ecografía puede sugerir pero no reemplaza la biopsia."
+                    },
+                    {
+                        "text": "Con radiografía",
+                        "isCorrect": false,
+                        "rationale": "La radiografía no es útil para diagnosticar inflamación vascular."
+                    }
+                ],
+                "hint": "Se necesita muestra del tejido vascular afectado."
+            },
+            {
+                "question": "¿Qué son los aneurismas?",
+                "options": [
+                    {
+                        "text": "Dilataciones permanentes y localizadas de una arteria",
+                        "isCorrect": true,
+                        "rationale": "Los aneurismas son dilataciones permanentes y localizadas de una arteria."
+                    },
+                    {
+                        "text": "Estrechamiento de una arteria",
+                        "isCorrect": false,
+                        "rationale": "El estrechamiento es estenosis."
+                    },
+                    {
+                        "text": "Inflamación de la pared arterial",
+                        "isCorrect": false,
+                        "rationale": "Eso es la arteritis."
+                    },
+                    {
+                        "text": "Obstrucción completa de una arteria",
+                        "isCorrect": false,
+                        "rationale": "Eso es la oclusión arterial."
+                    }
+                ],
+                "hint": "'Aneurisma' viene del griego 'ensanchar'."
+            },
+            {
+                "question": "¿Cuál es la complicación más grave de los aneurismas?",
+                "options": [
+                    {
+                        "text": "La rotura que ocasiona hemorragia",
+                        "isCorrect": true,
+                        "rationale": "La complicación más grave que pueden presentar los aneurismas es su rotura, que ocasiona una gran hemorragia."
+                    },
+                    {
+                        "text": "La infección",
+                        "isCorrect": false,
+                        "rationale": "La rotura es mucho más grave y potencialmente mortal."
+                    },
+                    {
+                        "text": "El dolor crónico",
+                        "isCorrect": false,
+                        "rationale": "El dolor es síntoma, pero la rotura es la complicación grave."
+                    },
+                    {
+                        "text": "La trombosis",
+                        "isCorrect": false,
+                        "rationale": "La trombosis puede ocurrir, pero la rotura es más grave."
+                    }
+                ],
+                "hint": "Puede causar muerte por hemorragia interna masiva."
+            },
+            {
+                "question": "¿Qué arterias se afectan con mayor frecuencia por aneurismas?",
+                "options": [
+                    {
+                        "text": "La aorta y las de la base del cerebro",
+                        "isCorrect": true,
+                        "rationale": "Las arterias afectadas con mayor frecuencia por aneurismas son la aorta y las de la base del cerebro."
+                    },
+                    {
+                        "text": "Las arterias de los miembros",
+                        "isCorrect": false,
+                        "rationale": "Los aneurismas son más frecuentes en aorta y cerebro."
+                    },
+                    {
+                        "text": "Las arterias renales",
+                        "isCorrect": false,
+                        "rationale": "Pueden ocurrir, pero son menos frecuentes."
+                    },
+                    {
+                        "text": "Las arterias coronarias",
+                        "isCorrect": false,
+                        "rationale": "Pueden ocurrir, pero son menos frecuentes que en aorta y cerebro."
+                    }
+                ],
+                "hint": "Son los vasos de mayor calibre y presión."
+            },
+            {
+                "question": "¿Qué ocurre con la rotura o corte de un vaso?",
+                "options": [
+                    {
+                        "text": "Extravasación de sangre (hemorragia) que puede ser externa o interna",
+                        "isCorrect": true,
+                        "rationale": "La rotura o el corte de un vaso provoca una extravasación de sangre (hemorragia). Si sale del cuerpo es externa; si se acumula en cavidades, es interna."
+                    },
+                    {
+                        "text": "Siempre hemorragia externa visible",
+                        "isCorrect": false,
+                        "rationale": "Puede ser interna y no visible externamente."
+                    },
+                    {
+                        "text": "Siempre formación de coágulo",
+                        "isCorrect": false,
+                        "rationale": "El coágulo puede formarse, pero el problema inicial es la hemorragia."
+                    },
+                    {
+                        "text": "Detención inmediata del flujo",
+                        "isCorrect": false,
+                        "rationale": "La sangre sale del vaso; no se detiene inmediatamente."
+                    }
+                ],
+                "hint": "Puede ser visible fuera del cuerpo o acumularse adentro."
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "nombre": "Parte 4",
+        "preguntas": 15,
+        "data": [
+            {
+                "question": "¿Qué son las venas?",
+                "options": [
+                    {
+                        "text": "Vías de conducción que llevan sangre desde los tejidos hacia el corazón",
+                        "isCorrect": true,
+                        "rationale": "Las venas son vías de conducción que llevan sangre desde los tejidos, de retorno al corazón."
+                    },
+                    {
+                        "text": "Vasos que llevan sangre desde el corazón",
+                        "isCorrect": false,
+                        "rationale": "Esos son las arterias."
+                    },
+                    {
+                        "text": "Vasos microscópicos de intercambio",
+                        "isCorrect": false,
+                        "rationale": "Esos son los capilares."
+                    },
+                    {
+                        "text": "Vasos que transportan linfa",
+                        "isCorrect": false,
+                        "rationale": "Esos son los vasos linfáticos."
+                    }
+                ],
+                "hint": "Las venas devuelven la sangre al corazón."
+            },
+            {
+                "question": "¿Qué tres capas tiene la pared de las venas?",
+                "options": [
+                    {
+                        "text": "Túnica íntima, túnica media y túnica externa (adventicia)",
+                        "isCorrect": true,
+                        "rationale": "La pared de las venas tiene una túnica interna o íntima, una túnica media y una túnica externa o adventicia."
+                    },
+                    {
+                        "text": "Endocardio, miocardio y pericardio",
+                        "isCorrect": false,
+                        "rationale": "Estas son capas del corazón."
+                    },
+                    {
+                        "text": "Epidermis, dermis e hipodermis",
+                        "isCorrect": false,
+                        "rationale": "Estas son capas de la piel."
+                    },
+                    {
+                        "text": "Interna, muscular y serosa",
+                        "isCorrect": false,
+                        "rationale": "Los nombres correctos son íntima, media y adventicia."
+                    }
+                ],
+                "hint": "Similar estructura que las arterias, pero más delgadas."
+            },
+            {
+                "question": "¿Qué constituye la túnica íntima de las venas?",
+                "options": [
+                    {
+                        "text": "Capa de células endoteliales sobre membrana basal y tejido conectivo",
+                        "isCorrect": true,
+                        "rationale": "La capa íntima está constituida por células endoteliales fusiformes sobre una membrana basal y una delgada capa de tejido conectivo subendotelial."
+                    },
+                    {
+                        "text": "Células musculares lisas circulares",
+                        "isCorrect": false,
+                        "rationale": "Estas están en la túnica media."
+                    },
+                    {
+                        "text": "Fibras de colágeno longitudinales",
+                        "isCorrect": false,
+                        "rationale": "Estas están en la adventicia."
+                    },
+                    {
+                        "text": "Tejido adiposo",
+                        "isCorrect": false,
+                        "rationale": "El tejido adiposo está alrededor de algunos vasos, no en la íntima."
+                    }
+                ],
+                "hint": "Es la capa más interna en contacto con la sangre."
+            },
+            {
+                "question": "¿Cuál es la función principal de la túnica íntima venosa?",
+                "options": [
+                    {
+                        "text": "Intercambio de líquidos y gases entre las células y la sangre",
+                        "isCorrect": true,
+                        "rationale": "La función principal de la túnica íntima es el intercambio de líquidos y gases (intercambio metabólico) entre las células y la sangre."
+                    },
+                    {
+                        "text": "Regular el flujo sanguíneo",
+                        "isCorrect": false,
+                        "rationale": "Esa es función de la túnica media."
+                    },
+                    {
+                        "text": "Relacionar el vaso con las estructuras vecinas",
+                        "isCorrect": false,
+                        "rationale": "Esa es función de la adventicia."
+                    },
+                    {
+                        "text": "Producir células sanguíneas",
+                        "isCorrect": false,
+                        "rationale": "La hematopoyesis ocurre en la médula ósea, no en las venas."
+                    }
+                ],
+                "hint": "Permite el paso de sustancias a través de la pared."
+            },
+            {
+                "question": "¿Qué forma la túnica media de las venas?",
+                "options": [
+                    {
+                        "text": "Células musculares lisas, fibras elásticas, fibras de colágeno y proteoglicanos",
+                        "isCorrect": true,
+                        "rationale": "La capa media está formada por células musculares lisas, fibras elásticas, fibras de colágeno y proteoglicanos en disposición circular."
+                    },
+                    {
+                        "text": "Solo células endoteliales",
+                        "isCorrect": false,
+                        "rationale": "El endotelio está en la íntima."
+                    },
+                    {
+                        "text": "Solo tejido conectivo fibroso",
+                        "isCorrect": false,
+                        "rationale": "También tiene músculo liso y fibras elásticas."
+                    },
+                    {
+                        "text": "Solo fibras musculares estriadas",
+                        "isCorrect": false,
+                        "rationale": "Las venas tienen músculo liso, no estriado."
+                    }
+                ],
+                "hint": "Es más delgada que en las arterias pero tiene músculo."
+            },
+            {
+                "question": "¿Cuál es la función de la túnica media venosa?",
+                "options": [
+                    {
+                        "text": "Regular el flujo sanguíneo",
+                        "isCorrect": true,
+                        "rationale": "La túnica media tiene como función regular el flujo sanguíneo mediante la contracción del músculo liso."
+                    },
+                    {
+                        "text": "Intercambio de gases",
+                        "isCorrect": false,
+                        "rationale": "El intercambio es función de la íntima."
+                    },
+                    {
+                        "text": "Relacionar el vaso con estructuras vecinas",
+                        "isCorrect": false,
+                        "rationale": "Esa es función de la adventicia."
+                    },
+                    {
+                        "text": "Proteger de infecciones",
+                        "isCorrect": false,
+                        "rationale": "No es función de la túnica media."
+                    }
+                ],
+                "hint": "El músculo liso puede contraerse para regular el calibre."
+            },
+            {
+                "question": "¿Qué contiene la túnica adventicia de las venas?",
+                "options": [
+                    {
+                        "text": "Fibras de tejido conectivo en sentido longitudinal y nervios vegetativos",
+                        "isCorrect": true,
+                        "rationale": "La túnica adventicia se constituye de fibras de tejido conectivo longitudinales. Sobre ella se disponen los nervios vegetativos que llegan a la musculatura."
+                    },
+                    {
+                        "text": "Células musculares lisas",
+                        "isCorrect": false,
+                        "rationale": "Estas están en la media."
+                    },
+                    {
+                        "text": "Endotelio",
+                        "isCorrect": false,
+                        "rationale": "El endotelio está en la íntima."
+                    },
+                    {
+                        "text": "Vasos sanguíneos únicamente",
+                        "isCorrect": false,
+                        "rationale": "También contiene nervios y tejido conectivo."
+                    }
+                ],
+                "hint": "Es la capa más externa que conecta con los tejidos vecinos."
+            },
+            {
+                "question": "¿Cuál es la principal diferencia estructural entre venas y arterias?",
+                "options": [
+                    {
+                        "text": "La túnica media de las venas es más laxa con más fibras elásticas y colágeno",
+                        "isCorrect": true,
+                        "rationale": "En las venas, la túnica media es más laxa debido a mayor cantidad de fibras elásticas y colágeno, a diferencia de las arterias con capas compactas de músculo liso."
+                    },
+                    {
+                        "text": "Las venas no tienen túnica media",
+                        "isCorrect": false,
+                        "rationale": "Las venas sí tienen túnica media, pero más delgada."
+                    },
+                    {
+                        "text": "Las venas no tienen túnica íntima",
+                        "isCorrect": false,
+                        "rationale": "Las venas tienen las tres túnicas."
+                    },
+                    {
+                        "text": "Las venas tienen más músculo liso que las arterias",
+                        "isCorrect": false,
+                        "rationale": "Las arterias tienen más músculo liso en su media."
+                    }
+                ],
+                "hint": "Las venas son más 'flojas' porque la presión es menor."
+            },
+            {
+                "question": "¿Qué característica NO presentan las venas respecto a las arterias?",
+                "options": [
+                    {
+                        "text": "No hay clara estratificación ni membrana elástica interna",
+                        "isCorrect": true,
+                        "rationale": "En las venas no hay una clara estratificación así como tampoco presentan una membrana elástica interna, a diferencia de las arterias."
+                    },
+                    {
+                        "text": "No tienen túnica media",
+                        "isCorrect": false,
+                        "rationale": "Las venas sí tienen túnica media."
+                    },
+                    {
+                        "text": "No tienen adventicia",
+                        "isCorrect": false,
+                        "rationale": "Las venas sí tienen adventicia."
+                    },
+                    {
+                        "text": "No tienen luz",
+                        "isCorrect": false,
+                        "rationale": "Las venas tienen luz, y más amplia que las arterias."
+                    }
+                ],
+                "hint": "Las capas venosas están menos organizadas que las arteriales."
+            },
+            {
+                "question": "¿Cuáles son los cuatro sistemas venosos según su disposición topográfica?",
+                "options": [
+                    {
+                        "text": "Superficial, profundo, comunicante y perforante",
+                        "isCorrect": true,
+                        "rationale": "Las venas se clasifican en: sistema venoso superficial, sistema venoso profundo, sistema venoso comunicante y sistema venoso perforante."
+                    },
+                    {
+                        "text": "Superior, inferior, derecho e izquierdo",
+                        "isCorrect": false,
+                        "rationale": "Esta clasificación no se usa para venas."
+                    },
+                    {
+                        "text": "Sistémico, pulmonar, portal y linfático",
+                        "isCorrect": false,
+                        "rationale": "Estos son sistemas circulatorios, no clasificación de venas."
+                    },
+                    {
+                        "text": "Grandes, medianas, pequeñas y capilares",
+                        "isCorrect": false,
+                        "rationale": "Esta es una clasificación por tamaño, no topográfica."
+                    }
+                ],
+                "hint": "Se basa en su relación con la fascia y otros planos."
+            },
+            {
+                "question": "¿Qué es el sistema venoso superficial?",
+                "options": [
+                    {
+                        "text": "Venas ubicadas en el tejido subcutáneo, superficiales a la fascia",
+                        "isCorrect": true,
+                        "rationale": "El sistema venoso superficial se encuentra profundo a la piel pero superficial a la fascia de revestimiento, transitando por el tejido subcutáneo."
+                    },
+                    {
+                        "text": "Venas que acompañan a las arterias",
+                        "isCorrect": false,
+                        "rationale": "Esas son las venas profundas (satélites)."
+                    },
+                    {
+                        "text": "Venas que atraviesan la fascia",
+                        "isCorrect": false,
+                        "rationale": "Esas son las venas perforantes."
+                    },
+                    {
+                        "text": "Venas dentro de los músculos",
+                        "isCorrect": false,
+                        "rationale": "Estas son venas profundas."
+                    }
+                ],
+                "hint": "Son las venas que se ven bajo la piel."
+            },
+            {
+                "question": "¿Qué porcentaje de sangre del miembro inferior drena el sistema venoso superficial?",
+                "options": [
+                    {
+                        "text": "Aproximadamente el 10%",
+                        "isCorrect": true,
+                        "rationale": "El sistema venoso superficial del miembro inferior drena aproximadamente el 10% de su sangre."
+                    },
+                    {
+                        "text": "El 50%",
+                        "isCorrect": false,
+                        "rationale": "Solo el 10% es drenado por el sistema superficial."
+                    },
+                    {
+                        "text": "El 90%",
+                        "isCorrect": false,
+                        "rationale": "El 90% es drenado por el sistema profundo."
+                    },
+                    {
+                        "text": "El 100%",
+                        "isCorrect": false,
+                        "rationale": "Ambos sistemas contribuyen al drenaje."
+                    }
+                ],
+                "hint": "La mayoría drena por el sistema profundo."
+            },
+            {
+                "question": "¿Qué es el sistema venoso profundo?",
+                "options": [
+                    {
+                        "text": "Venas que discurren profundas a la fascia, generalmente acompañando arterias",
+                        "isCorrect": true,
+                        "rationale": "El sistema venoso profundo discurre profundo a la fascia de revestimiento y suele acompañar a las arterias de la región (venas satélites)."
+                    },
+                    {
+                        "text": "Venas en el tejido subcutáneo",
+                        "isCorrect": false,
+                        "rationale": "Esas son venas superficiales."
+                    },
+                    {
+                        "text": "Venas que comunican sistemas en el mismo plano",
+                        "isCorrect": false,
+                        "rationale": "Esas son venas comunicantes."
+                    },
+                    {
+                        "text": "Venas que atraviesan la fascia",
+                        "isCorrect": false,
+                        "rationale": "Esas son venas perforantes."
+                    }
+                ],
+                "hint": "Son venas satélites de las arterias principales."
+            },
+            {
+                "question": "¿Qué son las venas perforantes?",
+                "options": [
+                    {
+                        "text": "Venas que atraviesan la fascia comunicando sistemas superficial y profundo",
+                        "isCorrect": true,
+                        "rationale": "El sistema venoso perforante comunica el sistema superficial con el profundo, atravesando la fascia por orificios preformados."
+                    },
+                    {
+                        "text": "Venas que comunican venas en el mismo plano",
+                        "isCorrect": false,
+                        "rationale": "Esas son venas comunicantes."
+                    },
+                    {
+                        "text": "Venas que conectan dos arterias",
+                        "isCorrect": false,
+                        "rationale": "No existen venas que conecten arterias."
+                    },
+                    {
+                        "text": "Venas que perforan la piel",
+                        "isCorrect": false,
+                        "rationale": "Las venas perforantes atraviesan la fascia, no la piel."
+                    }
+                ],
+                "hint": "Perforan la fascia para conectar sistemas superficiales con profundos."
+            },
+            {
+                "question": "¿Qué función tienen las válvulas de las venas perforantes?",
+                "options": [
+                    {
+                        "text": "Impedir la circulación venosa desde el sistema profundo hacia el superficial",
+                        "isCorrect": true,
+                        "rationale": "Las venas perforantes poseen válvulas que impiden la circulación venosa desde el sistema profundo hacia el superficial."
+                    },
+                    {
+                        "text": "Permitir flujo en ambos sentidos",
+                        "isCorrect": false,
+                        "rationale": "Las válvulas permiten flujo solo hacia el sistema profundo."
+                    },
+                    {
+                        "text": "Impedir el flujo completamente",
+                        "isCorrect": false,
+                        "rationale": "Las válvulas regulan dirección, no detienen el flujo."
+                    },
+                    {
+                        "text": "Aumentar la presión venosa",
+                        "isCorrect": false,
+                        "rationale": "Las válvulas no regulan presión."
+                    }
+                ],
+                "hint": "Dirigen el flujo desde superficial hacia profundo."
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "nombre": "Parte 5",
+        "preguntas": 18,
+        "data": [
+            {
+                "question": "¿Qué son las válvulas venosas?",
+                "options": [
+                    {
+                        "text": "Estructuras endoteliales que evitan el reflujo de sangre hacia distal",
+                        "isCorrect": true,
+                        "rationale": "Las válvulas venosas son estructuras endoteliales que funcionan como compuertas evitando el reflujo hacia distal de la sangre."
+                    },
+                    {
+                        "text": "Estructuras que aumentan el flujo sanguíneo",
+                        "isCorrect": false,
+                        "rationale": "Las válvulas regulan dirección, no aumentan flujo."
+                    },
+                    {
+                        "text": "Dilataciones en las paredes venosas",
+                        "isCorrect": false,
+                        "rationale": "Las válvulas son pliegues del endotelio, no dilataciones."
+                    },
+                    {
+                        "text": "Músculos que bombean sangre",
+                        "isCorrect": false,
+                        "rationale": "Las válvulas son pasivas, no musculares."
+                    }
+                ],
+                "hint": "Son como 'compuertas' que permiten flujo en un solo sentido."
+            },
+            {
+                "question": "¿De cuántas valvas se componen las válvulas venosas?",
+                "options": [
+                    {
+                        "text": "Dos valvas o cúspides",
+                        "isCorrect": true,
+                        "rationale": "Las válvulas venosas se componen de dos valvas o cúspides."
+                    },
+                    {
+                        "text": "Una sola valva",
+                        "isCorrect": false,
+                        "rationale": "Tienen dos valvas, no una."
+                    },
+                    {
+                        "text": "Tres valvas",
+                        "isCorrect": false,
+                        "rationale": "Tienen dos valvas, no tres como las válvulas semilunares del corazón."
+                    },
+                    {
+                        "text": "Cuatro valvas",
+                        "isCorrect": false,
+                        "rationale": "Tienen dos valvas únicamente."
+                    }
+                ],
+                "hint": "Son bíuspides (dos cúspides)."
+            },
+            {
+                "question": "¿Dónde se encuentran principalmente las válvulas venosas?",
+                "options": [
+                    {
+                        "text": "A nivel de los orificios de desembocadura de las venas",
+                        "isCorrect": true,
+                        "rationale": "Las válvulas se encuentran principalmente a nivel de los orificios (ostium) de desembocadura de las venas."
+                    },
+                    {
+                        "text": "En el centro de las venas grandes",
+                        "isCorrect": false,
+                        "rationale": "Se ubican en puntos específicos, especialmente donde hay desembocaduras."
+                    },
+                    {
+                        "text": "Solo en las venas superficiales",
+                        "isCorrect": false,
+                        "rationale": "Están en venas superficiales y profundas."
+                    },
+                    {
+                        "text": "Solo en las venas de los miembros inferiores",
+                        "isCorrect": false,
+                        "rationale": "Están en múltiples regiones del cuerpo."
+                    }
+                ],
+                "hint": "Se localizan donde una vena desemboca en otra."
+            },
+            {
+                "question": "¿Qué estructuras venosas son avalvulares?",
+                "options": [
+                    {
+                        "text": "Senos de la duramadre, vena cava superior, vena porta y venas renales",
+                        "isCorrect": true,
+                        "rationale": "Son avalvulares: los senos de la duramadre, la vena cava superior, la vena porta y las venas renales."
+                    },
+                    {
+                        "text": "Las venas de los miembros inferiores",
+                        "isCorrect": false,
+                        "rationale": "Estas tienen abundantes válvulas."
+                    },
+                    {
+                        "text": "Las venas superficiales",
+                        "isCorrect": false,
+                        "rationale": "Las venas superficiales tienen válvulas."
+                    },
+                    {
+                        "text": "Todas las venas profundas",
+                        "isCorrect": false,
+                        "rationale": "Muchas venas profundas tienen válvulas."
+                    }
+                ],
+                "hint": "Son venas de gran calibre o encefálicas."
+            },
+            {
+                "question": "¿Cuáles son los factores que permiten el retorno venoso al corazón?",
+                "options": [
+                    {
+                        "text": "Efecto de succión del corazón, onda pulsátil arterial, bombas musculares y válvulas venosas",
+                        "isCorrect": true,
+                        "rationale": "Los factores son: succión del corazón, acoplamiento arteriovenoso, bombas musculofasciales y apertura/cierre de válvulas venosas."
+                    },
+                    {
+                        "text": "Solo la gravedad",
+                        "isCorrect": false,
+                        "rationale": "La gravedad en realidad dificulta el retorno venoso en bipedestación."
+                    },
+                    {
+                        "text": "Solo las válvulas",
+                        "isCorrect": false,
+                        "rationale": "Las válvulas son solo uno de los factores."
+                    },
+                    {
+                        "text": "Solo la contracción muscular",
+                        "isCorrect": false,
+                        "rationale": "La contracción muscular es uno de varios factores."
+                    }
+                ],
+                "hint": "Son múltiples mecanismos que trabajan en conjunto."
+            },
+            {
+                "question": "¿Qué es el efecto de succión del corazón (vis a fronte)?",
+                "options": [
+                    {
+                        "text": "Presión negativa generada por el desplazamiento ventricular durante la sístole",
+                        "isCorrect": true,
+                        "rationale": "El efecto de succión del corazón genera una presión hipobárica por desplazamiento del nivel ventricular hacia el vértice durante la sístole."
+                    },
+                    {
+                        "text": "La presión arterial impulsando sangre",
+                        "isCorrect": false,
+                        "rationale": "Esa es la vis a tergo (fuerza propulsora)."
+                    },
+                    {
+                        "text": "La contracción muscular de las piernas",
+                        "isCorrect": false,
+                        "rationale": "Esa es la bomba muscular."
+                    },
+                    {
+                        "text": "Las válvulas venosas",
+                        "isCorrect": false,
+                        "rationale": "Las válvulas previenen reflujo, no generan succión."
+                    }
+                ],
+                "hint": "'Vis a fronte' significa 'fuerza desde adelante' (el corazón atrae)."
+            },
+            {
+                "question": "¿Qué es la vis a tergo en el retorno venoso?",
+                "options": [
+                    {
+                        "text": "La fuerza propulsora del corazón estimada en 35 mmHg a nivel de arteriolas",
+                        "isCorrect": true,
+                        "rationale": "La fuerza propulsora del corazón (vis a tergo) es eficaz y se estima en 35 mmHg de presión a nivel de las arteriolas precapilares."
+                    },
+                    {
+                        "text": "La succión del corazón",
+                        "isCorrect": false,
+                        "rationale": "Esa es la vis a fronte."
+                    },
+                    {
+                        "text": "La bomba muscular",
+                        "isCorrect": false,
+                        "rationale": "La bomba muscular es un mecanismo diferente."
+                    },
+                    {
+                        "text": "Las válvulas venosas",
+                        "isCorrect": false,
+                        "rationale": "Las válvulas son un mecanismo pasivo."
+                    }
+                ],
+                "hint": "'Vis a tergo' significa 'fuerza desde atrás' (presión arterial empuja)."
+            },
+            {
+                "question": "¿Qué favorece la fuerza aspirante del corazón?",
+                "options": [
+                    {
+                        "text": "Las presiones intratorácicas y abdominales, especialmente durante la inspiración",
+                        "isCorrect": true,
+                        "rationale": "La fuerza aspirante se ve favorecida por las presiones intratorácicas y abdominales. El fin de la sístole y la inspiración son factores esenciales."
+                    },
+                    {
+                        "text": "La contracción muscular intensa",
+                        "isCorrect": false,
+                        "rationale": "La contracción muscular es otro mecanismo, no la aspiración torácica."
+                    },
+                    {
+                        "text": "Las válvulas venosas",
+                        "isCorrect": false,
+                        "rationale": "Las válvulas no generan aspiración."
+                    },
+                    {
+                        "text": "La presión arterial alta",
+                        "isCorrect": false,
+                        "rationale": "La presión arterial es la vis a tergo, no la aspiración."
+                    }
+                ],
+                "hint": "La respiración crea cambios de presión que ayudan al retorno."
+            },
+            {
+                "question": "¿Qué papel juegan los músculos en el retorno venoso?",
+                "options": [
+                    {
+                        "text": "La contracción muscular y el apoyo plantar favorecen la propulsión de sangre",
+                        "isCorrect": true,
+                        "rationale": "La contracción muscular (bomba muscular de la pierna) y el aplastamiento de la planta de los pies (red venosa plantar) favorecen la propulsión de sangre hacia proximal."
+                    },
+                    {
+                        "text": "Los músculos no participan en el retorno venoso",
+                        "isCorrect": false,
+                        "rationale": "Los músculos son fundamentales, especialmente en miembros inferiores."
+                    },
+                    {
+                        "text": "Solo los músculos respiratorios participan",
+                        "isCorrect": false,
+                        "rationale": "Todos los músculos, especialmente de piernas, participan."
+                    },
+                    {
+                        "text": "Los músculos dificultan el retorno venoso",
+                        "isCorrect": false,
+                        "rationale": "Lo facilitan mediante la bomba muscular."
+                    }
+                ],
+                "hint": "Al caminar se activa la 'bomba muscular' de las piernas."
+            },
+            {
+                "question": "¿Qué ocurre con la inmovilización prolongada respecto a la circulación venosa?",
+                "options": [
+                    {
+                        "text": "Reduce la circulación venosa y favorece la trombosis venosa",
+                        "isCorrect": true,
+                        "rationale": "La inmovilización prolongada reduce la circulación venosa y favorece la trombosis venosa."
+                    },
+                    {
+                        "text": "Mejora el retorno venoso",
+                        "isCorrect": false,
+                        "rationale": "La inmovilización empeora el retorno venoso."
+                    },
+                    {
+                        "text": "No tiene efecto sobre la circulación",
+                        "isCorrect": false,
+                        "rationale": "Tiene efectos significativos y potencialmente peligrosos."
+                    },
+                    {
+                        "text": "Aumenta la presión arterial",
+                        "isCorrect": false,
+                        "rationale": "El efecto principal es sobre el retorno venoso."
+                    }
+                ],
+                "hint": "Sin movimiento no hay bomba muscular activa."
+            },
+            {
+                "question": "¿Qué son las várices?",
+                "options": [
+                    {
+                        "text": "Venas dilatadas anormalmente con trayecto tortuoso",
+                        "isCorrect": true,
+                        "rationale": "Las várices son venas dilatadas de manera anormal que presentan un trayecto tortuoso."
+                    },
+                    {
+                        "text": "Venas inflamadas",
+                        "isCorrect": false,
+                        "rationale": "La inflamación venosa es la flebitis."
+                    },
+                    {
+                        "text": "Venas obstruidas",
+                        "isCorrect": false,
+                        "rationale": "La obstrucción es la trombosis."
+                    },
+                    {
+                        "text": "Arterias dilatadas",
+                        "isCorrect": false,
+                        "rationale": "Las várices afectan venas, no arterias."
+                    }
+                ],
+                "hint": "Son venas que se hinchan y se vuelven tortuosas."
+            },
+            {
+                "question": "¿Qué causa la formación de várices?",
+                "options": [
+                    {
+                        "text": "Aumento de presión sobre la vena y pérdida del tono de la pared venosa",
+                        "isCorrect": true,
+                        "rationale": "Las várices se generan por aumento de la presión que ejerce la sangre sobre el vaso y por la pérdida del tono de la pared de la vena."
+                    },
+                    {
+                        "text": "Infección de la vena",
+                        "isCorrect": false,
+                        "rationale": "La infección causa flebitis, no várices."
+                    },
+                    {
+                        "text": "Disminución de la presión venosa",
+                        "isCorrect": false,
+                        "rationale": "Es el aumento de presión, no la disminución."
+                    },
+                    {
+                        "text": "Exceso de ejercicio",
+                        "isCorrect": false,
+                        "rationale": "El ejercicio ayuda al retorno venoso, no causa várices."
+                    }
+                ],
+                "hint": "La presión crónica dilata las venas como un globo."
+            },
+            {
+                "question": "¿Qué ocurre con las válvulas en las venas varicosas?",
+                "options": [
+                    {
+                        "text": "Se tornan incompetentes, perdiendo capacidad de contener el reflujo",
+                        "isCorrect": true,
+                        "rationale": "Las válvulas de estas venas pueden perder su capacidad de contener el reflujo, tornándose incompetentes."
+                    },
+                    {
+                        "text": "Se vuelven más eficientes",
+                        "isCorrect": false,
+                        "rationale": "Se vuelven incompetentes, no más eficientes."
+                    },
+                    {
+                        "text": "Desaparecen completamente",
+                        "isCorrect": false,
+                        "rationale": "Se dañan pero no desaparecen."
+                    },
+                    {
+                        "text": "Se multiplican",
+                        "isCorrect": false,
+                        "rationale": "No se multiplican, se dañan."
+                    }
+                ],
+                "hint": "La incompetencia valvular perpetúa el problema."
+            },
+            {
+                "question": "¿Qué factores favorecen la aparición de várices?",
+                "options": [
+                    {
+                        "text": "Bipedestación prolongada, posición sentada con piernas en declive, obesidad y sexo femenino",
+                        "isCorrect": true,
+                        "rationale": "Factores favorables: bipedestación prolongada, posición sentada con piernas en declive, obesidad y ser mujer (predomina en mayores de 50 años, 20% de la población)."
+                    },
+                    {
+                        "text": "El ejercicio intenso",
+                        "isCorrect": false,
+                        "rationale": "El ejercicio ayuda al retorno venoso."
+                    },
+                    {
+                        "text": "La dieta rica en grasas",
+                        "isCorrect": false,
+                        "rationale": "La dieta no es factor directo de várices."
+                    },
+                    {
+                        "text": "El descanso en cama",
+                        "isCorrect": false,
+                        "rationale": "El reposo con piernas elevadas ayuda, no perjudica."
+                    }
+                ],
+                "hint": "La gravedad actuando por tiempo prolongado sobre las venas."
+            },
+            {
+                "question": "¿Qué es la trombosis?",
+                "options": [
+                    {
+                        "text": "Obstrucción de un vaso sanguíneo por formación de un coágulo (trombo)",
+                        "isCorrect": true,
+                        "rationale": "La trombosis es la obstrucción de un vaso sanguíneo por la formación de un coágulo de sangre (trombo) en su interior."
+                    },
+                    {
+                        "text": "Dilatación de un vaso",
+                        "isCorrect": false,
+                        "rationale": "La dilatación es el aneurisma o várice."
+                    },
+                    {
+                        "text": "Inflamación de un vaso",
+                        "isCorrect": false,
+                        "rationale": "La inflamación es la vasculitis."
+                    },
+                    {
+                        "text": "Rotura de un vaso",
+                        "isCorrect": false,
+                        "rationale": "La rotura causa hemorragia."
+                    }
+                ],
+                "hint": "Un trombo es un coágulo dentro de un vaso."
+            },
+            {
+                "question": "¿Qué es la tromboflebitis?",
+                "options": [
+                    {
+                        "text": "Obstrucción trombótica con inflamación del vaso venoso",
+                        "isCorrect": true,
+                        "rationale": "Si el vaso afectado por trombosis es una vena se denomina tromboflebitis: obstrucción trombótica con inflamación del vaso."
+                    },
+                    {
+                        "text": "Trombosis arterial",
+                        "isCorrect": false,
+                        "rationale": "La tromboflebitis afecta venas."
+                    },
+                    {
+                        "text": "Inflamación sin trombosis",
+                        "isCorrect": false,
+                        "rationale": "La tromboflebitis incluye trombosis."
+                    },
+                    {
+                        "text": "Dilatación venosa",
+                        "isCorrect": false,
+                        "rationale": "Es una obstrucción, no una dilatación."
+                    }
+                ],
+                "hint": "'Flebitis' significa inflamación de vena."
+            },
+            {
+                "question": "¿Qué es la tromboembolia?",
+                "options": [
+                    {
+                        "text": "Migración de un trombo desde su sitio de origen hacia otra localización",
+                        "isCorrect": true,
+                        "rationale": "Los trombos pueden migrar desde su sitio de origen generando una tromboembolia."
+                    },
+                    {
+                        "text": "Formación de un trombo in situ",
+                        "isCorrect": false,
+                        "rationale": "Eso es trombosis, no embolia."
+                    },
+                    {
+                        "text": "Disolución del trombo",
+                        "isCorrect": false,
+                        "rationale": "La embolia es migración, no disolución."
+                    },
+                    {
+                        "text": "Inflamación del trombo",
+                        "isCorrect": false,
+                        "rationale": "La embolia es el viaje del trombo."
+                    }
+                ],
+                "hint": "'Embolia' significa algo que viaja por el torrente sanguíneo."
+            },
+            {
+                "question": "¿Cuál es la consecuencia de una trombosis arterial?",
+                "options": [
+                    {
+                        "text": "Isquemia del territorio irrigado por esa arteria",
+                        "isCorrect": true,
+                        "rationale": "La consecuencia de una trombosis arterial es la isquemia: infarto miocárdico, ACV isquémico, necrosis de dedos, etc., según el vaso afectado."
+                    },
+                    {
+                        "text": "Hemorragia",
+                        "isCorrect": false,
+                        "rationale": "La trombosis obstruye, no causa hemorragia."
+                    },
+                    {
+                        "text": "Dilatación vascular",
+                        "isCorrect": false,
+                        "rationale": "La trombosis estrecha, no dilata."
+                    },
+                    {
+                        "text": "Aumento del flujo",
+                        "isCorrect": false,
+                        "rationale": "Disminuye o detiene el flujo."
+                    }
+                ],
+                "hint": "Sin riego sanguíneo = isquemia = daño tisular."
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "nombre": "Parte 6",
+        "preguntas": 15,
+        "data": [
+            {
+                "question": "¿Qué es una úlcera?",
+                "options": [
+                    {
+                        "text": "Excavación en la superficie de un tejido por desprendimiento de tejido necrótico",
+                        "isCorrect": true,
+                        "rationale": "Una úlcera es una excavación en la superficie de un tejido que se produce como consecuencia del desprendimiento de tejido necrótico."
+                    },
+                    {
+                        "text": "Una inflamación de la piel",
+                        "isCorrect": false,
+                        "rationale": "La úlcera es una pérdida de sustancia, no solo inflamación."
+                    },
+                    {
+                        "text": "Un tumor cutáneo",
+                        "isCorrect": false,
+                        "rationale": "La úlcera es una lesión por pérdida de tejido."
+                    },
+                    {
+                        "text": "Una infección superficial",
+                        "isCorrect": false,
+                        "rationale": "Puede infectarse, pero la úlcera es la lesión misma."
+                    }
+                ],
+                "hint": "Es como un 'hueco' en la piel o mucosa."
+            },
+            {
+                "question": "¿Qué porcentaje de úlceras de la pierna son venosas?",
+                "options": [
+                    {
+                        "text": "Aproximadamente el 70%",
+                        "isCorrect": true,
+                        "rationale": "Aproximadamente el 70% de las úlceras de la pierna son de origen venoso."
+                    },
+                    {
+                        "text": "El 10%",
+                        "isCorrect": false,
+                        "rationale": "Son la mayoría, aproximadamente 70%."
+                    },
+                    {
+                        "text": "El 30%",
+                        "isCorrect": false,
+                        "rationale": "Son más frecuentes, cerca del 70%."
+                    },
+                    {
+                        "text": "El 50%",
+                        "isCorrect": false,
+                        "rationale": "Son más frecuentes, aproximadamente 70%."
+                    }
+                ],
+                "hint": "La mayoría de las úlceras de pierna son venosas."
+            },
+            {
+                "question": "¿Dónde se ubican típicamente las úlceras venosas?",
+                "options": [
+                    {
+                        "text": "En la cara medial de la pierna, en su tercio inferior o medio",
+                        "isCorrect": true,
+                        "rationale": "Las úlceras venosas se ubican en la cara medial de la pierna, en su tercio inferior o medio."
+                    },
+                    {
+                        "text": "En el lado lateral de la pierna",
+                        "isCorrect": false,
+                        "rationale": "Las úlceras arteriales se ubican en el lado lateral."
+                    },
+                    {
+                        "text": "En el pie",
+                        "isCorrect": false,
+                        "rationale": "Se ubican en la pierna, no principalmente en el pie."
+                    },
+                    {
+                        "text": "En el muslo",
+                        "isCorrect": false,
+                        "rationale": "Se ubican en el tercio inferior de la pierna."
+                    }
+                ],
+                "hint": "Cara medial = lado interno de la pierna."
+            },
+            {
+                "question": "¿Qué características presentan las úlceras venosas?",
+                "options": [
+                    {
+                        "text": "Bordes irregulares y fondo sucio, con pierna hinchada",
+                        "isCorrect": true,
+                        "rationale": "Las úlceras venosas presentan bordes irregulares, fondo sucio, pierna hinchada y dolorosa si se infecta."
+                    },
+                    {
+                        "text": "Bordes netos y fondo limpio",
+                        "isCorrect": false,
+                        "rationale": "Esas son características de úlceras arteriales."
+                    },
+                    {
+                        "text": "Sin inflamación circundante",
+                        "isCorrect": false,
+                        "rationale": "Generalmente hay inflamación y edema."
+                    },
+                    {
+                        "text": "Pierna fría y pálida",
+                        "isCorrect": false,
+                        "rationale": "Esas son características de úlceras arteriales."
+                    }
+                ],
+                "hint": "Son úlceras 'sucias' con bordes mal definidos."
+            },
+            {
+                "question": "¿Qué causa las úlceras venosas?",
+                "options": [
+                    {
+                        "text": "Compromiso vascular que dificulta el retorno venoso, produciendo hipertensión venosa",
+                        "isCorrect": true,
+                        "rationale": "Las úlceras venosas son consecuencia del compromiso vascular que dificulta el retorno venoso, produciendo hipertensión venosa y alteraciones tróficas."
+                    },
+                    {
+                        "text": "Falta de irrigación arterial",
+                        "isCorrect": false,
+                        "rationale": "Esa es la causa de úlceras arteriales."
+                    },
+                    {
+                        "text": "Infección bacteriana primaria",
+                        "isCorrect": false,
+                        "rationale": "La causa es vascular, aunque pueden infectarse secundariamente."
+                    },
+                    {
+                        "text": "Traumatismo directo",
+                        "isCorrect": false,
+                        "rationale": "La causa es la insuficiencia venosa crónica."
+                    }
+                ],
+                "hint": "El problema es el retorno venoso deficiente."
+            },
+            {
+                "question": "¿Dónde se ubican las úlceras arteriales?",
+                "options": [
+                    {
+                        "text": "En el lado lateral de la pierna",
+                        "isCorrect": true,
+                        "rationale": "Las úlceras arteriales suelen ubicarse en el lado lateral de la pierna."
+                    },
+                    {
+                        "text": "En la cara medial",
+                        "isCorrect": false,
+                        "rationale": "Las úlceras venosas se ubican en la cara medial."
+                    },
+                    {
+                        "text": "En el muslo",
+                        "isCorrect": false,
+                        "rationale": "Se ubican en la pierna, no en el muslo."
+                    },
+                    {
+                        "text": "En el pie únicamente",
+                        "isCorrect": false,
+                        "rationale": "Pueden estar en pierna, especialmente lateral."
+                    }
+                ],
+                "hint": "Lateral = lado externo de la pierna."
+            },
+            {
+                "question": "¿Qué características presentan las úlceras arteriales?",
+                "options": [
+                    {
+                        "text": "Bordes netos, causa isquémica, dolorosas en reposo o con pierna elevada",
+                        "isCorrect": true,
+                        "rationale": "Las úlceras arteriales son de causa isquémica, presentan bordes netos, y suelen ser dolorosas sobre todo durante el reposo o con la pierna elevada."
+                    },
+                    {
+                        "text": "Bordes irregulares y fondo sucio",
+                        "isCorrect": false,
+                        "rationale": "Esas son características de úlceras venosas."
+                    },
+                    {
+                        "text": "Pierna hinchada y caliente",
+                        "isCorrect": false,
+                        "rationale": "Las úlceras arteriales tienen pierna fría y pálida por isquemia."
+                    },
+                    {
+                        "text": "Indoloras",
+                        "isCorrect": false,
+                        "rationale": "Son dolorosas, especialmente en reposo."
+                    }
+                ],
+                "hint": "Son úlceras 'limpias' con bordes bien definidos."
+            },
+            {
+                "question": "¿Qué puede causar las úlceras arteriales?",
+                "options": [
+                    {
+                        "text": "Aterosclerosis arterial o diabetes mellitus",
+                        "isCorrect": true,
+                        "rationale": "La causa de úlceras arteriales puede ser la aterosclerosis arterial o la diabetes mellitus."
+                    },
+                    {
+                        "text": "Insuficiencia venosa",
+                        "isCorrect": false,
+                        "rationale": "Esa es causa de úlceras venosas."
+                    },
+                    {
+                        "text": "Infección bacteriana",
+                        "isCorrect": false,
+                        "rationale": "La causa es la isquemia por enfermedad arterial."
+                    },
+                    {
+                        "text": "Traumatismo",
+                        "isCorrect": false,
+                        "rationale": "La causa es la falta de irrigación."
+                    }
+                ],
+                "hint": "Son enfermedades que afectan las arterias."
+            },
+            {
+                "question": "¿Qué comprende la gran circulación o circulación sistémica?",
+                "options": [
+                    {
+                        "text": "Ventrículo izquierdo, aorta, arterias, capilares, venas hasta el atrio derecho",
+                        "isCorrect": true,
+                        "rationale": "La gran circulación comprende: el ventrículo izquierdo, la aorta y todas las arterias, los capilares y las venas que conducen la sangre al atrio derecho."
+                    },
+                    {
+                        "text": "Ventrículo derecho, pulmonar, capilares pulmonares y venas pulmonares",
+                        "isCorrect": false,
+                        "rationale": "Esa es la pequeña circulación."
+                    },
+                    {
+                        "text": "Solo el corazón izquierdo",
+                        "isCorrect": false,
+                        "rationale": "Incluye todo el circuito desde ventrículo izquierdo hasta atrio derecho."
+                    },
+                    {
+                        "text": "Solo las arterias sistémicas",
+                        "isCorrect": false,
+                        "rationale": "Incluye arterias, capilares y venas del sistema sistémico."
+                    }
+                ],
+                "hint": "Es el circuito que recorre todo el cuerpo excepto los pulmones."
+            },
+            {
+                "question": "¿Qué desembocan en la gran circulación?",
+                "options": [
+                    {
+                        "text": "Los vasos linfáticos: conducto torácico y conducto linfático derecho",
+                        "isCorrect": true,
+                        "rationale": "En la gran circulación desembocan los vasos linfáticos: conducto torácico a la izquierda y conducto linfático derecho a la derecha."
+                    },
+                    {
+                        "text": "Las venas pulmonares",
+                        "isCorrect": false,
+                        "rationale": "Las venas pulmonares van al atrio izquierdo (pequeña circulación)."
+                    },
+                    {
+                        "text": "Solo la vena cava",
+                        "isCorrect": false,
+                        "rationale": "También desembocan los vasos linfáticos."
+                    },
+                    {
+                        "text": "Las arterias sistémicas",
+                        "isCorrect": false,
+                        "rationale": "Las arterias salen del corazón, no desembocan."
+                    }
+                ],
+                "hint": "El sistema linfático se conecta con el sistema venoso."
+            },
+            {
+                "question": "¿Qué comprende la pequeña circulación o circulación pulmonar?",
+                "options": [
+                    {
+                        "text": "Ventrículo derecho, arteria pulmonar, capilares pulmonares, venas pulmonares al atrio izquierdo",
+                        "isCorrect": true,
+                        "rationale": "La pequeña circulación comprende: el ventrículo derecho, la arteria pulmonar, los capilares pulmonares, las venas pulmonares y el atrio izquierdo."
+                    },
+                    {
+                        "text": "Ventrículo izquierdo y aorta",
+                        "isCorrect": false,
+                        "rationale": "Eso es parte de la gran circulación."
+                    },
+                    {
+                        "text": "Solo los pulmones",
+                        "isCorrect": false,
+                        "rationale": "Incluye el circuito completo con corazón y vasos."
+                    },
+                    {
+                        "text": "Solo las arterias pulmonares",
+                        "isCorrect": false,
+                        "rationale": "Incluye todo el circuito pulmonar."
+                    }
+                ],
+                "hint": "Es el circuito que va del corazón a los pulmones y vuelve."
+            },
+            {
+                "question": "¿Qué diferencia hay entre arterias y venas en la circulación pulmonar respecto a la sangre?",
+                "options": [
+                    {
+                        "text": "Las arterias pulmonares llevan sangre venosa y las venas pulmonares llevan sangre arterial",
+                        "isCorrect": true,
+                        "rationale": "En la circulación pulmonar, las arterias contienen sangre carbooxigenada y las venas sangre oxigenada: es lo contrario de la circulación sistémica."
+                    },
+                    {
+                        "text": "Ambas llevan sangre arterial",
+                        "isCorrect": false,
+                        "rationale": "Las arterias pulmonares llevan sangre venosa."
+                    },
+                    {
+                        "text": "Ambas llevan sangre venosa",
+                        "isCorrect": false,
+                        "rationale": "Las venas pulmonares llevan sangre arterial."
+                    },
+                    {
+                        "text": "Es igual que en la circulación sistémica",
+                        "isCorrect": false,
+                        "rationale": "Es exactamente lo contrario."
+                    }
+                ],
+                "hint": "En pulmones, arterias = venosa, venas = arterial."
+            },
+            {
+                "question": "¿Qué es la oximetría de pulso?",
+                "options": [
+                    {
+                        "text": "Instrumento que mide la saturación de oxígeno de la sangre arterial de manera no invasiva",
+                        "isCorrect": true,
+                        "rationale": "Los oxímetros de pulso miden la saturación de oxígeno de la sangre arterial, a través de la piel o las uñas sin necesidad de penetrarlas (no invasiva)."
+                    },
+                    {
+                        "text": "Un análisis de sangre",
+                        "isCorrect": false,
+                        "rationale": "Es no invasivo, no requiere extraer sangre."
+                    },
+                    {
+                        "text": "Un electrocardiograma",
+                        "isCorrect": false,
+                        "rationale": "Mide oxigenación, no actividad eléctrica cardíaca."
+                    },
+                    {
+                        "text": "Una radiografía",
+                        "isCorrect": false,
+                        "rationale": "No utiliza radiación, es un sensor de luz."
+                    }
+                ],
+                "hint": "Es el 'dedal' que ponen en el dedo en hospitales."
+            },
+            {
+                "question": "¿Qué ventaja tiene la oximetría de pulso?",
+                "options": [
+                    {
+                        "text": "Detecta descenso de saturación de oxígeno antes de que ocurra daño o aparezcan signos físicos",
+                        "isCorrect": true,
+                        "rationale": "La oximetría de pulso permite detectar el descenso de los niveles de saturación de oxígeno antes de que ocurra daño en el organismo y antes de que aparezcan los signos físicos."
+                    },
+                    {
+                        "text": "Diagnostica todas las enfermedades pulmonares",
+                        "isCorrect": false,
+                        "rationale": "Solo mide saturación de oxígeno, no diagnostica enfermedades específicas."
+                    },
+                    {
+                        "text": "Reemplaza todos los análisis de sangre",
+                        "isCorrect": false,
+                        "rationale": "No reemplaza otros análisis, es complementario."
+                    },
+                    {
+                        "text": "Mide la presión arterial",
+                        "isCorrect": false,
+                        "rationale": "Mide saturación de O₂, no presión."
+                    }
+                ],
+                "hint": "Es una herramienta de monitoreo precoz."
+            },
+            {
+                "question": "¿Cuál es la capacidad del sistema venoso comparado con el arterial?",
+                "options": [
+                    {
+                        "text": "4.700 ml el venoso frente a 800 ml el arterial (aproximadamente 6 veces mayor)",
+                        "isCorrect": true,
+                        "rationale": "La capacidad del sistema venoso es de 4.700 ml frente a los 800 ml de las arterias. Esta reserva vascular es 100 a 200 veces más distensible."
+                    },
+                    {
+                        "text": "Son iguales",
+                        "isCorrect": false,
+                        "rationale": "El sistema venoso tiene mucha más capacidad."
+                    },
+                    {
+                        "text": "El arterial es mayor",
+                        "isCorrect": false,
+                        "rationale": "El venoso tiene aproximadamente 6 veces más capacidad."
+                    },
+                    {
+                        "text": "El venoso tiene la mitad de capacidad",
+                        "isCorrect": false,
+                        "rationale": "Tiene mucho más capacidad que el arterial."
+                    }
+                ],
+                "hint": "Las venas son el 'reservorio' de sangre del cuerpo."
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "nombre": "Parte 7",
+        "preguntas": 21,
+        "data": [
+            {
+                "question": "¿Cuáles son las dos vías principales de la circulación venosa?",
+                "options": [
+                    {
+                        "text": "La pequeña circulación venosa (pulmonares) y la gran circulación venosa (cavas)",
+                        "isCorrect": true,
+                        "rationale": "Las venas se reagrupan según dos vías principales: la pequeña circulación venosa (venas pulmonares) y la gran circulación venosa (sistemas de venas cavas)."
+                    },
+                    {
+                        "text": "Circulación arterial y linfática",
+                        "isCorrect": false,
+                        "rationale": "Se refiere a las dos vías venosas principales del cuerpo."
+                    },
+                    {
+                        "text": "Sistémica y portal",
+                        "isCorrect": false,
+                        "rationale": "Las dos vías principales son la pequeña (pulmonar) y la gran (sistémica con cavas)."
+                    },
+                    {
+                        "text": "Superior e inferior",
+                        "isCorrect": false,
+                        "rationale": "Esas son partes de la gran circulación venosa."
+                    }
+                ],
+                "hint": "Una va a los pulmones, la otra al resto del cuerpo."
+            },
+            {
+                "question": "¿Qué forma la pequeña circulación venosa?",
+                "options": [
+                    {
+                        "text": "Las cuatro venas pulmonares que drenan sangre oxigenada al atrio izquierdo",
+                        "isCorrect": true,
+                        "rationale": "La pequeña circulación venosa está formada por las cuatro venas pulmonares y drena la sangre oxigenada de los pulmones hacia el atrio izquierdo."
+                    },
+                    {
+                        "text": "Las venas cavas",
+                        "isCorrect": false,
+                        "rationale": "Las venas cavas son parte de la gran circulación venosa."
+                    },
+                    {
+                        "text": "Las venas sistémicas",
+                        "isCorrect": false,
+                        "rationale": "Las venas sistémicas son parte de la gran circulación."
+                    },
+                    {
+                        "text": "Los vasos linfáticos",
+                        "isCorrect": false,
+                        "rationale": "Los vasos linfáticos no son parte de la circulación venosa."
+                    }
+                ],
+                "hint": "Son las únicas venas que transportan sangre oxigenada."
+            },
+            {
+                "question": "¿Qué constituye la gran circulación venosa?",
+                "options": [
+                    {
+                        "text": "El sistema de la vena cava superior y el sistema de la vena cava inferior",
+                        "isCorrect": true,
+                        "rationale": "La gran circulación venosa está constituida por dos sistemas que desembocan en el atrio derecho: el sistema de la vena cava superior y el sistema de la vena cava inferior."
+                    },
+                    {
+                        "text": "Solo la vena cava inferior",
+                        "isCorrect": false,
+                        "rationale": "Incluye ambos sistemas: cava superior e inferior."
+                    },
+                    {
+                        "text": "Las venas pulmonares",
+                        "isCorrect": false,
+                        "rationale": "Las venas pulmonares son la pequeña circulación."
+                    },
+                    {
+                        "text": "Las venas porta",
+                        "isCorrect": false,
+                        "rationale": "La vena porta es parte del sistema de la cava inferior."
+                    }
+                ],
+                "hint": "Dos grandes colectores que llegan al atrio derecho."
+            },
+            {
+                "question": "¿Cómo está constituida la vena cava superior?",
+                "options": [
+                    {
+                        "text": "Por la reunión de las venas braquiocefálicas derecha e izquierda",
+                        "isCorrect": true,
+                        "rationale": "La vena cava superior está constituida por la reunión de las venas braquiocefálicas derecha e izquierda."
+                    },
+                    {
+                        "text": "Por las venas ilíacas comunes",
+                        "isCorrect": false,
+                        "rationale": "Esas forman la vena cava inferior."
+                    },
+                    {
+                        "text": "Por las venas pulmonares",
+                        "isCorrect": false,
+                        "rationale": "Las venas pulmonares van al atrio izquierdo."
+                    },
+                    {
+                        "text": "Por las venas renales",
+                        "isCorrect": false,
+                        "rationale": "Las venas renales desembocan en la cava inferior."
+                    }
+                ],
+                "hint": "Recibe sangre de la cabeza, cuello y miembros superiores."
+            },
+            {
+                "question": "¿Qué drenan las venas braquiocefálicas hacia la vena cava superior?",
+                "options": [
+                    {
+                        "text": "Cabeza y cuello (venas vertebrales, yugulares) y miembros superiores (venas subclavias)",
+                        "isCorrect": true,
+                        "rationale": "Las venas braquiocefálicas drenan: la cabeza y cuello (venas vertebrales, yugulares internas, externas y anteriores) y los miembros superiores (venas subclavias)."
+                    },
+                    {
+                        "text": "Solo el cerebro",
+                        "isCorrect": false,
+                        "rationale": "Drenan cabeza, cuello y miembros superiores."
+                    },
+                    {
+                        "text": "Solo los miembros superiores",
+                        "isCorrect": false,
+                        "rationale": "También drenan cabeza y cuello."
+                    },
+                    {
+                        "text": "El abdomen",
+                        "isCorrect": false,
+                        "rationale": "El abdomen es drenado por la cava inferior."
+                    }
+                ],
+                "hint": "Drenan la parte superior del cuerpo."
+            },
+            {
+                "question": "¿Qué vena afluente tiene la vena cava superior?",
+                "options": [
+                    {
+                        "text": "La vena ácigos, que drena la pared del tronco",
+                        "isCorrect": true,
+                        "rationale": "La vena cava superior posee una sola vena afluente: la vena ácigos, que drena la pared del tronco."
+                    },
+                    {
+                        "text": "Las venas renales",
+                        "isCorrect": false,
+                        "rationale": "Las venas renales van a la cava inferior."
+                    },
+                    {
+                        "text": "Las venas hepáticas",
+                        "isCorrect": false,
+                        "rationale": "Las venas hepáticas van a la cava inferior."
+                    },
+                    {
+                        "text": "No tiene venas afluentes",
+                        "isCorrect": false,
+                        "rationale": "Tiene la vena ácigos como afluente."
+                    }
+                ],
+                "hint": "Es una sola vena que drena el tronco."
+            },
+            {
+                "question": "¿Cómo está constituida la vena cava inferior?",
+                "options": [
+                    {
+                        "text": "Por la reunión de las venas ilíacas comunes",
+                        "isCorrect": true,
+                        "rationale": "La vena cava inferior está constituida por la reunión de las venas ilíacas comunes."
+                    },
+                    {
+                        "text": "Por las venas braquiocefálicas",
+                        "isCorrect": false,
+                        "rationale": "Esas forman la vena cava superior."
+                    },
+                    {
+                        "text": "Por las venas pulmonares",
+                        "isCorrect": false,
+                        "rationale": "Las venas pulmonares van al atrio izquierdo."
+                    },
+                    {
+                        "text": "Por la vena porta",
+                        "isCorrect": false,
+                        "rationale": "La vena porta va al hígado, no forma la cava inferior."
+                    }
+                ],
+                "hint": "Recibe sangre de la mitad inferior del cuerpo."
+            },
+            {
+                "question": "¿Qué drenan las venas ilíacas comunes hacia la cava inferior?",
+                "options": [
+                    {
+                        "text": "Miembros inferiores (venas ilíacas externas) y órganos de la pelvis (venas ilíacas internas)",
+                        "isCorrect": true,
+                        "rationale": "Las venas ilíacas comunes drenan el miembro inferior (por venas ilíacas externas) y los órganos de la pelvis (por venas ilíacas internas)."
+                    },
+                    {
+                        "text": "Solo los miembros inferiores",
+                        "isCorrect": false,
+                        "rationale": "También drenan los órganos pélvicos."
+                    },
+                    {
+                        "text": "Solo la pelvis",
+                        "isCorrect": false,
+                        "rationale": "También drenan los miembros inferiores."
+                    },
+                    {
+                        "text": "El hígado",
+                        "isCorrect": false,
+                        "rationale": "El hígado drena por venas hepáticas directamente."
+                    }
+                ],
+                "hint": "Drenan la mitad inferior del cuerpo."
+            },
+            {
+                "question": "¿Qué venas afluentes tiene la vena cava inferior?",
+                "options": [
+                    {
+                        "text": "Venas renales, suprarrenal derecha, testicular/ovárica derecha, frénicas inferiores y hepáticas",
+                        "isCorrect": true,
+                        "rationale": "La vena cava inferior posee numerosas venas afluentes: venas renales (con suprarrenal y testicular/ovárica izquierdas), suprarrenal derecha, testicular/ovárica derecha, frénicas inferiores y venas hepáticas."
+                    },
+                    {
+                        "text": "Solo las venas renales",
+                        "isCorrect": false,
+                        "rationale": "Tiene muchas más venas afluentes."
+                    },
+                    {
+                        "text": "Solo las venas hepáticas",
+                        "isCorrect": false,
+                        "rationale": "Tiene múltiples afluentes además de las hepáticas."
+                    },
+                    {
+                        "text": "La vena ácigos",
+                        "isCorrect": false,
+                        "rationale": "La vena ácigos es afluente de la cava superior."
+                    }
+                ],
+                "hint": "Son múltiples venas que drenan órganos abdominales."
+            },
+            {
+                "question": "¿Qué particularidad tiene la vena renal izquierda?",
+                "options": [
+                    {
+                        "text": "Recibe a la vena suprarrenal izquierda y a la vena testicular/ovárica izquierda",
+                        "isCorrect": true,
+                        "rationale": "La vena renal izquierda recibe a la vena suprarrenal izquierda y a la vena testicular u ovárica izquierda antes de desembocar en la cava."
+                    },
+                    {
+                        "text": "No tiene afluentes",
+                        "isCorrect": false,
+                        "rationale": "Recibe las venas suprarrenal y gonadal izquierdas."
+                    },
+                    {
+                        "text": "Desemboca en la cava superior",
+                        "isCorrect": false,
+                        "rationale": "Desemboca en la cava inferior."
+                    },
+                    {
+                        "text": "Es más corta que la derecha",
+                        "isCorrect": false,
+                        "rationale": "Es más larga que la derecha porque cruza la línea media."
+                    }
+                ],
+                "hint": "Recibe sangre de la glándula suprarrenal y gónada del mismo lado."
+            },
+            {
+                "question": "¿Qué es la vena porta?",
+                "options": [
+                    {
+                        "text": "Vena que drena todas las venas del intestino y del bazo hacia el hígado",
+                        "isCorrect": true,
+                        "rationale": "La vena porta drena todas las venas del intestino y del bazo hacia el hígado, donde la sangre pasa a las venas hepáticas."
+                    },
+                    {
+                        "text": "Una vena que va directo al corazón",
+                        "isCorrect": false,
+                        "rationale": "La vena porta va al hígado, no directo al corazón."
+                    },
+                    {
+                        "text": "Una arteria",
+                        "isCorrect": false,
+                        "rationale": "La vena porta es una vena, no una arteria."
+                    },
+                    {
+                        "text": "Un vaso linfático",
+                        "isCorrect": false,
+                        "rationale": "Es una vena del sistema portal hepático."
+                    }
+                ],
+                "hint": "Es un sistema venoso especial que pasa por el hígado."
+            },
+            {
+                "question": "¿Qué drenan las venas hepáticas?",
+                "options": [
+                    {
+                        "text": "La sangre del hígado que incluye la sangre de la vena porta",
+                        "isCorrect": true,
+                        "rationale": "Las venas hepáticas drenan la sangre del hígado, que a su vez recibió la sangre de la vena porta (del intestino y bazo)."
+                    },
+                    {
+                        "text": "Solo la sangre del estómago",
+                        "isCorrect": false,
+                        "rationale": "Drenan la sangre que ya pasó por el hígado."
+                    },
+                    {
+                        "text": "La sangre del bazo directamente",
+                        "isCorrect": false,
+                        "rationale": "El bazo drena en la vena porta primero."
+                    },
+                    {
+                        "text": "La sangre de los riñones",
+                        "isCorrect": false,
+                        "rationale": "Los riñones drenan por venas renales."
+                    }
+                ],
+                "hint": "Son la 'salida' venosa del hígado hacia la cava inferior."
+            },
+            {
+                "question": "¿Cuáles son los tres tipos de anastomosis venosas?",
+                "options": [
+                    {
+                        "text": "Venovenosas, arteriovenosas y venolinfáticas",
+                        "isCorrect": true,
+                        "rationale": "Las venas presentan tres tipos de anastomosis: las venovenosas, las arteriovenosas y las venolinfáticas."
+                    },
+                    {
+                        "text": "Solo venovenosas",
+                        "isCorrect": false,
+                        "rationale": "Hay tres tipos de anastomosis venosas."
+                    },
+                    {
+                        "text": "Arteriales y venosas",
+                        "isCorrect": false,
+                        "rationale": "Son tres tipos específicos de anastomosis venosas."
+                    },
+                    {
+                        "text": "Lináticas y sanguíneas",
+                        "isCorrect": false,
+                        "rationale": "Los tres tipos son venovenosas, arteriovenosas y venolinfáticas."
+                    }
+                ],
+                "hint": "Conectan venas entre sí, con arterias o con vasos linfáticos."
+            },
+            {
+                "question": "¿Cómo se efectúan las anastomosis venovenosas?",
+                "options": [
+                    {
+                        "text": "Por inosculación, por conducto de unión o por convergencia",
+                        "isCorrect": true,
+                        "rationale": "Las anastomosis venovenosas se efectúan por inosculación, por conducto de unión o por convergencia. A veces constituyen una red o plexo venoso."
+                    },
+                    {
+                        "text": "Solo por convergencia",
+                        "isCorrect": false,
+                        "rationale": "Hay tres formas: inosculación, conducto de unión y convergencia."
+                    },
+                    {
+                        "text": "Solo por inosculación",
+                        "isCorrect": false,
+                        "rationale": "Hay tres formas diferentes."
+                    },
+                    {
+                        "text": "Por fusión completa",
+                        "isCorrect": false,
+                        "rationale": "Las formas son inosculación, conducto de unión o convergencia."
+                    }
+                ],
+                "hint": "Tres formas de conectar venas entre sí."
+            },
+            {
+                "question": "¿Qué puede formar una anastomosis venovenosa?",
+                "options": [
+                    {
+                        "text": "Una red o plexo venoso",
+                        "isCorrect": true,
+                        "rationale": "Las anastomosis venovenosas a veces constituyen una red o plexo venoso."
+                    },
+                    {
+                        "text": "Un aneurisma",
+                        "isCorrect": false,
+                        "rationale": "Un aneurisma es una dilatación arterial, no una red venosa."
+                    },
+                    {
+                        "text": "Un trombo",
+                        "isCorrect": false,
+                        "rationale": "Un trombo es un coágulo, no una anastomosis."
+                    },
+                    {
+                        "text": "Una válvula",
+                        "isCorrect": false,
+                        "rationale": "Las válvulas son estructuras diferentes de las anastomosis."
+                    }
+                ],
+                "hint": "Múltiples conexiones venosas pueden formar redes."
+            },
+            {
+                "question": "¿Qué son las anastomosis arteriovenosas?",
+                "options": [
+                    {
+                        "text": "Vías de derivación entre arteriola y vénula que evitan el plexo capilar",
+                        "isCorrect": true,
+                        "rationale": "Las anastomosis arteriovenosas son vías de derivación entre una arteriola y una vénula, un sistema de regulación que puede permitir evitar el pasaje por un plexo capilar."
+                    },
+                    {
+                        "text": "Conexiones entre dos arterias",
+                        "isCorrect": false,
+                        "rationale": "Conectan arteriola con vénula, no dos arterias."
+                    },
+                    {
+                        "text": "Conexiones entre dos venas",
+                        "isCorrect": false,
+                        "rationale": "Conectan arteriola con vénula, no dos venas."
+                    },
+                    {
+                        "text": "Conexiones linfáticas",
+                        "isCorrect": false,
+                        "rationale": "Conectan vasos sanguíneos, no linfáticos."
+                    }
+                ],
+                "hint": "Permiten 'saltar' los capilares."
+            },
+            {
+                "question": "¿Qué función tienen las anastomosis arteriovenosas?",
+                "options": [
+                    {
+                        "text": "Sistema de regulación que puede evitar el pasaje por el plexo capilar",
+                        "isCorrect": true,
+                        "rationale": "Las anastomosis arteriovenosas son un sistema de regulación que puede permitir evitar el pasaje por un plexo capilar."
+                    },
+                    {
+                        "text": "Aumentar la presión arterial",
+                        "isCorrect": false,
+                        "rationale": "Regulan distribución de flujo, no aumentan presión."
+                    },
+                    {
+                        "text": "Filtrar la sangre",
+                        "isCorrect": false,
+                        "rationale": "No filtran, derivan flujo."
+                    },
+                    {
+                        "text": "Producir linfa",
+                        "isCorrect": false,
+                        "rationale": "No producen linfa, regulan flujo sanguíneo."
+                    }
+                ],
+                "hint": "Regulan el flujo según las necesidades del tejido."
+            },
+            {
+                "question": "¿Qué son las anastomosis venolinfáticas?",
+                "options": [
+                    {
+                        "text": "La vía de drenaje final de los vasos linfáticos hacia el sistema venoso",
+                        "isCorrect": true,
+                        "rationale": "Las anastomosis venolinfáticas constituyen la vía de drenaje final de los vasos linfáticos."
+                    },
+                    {
+                        "text": "Conexiones entre venas",
+                        "isCorrect": false,
+                        "rationale": "Conectan vasos linfáticos con venas."
+                    },
+                    {
+                        "text": "Conexiones entre arterias y venas",
+                        "isCorrect": false,
+                        "rationale": "Esas son anastomosis arteriovenosas."
+                    },
+                    {
+                        "text": "Conexiones entre linfáticos",
+                        "isCorrect": false,
+                        "rationale": "Conectan linfáticos con el sistema venoso."
+                    }
+                ],
+                "hint": "Es donde el sistema linfático se conecta con el venoso."
+            },
+            {
+                "question": "¿Qué ocurre en la insuficiencia de la circulación venosa?",
+                "options": [
+                    {
+                        "text": "Aumento de producción de linfa que no puede drenarse correctamente, generando edemas",
+                        "isCorrect": true,
+                        "rationale": "En la insuficiencia venosa se produce aumento en la producción de linfa que no puede ser correctamente drenado y genera edemas."
+                    },
+                    {
+                        "text": "Disminución de la producción de linfa",
+                        "isCorrect": false,
+                        "rationale": "La producción de linfa aumenta, no disminuye."
+                    },
+                    {
+                        "text": "No afecta al sistema linfático",
+                        "isCorrect": false,
+                        "rationale": "La insuficiencia venosa afecta el drenaje linfático."
+                    },
+                    {
+                        "text": "Mejora el retorno venoso",
+                        "isCorrect": false,
+                        "rationale": "Precisamente es lo contrario: el retorno venoso falla."
+                    }
+                ],
+                "hint": "El edema es un signo de insuficiencia venosa."
+            },
+            {
+                "question": "¿Cómo es la vascularización de las venas?",
+                "options": [
+                    {
+                        "text": "Semejante a la de las arterias: por difusión de sangre circulante y vasa vasorum",
+                        "isCorrect": true,
+                        "rationale": "La vascularización de las venas es semejante a la de las arterias: por difusión de sangre circulante y de los vasa vasorum en las grandes venas."
+                    },
+                    {
+                        "text": "No tienen vascularización",
+                        "isCorrect": false,
+                        "rationale": "Las venas sí tienen vascularización, especialmente las grandes."
+                    },
+                    {
+                        "text": "Solo por difusión",
+                        "isCorrect": false,
+                        "rationale": "Las grandes venas también tienen vasa vasorum."
+                    },
+                    {
+                        "text": "Solo por vasa vasorum",
+                        "isCorrect": false,
+                        "rationale": "También hay difusión desde la sangre circulante."
+                    }
+                ],
+                "hint": "'Vasa vasorum' = vasos de los vasos."
+            },
+            {
+                "question": "¿Cómo es la inervación de las venas?",
+                "options": [
+                    {
+                        "text": "Rica en venas viscerales e idéntica a la de las arterias en venas periféricas",
+                        "isCorrect": true,
+                        "rationale": "La inervación es rica a nivel de las venas viscerales y es idéntica a la de las arterias en las venas periféricas."
+                    },
+                    {
+                        "text": "Ausente en todas las venas",
+                        "isCorrect": false,
+                        "rationale": "Las venas sí tienen inervación."
+                    },
+                    {
+                        "text": "Solo en las venas superficiales",
+                        "isCorrect": false,
+                        "rationale": "Las venas viscerales tienen inervación especialmente rica."
+                    },
+                    {
+                        "text": "Solo en las venas profundas",
+                        "isCorrect": false,
+                        "rationale": "Todas las venas tienen inervación."
+                    }
+                ],
+                "hint": "Los nervios controlan el tono de la pared venosa."
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "nombre": "Parte 8",
+        "preguntas": 40,
+        "data": [
+            {
+                "question": "¿Qué ocurre con la resistencia gravitatoria al pasar de decúbito supino a posición de pie?",
+                "options": [
+                    {
+                        "text": "Aumenta por un aporte de 500 cm³ de sangre en venas del miembro inferior",
+                        "isCorrect": true,
+                        "rationale": "La resistencia gravitatoria aumenta por un aporte de 500 centímetros cúbicos de sangre en las venas del miembro inferior al cambiar a bipedestación."
+                    },
+                    {
+                        "text": "Disminuye la resistencia",
+                        "isCorrect": false,
+                        "rationale": "La resistencia aumenta, no disminuye, por efecto de la gravedad."
+                    },
+                    {
+                        "text": "No cambia la resistencia",
+                        "isCorrect": false,
+                        "rationale": "Cambiar de posición afecta significativamente la resistencia venosa."
+                    },
+                    {
+                        "text": "Aumenta solo 50 cm³",
+                        "isCorrect": false,
+                        "rationale": "El aporte es de 500 cm³, no 50."
+                    }
+                ],
+                "hint": "La gravedad dificulta el retorno venoso cuando nos ponemos de pie."
+            },
+            {
+                "question": "¿Qué compresiones pueden comprometer el retorno venoso?",
+                "options": [
+                    {
+                        "text": "Compresiones externas o internas (presión abdominal, útero grávido, tumor abdominal)",
+                        "isCorrect": true,
+                        "rationale": "Las compresiones externas o internas como presión abdominal, útero grávido o tumor abdominal pueden comprometer el retorno venoso."
+                    },
+                    {
+                        "text": "Solo compresiones en los pies",
+                        "isCorrect": false,
+                        "rationale": "Las compresiones abdominales y pélvicas también afectan el retorno."
+                    },
+                    {
+                        "text": "Solo compresiones en el cuello",
+                        "isCorrect": false,
+                        "rationale": "Las compresiones abdominales son más significativas para el retorno venoso."
+                    },
+                    {
+                        "text": "Las compresiones no afectan el retorno venoso",
+                        "isCorrect": false,
+                        "rationale": "Sí pueden comprometerlo significativamente."
+                    }
+                ],
+                "hint": "El embarazo y los tumores abdominales pueden dificultar el retorno venoso."
+            },
+            {
+                "question": "¿Cuál es la capacidad del sistema venoso comparado con el arterial?",
+                "options": [
+                    {
+                        "text": "4.700 ml el venoso frente a 800 ml el arterial",
+                        "isCorrect": true,
+                        "rationale": "La capacidad del sistema venoso es de 4.700 mililitros frente a los 800 mililitros de las arterias."
+                    },
+                    {
+                        "text": "800 ml el venoso frente a 4.700 ml el arterial",
+                        "isCorrect": false,
+                        "rationale": "Es al revés: el venoso tiene mayor capacidad."
+                    },
+                    {
+                        "text": "Ambos tienen la misma capacidad",
+                        "isCorrect": false,
+                        "rationale": "El sistema venoso tiene casi 6 veces más capacidad."
+                    },
+                    {
+                        "text": "1.000 ml cada uno",
+                        "isCorrect": false,
+                        "rationale": "El venoso tiene 4.700 ml y el arterial 800 ml."
+                    }
+                ],
+                "hint": "Las venas son el 'reservorio' de sangre del cuerpo."
+            },
+            {
+                "question": "¿Cuántas veces más distensible es el sistema venoso que el arterial?",
+                "options": [
+                    {
+                        "text": "100 a 200 veces más distensible",
+                        "isCorrect": true,
+                        "rationale": "La reserva vascular venosa es 100 a 200 veces más distensible que el sistema arterial."
+                    },
+                    {
+                        "text": "10 veces más distensible",
+                        "isCorrect": false,
+                        "rationale": "Es mucho más distensible: 100 a 200 veces."
+                    },
+                    {
+                        "text": "Igual de distensible",
+                        "isCorrect": false,
+                        "rationale": "El sistema venoso es mucho más distensible."
+                    },
+                    {
+                        "text": "Menos distensible que el arterial",
+                        "isCorrect": false,
+                        "rationale": "Es más distensible, no menos."
+                    }
+                ],
+                "hint": "Las venas pueden expandirse mucho más que las arterias."
+            },
+            {
+                "question": "¿Qué papel desempeñan las venas esplácnicas en la reserva vascular?",
+                "options": [
+                    {
+                        "text": "Desempeñan un papel central en la reserva vascular",
+                        "isCorrect": true,
+                        "rationale": "Las venas esplácnicas (de las vísceras) desempeñan un papel central en la reserva vascular."
+                    },
+                    {
+                        "text": "No participan en la reserva vascular",
+                        "isCorrect": false,
+                        "rationale": "Son fundamentales en la reserva vascular."
+                    },
+                    {
+                        "text": "Solo participan en la circulación pulmonar",
+                        "isCorrect": false,
+                        "rationale": "Son venas sistémicas, no pulmonares."
+                    },
+                    {
+                        "text": "Son las menos importantes",
+                        "isCorrect": false,
+                        "rationale": "Desempeñan un papel central."
+                    }
+                ],
+                "hint": "Las venas de las vísceras abdominales son un gran reservorio."
+            },
+            {
+                "question": "¿Cómo varía la presión venosa desde los capilares hacia las venas cavas?",
+                "options": [
+                    {
+                        "text": "Disminuye progresivamente y llega a ser negativa en las venas cavas",
+                        "isCorrect": true,
+                        "rationale": "La presión venosa disminuye progresivamente desde los capilares hacia las venas cavas donde es negativa."
+                    },
+                    {
+                        "text": "Aumenta hacia las venas cavas",
+                        "isCorrect": false,
+                        "rationale": "Disminuye, no aumenta."
+                    },
+                    {
+                        "text": "Se mantiene constante",
+                        "isCorrect": false,
+                        "rationale": "Disminuye progresivamente."
+                    },
+                    {
+                        "text": "Es siempre positiva",
+                        "isCorrect": false,
+                        "rationale": "En las venas cavas es negativa."
+                    }
+                ],
+                "hint": "La presión negativa en cavas ayuda a 'aspirar' la sangre."
+            },
+            {
+                "question": "¿Qué explica la presión negativa en las venas cavas?",
+                "options": [
+                    {
+                        "text": "La posibilidad de embolias gaseosas en traumatismos de grandes venas",
+                        "isCorrect": true,
+                        "rationale": "Esta presión negativa explica la posibilidad de producción de embolias gaseosas cuando hay traumatismos de las grandes venas."
+                    },
+                    {
+                        "text": "Que la sangre no circula",
+                        "isCorrect": false,
+                        "rationale": "La sangre sí circula; la presión negativa es por la succión del corazón."
+                    },
+                    {
+                        "text": "Que las venas están vacías",
+                        "isCorrect": false,
+                        "rationale": "Las venas contienen sangre; la presión negativa es relativa."
+                    },
+                    {
+                        "text": "Un error de medición",
+                        "isCorrect": false,
+                        "rationale": "Es un fenómeno físico real producido por la succión cardíaca."
+                    }
+                ],
+                "hint": "Si se perfora una vena grande con presión negativa, puede entrar aire."
+            },
+            {
+                "question": "¿Cuál es el papel de las válvulas en el retorno venoso?",
+                "options": [
+                    {
+                        "text": "Se oponen al reflujo venoso manteniendo la dirección centrípeta de la sangre",
+                        "isCorrect": true,
+                        "rationale": "Las válvulas se oponen al reflujo venoso manteniendo la dirección centrípeta de la corriente sanguínea."
+                    },
+                    {
+                        "text": "Bombear sangre hacia el corazón",
+                        "isCorrect": false,
+                        "rationale": "Las válvulas no bombean, solo impiden el reflujo."
+                    },
+                    {
+                        "text": "Aumentar la presión venosa",
+                        "isCorrect": false,
+                        "rationale": "No aumentan presión, regulan dirección."
+                    },
+                    {
+                        "text": "Producir linfa",
+                        "isCorrect": false,
+                        "rationale": "No tienen relación con la producción de linfa."
+                    }
+                ],
+                "hint": "Actúan como compuertas que permiten solo un sentido de flujo."
+            },
+            {
+                "question": "¿Dónde son más importantes las válvulas venosas?",
+                "options": [
+                    {
+                        "text": "En las pequeñas venas más que en las grandes",
+                        "isCorrect": true,
+                        "rationale": "Las válvulas son más importantes en las pequeñas venas que en las grandes."
+                    },
+                    {
+                        "text": "En las grandes venas exclusivamente",
+                        "isCorrect": false,
+                        "rationale": "Son más importantes en las venas pequeñas."
+                    },
+                    {
+                        "text": "En todas por igual",
+                        "isCorrect": false,
+                        "rationale": "Son más importantes en las pequeñas venas."
+                    },
+                    {
+                        "text": "Solo en las venas cavas",
+                        "isCorrect": false,
+                        "rationale": "Las venas cavas son avalvulares."
+                    }
+                ],
+                "hint": "Las venas pequeñas tienen más válvulas y dependen más de ellas."
+            },
+            {
+                "question": "¿Qué protegen las válvulas venosas?",
+                "options": [
+                    {
+                        "text": "Protegen a los capilares de los aumentos de presión retrógrados",
+                        "isCorrect": true,
+                        "rationale": "Las válvulas protegen a los capilares de los aumentos de presión retrógrados."
+                    },
+                    {
+                        "text": "Protegen al corazón",
+                        "isCorrect": false,
+                        "rationale": "Protegen principalmente a los capilares."
+                    },
+                    {
+                        "text": "Protegen a las arterias",
+                        "isCorrect": false,
+                        "rationale": "Protegen a los capilares del sistema venoso."
+                    },
+                    {
+                        "text": "No tienen función protectora",
+                        "isCorrect": false,
+                        "rationale": "Protegen a los capilares de la presión retrógrada."
+                    }
+                ],
+                "hint": "Evitan que la presión retroceda hacia los capilares."
+            },
+            {
+                "question": "¿Cuál es el papel de la motricidad propia de la vena?",
+                "options": [
+                    {
+                        "text": "Débil en venas superficiales, importante en venas esplácnicas",
+                        "isCorrect": true,
+                        "rationale": "El papel de la motricidad propia es débil en las venas superficiales, pero importante en las venas esplácnicas."
+                    },
+                    {
+                        "text": "Igual en todas las venas",
+                        "isCorrect": false,
+                        "rationale": "Es diferente según el tipo de vena."
+                    },
+                    {
+                        "text": "Muy importante en venas superficiales",
+                        "isCorrect": false,
+                        "rationale": "Es débil en las venas superficiales."
+                    },
+                    {
+                        "text": "Inexistente",
+                        "isCorrect": false,
+                        "rationale": "Existe y es importante en las venas esplácnicas."
+                    }
+                ],
+                "hint": "Las venas de las vísceras se vacían activamente."
+            },
+            {
+                "question": "¿En cuánto tiempo se vacían las venas esplácnicas a la mitad de su volumen?",
+                "options": [
+                    {
+                        "text": "En 20 segundos",
+                        "isCorrect": true,
+                        "rationale": "Las venas esplácnicas se vacían a la mitad de su volumen en 20 segundos."
+                    },
+                    {
+                        "text": "En 2 segundos",
+                        "isCorrect": false,
+                        "rationale": "Tarda 20 segundos, no 2."
+                    },
+                    {
+                        "text": "En 2 minutos",
+                        "isCorrect": false,
+                        "rationale": "Es 20 segundos, no minutos."
+                    },
+                    {
+                        "text": "No se vacían nunca",
+                        "isCorrect": false,
+                        "rationale": "Se vacían activamente en 20 segundos a la mitad."
+                    }
+                ],
+                "hint": "Es un vaciado relativamente rápido por contracción propia."
+            },
+            {
+                "question": "¿Qué es el acoplamiento arteriovenoso?",
+                "options": [
+                    {
+                        "text": "Transmisión de onda pulsátil arterial a las paredes venosas colapsándolas",
+                        "isCorrect": true,
+                        "rationale": "La onda pulsátil se transmite desde las arterias hacia las paredes de las venas, colapsándolas por contracciones musculares."
+                    },
+                    {
+                        "text": "Conexión anatómica entre arteria y vena",
+                        "isCorrect": false,
+                        "rationale": "No es conexión anatómica, es transmisión de pulso."
+                    },
+                    {
+                        "text": "Fusión de arteria y vena",
+                        "isCorrect": false,
+                        "rationale": "Es un fenómeno dinámico, no anatómico."
+                    },
+                    {
+                        "text": "Mezcla de sangre arterial y venosa",
+                        "isCorrect": false,
+                        "rationale": "No hay mezcla de sangre."
+                    }
+                ],
+                "hint": "Las arterias 'masajean' a las venas vecinas."
+            },
+            {
+                "question": "¿Qué son las venas contiguas en el acoplamiento arteriovenoso?",
+                "options": [
+                    {
+                        "text": "Venas comprendidas en la misma vaina fibrosa que la arteria",
+                        "isCorrect": true,
+                        "rationale": "El acoplamiento arteriovenoso se produce en venas contiguas, comprendidas en la misma vaina fibrosa que la arteria."
+                    },
+                    {
+                        "text": "Venas lejos de las arterias",
+                        "isCorrect": false,
+                        "rationale": "Son venas en la misma vaina que las arterias."
+                    },
+                    {
+                        "text": "Solo las venas superficiales",
+                        "isCorrect": false,
+                        "rationale": "Son venas profundas que acompañan arterias."
+                    },
+                    {
+                        "text": "Las venas pulmonares",
+                        "isCorrect": false,
+                        "rationale": "Son venas sistémicas satélites de arterias."
+                    }
+                ],
+                "hint": "Son las venas satélites que viajan junto a las arterias."
+            },
+            {
+                "question": "¿Qué efecto tienen las pulsaciones arteriales sobre las venas contiguas?",
+                "options": [
+                    {
+                        "text": "Les dan una contracción pasiva favorable al retorno venoso",
+                        "isCorrect": true,
+                        "rationale": "Las pulsaciones arteriales, transmitidas a la vena, le dan una contracción pasiva favorable al retorno venoso."
+                    },
+                    {
+                        "text": "Obstruyen las venas",
+                        "isCorrect": false,
+                        "rationale": "Ayudan al retorno, no obstruyen."
+                    },
+                    {
+                        "text": "Disminuyen el flujo venoso",
+                        "isCorrect": false,
+                        "rationale": "Favorecen el flujo venoso."
+                    },
+                    {
+                        "text": "No tienen efecto",
+                        "isCorrect": false,
+                        "rationale": "Tienen un efecto positivo en el retorno."
+                    }
+                ],
+                "hint": "El pulso arterial 'empuja' la sangre venosa hacia el corazón."
+            },
+            {
+                "question": "¿Cuál es la fuerza propulsora del corazón (vis a tergo)?",
+                "options": [
+                    {
+                        "text": "Aproximadamente 35 mmHg de presión a nivel de arteriolas precapilares",
+                        "isCorrect": true,
+                        "rationale": "La fuerza propulsora del corazón (vis a tergo) es eficaz y se estima en 35 mmHg de presión a nivel de las arteriolas precapilares."
+                    },
+                    {
+                        "text": "100 mmHg",
+                        "isCorrect": false,
+                        "rationale": "Es aproximadamente 35 mmHg, no 100."
+                    },
+                    {
+                        "text": "5 mmHg",
+                        "isCorrect": false,
+                        "rationale": "Es 35 mmHg, bastante más."
+                    },
+                    {
+                        "text": "120 mmHg",
+                        "isCorrect": false,
+                        "rationale": "Esa es la presión arterial sistólica, no la vis a tergo."
+                    }
+                ],
+                "hint": "'Vis a tergo' = fuerza desde atrás (presión arterial empuja)."
+            },
+            {
+                "question": "¿Qué favorece la fuerza aspirante del corazón (vis a fronte)?",
+                "options": [
+                    {
+                        "text": "Las presiones intratorácicas y abdominales, el fin de la sístole y la inspiración",
+                        "isCorrect": true,
+                        "rationale": "La fuerza aspirante del corazón se ve favorecida por las presiones intratorácicas y abdominales. El fin de la sístole y la inspiración son factores esenciales."
+                    },
+                    {
+                        "text": "La espiración solamente",
+                        "isCorrect": false,
+                        "rationale": "La inspiración es más importante que la espiración."
+                    },
+                    {
+                        "text": "La contracción muscular",
+                        "isCorrect": false,
+                        "rationale": "Ese es otro mecanismo diferente."
+                    },
+                    {
+                        "text": "Las válvulas venosas",
+                        "isCorrect": false,
+                        "rationale": "Las válvulas son otro mecanismo."
+                    }
+                ],
+                "hint": "'Vis a fronte' = fuerza desde adelante (el corazón aspira)."
+            },
+            {
+                "question": "¿Qué ocurre con la inmovilización prolongada de un paciente?",
+                "options": [
+                    {
+                        "text": "Reduce la circulación venosa y favorece la trombosis venosa",
+                        "isCorrect": true,
+                        "rationale": "La inmovilización prolongada de un paciente reduce la circulación venosa y favorece la trombosis venosa."
+                    },
+                    {
+                        "text": "Mejora el retorno venoso",
+                        "isCorrect": false,
+                        "rationale": "Empeora el retorno venoso."
+                    },
+                    {
+                        "text": "No tiene efectos sobre la circulación",
+                        "isCorrect": false,
+                        "rationale": "Tiene efectos significativos y peligrosos."
+                    },
+                    {
+                        "text": "Aumenta la presión arterial",
+                        "isCorrect": false,
+                        "rationale": "El efecto principal es sobre el sistema venoso."
+                    }
+                ],
+                "hint": "Sin movimiento no hay bomba muscular activa."
+            },
+            {
+                "question": "¿Dónde están interpuestos los capilares?",
+                "options": [
+                    {
+                        "text": "Entre las arterias y las venas",
+                        "isCorrect": true,
+                        "rationale": "Los capilares están interpuestos entre las arterias y las venas."
+                    },
+                    {
+                        "text": "Solo entre arterias",
+                        "isCorrect": false,
+                        "rationale": "Conectan arterias con venas."
+                    },
+                    {
+                        "text": "Solo entre venas",
+                        "isCorrect": false,
+                        "rationale": "Conectan arterias con venas."
+                    },
+                    {
+                        "text": "Dentro del corazón",
+                        "isCorrect": false,
+                        "rationale": "Están en los tejidos, no en el corazón."
+                    }
+                ],
+                "hint": "Son el puente entre el sistema arterial y venoso."
+            },
+            {
+                "question": "¿Qué se produce en los capilares?",
+                "options": [
+                    {
+                        "text": "Intercambios entre la sangre y los órganos (nutrición y eliminación)",
+                        "isCorrect": true,
+                        "rationale": "En los capilares se producen los intercambios entre la sangre y los órganos, en sentido sangre-tejido (nutrición) o tejido-sangre (eliminación)."
+                    },
+                    {
+                        "text": "Producción de sangre",
+                        "isCorrect": false,
+                        "rationale": "La sangre se produce en la médula ósea."
+                    },
+                    {
+                        "text": "Filtración renal únicamente",
+                        "isCorrect": false,
+                        "rationale": "Los intercambios ocurren en todos los tejidos."
+                    },
+                    {
+                        "text": "Almacenamiento de sangre",
+                        "isCorrect": false,
+                        "rationale": "El almacenamiento es función de las venas."
+                    }
+                ],
+                "hint": "Son el sitio de intercambio de nutrientes y desechos."
+            },
+            {
+                "question": "¿Cuál es el resultado de los intercambios capilares?",
+                "options": [
+                    {
+                        "text": "Transformación de sangre arterial en sangre venosa",
+                        "isCorrect": true,
+                        "rationale": "El resultado de los intercambios es la transformación de sangre arterial (rica en O₂) en sangre venosa (cargada de CO₂)."
+                    },
+                    {
+                        "text": "Sangre arterial permanece arterial",
+                        "isCorrect": false,
+                        "rationale": "La sangre se transforma de arterial a venosa."
+                    },
+                    {
+                        "text": "No hay cambios en la sangre",
+                        "isCorrect": false,
+                        "rationale": "La sangre cambia significativamente."
+                    },
+                    {
+                        "text": "Sangre venosa se vuelve arterial",
+                        "isCorrect": false,
+                        "rationale": "Eso ocurre en los pulmones, no en los capilares sistémicos."
+                    }
+                ],
+                "hint": "La sangre pierde O₂ y gana CO₂."
+            },
+            {
+                "question": "¿Qué son las uniones arteriolocapilar y capilarovenular?",
+                "options": [
+                    {
+                        "text": "Zonas intermediarias entre arterias-capilares y capilares-venas",
+                        "isCorrect": true,
+                        "rationale": "La unión entre arterias y capilares, y entre capilares y venas, constituye una zona intermediaria denominada uniones arteriolocapilar y capilarovenular."
+                    },
+                    {
+                        "text": "Tipos de capilares",
+                        "isCorrect": false,
+                        "rationale": "Son zonas de transición, no tipos de capilares."
+                    },
+                    {
+                        "text": "Válvulas en los capilares",
+                        "isCorrect": false,
+                        "rationale": "Son zonas de unión, no válvulas."
+                    },
+                    {
+                        "text": "Anastomosis arteriovenosas",
+                        "isCorrect": false,
+                        "rationale": "Son zonas de unión normal, no cortocircuitos."
+                    }
+                ],
+                "hint": "Son las zonas de transición entre los diferentes vasos."
+            },
+            {
+                "question": "¿Qué son los cortocircuitos arteriovenosos?",
+                "options": [
+                    {
+                        "text": "Vasos que unen arteriolas a vénulas salteando el territorio capilar",
+                        "isCorrect": true,
+                        "rationale": "Los cortocircuitos arteriovenosos son vasos que reúnen arteriolas con vénulas estableciendo un pasaje que saltea el territorio capilar."
+                    },
+                    {
+                        "text": "Conexiones entre dos arterias",
+                        "isCorrect": false,
+                        "rationale": "Conectan arteriola con vénula, no arterias entre sí."
+                    },
+                    {
+                        "text": "Conexiones entre dos venas",
+                        "isCorrect": false,
+                        "rationale": "Conectan arteriola con vénula."
+                    },
+                    {
+                        "text": "Capilares agrandados",
+                        "isCorrect": false,
+                        "rationale": "No son capilares, son vías de derivación."
+                    }
+                ],
+                "hint": "Permiten que la sangre pase directo sin intercambiar."
+            },
+            {
+                "question": "¿Desde cuándo se sabe que la sangre circula a partir del ventrículo izquierdo?",
+                "options": [
+                    {
+                        "text": "Desde William Harvey (1628)",
+                        "isCorrect": true,
+                        "rationale": "Desde William Harvey (1628) se sabe que la sangre circula en el organismo a partir del ventrículo izquierdo."
+                    },
+                    {
+                        "text": "Desde la antigüedad",
+                        "isCorrect": false,
+                        "rationale": "El conocimiento correcto es de Harvey en 1628."
+                    },
+                    {
+                        "text": "Desde el siglo XX",
+                        "isCorrect": false,
+                        "rationale": "Se conoció mucho antes, en 1628."
+                    },
+                    {
+                        "text": "Desde Galeno",
+                        "isCorrect": false,
+                        "rationale": "Galeno tenía teorías erróneas sobre la circulación."
+                    }
+                ],
+                "hint": "Harvey descubrió la circulación sanguínea."
+            },
+            {
+                "question": "¿Qué hace el ventrículo izquierdo con la sangre arterial?",
+                "options": [
+                    {
+                        "text": "La impulsa a la aorta para repartirla en todo el cuerpo excepto pulmones",
+                        "isCorrect": true,
+                        "rationale": "El ventrículo izquierdo impulsa la sangre arterial a la aorta para repartirse en todo el cuerpo excepto los pulmones."
+                    },
+                    {
+                        "text": "La envía a los pulmones",
+                        "isCorrect": false,
+                        "rationale": "El ventrículo derecho envía sangre a los pulmones."
+                    },
+                    {
+                        "text": "La recibe de las venas",
+                        "isCorrect": false,
+                        "rationale": "El atrio izquierdo recibe sangre de las venas pulmonares."
+                    },
+                    {
+                        "text": "La almacena",
+                        "isCorrect": false,
+                        "rationale": "El ventrículo bombea sangre, no la almacena."
+                    }
+                ],
+                "hint": "El ventrículo izquierdo es la bomba del circuito sistémico."
+            },
+            {
+                "question": "¿Qué ocurre en los diferentes órganos y capilares?",
+                "options": [
+                    {
+                        "text": "Se establecen intercambios fisicoquímicos que aseguran la vida de los tejidos",
+                        "isCorrect": true,
+                        "rationale": "En los diferentes órganos y en los capilares se establecen intercambios fisicoquímicos que aseguran la vida de los diferentes tejidos."
+                    },
+                    {
+                        "text": "No ocurren intercambios",
+                        "isCorrect": false,
+                        "rationale": "Los intercambios son fundamentales para la vida."
+                    },
+                    {
+                        "text": "Solo ocurre filtración",
+                        "isCorrect": false,
+                        "rationale": "Ocurren múltiples tipos de intercambios."
+                    },
+                    {
+                        "text": "Solo ocurre en el hígado",
+                        "isCorrect": false,
+                        "rationale": "Ocurre en todos los órganos."
+                    }
+                ],
+                "hint": "Los capilares son el sitio de intercambio nutricional."
+            },
+            {
+                "question": "¿A dónde llega la sangre desde los diferentes órganos?",
+                "options": [
+                    {
+                        "text": "Al atrio derecho por las venas cavas superior e inferior",
+                        "isCorrect": true,
+                        "rationale": "La sangre es recogida por las venas que la conducen al atrio derecho por intermedio de las venas cavas superior e inferior."
+                    },
+                    {
+                        "text": "Al atrio izquierdo",
+                        "isCorrect": false,
+                        "rationale": "El atrio izquierdo recibe sangre de los pulmones."
+                    },
+                    {
+                        "text": "Al ventrículo derecho directamente",
+                        "isCorrect": false,
+                        "rationale": "Pasa primero por el atrio derecho."
+                    },
+                    {
+                        "text": "A los pulmones",
+                        "isCorrect": false,
+                        "rationale": "Va a los pulmones desde el ventrículo derecho."
+                    }
+                ],
+                "hint": "Las venas cavas drenan en el atrio derecho."
+            },
+            {
+                "question": "¿Qué hace el ventrículo derecho con la sangre?",
+                "options": [
+                    {
+                        "text": "La impulsa al tronco pulmonar hacia los dos pulmones",
+                        "isCorrect": true,
+                        "rationale": "Del atrio derecho la sangre pasa al ventrículo derecho, que impulsa la sangre venosa al tronco pulmonar y de allí a los dos pulmones."
+                    },
+                    {
+                        "text": "La envía a la aorta",
+                        "isCorrect": false,
+                        "rationale": "El ventrículo izquierdo envía sangre a la aorta."
+                    },
+                    {
+                        "text": "La recibe de las venas cavas",
+                        "isCorrect": false,
+                        "rationale": "El atrio derecho recibe de las venas cavas."
+                    },
+                    {
+                        "text": "La almacena",
+                        "isCorrect": false,
+                        "rationale": "El ventrículo bombea sangre, no la almacena."
+                    }
+                ],
+                "hint": "El ventrículo derecho es la bomba del circuito pulmonar."
+            },
+            {
+                "question": "¿Qué transformación sufre la sangre en los pulmones?",
+                "options": [
+                    {
+                        "text": "Elimina CO₂ y se enriquece en O₂",
+                        "isCorrect": true,
+                        "rationale": "En los pulmones, la sangre venosa sufre una transformación donde se elimina el anhídrido carbónico y se enriquece en oxígeno."
+                    },
+                    {
+                        "text": "Elimina O₂ y gana CO₂",
+                        "isCorrect": false,
+                        "rationale": "Es al revés: gana O₂ y pierde CO₂."
+                    },
+                    {
+                        "text": "No cambia su composición",
+                        "isCorrect": false,
+                        "rationale": "Cambia significativamente su composición gaseosa."
+                    },
+                    {
+                        "text": "Se vuelve más oscura",
+                        "isCorrect": false,
+                        "rationale": "Se vuelve más roja brillante por la oxigenación."
+                    }
+                ],
+                "hint": "Es el proceso de hematosis u oxigenación."
+            },
+            {
+                "question": "¿Por dónde vuelve la sangre oxigenada al corazón?",
+                "options": [
+                    {
+                        "text": "Por las venas pulmonares al atrio izquierdo",
+                        "isCorrect": true,
+                        "rationale": "La sangre oxigenada vuelve al corazón por las venas pulmonares que terminan en el atrio izquierdo."
+                    },
+                    {
+                        "text": "Por las venas cavas",
+                        "isCorrect": false,
+                        "rationale": "Las venas cavas traen sangre venosa."
+                    },
+                    {
+                        "text": "Por la aorta",
+                        "isCorrect": false,
+                        "rationale": "La aorta sale del ventrículo izquierdo."
+                    },
+                    {
+                        "text": "Por el tronco pulmonar",
+                        "isCorrect": false,
+                        "rationale": "El tronco pulmonar lleva sangre venosa a los pulmones."
+                    }
+                ],
+                "hint": "Las venas pulmonares son las únicas que traen sangre oxigenada."
+            },
+            {
+                "question": "¿Qué sentido tiene la sangre en las arterias?",
+                "options": [
+                    {
+                        "text": "Se aleja del corazón",
+                        "isCorrect": true,
+                        "rationale": "La sangre circula en los vasos con sentido único: se aleja del corazón en las arterias."
+                    },
+                    {
+                        "text": "Se dirige hacia el corazón",
+                        "isCorrect": false,
+                        "rationale": "En las venas se dirige hacia el corazón."
+                    },
+                    {
+                        "text": "Puede ir en ambos sentidos",
+                        "isCorrect": false,
+                        "rationale": "El flujo es unidireccional."
+                    },
+                    {
+                        "text": "Circula en círculos",
+                        "isCorrect": false,
+                        "rationale": "Tiene dirección definida alejándose del corazón."
+                    }
+                ],
+                "hint": "Arterias = Alejan (ambas empiezan con A)."
+            },
+            {
+                "question": "¿Qué sentido tiene la sangre en las venas?",
+                "options": [
+                    {
+                        "text": "Se dirige hacia el corazón",
+                        "isCorrect": true,
+                        "rationale": "La sangre se dirige hacia el corazón en las venas."
+                    },
+                    {
+                        "text": "Se aleja del corazón",
+                        "isCorrect": false,
+                        "rationale": "En las arterias se aleja del corazón."
+                    },
+                    {
+                        "text": "Puede ir en ambos sentidos",
+                        "isCorrect": false,
+                        "rationale": "El flujo es unidireccional."
+                    },
+                    {
+                        "text": "Circula alejándose",
+                        "isCorrect": false,
+                        "rationale": "Se dirige hacia el corazón."
+                    }
+                ],
+                "hint": "Venas = Vienen al corazón (ambas empiezan con V)."
+            },
+            {
+                "question": "¿Qué función tienen las válvulas auriculoventriculares?",
+                "options": [
+                    {
+                        "text": "Se oponen al reflujo de sangre desde los ventrículos hacia los atrios",
+                        "isCorrect": true,
+                        "rationale": "Las válvulas auriculoventriculares se oponen al reflujo de la sangre desde los ventrículos hacia los atrios."
+                    },
+                    {
+                        "text": "Evitan el reflujo desde las arterias",
+                        "isCorrect": false,
+                        "rationale": "Esa es función de las válvulas aórtica y pulmonar."
+                    },
+                    {
+                        "text": "Permiten flujo en ambos sentidos",
+                        "isCorrect": false,
+                        "rationale": "Solo permiten flujo unidireccional."
+                    },
+                    {
+                        "text": "Regulan la presión arterial",
+                        "isCorrect": false,
+                        "rationale": "No regulan presión, previenen reflujo."
+                    }
+                ],
+                "hint": "Están entre los atrios y los ventrículos."
+            },
+            {
+                "question": "¿Qué función tienen las válvulas pulmonar y aórtica?",
+                "options": [
+                    {
+                        "text": "Evitan el reflujo de sangre desde las arterias hacia los ventrículos",
+                        "isCorrect": true,
+                        "rationale": "Las válvulas pulmonar y aórtica evitan el reflujo de la sangre desde las arterias (pulmonar y aorta) hacia los ventrículos."
+                    },
+                    {
+                        "text": "Evitan reflujo hacia los atrios",
+                        "isCorrect": false,
+                        "rationale": "Esa es función de las válvulas auriculoventriculares."
+                    },
+                    {
+                        "text": "Permiten flujo bidireccional",
+                        "isCorrect": false,
+                        "rationale": "Solo permiten flujo unidireccional."
+                    },
+                    {
+                        "text": "Conectan arterias con venas",
+                        "isCorrect": false,
+                        "rationale": "Son válvulas del corazón, no conexiones."
+                    }
+                ],
+                "hint": "Están en la salida de los ventrículos hacia las arterias."
+            },
+            {
+                "question": "¿Qué comprende la gran circulación o circulación sistémica?",
+                "options": [
+                    {
+                        "text": "Ventrículo izquierdo, aorta, arterias, capilares, venas hasta el atrio derecho",
+                        "isCorrect": true,
+                        "rationale": "La gran circulación comprende: el ventrículo izquierdo, la aorta y todas las arterias, los capilares y las venas hasta el atrio derecho."
+                    },
+                    {
+                        "text": "Solo el corazón izquierdo",
+                        "isCorrect": false,
+                        "rationale": "Incluye todo el circuito sistémico."
+                    },
+                    {
+                        "text": "Solo las arterias",
+                        "isCorrect": false,
+                        "rationale": "Incluye arterias, capilares y venas."
+                    },
+                    {
+                        "text": "El circuito pulmonar",
+                        "isCorrect": false,
+                        "rationale": "Esa es la pequeña circulación."
+                    }
+                ],
+                "hint": "Es el circuito que recorre todo el cuerpo excepto pulmones."
+            },
+            {
+                "question": "¿Qué desembocan en la gran circulación?",
+                "options": [
+                    {
+                        "text": "Los vasos linfáticos: conducto torácico y conducto linfático derecho",
+                        "isCorrect": true,
+                        "rationale": "En la gran circulación desembocan los vasos linfáticos: conducto torácico a la izquierda y conducto linfático derecho a la derecha."
+                    },
+                    {
+                        "text": "Las venas pulmonares",
+                        "isCorrect": false,
+                        "rationale": "Las venas pulmonares van al atrio izquierdo."
+                    },
+                    {
+                        "text": "Solo la vena cava",
+                        "isCorrect": false,
+                        "rationale": "También desembocan los vasos linfáticos."
+                    },
+                    {
+                        "text": "Las arterias",
+                        "isCorrect": false,
+                        "rationale": "Las arterias salen del corazón, no desembocan."
+                    }
+                ],
+                "hint": "El sistema linfático se conecta con el sistema venoso."
+            },
+            {
+                "question": "¿Qué comprende la pequeña circulación o circulación pulmonar?",
+                "options": [
+                    {
+                        "text": "Ventrículo derecho, arteria pulmonar, capilares pulmonares, venas pulmonares al atrio izquierdo",
+                        "isCorrect": true,
+                        "rationale": "La pequeña circulación comprende: el ventrículo derecho, la arteria pulmonar y sus ramas, los capilares pulmonares, las venas pulmonares y el atrio izquierdo."
+                    },
+                    {
+                        "text": "El circuito sistémico completo",
+                        "isCorrect": false,
+                        "rationale": "Esa es la gran circulación."
+                    },
+                    {
+                        "text": "Solo los pulmones",
+                        "isCorrect": false,
+                        "rationale": "Incluye el circuito completo con corazón y vasos."
+                    },
+                    {
+                        "text": "Solo las venas pulmonares",
+                        "isCorrect": false,
+                        "rationale": "Incluye todo el circuito pulmonar."
+                    }
+                ],
+                "hint": "Es el circuito que va del corazón a los pulmones y vuelve."
+            },
+            {
+                "question": "¿Qué diferencia hay entre arterias y venas en la circulación pulmonar?",
+                "options": [
+                    {
+                        "text": "Las arterias contienen sangre carbooxigenada y las venas sangre oxigenada",
+                        "isCorrect": true,
+                        "rationale": "En la circulación pulmonar, las arterias contienen sangre carbooxigenada y las venas sangre oxigenada: es lo contrario de la circulación sistémica."
+                    },
+                    {
+                        "text": "Ambas contienen sangre arterial",
+                        "isCorrect": false,
+                        "rationale": "Las arterias pulmonares tienen sangre venosa."
+                    },
+                    {
+                        "text": "Ambas contienen sangre venosa",
+                        "isCorrect": false,
+                        "rationale": "Las venas pulmonares tienen sangre arterial."
+                    },
+                    {
+                        "text": "Es igual que en la circulación sistémica",
+                        "isCorrect": false,
+                        "rationale": "Es exactamente lo contrario."
+                    }
+                ],
+                "hint": "En pulmones, arterias = venosa, venas = arterial."
+            },
+            {
+                "question": "¿Qué contiene el corazón derecho y qué hace con ella?",
+                "options": [
+                    {
+                        "text": "Sangre venosa que envía a los pulmones",
+                        "isCorrect": true,
+                        "rationale": "El corazón derecho contiene sangre venosa y la envía a los pulmones para oxigenarla."
+                    },
+                    {
+                        "text": "Sangre arterial que envía al cuerpo",
+                        "isCorrect": false,
+                        "rationale": "El corazón izquierdo hace esto."
+                    },
+                    {
+                        "text": "Sangre arterial que envía a los pulmones",
+                        "isCorrect": false,
+                        "rationale": "Contiene sangre venosa, no arterial."
+                    },
+                    {
+                        "text": "Sangre venosa que envía al cuerpo",
+                        "isCorrect": false,
+                        "rationale": "Envía sangre a los pulmones, no al cuerpo."
+                    }
+                ],
+                "hint": "El corazón derecho es la bomba del circuito pulmonar."
+            },
+            {
+                "question": "¿Qué contiene el corazón izquierdo y qué hace con ella?",
+                "options": [
+                    {
+                        "text": "Sangre arterial que reparte en el resto del cuerpo",
+                        "isCorrect": true,
+                        "rationale": "El corazón izquierdo recibe sangre arterial y la reparte en el resto del cuerpo."
+                    },
+                    {
+                        "text": "Sangre venosa que envía a los pulmones",
+                        "isCorrect": false,
+                        "rationale": "El corazón derecho hace esto."
+                    },
+                    {
+                        "text": "Sangre mixta",
+                        "isCorrect": false,
+                        "rationale": "Cada lado del corazón tiene un tipo de sangre específico."
+                    },
+                    {
+                        "text": "Sangre arterial que envía a los pulmones",
+                        "isCorrect": false,
+                        "rationale": "Envía sangre al cuerpo, no a los pulmones."
+                    }
+                ],
+                "hint": "El corazón izquierdo es la bomba del circuito sistémico."
+            }
+        ]
+    }
+]
+  },
+
+  "anato-linfatico": {
+    "titulo": "Sistema Linfático",
+    "descripcion": "Vasos linfáticos, nodos, drenaje linfático, linfedema",
+    "totalPreguntas": 41,
+    "partes": [
+    {
+        "id": 1,
+        "nombre": "Parte 1",
+        "preguntas": 15,
+        "data": [
+            {
+                "question": "¿Qué constituye el sistema linfático?",
+                "options": [
+                    {
+                        "text": "Órganos linfáticos primarios, secundarios y vasos linfáticos",
+                        "isCorrect": true,
+                        "rationale": "El sistema linfático está constituido por órganos linfáticos primarios, secundarios y por vasos linfáticos."
+                    },
+                    {
+                        "text": "Solo los vasos linfáticos",
+                        "isCorrect": false,
+                        "rationale": "También incluye órganos linfáticos primarios y secundarios."
+                    },
+                    {
+                        "text": "Solo los ganglios linfáticos",
+                        "isCorrect": false,
+                        "rationale": "Los ganglios son órganos secundarios, pero hay más componentes."
+                    },
+                    {
+                        "text": "Solo el bazo y el timo",
+                        "isCorrect": false,
+                        "rationale": "Estos son órganos linfáticos, pero falta el sistema de vasos."
+                    }
+                ],
+                "hint": "Incluye órganos y una red de conductos."
+            },
+            {
+                "question": "¿Qué función tienen los vasos linfáticos?",
+                "options": [
+                    {
+                        "text": "Recoger y aportar al sistema venoso la linfa y el quilo",
+                        "isCorrect": true,
+                        "rationale": "Los vasos linfáticos son conductos con ramificaciones convergentes, encargados de recoger y aportar al sistema venoso la linfa y el quilo (de origen intestinal)."
+                    },
+                    {
+                        "text": "Transportar sangre",
+                        "isCorrect": false,
+                        "rationale": "Los vasos linfáticos transportan linfa, no sangre."
+                    },
+                    {
+                        "text": "Producir linfocitos",
+                        "isCorrect": false,
+                        "rationale": "La producción de linfocitos ocurre en los órganos linfáticos."
+                    },
+                    {
+                        "text": "Filtrar la linfa",
+                        "isCorrect": false,
+                        "rationale": "La filtración ocurre en los nodos linfáticos."
+                    }
+                ],
+                "hint": "Conectan el sistema linfático con el venoso."
+            },
+            {
+                "question": "¿Qué son el quilo y la linfa?",
+                "options": [
+                    {
+                        "text": "Líquidos del organismo que los vasos linfáticos recogen: quilo es de origen intestinal",
+                        "isCorrect": true,
+                        "rationale": "Los vasos linfáticos recogen y aportan al sistema venoso dos líquidos: la linfa y el quilo (este último, de origen intestinal)."
+                    },
+                    {
+                        "text": "Tipos de sangre",
+                        "isCorrect": false,
+                        "rationale": "No son sangre, son líquidos tisulares."
+                    },
+                    {
+                        "text": "Hormonas linfáticas",
+                        "isCorrect": false,
+                        "rationale": "Son líquidos, no hormonas."
+                    },
+                    {
+                        "text": "Componentes de la orina",
+                        "isCorrect": false,
+                        "rationale": "No tienen relación con la orina."
+                    }
+                ],
+                "hint": "El quilo proviene de la digestión de grasas en el intestino."
+            },
+            {
+                "question": "¿Qué estructuras atraviesan los vasos linfáticos en su trayecto?",
+                "options": [
+                    {
+                        "text": "Nodos (ganglios) linfáticos que filtran la linfa",
+                        "isCorrect": true,
+                        "rationale": "En su trayecto, los vasos linfáticos atraviesan formaciones anexas: los nodos (ganglios) linfáticos, que filtran la linfa."
+                    },
+                    {
+                        "text": "El hígado",
+                        "isCorrect": false,
+                        "rationale": "Los vasos linfáticos atraviesan nodos, no el hígado directamente."
+                    },
+                    {
+                        "text": "Los pulmones",
+                        "isCorrect": false,
+                        "rationale": "Los vasos linfáticos atraviesan nodos linfáticos."
+                    },
+                    {
+                        "text": "El bazo",
+                        "isCorrect": false,
+                        "rationale": "El bazo es un órgano linfático, no una estructura que atraviesan los vasos."
+                    }
+                ],
+                "hint": "Son como 'estaciones de filtrado' en el camino linfático."
+            },
+            {
+                "question": "¿Qué son los nodos linfáticos?",
+                "options": [
+                    {
+                        "text": "Órganos linfáticos secundarios que filtran la linfa",
+                        "isCorrect": true,
+                        "rationale": "Los nodos linfáticos son órganos linfáticos secundarios que, entre otras funciones, filtran la linfa aportada por los vasos."
+                    },
+                    {
+                        "text": "Vasos linfáticos agrandados",
+                        "isCorrect": false,
+                        "rationale": "Son órganos, no vasos."
+                    },
+                    {
+                        "text": "Glándulas endocrinas",
+                        "isCorrect": false,
+                        "rationale": "Son órganos linfáticos, no glándulas endocrinas."
+                    },
+                    {
+                        "text": "Células circulantes",
+                        "isCorrect": false,
+                        "rationale": "Son órganos con estructura definida."
+                    }
+                ],
+                "hint": "También llamados ganglios linfáticos."
+            },
+            {
+                "question": "¿En qué tejidos NO existen vasos linfáticos?",
+                "options": [
+                    {
+                        "text": "En la placenta y en el sistema nervioso central",
+                        "isCorrect": true,
+                        "rationale": "Los vasos linfáticos existen en todos los tejidos irrigados por vasos sanguíneos, excepto en la placenta y en el sistema nervioso central."
+                    },
+                    {
+                        "text": "En el corazón",
+                        "isCorrect": false,
+                        "rationale": "El corazón sí tiene vasos linfáticos."
+                    },
+                    {
+                        "text": "En los pulmones",
+                        "isCorrect": false,
+                        "rationale": "Los pulmones sí tienen vasos linfáticos."
+                    },
+                    {
+                        "text": "En el hígado",
+                        "isCorrect": false,
+                        "rationale": "El hígado sí tiene vasos linfáticos."
+                    }
+                ],
+                "hint": "El cerebro no tiene linfáticos tradicionales."
+            },
+            {
+                "question": "¿Cómo se originan los vasos linfáticos?",
+                "options": [
+                    {
+                        "text": "En capilares linfáticos con extremo cerrado, más voluminosos que los sanguíneos",
+                        "isCorrect": true,
+                        "rationale": "Los vasos linfáticos se originan en vasos capilares con un extremo cerrado, más voluminosos que los capilares sanguíneos."
+                    },
+                    {
+                        "text": "En las arterias",
+                        "isCorrect": false,
+                        "rationale": "Se originan en capilares linfáticos propios."
+                    },
+                    {
+                        "text": "En el corazón",
+                        "isCorrect": false,
+                        "rationale": "No se originan en el corazón."
+                    },
+                    {
+                        "text": "En los ganglios",
+                        "isCorrect": false,
+                        "rationale": "Los ganglios están en el trayecto, no son el origen."
+                    }
+                ],
+                "hint": "Son 'ciegos' en un extremo, como dedos de guante."
+            },
+            {
+                "question": "¿Qué forma tienen los vasos linfáticos?",
+                "options": [
+                    {
+                        "text": "Variable: algunos irregulares con válvulas, otros rectilíneos sin válvulas",
+                        "isCorrect": true,
+                        "rationale": "Su forma es variable: algunos, provistos de válvulas, son irregulares; otros, avalvulados, son regulares y rectilíneos."
+                    },
+                    {
+                        "text": "Siempre rectos y lisos",
+                        "isCorrect": false,
+                        "rationale": "Algunos son irregulares con válvulas."
+                    },
+                    {
+                        "text": "Siempre tortuosos",
+                        "isCorrect": false,
+                        "rationale": "Algunos son rectilíneos cuando no tienen válvulas."
+                    },
+                    {
+                        "text": "Circular uniforme",
+                        "isCorrect": false,
+                        "rationale": "Tienen forma variable según si tienen válvulas o no."
+                    }
+                ],
+                "hint": "Depende de si tienen válvulas o no."
+            },
+            {
+                "question": "¿Qué aspecto presentan los vasos linfáticos valvulados?",
+                "options": [
+                    {
+                        "text": "Dilataciones y estrechamientos alternos que les dan aspecto irregular",
+                        "isCorrect": true,
+                        "rationale": "Cuando son valvulados, los vasos linfáticos presentan dilataciones y estrechamientos alternos, que les dan un aspecto irregular."
+                    },
+                    {
+                        "text": "Aspecto liso uniforme",
+                        "isCorrect": false,
+                        "rationale": "Los valvulados tienen aspecto irregular."
+                    },
+                    {
+                        "text": "Aspecto recto",
+                        "isCorrect": false,
+                        "rationale": "Los valvulados tienen dilataciones y estrechamientos."
+                    },
+                    {
+                        "text": "Aspecto nudoso",
+                        "isCorrect": false,
+                        "rationale": "Tienen un aspecto perlado por las válvulas."
+                    }
+                ],
+                "hint": "Las válvulas crean 'perlas' a lo largo del vaso."
+            },
+            {
+                "question": "¿Dónde están implantadas las válvulas en los vasos linfáticos?",
+                "options": [
+                    {
+                        "text": "Por pares en los estrechamientos de los vasos",
+                        "isCorrect": true,
+                        "rationale": "Las válvulas están implantadas por pares en los estrechamientos de los vasos linfáticos."
+                    },
+                    {
+                        "text": "Individualmente en las dilataciones",
+                        "isCorrect": false,
+                        "rationale": "Están en los estrechamientos, por pares."
+                    },
+                    {
+                        "text": "Solo en los troncos principales",
+                        "isCorrect": false,
+                        "rationale": "Están en los estrechamientos, más espaciados en troncos gruesos."
+                    },
+                    {
+                        "text": "En el centro del vaso",
+                        "isCorrect": false,
+                        "rationale": "Están en los estrechamientos."
+                    }
+                ],
+                "hint": "Son válvulas bícuspidas como las venosas."
+            },
+            {
+                "question": "¿Qué ocurre con las insuficiencias valvulares en los vasos linfáticos?",
+                "options": [
+                    {
+                        "text": "Permiten reflujo de linfa, generando edemas de origen linfático",
+                        "isCorrect": true,
+                        "rationale": "En los vasos linfáticos existen 'insuficiencias valvulares' que permiten el reflujo de la linfa; su estasis es generadora de edemas de origen linfático puro."
+                    },
+                    {
+                        "text": "No tienen consecuencias",
+                        "isCorrect": false,
+                        "rationale": "Generan edemas linfáticos."
+                    },
+                    {
+                        "text": "Aumentan el flujo linfático",
+                        "isCorrect": false,
+                        "rationale": "Causan estasis, no aumento de flujo."
+                    },
+                    {
+                        "text": "Mejoran el drenaje",
+                        "isCorrect": false,
+                        "rationale": "Empeoran el drenaje linfático."
+                    }
+                ],
+                "hint": "El linfedema es la consecuencia de la insuficiencia valvular."
+            },
+            {
+                "question": "¿Cómo es la estructura de los vasos linfáticos?",
+                "options": [
+                    {
+                        "text": "Semejante a las venas: endotelio, túnica media fibromuscular y adventicia",
+                        "isCorrect": true,
+                        "rationale": "La estructura de los vasos linfáticos es muy semejante a la de las venas con endotelio interno, una túnica media fibromuscular y una adventicia."
+                    },
+                    {
+                        "text": "Igual a las arterias",
+                        "isCorrect": false,
+                        "rationale": "Se parece más a las venas."
+                    },
+                    {
+                        "text": "Sin capas definidas",
+                        "isCorrect": false,
+                        "rationale": "Tienen tres capas como las venas."
+                    },
+                    {
+                        "text": "Solo endotelio",
+                        "isCorrect": false,
+                        "rationale": "Tienen las tres túnicas típicas."
+                    }
+                ],
+                "hint": "Estructuralmente son muy similares a las venas."
+            },
+            {
+                "question": "¿Cómo se disponen los vasos linfáticos respecto a las venas?",
+                "options": [
+                    {
+                        "text": "Generalmente adosados a las venas, superficiales o profundos",
+                        "isCorrect": true,
+                        "rationale": "Los vasos linfáticos están, generalmente, adosados a las venas y son superficiales o profundos."
+                    },
+                    {
+                        "text": "Independientes de las venas",
+                        "isCorrect": false,
+                        "rationale": "Generalmente están adosados a las venas."
+                    },
+                    {
+                        "text": "Solo profundos",
+                        "isCorrect": false,
+                        "rationale": "Pueden ser superficiales o profundos."
+                    },
+                    {
+                        "text": "Solo superficiales",
+                        "isCorrect": false,
+                        "rationale": "Pueden ser superficiales o profundos."
+                    }
+                ],
+                "hint": "Viajan junto a las venas en su mayoría."
+            },
+            {
+                "question": "¿Los vasos linfáticos están anastomosados entre sí?",
+                "options": [
+                    {
+                        "text": "Sí, pero esto no modifica su trayecto convergente hacia los nodos",
+                        "isCorrect": true,
+                        "rationale": "Los vasos linfáticos están anastomosados entre sí, lo que no modifica su trayecto convergente hacia los nodos."
+                    },
+                    {
+                        "text": "No, son independientes",
+                        "isCorrect": false,
+                        "rationale": "Sí están anastomosados entre sí."
+                    },
+                    {
+                        "text": "Solo los superficiales",
+                        "isCorrect": false,
+                        "rationale": "Todos pueden estar anastomosados."
+                    },
+                    {
+                        "text": "Solo los profundos",
+                        "isCorrect": false,
+                        "rationale": "Todos pueden estar anastomosados."
+                    }
+                ],
+                "hint": "Hay conexiones pero el flujo siempre va hacia los nodos."
+            },
+            {
+                "question": "¿Qué forma tienen los nodos linfáticos?",
+                "options": [
+                    {
+                        "text": "Redondeados u ovoides",
+                        "isCorrect": true,
+                        "rationale": "Los nodos linfáticos son redondeados u ovoides."
+                    },
+                    {
+                        "text": "Alargados y cilíndricos",
+                        "isCorrect": false,
+                        "rationale": "Son redondeados u ovoides."
+                    },
+                    {
+                        "text": "Planos y anchos",
+                        "isCorrect": false,
+                        "rationale": "Son redondeados u ovoides."
+                    },
+                    {
+                        "text": "Irregulares y ramificados",
+                        "isCorrect": false,
+                        "rationale": "Tienen forma redondeada u ovoide."
+                    }
+                ],
+                "hint": "Se parecen a pequeños frijoles o almendras."
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "nombre": "Parte 2",
+        "preguntas": 9,
+        "data": [
+            {
+                "question": "¿Cómo llegan los vasos aferentes a los nodos linfáticos?",
+                "options": [
+                    {
+                        "text": "Por la periferia del nodo por cualquier punto",
+                        "isCorrect": true,
+                        "rationale": "Los vasos aferentes llegan a la periferia del nodo por un punto cualquiera."
+                    },
+                    {
+                        "text": "Por el hilio del nodo",
+                        "isCorrect": false,
+                        "rationale": "Los aferentes llegan por la periferia; los eferentes salen por el hilio."
+                    },
+                    {
+                        "text": "Solo por un punto específico",
+                        "isCorrect": false,
+                        "rationale": "Llegan por cualquier punto de la periferia."
+                    },
+                    {
+                        "text": "Por el centro del nodo",
+                        "isCorrect": false,
+                        "rationale": "Llegan por la periferia."
+                    }
+                ],
+                "hint": "Aferente = que llega; entran por los lados."
+            },
+            {
+                "question": "¿Por dónde emergen los vasos eferentes del nodo linfático?",
+                "options": [
+                    {
+                        "text": "Por una depresión llamada hilio del nodo",
+                        "isCorrect": true,
+                        "rationale": "Los vasos eferentes emergen por una depresión, el hilio del nodo."
+                    },
+                    {
+                        "text": "Por cualquier punto de la periferia",
+                        "isCorrect": false,
+                        "rationale": "Salen por el hilio, no por cualquier punto."
+                    },
+                    {
+                        "text": "Por el centro de la cápsula",
+                        "isCorrect": false,
+                        "rationale": "Salen por el hilio, una depresión en la superficie."
+                    },
+                    {
+                        "text": "Por múltiples puntos",
+                        "isCorrect": false,
+                        "rationale": "Salen por el hilio, un punto específico."
+                    }
+                ],
+                "hint": "Eferente = que sale; el hilio es como el 'ombligo' del ganglio."
+            },
+            {
+                "question": "¿Qué color tienen habitualmente los nodos linfáticos?",
+                "options": [
+                    {
+                        "text": "Gris rojizo, pero pueden oscurecerse por antracosis en nodos intratorácicos",
+                        "isCorrect": true,
+                        "rationale": "Habitualmente son de color gris rojizo. Los nodos intratorácicos pueden estar impregnados de polvo de carbón (antracosis) y volverse oscuros."
+                    },
+                    {
+                        "text": "Blanco siempre",
+                        "isCorrect": false,
+                        "rationale": "Son gris rojizo, y pueden oscurecerse."
+                    },
+                    {
+                        "text": "Negro siempre",
+                        "isCorrect": false,
+                        "rationale": "Solo se oscurecen por antracosis en casos específicos."
+                    },
+                    {
+                        "text": "Amarillento",
+                        "isCorrect": false,
+                        "rationale": "Son gris rojizo."
+                    }
+                ],
+                "hint": "El color puede cambiar por acumulación de partículas."
+            },
+            {
+                "question": "¿Cómo se disponen los nodos linfáticos?",
+                "options": [
+                    {
+                        "text": "Aislados, en cadenas o en grupos regionales",
+                        "isCorrect": true,
+                        "rationale": "Algunos nodos están aislados, pero más a menudo están dispuestos en cadenas o en grupos regionales (axila, inguinales)."
+                    },
+                    {
+                        "text": "Siempre aislados",
+                        "isCorrect": false,
+                        "rationale": "Más a menudo están en cadenas o grupos."
+                    },
+                    {
+                        "text": "Siempre en grupos",
+                        "isCorrect": false,
+                        "rationale": "Pueden estar aislados, en cadenas o grupos."
+                    },
+                    {
+                        "text": "Solo en pares",
+                        "isCorrect": false,
+                        "rationale": "Pueden estar aislados, en cadenas o grupos regionales."
+                    }
+                ],
+                "hint": "Los grupos principales están en axila, ingles, cuello."
+            },
+            {
+                "question": "¿Qué estructura caracteriza a los nodos linfáticos?",
+                "options": [
+                    {
+                        "text": "Cápsula fibrosa periférica con trabéculas y folículos rodeados por senos perifoliculares",
+                        "isCorrect": true,
+                        "rationale": "Los nodos tienen una cápsula fibrosa periférica, trabéculas conectivas que circunscriben folículos linfoides, rodeados por senos perifoliculares."
+                    },
+                    {
+                        "text": "Solo una cápsula sin estructura interna",
+                        "isCorrect": false,
+                        "rationale": "Tienen estructura interna compleja con trabéculas y folículos."
+                    },
+                    {
+                        "text": "Solo células sueltas sin organización",
+                        "isCorrect": false,
+                        "rationale": "Tienen una estructura organizada."
+                    },
+                    {
+                        "text": "Múltiples lúmenes conectados",
+                        "isCorrect": false,
+                        "rationale": "La estructura es de tejido linfoide organizado."
+                    }
+                ],
+                "hint": "Tienen organización interna con compartimentos."
+            },
+            {
+                "question": "¿Qué son los senos perifoliculares en los nodos?",
+                "options": [
+                    {
+                        "text": "Terminación de vasos aferentes y origen de vasos eferentes",
+                        "isCorrect": true,
+                        "rationale": "Los senos perifoliculares son la terminación de los vasos aferentes y el origen de los vasos eferentes."
+                    },
+                    {
+                        "text": "Espacios dentro de los folículos",
+                        "isCorrect": false,
+                        "rationale": "Están alrededor de los folículos, no dentro."
+                    },
+                    {
+                        "text": "Conexiones entre nodos",
+                        "isCorrect": false,
+                        "rationale": "Son espacios internos del nodo."
+                    },
+                    {
+                        "text": "Vasos sanguíneos",
+                        "isCorrect": false,
+                        "rationale": "Son parte del sistema linfático dentro del nodo."
+                    }
+                ],
+                "hint": "Son donde la linfa pasa a través del nodo."
+            },
+            {
+                "question": "¿Cuáles son los dos colectores terminales del sistema linfático?",
+                "options": [
+                    {
+                        "text": "El conducto torácico (izquierda) y el conducto linfático derecho",
+                        "isCorrect": true,
+                        "rationale": "Las vías linfáticas son drenadas por dos colectores terminales: el conducto torácico a la izquierda y el conducto linfático derecho."
+                    },
+                    {
+                        "text": "Solo el conducto torácico",
+                        "isCorrect": false,
+                        "rationale": "Hay dos: derecho e izquierdo."
+                    },
+                    {
+                        "text": "Solo el conducto linfático derecho",
+                        "isCorrect": false,
+                        "rationale": "Hay dos colectores terminales."
+                    },
+                    {
+                        "text": "Las venas cavas",
+                        "isCorrect": false,
+                        "rationale": "Los conductos linfáticos desembocan en los confluentes venosos."
+                    }
+                ],
+                "hint": "Uno para cada lado del cuerpo."
+            },
+            {
+                "question": "¿Dónde terminan los conductos linfáticos?",
+                "options": [
+                    {
+                        "text": "En los confluentes venosos yugulosubclavios",
+                        "isCorrect": true,
+                        "rationale": "Los conductos torácico y linfático derecho terminan en los confluentes venosos yugulosubclavios del lado correspondiente o sus proximidades."
+                    },
+                    {
+                        "text": "En el corazón",
+                        "isCorrect": false,
+                        "rationale": "Terminan en los confluentes venosos."
+                    },
+                    {
+                        "text": "En los riñones",
+                        "isCorrect": false,
+                        "rationale": "Terminan en los confluentes venosos yugulosubclavios."
+                    },
+                    {
+                        "text": "En el hígado",
+                        "isCorrect": false,
+                        "rationale": "Terminan en la unión de vena yugular y subclavia."
+                    }
+                ],
+                "hint": "Es donde la linfa se une al sistema venoso."
+            },
+            {
+                "question": "¿Qué troncos linfáticos convergen en los conductos linfáticos?",
+                "options": [
+                    {
+                        "text": "Troncos yugular, subclavio, broncomediastínico, lumbar e intestinales",
+                        "isCorrect": true,
+                        "rationale": "En los dos conductos linfáticos converge la linfa de: troncos yugulares, subclavios, broncomediastínicos, lumbares e intestinales."
+                    },
+                    {
+                        "text": "Solo troncos yugulares",
+                        "isCorrect": false,
+                        "rationale": "Son múltiples troncos los que convergen."
+                    },
+                    {
+                        "text": "Solo troncos lumbares",
+                        "isCorrect": false,
+                        "rationale": "Hay varios troncos principales."
+                    },
+                    {
+                        "text": "Solo troncos intestinales",
+                        "isCorrect": false,
+                        "rationale": "Hay múltiples troncos que drenan diferentes regiones."
+                    }
+                ],
+                "hint": "Drenan diferentes regiones del cuerpo."
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "nombre": "Parte 3",
+        "preguntas": 17,
+        "data": [
+            {
+                "question": "¿Cómo se ven los nodos y vasos linfáticos en estado normal en el ser vivo?",
+                "options": [
+                    {
+                        "text": "Son inaparentes en estado normal",
+                        "isCorrect": true,
+                        "rationale": "Los nodos y vasos linfáticos son inaparentes en estado normal."
+                    },
+                    {
+                        "text": "Son muy visibles bajo la piel",
+                        "isCorrect": false,
+                        "rationale": "En estado normal son inaparentes."
+                    },
+                    {
+                        "text": "Siempre son palpables",
+                        "isCorrect": false,
+                        "rationale": "Solo algunos nodos son palpables en sujetos delgados."
+                    },
+                    {
+                        "text": "Son rojos y prominentes",
+                        "isCorrect": false,
+                        "rationale": "Son inaparentes en estado normal."
+                    }
+                ],
+                "hint": "No se ven ni se palpan fácilmente cuando todo está bien."
+            },
+            {
+                "question": "¿Qué nodos superficiales pueden ser visibles o palpables en ciertos sujetos?",
+                "options": [
+                    {
+                        "text": "Algunos nodos superficiales en sujetos delgados",
+                        "isCorrect": true,
+                        "rationale": "Algunos nodos superficiales son visibles o palpables en ciertos sujetos delgados."
+                    },
+                    {
+                        "text": "Todos los nodos siempre",
+                        "isCorrect": false,
+                        "rationale": "Solo algunos en sujetos delgados."
+                    },
+                    {
+                        "text": "Solo los nodos profundos",
+                        "isCorrect": false,
+                        "rationale": "Los nodos superficiales son los que pueden verse."
+                    },
+                    {
+                        "text": "Ningún nodo es palpable",
+                        "isCorrect": false,
+                        "rationale": "Algunos nodos superficiales pueden palparse en delgados."
+                    }
+                ],
+                "hint": "Depende de la constitución física de la persona."
+            },
+            {
+                "question": "¿Cuándo son visibles las redes linfáticas superficiales?",
+                "options": [
+                    {
+                        "text": "Cuando están inflamadas (linfangitis)",
+                        "isCorrect": true,
+                        "rationale": "Las redes superficiales son visibles cuando están inflamadas (linfangitis)."
+                    },
+                    {
+                        "text": "Siempre son visibles",
+                        "isCorrect": false,
+                        "rationale": "Solo son visibles cuando están inflamadas."
+                    },
+                    {
+                        "text": "Solo en ancianos",
+                        "isCorrect": false,
+                        "rationale": "Son visibles cuando hay inflamación."
+                    },
+                    {
+                        "text": "Nunca son visibles",
+                        "isCorrect": false,
+                        "rationale": "Son visibles en caso de linfangitis."
+                    }
+                ],
+                "hint": "La inflamación las hace evidentes."
+            },
+            {
+                "question": "¿Por qué se hipertrofian los nodos linfáticos?",
+                "options": [
+                    {
+                        "text": "Frente a inflamación e infección, ya que constituyen una barrera antiinfecciosa",
+                        "isCorrect": true,
+                        "rationale": "Los nodos se hipertrofian frente a la inflamación y la infección, puesto que constituyen una barrera antiinfecciosa."
+                    },
+                    {
+                        "text": "Por ejercicio físico",
+                        "isCorrect": false,
+                        "rationale": "Se hipertrofian por inflamación e infección."
+                    },
+                    {
+                        "text": "Por dieta rica en grasas",
+                        "isCorrect": false,
+                        "rationale": "Se hipertrofian por procesos inflamatorios e infecciosos."
+                    },
+                    {
+                        "text": "Por edad avanzada",
+                        "isCorrect": false,
+                        "rationale": "Se hipertrofian como respuesta a inflamación e infección."
+                    }
+                ],
+                "hint": "Se agrandan cuando 'trabajan' contra infecciones."
+            },
+            {
+                "question": "¿En qué otras condiciones se hipertrofian los nodos linfáticos además de infecciones?",
+                "options": [
+                    {
+                        "text": "En enfermedades propias del tejido linfático (infecciones, cánceres del tejido linfático)",
+                        "isCorrect": true,
+                        "rationale": "Los nodos se hipertrofian igualmente en ciertas enfermedades que le son propias: infecciones, cánceres del tejido linfático, etc."
+                    },
+                    {
+                        "text": "Solo en infecciones bacterianas",
+                        "isCorrect": false,
+                        "rationale": "También en enfermedades propias del tejido linfático."
+                    },
+                    {
+                        "text": "Solo en traumatismos",
+                        "isCorrect": false,
+                        "rationale": "Se hipertrofian en enfermedades del tejido linfático."
+                    },
+                    {
+                        "text": "Solo en personas mayores",
+                        "isCorrect": false,
+                        "rationale": "Pueden afectar a cualquier edad."
+                    }
+                ],
+                "hint": "Incluye linfomas y otras enfermedades linfáticas."
+            },
+            {
+                "question": "¿Qué puede ocurrir con los nodos que drenan un órgano con cáncer?",
+                "options": [
+                    {
+                        "text": "Pueden estar invadidos por células neoplásicas",
+                        "isCorrect": true,
+                        "rationale": "Los nodos que drenan un órgano con cáncer pueden estar invadidos por células neoplásicas."
+                    },
+                    {
+                        "text": "Siempre permanecen normales",
+                        "isCorrect": false,
+                        "rationale": "Pueden ser invadidos por células cancerosas."
+                    },
+                    {
+                        "text": "Se encogen",
+                        "isCorrect": false,
+                        "rationale": "Pueden agrandarse por invasión tumoral."
+                    },
+                    {
+                        "text": "Desaparecen",
+                        "isCorrect": false,
+                        "rationale": "Pueden ser invadidos y agrandarse."
+                    }
+                ],
+                "hint": "El cáncer puede diseminarse a través de los ganglios."
+            },
+            {
+                "question": "¿Qué expresa una adenopatía en un nodo que drena un órgano con cáncer?",
+                "options": [
+                    {
+                        "text": "La diseminación del cáncer más allá del órgano inicial",
+                        "isCorrect": true,
+                        "rationale": "En estos casos la adenopatía expresa la diseminación del cáncer, más allá del órgano inicial."
+                    },
+                    {
+                        "text": "Una infección local",
+                        "isCorrect": false,
+                        "rationale": "Expresa diseminación del cáncer."
+                    },
+                    {
+                        "text": "Una respuesta inmune normal",
+                        "isCorrect": false,
+                        "rationale": "Indica que el cáncer se ha diseminado."
+                    },
+                    {
+                        "text": "Que el cáncer está curado",
+                        "isCorrect": false,
+                        "rationale": "Indica diseminación, no curación."
+                    }
+                ],
+                "hint": "'Adenopatía' = ganglio agrandado, en este caso por metástasis."
+            },
+            {
+                "question": "¿Qué es una adenopatía?",
+                "options": [
+                    {
+                        "text": "Un ganglio linfático agrandado o inflamado",
+                        "isCorrect": true,
+                        "rationale": "Una adenopatía es el aumento de tamaño de un ganglio linfático, que puede ser por inflamación, infección o invasión tumoral."
+                    },
+                    {
+                        "text": "Una infección de la sangre",
+                        "isCorrect": false,
+                        "rationale": "Es el agrandamiento de un ganglio."
+                    },
+                    {
+                        "text": "Un tipo de cáncer",
+                        "isCorrect": false,
+                        "rationale": "Es un signo, no un tipo de cáncer específico."
+                    },
+                    {
+                        "text": "Una enfermedad de la piel",
+                        "isCorrect": false,
+                        "rationale": "Afecta a los ganglios linfáticos."
+                    }
+                ],
+                "hint": "'Adeno' = glándula/ganglio, 'patía' = enfermedad."
+            },
+            {
+                "question": "¿Qué función de barrera cumplen los nodos linfáticos?",
+                "options": [
+                    {
+                        "text": "Funcionan como barrera antiinfecciosa",
+                        "isCorrect": true,
+                        "rationale": "Los nodos linfáticos constituyen una barrera antiinfecciosa, filtrando la linfa y capturando agentes patógenos."
+                    },
+                    {
+                        "text": "Barrera mecánica contra traumatismos",
+                        "isCorrect": false,
+                        "rationale": "Son barrera biológica, no mecánica."
+                    },
+                    {
+                        "text": "Barrera contra radiación",
+                        "isCorrect": false,
+                        "rationale": "Son barrera antiinfecciosa."
+                    },
+                    {
+                        "text": "Barrera contra el frío",
+                        "isCorrect": false,
+                        "rationale": "Filtran agentes infecciosos de la linfa."
+                    }
+                ],
+                "hint": "Filtran la linfa atrapando gérmenes."
+            },
+            {
+                "question": "¿Por qué es importante palpar los ganglios en el examen físico?",
+                "options": [
+                    {
+                        "text": "Porque su agrandamiento puede indicar infección o cáncer",
+                        "isCorrect": true,
+                        "rationale": "La palpación de ganglios es importante porque su agrandamiento puede indicar infección local, enfermedad sistémica o diseminación de cáncer."
+                    },
+                    {
+                        "text": "Porque siempre están visibles",
+                        "isCorrect": false,
+                        "rationale": "En estado normal son inaparentes."
+                    },
+                    {
+                        "text": "No tiene importancia clínica",
+                        "isCorrect": false,
+                        "rationale": "Es muy importante para el diagnóstico."
+                    },
+                    {
+                        "text": "Solo para detectar anemia",
+                        "isCorrect": false,
+                        "rationale": "Detecta patología linfática, no anemia."
+                    }
+                ],
+                "hint": "Los ganglios aumentados son un signo clínico importante."
+            },
+            {
+                "question": "¿Qué son la linfangitis y la linfadenitis?",
+                "options": [
+                    {
+                        "text": "Inflamación de vasos linfáticos (linfangitis) o de nodos linfáticos (linfadenitis)",
+                        "isCorrect": true,
+                        "rationale": "Durante un proceso inflamatorio, la linfa puede transportar el agente causal ocasionando inflamación de vasos linfáticos (linfangitis) o de nodos (linfadenitis)."
+                    },
+                    {
+                        "text": "Inflamación de vasos sanguíneos",
+                        "isCorrect": false,
+                        "rationale": "Afectan el sistema linfático, no sanguíneo."
+                    },
+                    {
+                        "text": "Cáncer de ganglios",
+                        "isCorrect": false,
+                        "rationale": "Son inflamaciones, no necesariamente cáncer."
+                    },
+                    {
+                        "text": "Infecciones virales únicamente",
+                        "isCorrect": false,
+                        "rationale": "Pueden ser causadas por agentes infecciosos o químicos."
+                    }
+                ],
+                "hint": "El sufijo '-itis' indica inflamación."
+            },
+            {
+                "question": "¿Qué ocurre durante un proceso inflamatorio con el flujo linfático?",
+                "options": [
+                    {
+                        "text": "Aumenta para ayudar a drenar el líquido del edema de la región afectada",
+                        "isCorrect": true,
+                        "rationale": "Durante un proceso inflamatorio, el flujo linfático aumenta para ayudar a drenar el líquido del edema de la región afectada."
+                    },
+                    {
+                        "text": "Disminuye",
+                        "isCorrect": false,
+                        "rationale": "El flujo aumenta para ayudar al drenaje."
+                    },
+                    {
+                        "text": "Se detiene",
+                        "isCorrect": false,
+                        "rationale": "Aumenta para ayudar a la zona afectada."
+                    },
+                    {
+                        "text": "No cambia",
+                        "isCorrect": false,
+                        "rationale": "Aumenta como respuesta a la inflamación."
+                    }
+                ],
+                "hint": "El sistema linfático ayuda a limpiar el exceso de líquido."
+            },
+            {
+                "question": "¿Qué es el linfedema?",
+                "options": [
+                    {
+                        "text": "Edema causado por falla en el funcionamiento del sistema linfático",
+                        "isCorrect": true,
+                        "rationale": "El linfedema es el edema causado por una falla en el normal funcionamiento de los componentes del sistema linfático."
+                    },
+                    {
+                        "text": "Edema por insuficiencia cardíaca",
+                        "isCorrect": false,
+                        "rationale": "El linfedema es específicamente por falla linfática."
+                    },
+                    {
+                        "text": "Edema por problemas renales",
+                        "isCorrect": false,
+                        "rationale": "El linfedema es por disfunción del sistema linfático."
+                    },
+                    {
+                        "text": "Hinchazón temporal",
+                        "isCorrect": false,
+                        "rationale": "Es un edema por falla del sistema linfático."
+                    }
+                ],
+                "hint": "'Linf-' indica que el origen es el sistema linfático."
+            },
+            {
+                "question": "¿Qué ocurre cuando se resecan los nodos linfáticos?",
+                "options": [
+                    {
+                        "text": "El territorio drenado acumula linfa en el intersticio (linfedema)",
+                        "isCorrect": true,
+                        "rationale": "Cuando se resecan nodos linfáticos, el territorio que drenaba allí ya no puede hacerlo y se acumula linfa en el intersticio. Ejemplo: linfedema en brazo tras resección de nodos axilares por cáncer de mama."
+                    },
+                    {
+                        "text": "El drenaje mejora",
+                        "isCorrect": false,
+                        "rationale": "El drenaje se ve afectado negativamente."
+                    },
+                    {
+                        "text": "No hay consecuencias",
+                        "isCorrect": false,
+                        "rationale": "Genera linfedema en el territorio afectado."
+                    },
+                    {
+                        "text": "Se forman nuevos nodos",
+                        "isCorrect": false,
+                        "rationale": "No se regeneran los nodos, causando linfedema."
+                    }
+                ],
+                "hint": "Es una complicación común después de cirugía oncológica."
+            },
+            {
+                "question": "¿Qué es la metástasis?",
+                "options": [
+                    {
+                        "text": "Aparición de células tumorales en un sitio diferente del que originó al tumor",
+                        "isCorrect": true,
+                        "rationale": "La metástasis es la aparición de células tumorales separadas en un sitio diferente del que originó al tumor."
+                    },
+                    {
+                        "text": "El tumor original",
+                        "isCorrect": false,
+                        "rationale": "Es la diseminación a otros sitios, no el tumor original."
+                    },
+                    {
+                        "text": "Un tipo de cáncer benigno",
+                        "isCorrect": false,
+                        "rationale": "Es característica de tumores malignos."
+                    },
+                    {
+                        "text": "La curación del tumor",
+                        "isCorrect": false,
+                        "rationale": "Es la diseminación del cáncer, lo opuesto a la curación."
+                    }
+                ],
+                "hint": "Es la propagación del cáncer a otras partes del cuerpo."
+            },
+            {
+                "question": "¿Por qué vías pueden diseminarse los cánceres?",
+                "options": [
+                    {
+                        "text": "Hematógena (sangre), linfática o siembra de cavidades orgánicas",
+                        "isCorrect": true,
+                        "rationale": "Los cánceres pueden diseminarse por tres vías: hematógena (por sangre), linfática o por siembra de cavidades orgánicas (peritoneo, pleura)."
+                    },
+                    {
+                        "text": "Solo por sangre",
+                        "isCorrect": false,
+                        "rationale": "Hay tres vías de diseminación."
+                    },
+                    {
+                        "text": "Solo por linfa",
+                        "isCorrect": false,
+                        "rationale": "Hay múltiples vías de diseminación."
+                    },
+                    {
+                        "text": "Solo por contacto directo",
+                        "isCorrect": false,
+                        "rationale": "Las tres vías principales son hematógena, linfática y siembra."
+                    }
+                ],
+                "hint": "Pueden viajar por sangre, linfa o sembrar cavidades."
+            },
+            {
+                "question": "¿Qué característica tienen los tumores malignos respecto a la metástasis?",
+                "options": [
+                    {
+                        "text": "Pueden penetrar en vasos sanguíneos o linfáticos y cavidades para diseminarse",
+                        "isCorrect": true,
+                        "rationale": "Los tumores malignos pueden penetrar en los vasos sanguíneos o linfáticos y en las cavidades corporales para diseminarse hacia otras regiones."
+                    },
+                    {
+                        "text": "Nunca se diseminan",
+                        "isCorrect": false,
+                        "rationale": "Los malignos sí pueden diseminarse."
+                    },
+                    {
+                        "text": "Solo crecen localmente",
+                        "isCorrect": false,
+                        "rationale": "Los malignos tienen capacidad de invasión y metástasis."
+                    },
+                    {
+                        "text": "Se diseminan solo por contacto",
+                        "isCorrect": false,
+                        "rationale": "Pueden diseminarse por múltiples vías."
+                    }
+                ],
+                "hint": "La capacidad de metástasis distingue malignos de benignos."
+            }
+        ]
+    }
+]
+  },
+
+  "anato-sangre": {
+    "titulo": "Sangre y Médula Ósea",
+    "descripcion": "Hematopoyesis, células sanguíneas, tejidos linfoides",
+    "totalPreguntas": 14,
+    "partes": [
+    {
+        "id": 1,
+        "nombre": "Parte 1",
+        "preguntas": 14,
+        "data": [
+            {
+                "question": "¿Dónde se forman las células sanguíneas después del nacimiento?",
+                "options": [
+                    {
+                        "text": "En la médula ósea",
+                        "isCorrect": true,
+                        "rationale": "Las células sanguíneas se forman, después del nacimiento, en la médula ósea."
+                    },
+                    {
+                        "text": "En el bazo",
+                        "isCorrect": false,
+                        "rationale": "El bazo es un órgano linfoide secundario, no el sitio principal de hematopoyesis postnatal."
+                    },
+                    {
+                        "text": "En el hígado",
+                        "isCorrect": false,
+                        "rationale": "El hígado es sitio de hematopoyesis fetal, no postnatal."
+                    },
+                    {
+                        "text": "En los ganglios linfáticos",
+                        "isCorrect": false,
+                        "rationale": "Los ganglios son órganos linfáticos secundarios."
+                    }
+                ],
+                "hint": "Es el tejido que llena el interior de los huesos."
+            },
+            {
+                "question": "¿Qué es la hematopoyesis?",
+                "options": [
+                    {
+                        "text": "El proceso de producción de células sanguíneas",
+                        "isCorrect": true,
+                        "rationale": "El proceso de hematopoyesis produce glóbulos rojos (eritrocitos) y glóbulos blancos."
+                    },
+                    {
+                        "text": "La destrucción de células sanguíneas",
+                        "isCorrect": false,
+                        "rationale": "La hematopoyesis es producción, no destrucción."
+                    },
+                    {
+                        "text": "La circulación sanguínea",
+                        "isCorrect": false,
+                        "rationale": "Es el proceso de formación de células."
+                    },
+                    {
+                        "text": "La coagulación",
+                        "isCorrect": false,
+                        "rationale": "La coagulación es otro proceso diferente."
+                    }
+                ],
+                "hint": "'Hemato' = sangre, 'poiesis' = formación."
+            },
+            {
+                "question": "¿Qué células produce la hematopoyesis?",
+                "options": [
+                    {
+                        "text": "Glóbulos rojos (eritrocitos) y glóbulos blancos (leucocitos)",
+                        "isCorrect": true,
+                        "rationale": "La hematopoyesis produce glóbulos rojos (eritrocitos) y glóbulos blancos, que incluyen granulocitos, linfocitos B y monocitos."
+                    },
+                    {
+                        "text": "Solo glóbulos rojos",
+                        "isCorrect": false,
+                        "rationale": "También produce glóbulos blancos y plaquetas."
+                    },
+                    {
+                        "text": "Solo glóbulos blancos",
+                        "isCorrect": false,
+                        "rationale": "También produce glóbulos rojos y plaquetas."
+                    },
+                    {
+                        "text": "Solo plaquetas",
+                        "isCorrect": false,
+                        "rationale": "Produce múltiples tipos de células sanguíneas."
+                    }
+                ],
+                "hint": "Incluye todas las células de la sangre."
+            },
+            {
+                "question": "¿Qué tipos de granulocitos se producen en la médula ósea?",
+                "options": [
+                    {
+                        "text": "Neutrófilos, eosinófilos y basófilos",
+                        "isCorrect": true,
+                        "rationale": "Los granulocitos incluyen neutrófilos, eosinófilos y basófilos."
+                    },
+                    {
+                        "text": "Solo neutrófilos",
+                        "isCorrect": false,
+                        "rationale": "Hay tres tipos de granulocitos."
+                    },
+                    {
+                        "text": "Linfocitos y monocitos",
+                        "isCorrect": false,
+                        "rationale": "Los linfocitos y monocitos son agranulocitos."
+                    },
+                    {
+                        "text": "Eritrocitos y plaquetas",
+                        "isCorrect": false,
+                        "rationale": "Los eritrocitos y plaquetas no son granulocitos."
+                    }
+                ],
+                "hint": "'Granulo' indica que tienen gránulos en su citoplasma."
+            },
+            {
+                "question": "¿Dónde se desarrollan y maduran los linfocitos T?",
+                "options": [
+                    {
+                        "text": "En el timo, aunque se generan en la médula ósea",
+                        "isCorrect": true,
+                        "rationale": "Los linfocitos T se desarrollan y maduran en el timo, habiendo sido generados en la médula ósea."
+                    },
+                    {
+                        "text": "En la médula ósea solamente",
+                        "isCorrect": false,
+                        "rationale": "Se generan en la médula ósea pero maduran en el timo."
+                    },
+                    {
+                        "text": "En el bazo",
+                        "isCorrect": false,
+                        "rationale": "Maduran en el timo."
+                    },
+                    {
+                        "text": "En los ganglios linfáticos",
+                        "isCorrect": false,
+                        "rationale": "Maduran en el timo."
+                    }
+                ],
+                "hint": "'T' de Timo."
+            },
+            {
+                "question": "¿Dónde se generan los linfocitos T?",
+                "options": [
+                    {
+                        "text": "En la médula ósea",
+                        "isCorrect": true,
+                        "rationale": "Los linfocitos T son generados en la médula ósea ubicada en los huesos, luego migran al timo para madurar."
+                    },
+                    {
+                        "text": "En el timo",
+                        "isCorrect": false,
+                        "rationale": "Se generan en la médula ósea, maduran en el timo."
+                    },
+                    {
+                        "text": "En el bazo",
+                        "isCorrect": false,
+                        "rationale": "Se generan en la médula ósea."
+                    },
+                    {
+                        "text": "En los ganglios",
+                        "isCorrect": false,
+                        "rationale": "Se generan en la médula ósea."
+                    }
+                ],
+                "hint": "Todas las células sanguíneas se originan en la médula ósea."
+            },
+            {
+                "question": "¿Cómo se producen las plaquetas?",
+                "options": [
+                    {
+                        "text": "Como fragmentos celulares de los megacariocitos en la médula ósea",
+                        "isCorrect": true,
+                        "rationale": "Las plaquetas se producen en la médula ósea como fragmentos celulares de los megacariocitos."
+                    },
+                    {
+                        "text": "Como células completas",
+                        "isCorrect": false,
+                        "rationale": "Son fragmentos celulares, no células completas."
+                    },
+                    {
+                        "text": "En el bazo",
+                        "isCorrect": false,
+                        "rationale": "Se producen en la médula ósea."
+                    },
+                    {
+                        "text": "Por división de otras plaquetas",
+                        "isCorrect": false,
+                        "rationale": "Provienen de megacariocitos."
+                    }
+                ],
+                "hint": "Los megacariocitos son células grandes que 'estallan' en fragmentos."
+            },
+            {
+                "question": "¿Qué células sanguíneas permanecen dentro de los vasos sanguíneos?",
+                "options": [
+                    {
+                        "text": "Los eritrocitos y las plaquetas",
+                        "isCorrect": true,
+                        "rationale": "Solo los eritrocitos y las plaquetas se limitan a permanecer dentro de la sangre."
+                    },
+                    {
+                        "text": "Todos los leucocitos",
+                        "isCorrect": false,
+                        "rationale": "Los leucocitos pueden salir de los vasos."
+                    },
+                    {
+                        "text": "Solo los neutrófilos",
+                        "isCorrect": false,
+                        "rationale": "Los neutrófilos pueden salir de los vasos."
+                    },
+                    {
+                        "text": "Los linfocitos",
+                        "isCorrect": false,
+                        "rationale": "Los linfocitos pueden entrar en los tejidos."
+                    }
+                ],
+                "hint": "Los glóbulos blancos pueden 'caminar' fuera de los vasos."
+            },
+            {
+                "question": "¿Qué pueden hacer los leucocitos que los eritrocitos no pueden?",
+                "options": [
+                    {
+                        "text": "Dejar la circulación y entrar en los tejidos extravasculares",
+                        "isCorrect": true,
+                        "rationale": "Todos los leucocitos pueden dejar la circulación y entrar en los tejidos extravasculares."
+                    },
+                    {
+                        "text": "Transportar oxígeno",
+                        "isCorrect": false,
+                        "rationale": "El oxígeno es transportado por los eritrocitos."
+                    },
+                    {
+                        "text": "Coagular la sangre",
+                        "isCorrect": false,
+                        "rationale": "La coagulación involucra plaquetas y factores de coagulación."
+                    },
+                    {
+                        "text": "Permanecer siempre en los vasos",
+                        "isCorrect": false,
+                        "rationale": "Precisamente pueden salir de los vasos."
+                    }
+                ],
+                "hint": "Esta capacidad se llama 'diapédesis' o extravasación."
+            },
+            {
+                "question": "¿Qué son los tejidos linfoides?",
+                "options": [
+                    {
+                        "text": "El timo, los nodos linfáticos, el bazo y el tejido linfoide asociado a digestivo y respiratorio",
+                        "isCorrect": true,
+                        "rationale": "Los tejidos linfoides son el timo, los nodos linfáticos, el bazo y el tejido linfoide asociado principalmente con el sistema digestivo y respiratorio."
+                    },
+                    {
+                        "text": "Solo el timo y el bazo",
+                        "isCorrect": false,
+                        "rationale": "También incluyen nodos linfáticos y tejido linfoide asociado."
+                    },
+                    {
+                        "text": "Solo los ganglios linfáticos",
+                        "isCorrect": false,
+                        "rationale": "Incluye múltiples órganos y tejidos."
+                    },
+                    {
+                        "text": "Solo la médula ósea",
+                        "isCorrect": false,
+                        "rationale": "La médula ósea es sitio de hematopoyesis, pero los tejidos linfoides incluyen otros órganos."
+                    }
+                ],
+                "hint": "Son los órganos donde se desarrollan y almacenan linfocitos."
+            },
+            {
+                "question": "¿Qué células del estroma (de apoyo) hay en el tejido linfoide que NO son de origen hematopoyético?",
+                "options": [
+                    {
+                        "text": "Epitelio del timo, células dendríticas foliculares, células dendríticas y macrófagos",
+                        "isCorrect": true,
+                        "rationale": "El tejido linfoide contiene células del estroma no hematopoyéticas: epitelio del timo, células dendríticas foliculares, células dendríticas y macrófagos del sistema fagocítico mononuclear."
+                    },
+                    {
+                        "text": "Solo linfocitos",
+                        "isCorrect": false,
+                        "rationale": "Los linfocitos son de origen hematopoyético."
+                    },
+                    {
+                        "text": "Solo células sanguíneas",
+                        "isCorrect": false,
+                        "rationale": "Las células del estroma son de apoyo, no sanguíneas."
+                    },
+                    {
+                        "text": "Solo fibroblastos",
+                        "isCorrect": false,
+                        "rationale": "Incluye células especializadas como las dendríticas y macrófagos."
+                    }
+                ],
+                "hint": "Son células de 'sostén' que no vienen de la médula ósea."
+            },
+            {
+                "question": "¿De dónde derivan las células dendríticas y los macrófagos?",
+                "options": [
+                    {
+                        "text": "De monocitos de la sangre",
+                        "isCorrect": true,
+                        "rationale": "Las células dendríticas y los macrófagos son derivados de monocitos de la sangre que se encuentran en la mayoría de los tejidos y órganos."
+                    },
+                    {
+                        "text": "De linfocitos",
+                        "isCorrect": false,
+                        "rationale": "Derivan de monocitos, no de linfocitos."
+                    },
+                    {
+                        "text": "De eritrocitos",
+                        "isCorrect": false,
+                        "rationale": "Derivan de monocitos."
+                    },
+                    {
+                        "text": "De plaquetas",
+                        "isCorrect": false,
+                        "rationale": "Derivan de monocitos de la sangre."
+                    }
+                ],
+                "hint": "Los monocitos pueden transformarse en macrófagos tisulares."
+            },
+            {
+                "question": "¿Qué efecto tienen las células dendríticas y los macrófagos?",
+                "options": [
+                    {
+                        "text": "Efecto inmunoestimulante como células presentadoras de antígeno (CPA)",
+                        "isCorrect": true,
+                        "rationale": "Las células dendríticas y los macrófagos tienen un efecto inmunoestimulante, como células presentadoras de antígeno (CPA)."
+                    },
+                    {
+                        "text": "Suprimir el sistema inmune",
+                        "isCorrect": false,
+                        "rationale": "Tienen efecto estimulante, no supresor."
+                    },
+                    {
+                        "text": "Producir anticuerpos",
+                        "isCorrect": false,
+                        "rationale": "Los anticuerpos son producidos por linfocitos B activados."
+                    },
+                    {
+                        "text": "Destruir células propias",
+                        "isCorrect": false,
+                        "rationale": "Presentan antígenos para activar la respuesta inmune."
+                    }
+                ],
+                "hint": "'Presentan' los antígenos a los linfocitos para activarlos."
+            },
+            {
+                "question": "¿Qué ocurre con el número de leucocitos en infecciones y enfermedades locales?",
+                "options": [
+                    {
+                        "text": "Aumenta considerablemente porque los leucocitos pueden entrar en los tejidos",
+                        "isCorrect": true,
+                        "rationale": "El número de células aumenta considerablemente en las infecciones y enfermedades locales, ya que los leucocitos pueden dejar la circulación y entrar en los tejidos extravasculares."
+                    },
+                    {
+                        "text": "Disminuye",
+                        "isCorrect": false,
+                        "rationale": "Aumenta, no disminuye."
+                    },
+                    {
+                        "text": "Permanece igual",
+                        "isCorrect": false,
+                        "rationale": "Aumenta considerablemente."
+                    },
+                    {
+                        "text": "Solo aumentan los eritrocitos",
+                        "isCorrect": false,
+                        "rationale": "Son los leucocitos los que aumentan."
+                    }
+                ],
+                "hint": "La 'leucocitosis' es el aumento de glóbulos blancos en infecciones."
+            }
+        ]
+    }
+]
+  }
 };

@@ -1,0 +1,162 @@
+[
+  {
+    "question": "¿Qué es la miositis?",
+    "options": [
+      { "text": "La inflamación de un músculo estriado", "isCorrect": true, "rationale": "La miositis es la inflamación de un músculo estriado." },
+      { "text": "La inflamación del tendón", "isCorrect": false, "rationale": "La inflamación del tendón se llama tendinitis." },
+      { "text": "La ruptura de fibras musculares", "isCorrect": false, "rationale": "La ruptura de fibras corresponde a un desgarro muscular." },
+      { "text": "La inflamación de una articulación", "isCorrect": false, "rationale": "La inflamación articular se llama artritis." }
+    ],
+    "hint": "El sufijo '-itis' indica inflamación."
+  },
+  {
+    "question": "¿Cuáles son las causas de la miositis?",
+    "options": [
+      { "text": "Lesión del músculo, infección o enfermedad autoinmune", "isCorrect": true, "rationale": "La miositis puede deberse a lesión muscular, infección o enfermedad autoinmune." },
+      { "text": "Solo por traumatismos directos", "isCorrect": false, "rationale": "Existen otras causas además de los traumatismos." },
+      { "text": "Exclusivamente por enfermedades genéticas", "isCorrect": false, "rationale": "Las enfermedades genéticas causan distrofias, no necesariamente miositis." },
+      { "text": "Únicamente por sobrecarga muscular", "isCorrect": false, "rationale": "La sobrecarga es una causa, pero hay otras." }
+    ],
+    "hint": "Incluye causas traumáticas, infecciosas e inmunes."
+  },
+  {
+    "question": "¿Qué agentes infecciosos pueden causar miositis?",
+    "options": [
+      { "text": "Virus como el de la gripe, parásitos como triquinosis y toxoplasmosis, y bacterias", "isCorrect": true, "rationale": "Virus (gripe), parásitos (triquinosis, toxoplasmosis) y bacterias (Clostridium, Streptococcus) pueden causar miositis." },
+      { "text": "Solo virus", "isCorrect": false, "rationale": "También bacterias y parásitos pueden causar miositis." },
+      { "text": "Exclusivamente bacterias", "isCorrect": false, "rationale": "Virus y parásitos también pueden causarla." },
+      { "text": "Solo hongos", "isCorrect": false, "rationale": "El texto menciona virus, parásitos y bacterias, no hongos." }
+    ],
+    "hint": "Incluye virus de la gripe, triquinosis, toxoplasmosis, Clostridium y Streptococcus."
+  },
+  {
+    "question": "¿Cuáles son los síntomas típicos de la miositis?",
+    "options": [
+      { "text": "Dolor intenso, inflamación local e impotencia funcional", "isCorrect": true, "rationale": "La miositis generalmente cursa con dolor intenso, inflamación local e impotencia funcional del músculo afectado." },
+      { "text": "Solo dolor leve", "isCorrect": false, "rationale": "La miositis típicamente produce dolor intenso." },
+      { "text": "Debilidad muscular sin dolor", "isCorrect": false, "rationale": "El dolor es un síntoma característico." },
+      { "text": "Rigidez articular exclusivamente", "isCorrect": false, "rationale": "Los síntomas son musculares, no articulares." }
+    ],
+    "hint": "Afecta la función del músculo inflamado."
+  },
+  {
+    "question": "¿Qué es la tenosinovitis?",
+    "options": [
+      { "text": "La inflamación de la vaina sinovial", "isCorrect": true, "rationale": "La tenosinovitis es la inflamación de la vaina sinovial que rodea un tendón." },
+      { "text": "La inflamación del tendón", "isCorrect": false, "rationale": "La inflamación del tendón se llama tendinitis." },
+      { "text": "La inflamación del músculo", "isCorrect": false, "rationale": "La inflamación del músculo se llama miositis." },
+      { "text": "La inflamación de la vaina fibrosa", "isCorrect": false, "rationale": "La tenosinovitis afecta específicamente la vaina sinovial." }
+    ],
+    "hint": "Afecta la estructura que facilita el deslizamiento del tendón."
+  },
+  {
+    "question": "¿Cuáles son las causas de la tenosinovitis?",
+    "options": [
+      { "text": "Desconocida, lesión traumática, tensión extrema o infección", "isCorrect": true, "rationale": "La causa puede ser desconocida, traumática, por tensión extrema o infecciosa." },
+      { "text": "Solo por infecciones", "isCorrect": false, "rationale": "Existen múltiples causas además de las infecciones." },
+      { "text": "Exclusivamente por traumatismos", "isCorrect": false, "rationale": "Los traumatismos son una causa, pero no la única." },
+      { "text": "Únicamente por movimientos repetitivos", "isCorrect": false, "rationale": "Los movimientos repetitivos causan tensión extrema, pero hay otras causas." }
+    ],
+    "hint": "Puede no tener causa identificable o deberse a varios factores."
+  },
+  {
+    "question": "¿Qué regiones son más afectadas por la tenosinovitis?",
+    "options": [
+      { "text": "La región del carpo, las manos y los pies", "isCorrect": true, "rationale": "Las zonas más afectadas son la región del carpo, las manos y los pies." },
+      { "text": "El hombro y la cadera", "isCorrect": false, "rationale": "Estas regiones no son las más típicas para tenosinovitis." },
+      { "text": "La columna vertebral", "isCorrect": false, "rationale": "La columna no es una zona típica de tenosinovitis." },
+      { "text": "Los músculos faciales", "isCorrect": false, "rationale": "La cara no es región de tenosinovitis." }
+    ],
+    "hint": "Son zonas donde los tendones tienen vainas sinoviales importantes."
+  },
+  {
+    "question": "¿Cuáles son los síntomas clínicos de la tenosinovitis?",
+    "options": [
+      { "text": "Dolor y dificultad para mover una articulación", "isCorrect": true, "rationale": "La tenosinovitis se manifiesta con dolor y dificultad para mover una articulación." },
+      { "text": "Solo dolor en reposo", "isCorrect": false, "rationale": "El dolor se presenta especialmente con el movimiento." },
+      { "text": "Parálisis completa del miembro", "isCorrect": false, "rationale": "No produce parálisis, sino dificultad para mover." },
+      { "text": "Hinchazón sin dolor", "isCorrect": false, "rationale": "El dolor es un síntoma principal." }
+    ],
+    "hint": "Especialmente se nota al mover la articulación afectada."
+  },
+  {
+    "question": "¿Qué signos pueden indicar infección en una tenosinovitis?",
+    "options": [
+      { "text": "Fiebre, inflamación y enrojecimiento de la zona", "isCorrect": true, "rationale": "La fiebre, inflamación y enrojecimiento pueden indicar infección, especialmente con antecedente de lesión penetrante." },
+      { "text": "Solo dolor crónico", "isCorrect": false, "rationale": "El dolor crónico no es signo específico de infección." },
+      { "text": "Entumecimiento del miembro", "isCorrect": false, "rationale": "El entumecimiento no es signo típico de infección en tenosinovitis." },
+      { "text": "Rigidez matutina exclusivamente", "isCorrect": false, "rationale": "Los signos de infección incluyen fiebre, inflamación y enrojecimiento." }
+    ],
+    "hint": "Son signos inflamatorios sistémicos y locales."
+  },
+  {
+    "question": "¿Qué es un desgarro muscular?",
+    "options": [
+      { "text": "Una lesión en la que el músculo o sus fibras se distienden y rompen", "isCorrect": true, "rationale": "Un desgarro es una lesión donde el músculo se distiende y se rompen todas o parte de sus fibras." },
+      { "text": "Una inflamación del músculo", "isCorrect": false, "rationale": "La inflamación muscular es miositis, no desgarro." },
+      { "text": "Un calambre muscular intenso", "isCorrect": false, "rationale": "El desgarro implica daño estructural, no es solo un calambre." },
+      { "text": "Una contusión muscular", "isCorrect": false, "rationale": "La contusión es un golpe, el desgarro es por estiramiento." }
+    ],
+    "hint": "Es una lesión por estiramiento excesivo y violento."
+  },
+  {
+    "question": "¿Cuál es la causa principal de los desgarros musculares?",
+    "options": [
+      { "text": "Un estiramiento excesivo y violento", "isCorrect": true, "rationale": "Los desgarros surgen como consecuencia de un estiramiento excesivo y violento." },
+      { "text": "Una inflamación crónica", "isCorrect": false, "rationale": "La causa es traumática, no inflamatoria." },
+      { "text": "Una infección bacteriana", "isCorrect": false, "rationale": "Los desgarros no son causados por infecciones." },
+      { "text": "Una enfermedad autoinmune", "isCorrect": false, "rationale": "Los desgarros son lesiones mecánicas." }
+    ],
+    "hint": "Ocurre cuando se estira el músculo más allá de su capacidad."
+  },
+  {
+    "question": "¿En qué regiones son más frecuentes los desgarros musculares?",
+    "options": [
+      { "text": "Región infraescapular, lumbar y posterior del muslo", "isCorrect": true, "rationale": "Los desgarros son frecuentes en las regiones infraescapular, lumbar y posterior del muslo." },
+      { "text": "En los músculos de la cara", "isCorrect": false, "rationale": "Los músculos faciales raramente se desgarran." },
+      { "text": "En los músculos de la mano", "isCorrect": false, "rationale": "Las manos no son las regiones más típicas para desgarros." },
+      { "text": "En los músculos abdominales", "isCorrect": false, "rationale": "Las regiones más afectadas son espalda y muslo." }
+    ],
+    "hint": "Incluyen la espalda baja y los isquiotibiales."
+  },
+  {
+    "question": "¿Qué puede causar la ruptura de un tendón?",
+    "options": [
+      { "text": "Ruptura espontánea o traumatismo directo o indirecto", "isCorrect": true, "rationale": "Los tendones pueden romperse espontáneamente o por traumatismo directo (herida) o indirecto (tracción violenta)." },
+      { "text": "Solo por heridas penetrantes", "isCorrect": false, "rationale": "También pueden ser rupturas espontáneas o por tracción indirecta." },
+      { "text": "Exclusivamente por enfermedad", "isCorrect": false, "rationale": "Los traumatismos son una causa frecuente." },
+      { "text": "Únicamente por sobreuso crónico", "isCorrect": false, "rationale": "Existen rupturas agudas espontáneas o traumáticas." }
+    ],
+    "hint": "Pueden ser sin causa externa aparente o por lesión."
+  },
+  {
+    "question": "¿En qué pacientes se produce típicamente la ruptura del tendón calcáneo (Aquiles)?",
+    "options": [
+      { "text": "Pacientes de 40 años o más, realizando deporte o subiendo escaleras", "isCorrect": true, "rationale": "La ruptura del tendón de Aquiles se produce en pacientes de 40+ años, a menudo durante actividad física." },
+      { "text": "Exclusivamente en atletas jóvenes", "isCorrect": false, "rationale": "Es más común en personas de 40 años o más." },
+      { "text": "Solo en personas sedentarias", "isCorrect": false, "rationale": "A menudo ocurre durante actividad física." },
+      { "text": "Únicamente en ancianos", "isCorrect": false, "rationale": "Es típico desde los 40 años, no exclusivamente en ancianos." }
+    ],
+    "hint": "Ocurre frecuentemente durante deporte o actividad física en adultos."
+  },
+  {
+    "question": "¿Cuáles son los síntomas de la ruptura del tendón calcáneo?",
+    "options": [
+      { "text": "Dolor intenso súbito, incapacidad funcional y depresión palpable en el tendón", "isCorrect": true, "rationale": "El paciente siente dolor intenso súbito, incapacidad funcional y se palpa una depresión en el tendón." },
+      { "text": "Solo dolor leve progresivo", "isCorrect": false, "rationale": "El dolor es intenso y súbito, no leve ni progresivo." },
+      { "text": "Hinchazón sin dolor", "isCorrect": false, "rationale": "El dolor es un síntoma principal." },
+      { "text": "Rigidez matutina únicamente", "isCorrect": false, "rationale": "Los síntomas son agudos y relacionados con la ruptura." }
+    ],
+    "hint": "El paciente no puede pararse en puntas de pie."
+  },
+  {
+    "question": "¿Qué puede causar la ruptura del tendón calcáneo además del traumatismo?",
+    "options": [
+      { "text": "Proceso degenerativo previo, tendinitis crónica o esfuerzo inadecuado", "isCorrect": true, "rationale": "La ruptura puede producirse por degeneración previa, tendinitis crónica o esfuerzo inadecuado para el entrenamiento." },
+      { "text": "Solo por golpe directo", "isCorrect": false, "rationale": "Existen causas degenerativas y de sobreuso." },
+      { "text": "Exclusivamente por infección", "isCorrect": false, "rationale": "La infección no es causa típica de ruptura tendinosa." },
+      { "text": "Únicamente por enfermedad autoinmune", "isCorrect": false, "rationale": "Las causas principales son degenerativas y mecánicas." }
+    ],
+    "hint": "Incluye factores predisponentes del propio tendón."
+  }
+]

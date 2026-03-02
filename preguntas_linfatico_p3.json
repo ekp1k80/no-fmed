@@ -1,0 +1,444 @@
+[
+  {
+    "question": "¿Cómo se ven los nodos y vasos linfáticos en estado normal en el ser vivo?",
+    "options": [
+      {
+        "text": "Son inaparentes en estado normal",
+        "isCorrect": true,
+        "rationale": "Los nodos y vasos linfáticos son inaparentes en estado normal."
+      },
+      {
+        "text": "Son muy visibles bajo la piel",
+        "isCorrect": false,
+        "rationale": "En estado normal son inaparentes."
+      },
+      {
+        "text": "Siempre son palpables",
+        "isCorrect": false,
+        "rationale": "Solo algunos nodos son palpables en sujetos delgados."
+      },
+      {
+        "text": "Son rojos y prominentes",
+        "isCorrect": false,
+        "rationale": "Son inaparentes en estado normal."
+      }
+    ],
+    "hint": "No se ven ni se palpan fácilmente cuando todo está bien."
+  },
+  {
+    "question": "¿Qué nodos superficiales pueden ser visibles o palpables en ciertos sujetos?",
+    "options": [
+      {
+        "text": "Algunos nodos superficiales en sujetos delgados",
+        "isCorrect": true,
+        "rationale": "Algunos nodos superficiales son visibles o palpables en ciertos sujetos delgados."
+      },
+      {
+        "text": "Todos los nodos siempre",
+        "isCorrect": false,
+        "rationale": "Solo algunos en sujetos delgados."
+      },
+      {
+        "text": "Solo los nodos profundos",
+        "isCorrect": false,
+        "rationale": "Los nodos superficiales son los que pueden verse."
+      },
+      {
+        "text": "Ningún nodo es palpable",
+        "isCorrect": false,
+        "rationale": "Algunos nodos superficiales pueden palparse en delgados."
+      }
+    ],
+    "hint": "Depende de la constitución física de la persona."
+  },
+  {
+    "question": "¿Cuándo son visibles las redes linfáticas superficiales?",
+    "options": [
+      {
+        "text": "Cuando están inflamadas (linfangitis)",
+        "isCorrect": true,
+        "rationale": "Las redes superficiales son visibles cuando están inflamadas (linfangitis)."
+      },
+      {
+        "text": "Siempre son visibles",
+        "isCorrect": false,
+        "rationale": "Solo son visibles cuando están inflamadas."
+      },
+      {
+        "text": "Solo en ancianos",
+        "isCorrect": false,
+        "rationale": "Son visibles cuando hay inflamación."
+      },
+      {
+        "text": "Nunca son visibles",
+        "isCorrect": false,
+        "rationale": "Son visibles en caso de linfangitis."
+      }
+    ],
+    "hint": "La inflamación las hace evidentes."
+  },
+  {
+    "question": "¿Por qué se hipertrofian los nodos linfáticos?",
+    "options": [
+      {
+        "text": "Frente a inflamación e infección, ya que constituyen una barrera antiinfecciosa",
+        "isCorrect": true,
+        "rationale": "Los nodos se hipertrofian frente a la inflamación y la infección, puesto que constituyen una barrera antiinfecciosa."
+      },
+      {
+        "text": "Por ejercicio físico",
+        "isCorrect": false,
+        "rationale": "Se hipertrofian por inflamación e infección."
+      },
+      {
+        "text": "Por dieta rica en grasas",
+        "isCorrect": false,
+        "rationale": "Se hipertrofian por procesos inflamatorios e infecciosos."
+      },
+      {
+        "text": "Por edad avanzada",
+        "isCorrect": false,
+        "rationale": "Se hipertrofian como respuesta a inflamación e infección."
+      }
+    ],
+    "hint": "Se agrandan cuando 'trabajan' contra infecciones."
+  },
+  {
+    "question": "¿En qué otras condiciones se hipertrofian los nodos linfáticos además de infecciones?",
+    "options": [
+      {
+        "text": "En enfermedades propias del tejido linfático (infecciones, cánceres del tejido linfático)",
+        "isCorrect": true,
+        "rationale": "Los nodos se hipertrofian igualmente en ciertas enfermedades que le son propias: infecciones, cánceres del tejido linfático, etc."
+      },
+      {
+        "text": "Solo en infecciones bacterianas",
+        "isCorrect": false,
+        "rationale": "También en enfermedades propias del tejido linfático."
+      },
+      {
+        "text": "Solo en traumatismos",
+        "isCorrect": false,
+        "rationale": "Se hipertrofian en enfermedades del tejido linfático."
+      },
+      {
+        "text": "Solo en personas mayores",
+        "isCorrect": false,
+        "rationale": "Pueden afectar a cualquier edad."
+      }
+    ],
+    "hint": "Incluye linfomas y otras enfermedades linfáticas."
+  },
+  {
+    "question": "¿Qué puede ocurrir con los nodos que drenan un órgano con cáncer?",
+    "options": [
+      {
+        "text": "Pueden estar invadidos por células neoplásicas",
+        "isCorrect": true,
+        "rationale": "Los nodos que drenan un órgano con cáncer pueden estar invadidos por células neoplásicas."
+      },
+      {
+        "text": "Siempre permanecen normales",
+        "isCorrect": false,
+        "rationale": "Pueden ser invadidos por células cancerosas."
+      },
+      {
+        "text": "Se encogen",
+        "isCorrect": false,
+        "rationale": "Pueden agrandarse por invasión tumoral."
+      },
+      {
+        "text": "Desaparecen",
+        "isCorrect": false,
+        "rationale": "Pueden ser invadidos y agrandarse."
+      }
+    ],
+    "hint": "El cáncer puede diseminarse a través de los ganglios."
+  },
+  {
+    "question": "¿Qué expresa una adenopatía en un nodo que drena un órgano con cáncer?",
+    "options": [
+      {
+        "text": "La diseminación del cáncer más allá del órgano inicial",
+        "isCorrect": true,
+        "rationale": "En estos casos la adenopatía expresa la diseminación del cáncer, más allá del órgano inicial."
+      },
+      {
+        "text": "Una infección local",
+        "isCorrect": false,
+        "rationale": "Expresa diseminación del cáncer."
+      },
+      {
+        "text": "Una respuesta inmune normal",
+        "isCorrect": false,
+        "rationale": "Indica que el cáncer se ha diseminado."
+      },
+      {
+        "text": "Que el cáncer está curado",
+        "isCorrect": false,
+        "rationale": "Indica diseminación, no curación."
+      }
+    ],
+    "hint": "'Adenopatía' = ganglio agrandado, en este caso por metástasis."
+  },
+  {
+    "question": "¿Qué es una adenopatía?",
+    "options": [
+      {
+        "text": "Un ganglio linfático agrandado o inflamado",
+        "isCorrect": true,
+        "rationale": "Una adenopatía es el aumento de tamaño de un ganglio linfático, que puede ser por inflamación, infección o invasión tumoral."
+      },
+      {
+        "text": "Una infección de la sangre",
+        "isCorrect": false,
+        "rationale": "Es el agrandamiento de un ganglio."
+      },
+      {
+        "text": "Un tipo de cáncer",
+        "isCorrect": false,
+        "rationale": "Es un signo, no un tipo de cáncer específico."
+      },
+      {
+        "text": "Una enfermedad de la piel",
+        "isCorrect": false,
+        "rationale": "Afecta a los ganglios linfáticos."
+      }
+    ],
+    "hint": "'Adeno' = glándula/ganglio, 'patía' = enfermedad."
+  },
+  {
+    "question": "¿Qué función de barrera cumplen los nodos linfáticos?",
+    "options": [
+      {
+        "text": "Funcionan como barrera antiinfecciosa",
+        "isCorrect": true,
+        "rationale": "Los nodos linfáticos constituyen una barrera antiinfecciosa, filtrando la linfa y capturando agentes patógenos."
+      },
+      {
+        "text": "Barrera mecánica contra traumatismos",
+        "isCorrect": false,
+        "rationale": "Son barrera biológica, no mecánica."
+      },
+      {
+        "text": "Barrera contra radiación",
+        "isCorrect": false,
+        "rationale": "Son barrera antiinfecciosa."
+      },
+      {
+        "text": "Barrera contra el frío",
+        "isCorrect": false,
+        "rationale": "Filtran agentes infecciosos de la linfa."
+      }
+    ],
+    "hint": "Filtran la linfa atrapando gérmenes."
+  },
+  {
+    "question": "¿Por qué es importante palpar los ganglios en el examen físico?",
+    "options": [
+      {
+        "text": "Porque su agrandamiento puede indicar infección o cáncer",
+        "isCorrect": true,
+        "rationale": "La palpación de ganglios es importante porque su agrandamiento puede indicar infección local, enfermedad sistémica o diseminación de cáncer."
+      },
+      {
+        "text": "Porque siempre están visibles",
+        "isCorrect": false,
+        "rationale": "En estado normal son inaparentes."
+      },
+      {
+        "text": "No tiene importancia clínica",
+        "isCorrect": false,
+        "rationale": "Es muy importante para el diagnóstico."
+      },
+      {
+        "text": "Solo para detectar anemia",
+        "isCorrect": false,
+        "rationale": "Detecta patología linfática, no anemia."
+      }
+    ],
+    "hint": "Los ganglios aumentados son un signo clínico importante."
+  },
+  {
+    "question": "¿Qué son la linfangitis y la linfadenitis?",
+    "options": [
+      {
+        "text": "Inflamación de vasos linfáticos (linfangitis) o de nodos linfáticos (linfadenitis)",
+        "isCorrect": true,
+        "rationale": "Durante un proceso inflamatorio, la linfa puede transportar el agente causal ocasionando inflamación de vasos linfáticos (linfangitis) o de nodos (linfadenitis)."
+      },
+      {
+        "text": "Inflamación de vasos sanguíneos",
+        "isCorrect": false,
+        "rationale": "Afectan el sistema linfático, no sanguíneo."
+      },
+      {
+        "text": "Cáncer de ganglios",
+        "isCorrect": false,
+        "rationale": "Son inflamaciones, no necesariamente cáncer."
+      },
+      {
+        "text": "Infecciones virales únicamente",
+        "isCorrect": false,
+        "rationale": "Pueden ser causadas por agentes infecciosos o químicos."
+      }
+    ],
+    "hint": "El sufijo '-itis' indica inflamación."
+  },
+  {
+    "question": "¿Qué ocurre durante un proceso inflamatorio con el flujo linfático?",
+    "options": [
+      {
+        "text": "Aumenta para ayudar a drenar el líquido del edema de la región afectada",
+        "isCorrect": true,
+        "rationale": "Durante un proceso inflamatorio, el flujo linfático aumenta para ayudar a drenar el líquido del edema de la región afectada."
+      },
+      {
+        "text": "Disminuye",
+        "isCorrect": false,
+        "rationale": "El flujo aumenta para ayudar al drenaje."
+      },
+      {
+        "text": "Se detiene",
+        "isCorrect": false,
+        "rationale": "Aumenta para ayudar a la zona afectada."
+      },
+      {
+        "text": "No cambia",
+        "isCorrect": false,
+        "rationale": "Aumenta como respuesta a la inflamación."
+      }
+    ],
+    "hint": "El sistema linfático ayuda a limpiar el exceso de líquido."
+  },
+  {
+    "question": "¿Qué es el linfedema?",
+    "options": [
+      {
+        "text": "Edema causado por falla en el funcionamiento del sistema linfático",
+        "isCorrect": true,
+        "rationale": "El linfedema es el edema causado por una falla en el normal funcionamiento de los componentes del sistema linfático."
+      },
+      {
+        "text": "Edema por insuficiencia cardíaca",
+        "isCorrect": false,
+        "rationale": "El linfedema es específicamente por falla linfática."
+      },
+      {
+        "text": "Edema por problemas renales",
+        "isCorrect": false,
+        "rationale": "El linfedema es por disfunción del sistema linfático."
+      },
+      {
+        "text": "Hinchazón temporal",
+        "isCorrect": false,
+        "rationale": "Es un edema por falla del sistema linfático."
+      }
+    ],
+    "hint": "'Linf-' indica que el origen es el sistema linfático."
+  },
+  {
+    "question": "¿Qué ocurre cuando se resecan los nodos linfáticos?",
+    "options": [
+      {
+        "text": "El territorio drenado acumula linfa en el intersticio (linfedema)",
+        "isCorrect": true,
+        "rationale": "Cuando se resecan nodos linfáticos, el territorio que drenaba allí ya no puede hacerlo y se acumula linfa en el intersticio. Ejemplo: linfedema en brazo tras resección de nodos axilares por cáncer de mama."
+      },
+      {
+        "text": "El drenaje mejora",
+        "isCorrect": false,
+        "rationale": "El drenaje se ve afectado negativamente."
+      },
+      {
+        "text": "No hay consecuencias",
+        "isCorrect": false,
+        "rationale": "Genera linfedema en el territorio afectado."
+      },
+      {
+        "text": "Se forman nuevos nodos",
+        "isCorrect": false,
+        "rationale": "No se regeneran los nodos, causando linfedema."
+      }
+    ],
+    "hint": "Es una complicación común después de cirugía oncológica."
+  },
+  {
+    "question": "¿Qué es la metástasis?",
+    "options": [
+      {
+        "text": "Aparición de células tumorales en un sitio diferente del que originó al tumor",
+        "isCorrect": true,
+        "rationale": "La metástasis es la aparición de células tumorales separadas en un sitio diferente del que originó al tumor."
+      },
+      {
+        "text": "El tumor original",
+        "isCorrect": false,
+        "rationale": "Es la diseminación a otros sitios, no el tumor original."
+      },
+      {
+        "text": "Un tipo de cáncer benigno",
+        "isCorrect": false,
+        "rationale": "Es característica de tumores malignos."
+      },
+      {
+        "text": "La curación del tumor",
+        "isCorrect": false,
+        "rationale": "Es la diseminación del cáncer, lo opuesto a la curación."
+      }
+    ],
+    "hint": "Es la propagación del cáncer a otras partes del cuerpo."
+  },
+  {
+    "question": "¿Por qué vías pueden diseminarse los cánceres?",
+    "options": [
+      {
+        "text": "Hematógena (sangre), linfática o siembra de cavidades orgánicas",
+        "isCorrect": true,
+        "rationale": "Los cánceres pueden diseminarse por tres vías: hematógena (por sangre), linfática o por siembra de cavidades orgánicas (peritoneo, pleura)."
+      },
+      {
+        "text": "Solo por sangre",
+        "isCorrect": false,
+        "rationale": "Hay tres vías de diseminación."
+      },
+      {
+        "text": "Solo por linfa",
+        "isCorrect": false,
+        "rationale": "Hay múltiples vías de diseminación."
+      },
+      {
+        "text": "Solo por contacto directo",
+        "isCorrect": false,
+        "rationale": "Las tres vías principales son hematógena, linfática y siembra."
+      }
+    ],
+    "hint": "Pueden viajar por sangre, linfa o sembrar cavidades."
+  },
+  {
+    "question": "¿Qué característica tienen los tumores malignos respecto a la metástasis?",
+    "options": [
+      {
+        "text": "Pueden penetrar en vasos sanguíneos o linfáticos y cavidades para diseminarse",
+        "isCorrect": true,
+        "rationale": "Los tumores malignos pueden penetrar en los vasos sanguíneos o linfáticos y en las cavidades corporales para diseminarse hacia otras regiones."
+      },
+      {
+        "text": "Nunca se diseminan",
+        "isCorrect": false,
+        "rationale": "Los malignos sí pueden diseminarse."
+      },
+      {
+        "text": "Solo crecen localmente",
+        "isCorrect": false,
+        "rationale": "Los malignos tienen capacidad de invasión y metástasis."
+      },
+      {
+        "text": "Se diseminan solo por contacto",
+        "isCorrect": false,
+        "rationale": "Pueden diseminarse por múltiples vías."
+      }
+    ],
+    "hint": "La capacidad de metástasis distingue malignos de benignos."
+  }
+]

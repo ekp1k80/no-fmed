@@ -1,0 +1,172 @@
+[
+  {
+    "question": "¿Cuál es la forma característica de los músculos largos o fusiformes?",
+    "options": [
+      { "text": "Forma de huso con vientre grueso y extremos adelgazados", "isCorrect": true, "rationale": "Los músculos fusiformes tienen forma de huso, con un vientre central grueso y extremos más delgados." },
+      { "text": "Forma plana y ancha", "isCorrect": false, "rationale": "Esta es la forma de los músculos planos, no de los fusiformes." },
+      { "text": "Forma cuadrangular", "isCorrect": false, "rationale": "Esta es la forma de los músculos cuadrados." },
+      { "text": "Forma circular", "isCorrect": false, "rationale": "Esta es la forma de los músculos esfinterianos." }
+    ],
+    "hint": "Su nombre hace referencia a un objeto alargado que se usa en hilandería."
+  },
+  {
+    "question": "¿Dónde se encuentran principalmente los músculos fusiformes?",
+    "options": [
+      { "text": "En los miembros", "isCorrect": true, "rationale": "Los músculos fusiformes se encuentran especialmente en los miembros." },
+      { "text": "En las paredes del tronco", "isCorrect": false, "rationale": "En las paredes del tronco predominan los músculos planos." },
+      { "text": "En la cara", "isCorrect": false, "rationale": "En la cara predominan los músculos cutáneos de la mímica." },
+      { "text": "Alrededor de los orificios", "isCorrect": false, "rationale": "Alrededor de orificios se encuentran los músculos esfinterianos." }
+    ],
+    "hint": "Son típicos de las extremidades, como el bíceps braquial."
+  },
+  {
+    "question": "¿Qué característica tienen los músculos fusiformes más superficiales respecto a las articulaciones?",
+    "options": [
+      { "text": "Son los más largos y pueden cruzar dos articulaciones", "isCorrect": true, "rationale": "Los músculos fusiformes más superficiales son los más largos y algunos pueden cruzar dos articulaciones." },
+      { "text": "Son los más cortos y cruzan una sola articulación", "isCorrect": false, "rationale": "Los más cortos son músculos profundos, no superficiales." },
+      { "text": "No cruzan ninguna articulación", "isCorrect": false, "rationale": "Los músculos fusiformes sí cruzan articulaciones para generar movimiento." },
+      { "text": "Cruzan siempre tres o más articulaciones", "isCorrect": false, "rationale": "Los músculos fusiformes pueden cruzar una o dos articulaciones." }
+    ],
+    "hint": "Ejemplos son el bíceps braquial y el semimembranoso."
+  },
+  {
+    "question": "¿Dónde se localizan principalmente los músculos anchos o planos?",
+    "options": [
+      { "text": "En las paredes de grandes cavidades como tórax y abdomen", "isCorrect": true, "rationale": "Los músculos planos se encuentran en las paredes del tórax y el abdomen." },
+      { "text": "En los miembros", "isCorrect": false, "rationale": "En los miembros predominan los músculos fusiformes." },
+      { "text": "En la cara", "isCorrect": false, "rationale": "Los músculos faciales son principalmente cutáneos." },
+      { "text": "En las articulaciones pequeñas", "isCorrect": false, "rationale": "En articulaciones pequeñas se encuentran músculos cortos." }
+    ],
+    "hint": "Forman las paredes de cavidades importantes del cuerpo."
+  },
+  {
+    "question": "¿Qué forma pueden presentar los músculos planos?",
+    "options": [
+      { "text": "Triangular, acintada o plana curva", "isCorrect": true, "rationale": "Los músculos planos pueden tener forma triangular, acintada, plana o curva." },
+      { "text": "Solo forma rectangular", "isCorrect": false, "rationale": "Los músculos planos pueden tener formas variadas, no solo rectangular." },
+      { "text": "Exclusivamente forma circular", "isCorrect": false, "rationale": "La forma circular corresponde a los músculos esfinterianos." },
+      { "text": "Solo forma de huso", "isCorrect": false, "rationale": "La forma de huso corresponde a los músculos fusiformes." }
+    ],
+    "hint": "Su forma es variable: pueden ser triangulares, acintados, etc."
+  },
+  {
+    "question": "¿Qué músculo plano forma un tabique de separación?",
+    "options": [
+      { "text": "El músculo diafragma", "isCorrect": true, "rationale": "El diafragma es un músculo plano que forma un tabique entre tórax y abdomen." },
+      { "text": "El músculo pectoral mayor", "isCorrect": false, "rationale": "El pectoral mayor es un músculo convergente, no forma tabique." },
+      { "text": "El músculo deltoides", "isCorrect": false, "rationale": "El deltoides es un músculo multipenniforme." },
+      { "text": "El músculo bíceps", "isCorrect": false, "rationale": "El bíceps es un músculo fusiforme." }
+    ],
+    "hint": "Separa la cavidad torácica de la abdominal."
+  },
+  {
+    "question": "¿En qué tipo de articulaciones se encuentran los músculos cortos?",
+    "options": [
+      { "text": "En articulaciones con movimientos poco extensos", "isCorrect": true, "rationale": "Los músculos cortos se encuentran en articulaciones donde los movimientos son poco extensos." },
+      { "text": "En articulaciones con gran amplitud de movimiento", "isCorrect": false, "rationale": "Las articulaciones con gran amplitud tienen músculos más largos." },
+      { "text": "Solo en articulaciones inmóviles", "isCorrect": false, "rationale": "Los músculos cortos sí generan movimiento, aunque sea limitado." },
+      { "text": "Exclusivamente en el tronco", "isCorrect": false, "rationale": "Un ejemplo típico está en la mano (eminencia tenar)." }
+    ],
+    "hint": "Ejemplo: músculos de la eminencia tenar en la mano."
+  },
+  {
+    "question": "¿Qué característica tienen los músculos cortos respecto a su fuerza y especialización?",
+    "options": [
+      { "text": "Pueden ser fuertes y especializados a pesar de su tamaño", "isCorrect": true, "rationale": "Los músculos cortos pueden tener gran fuerza y especialización, como los de la eminencia tenar." },
+      { "text": "Son siempre débiles por su tamaño reducido", "isCorrect": false, "rationale": "El tamaño no determina la fuerza; los cortos pueden ser muy fuertes." },
+      { "text": "No tienen funciones especializadas", "isCorrect": false, "rationale": "Los músculos cortos pueden ser muy especializados." },
+      { "text": "Solo generan movimientos groseros", "isCorrect": false, "rationale": "Los músculos cortos a menudo realizan movimientos finos y precisos." }
+    ],
+    "hint": "Piensa en los movimientos finos del pulgar realizados por músculos cortos."
+  },
+  {
+    "question": "¿Cómo se disponen las fibras en los músculos penniformes?",
+    "options": [
+      { "text": "De manera oblicua con respecto a un tendón central", "isCorrect": true, "rationale": "En los músculos penniformes, las fibras se disponen oblicuamente respecto a un tendón que forma un eje." },
+      { "text": "Paralelas al eje longitudinal del músculo", "isCorrect": false, "rationale": "Esta disposición es típica de los músculos fusiformes." },
+      { "text": "En forma circular alrededor de un orificio", "isCorrect": false, "rationale": "Esta es la disposición de los músculos esfinterianos." },
+      { "text": "De forma completamente aleatoria", "isCorrect": false, "rationale": "Las fibras penniformes tienen una organización específica oblicua." }
+    ],
+    "hint": "Su nombre hace referencia a las barbas de las plumas."
+  },
+  {
+    "question": "¿Qué es un músculo semipenniforme?",
+    "options": [
+      { "text": "Aquel cuyos fascículos se ubican de un solo lado del tendón", "isCorrect": true, "rationale": "En los músculos semipenniformes, los fascículos se disponen de un solo lado del tendón." },
+      { "text": "Aquel cuyos fascículos se ubican en ambos lados del tendón", "isCorrect": false, "rationale": "Esta es la característica de los músculos penniformes completos." },
+      { "text": "Aquel que tiene varios ejes tendinosos", "isCorrect": false, "rationale": "Esta es la característica de los músculos multipenniformes." },
+      { "text": "Aquel que tiene forma de media pluma", "isCorrect": false, "rationale": "Aunque el nombre sugiere esto, la definición anatómica se refiere a la disposición de los fascículos." }
+    ],
+    "hint": "Ejemplo: músculo semitendinoso."
+  },
+  {
+    "question": "¿Qué caracteriza a un músculo multipenniforme?",
+    "options": [
+      { "text": "Tiene varios ejes tendinosos", "isCorrect": true, "rationale": "Los músculos multipenniformes tienen varios ejes tendinosos con fascículos dispuestos oblicuamente." },
+      { "text": "Tiene un solo eje tendinoso central", "isCorrect": false, "rationale": "Esto caracteriza a los músculos penniformes simples." },
+      { "text": "Tiene fascículos de un solo lado del tendón", "isCorrect": false, "rationale": "Esto caracteriza a los músculos semipenniformes." },
+      { "text": "No tiene tendones", "isCorrect": false, "rationale": "Todos los músculos penniformes tienen tendones." }
+    ],
+    "hint": "Ejemplo: músculo deltoides."
+  },
+  {
+    "question": "¿Cuál es un ejemplo de músculo penniforme (con fascículos en ambos lados)?",
+    "options": [
+      { "text": "Músculo recto femoral", "isCorrect": true, "rationale": "El recto femoral es un músculo penniforme con fascículos en ambos lados del tendón." },
+      { "text": "Músculo semitendinoso", "isCorrect": false, "rationale": "El semitendinoso es semipenniforme (fascículos de un solo lado)." },
+      { "text": "Músculo deltoides", "isCorrect": false, "rationale": "El deltoides es multipenniforme (varios ejes tendinosos)." },
+      { "text": "Músculo bíceps braquial", "isCorrect": false, "rationale": "El bíceps braquial es fusiforme." }
+    ],
+    "hint": "Es parte del cuádriceps femoral."
+  },
+  {
+    "question": "¿Cuál es la función principal de los músculos anulares o esfinterianos?",
+    "options": [
+      { "text": "Cerrar orificios", "isCorrect": true, "rationale": "Los músculos esfinterianos se disponen alrededor de orificios y aseguran su cierre." },
+      { "text": "Generar movimientos amplios", "isCorrect": false, "rationale": "Los músculos esfinterianos no generan movimientos amplios." },
+      { "text": "Rotar segmentos corporales", "isCorrect": false, "rationale": "La rotación es función de otros tipos musculares." },
+      { "text": "Flexionar articulaciones", "isCorrect": false, "rationale": "La flexión es realizada por otros tipos de músculos." }
+    ],
+    "hint": "Su disposición alrededor de orificios determina su función."
+  },
+  {
+    "question": "¿Qué otros nombres reciben los músculos esfinterianos?",
+    "options": [
+      { "text": "Orbiculares o esfínteres", "isCorrect": true, "rationale": "Los músculos esfinterianos también se llaman orbiculares o esfínteres." },
+      { "text": "Circulares o concéntricos", "isCorrect": false, "rationale": "El término correcto es orbiculares o esfínteres." },
+      { "text": "Anulares o de cierre", "isCorrect": false, "rationale": "Aunque describen la forma, los nombres técnicos son orbiculares y esfínteres." },
+      { "text": "Constrictores o dilatadores", "isCorrect": false, "rationale": "Los esfínteres son constrictores, pero dilatadores es otra función." }
+    ],
+    "hint": "Un ejemplo es el orbicular de los labios o de los ojos."
+  },
+  {
+    "question": "¿Qué es un músculo convergente?",
+    "options": [
+      { "text": "Un músculo que se origina en un área amplia y converge en un solo tendón", "isCorrect": true, "rationale": "Los músculos convergentes se originan en un área amplia y convergen para formar un solo tendón." },
+      { "text": "Un músculo que diverge desde un punto central", "isCorrect": false, "rationale": "Los músculos convergentes hacen lo contrario: convergen hacia un punto." },
+      { "text": "Un músculo que se divide en varios tendones", "isCorrect": false, "rationale": "Esta característica se encuentra en los músculos multífidos." },
+      { "text": "Un músculo con forma triangular invertida", "isCorrect": false, "rationale": "Aunque pueden ser triangulares, la definición se refiere a la convergencia." }
+    ],
+    "hint": "Ejemplo: músculo pectoral mayor."
+  },
+  {
+    "question": "¿Qué forma tiene un músculo cuadrado?",
+    "options": [
+      { "text": "Cuatro lados iguales", "isCorrect": true, "rationale": "Los músculos cuadrados tienen cuatro lados de aproximadamente igual longitud." },
+      { "text": "Forma de trapecio", "isCorrect": false, "rationale": "El trapecio tiene una forma diferente a la cuadrada." },
+      { "text": "Forma de rombo", "isCorrect": false, "rationale": "La forma romboidal no define los músculos cuadrados." },
+      { "text": "Forma rectangular alargada", "isCorrect": false, "rationale": "Un rectángulo alargado tendría lados desiguales." }
+    ],
+    "hint": "Ejemplo: músculo cuadrado femoral."
+  },
+  {
+    "question": "¿Qué característica especial tienen los músculos digástricos?",
+    "options": [
+      { "text": "Tienen dos vientres musculares separados por una interrupción tendinosa", "isCorrect": true, "rationale": "Los músculos digástricos tienen un tendón intermedio que origina dos vientres musculares." },
+      { "text": "Tienen dos inserciones óseas diferentes", "isCorrect": false, "rationale": "No es la característica definitoria; muchos músculos tienen dos inserciones." },
+      { "text": "Tienen dos funciones diferentes", "isCorrect": false, "rationale": "La característica es anatómica, no funcional." },
+      { "text": "Tienen dos articulaciones que cruzar", "isCorrect": false, "rationale": "Esto es característico de algunos músculos fusiformes, no define los digástricos." }
+    ],
+    "hint": "Su nombre significa 'dos vientres'."
+  }
+]

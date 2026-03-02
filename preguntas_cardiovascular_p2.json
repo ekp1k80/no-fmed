@@ -1,0 +1,152 @@
+[
+  {
+    "question": "¿Qué tres túnicas tiene una arteria?",
+    "options": [
+      { "text": "Túnica externa (adventicia), media e íntima (endotelio)", "isCorrect": true, "rationale": "Una arteria comprende tres túnicas: túnica externa o adventicia, túnica media y túnica íntima o endotelio." },
+      { "text": "Endocardio, miocardio y epicardio", "isCorrect": false, "rationale": "Estas son las capas del corazón, no de las arterias." },
+      { "text": "Externa, interna y muscular", "isCorrect": false, "rationale": "Los nombres correctos son adventicia, media e íntima." },
+      { "text": "Dermis, epidermis e hipodermis", "isCorrect": false, "rationale": "Estas son capas de la piel, no de las arterias." }
+    ],
+    "hint": "Tres capas concéntricas desde afuera hacia adentro."
+  },
+  {
+    "question": "¿Qué se dispone en la adventicia de la arteria?",
+    "options": [
+      { "text": "Los vasa vasorum y la inervación", "isCorrect": true, "rationale": "En la adventicia se disponen los vasa vasorum de la arteria y su inervación." },
+      { "text": "Las células musculares", "isCorrect": false, "rationale": "Las células musculares están en la túnica media." },
+      { "text": "El endotelio", "isCorrect": false, "rationale": "El endotelio está en la túnica íntima." },
+      { "text": "Las fibras elásticas", "isCorrect": false, "rationale": "Las fibras elásticas están principalmente en la media." }
+    ],
+    "hint": "'Vasa vasorum' significa vasos de los vasos."
+  },
+  {
+    "question": "¿Qué función tiene la túnica media de las arterias?",
+    "options": [
+      { "text": "Soportar la tensión de la sangre sobre los vasos", "isCorrect": true, "rationale": "La túnica media es musculoelástica y tiene como función soportar la tensión de la sangre sobre estos vasos." },
+      { "text": "Nutrir la pared arterial", "isCorrect": false, "rationale": "Esta función corresponde a los vasa vasorum en la adventicia." },
+      { "text": "Intercambiar gases", "isCorrect": false, "rationale": "Los intercambios ocurren en los capilares, no en las arterias." },
+      { "text": "Inervar el vaso", "isCorrect": false, "rationale": "La inervación está en la adventicia." }
+    ],
+    "hint": "Es la capa más gruesa, con músculo y fibras elásticas."
+  },
+  {
+    "question": "¿Qué es el endotelio arterial?",
+    "options": [
+      { "text": "Una monocapa continua que desempeña papel en la hemostasia", "isCorrect": true, "rationale": "El endotelio es una monocapa continua que se dispone hacia la luz, desempeña papel fundamental en la hemostasia y es sensible a modificaciones de presión y pH." },
+      { "text": "Una capa de músculo liso", "isCorrect": false, "rationale": "El músculo liso está en la túnica media." },
+      { "text": "Un tejido conectivo denso", "isCorrect": false, "rationale": "El endotelio es epitelial, no conectivo." },
+      { "text": "Una membrana elástica", "isCorrect": false, "rationale": "Las membranas elásticas están en la media." }
+    ],
+    "hint": "Es la capa más interna en contacto con la sangre."
+  },
+  {
+    "question": "¿Qué caracteriza a las arterias elásticas?",
+    "options": [
+      { "text": "Son de gran calibre con capa muscular entre dos membranas elásticas", "isCorrect": true, "rationale": "Las arterias elásticas son de gran calibre. Su túnica media tiene una capa muscular entre dos membranas elásticas (interna y externa)." },
+      { "text": "Son de pequeño calibre sin membranas elásticas", "isCorrect": false, "rationale": "Eso describe a las arteriolas." },
+      { "text": "Son de calibre mediano sin membrana elástica externa", "isCorrect": false, "rationale": "Eso describe a las arterias musculares." },
+      { "text": "Son capilares con esfínter precapilar", "isCorrect": false, "rationale": "Los capilares no tienen túnica media." }
+    ],
+    "hint": "Son las arterias más grandes como la aorta."
+  },
+  {
+    "question": "¿Qué función cumplen las arterias elásticas durante la diástole?",
+    "options": [
+      { "text": "Vuelven a su diámetro inicial transformando el flujo pulsátil en laminar", "isCorrect": true, "rationale": "Gracias a las membranas elásticas, durante la diástole vuelven a su diámetro inicial, transformando el flujo pulsátil en laminar continuo." },
+      { "text": "Se contraen activamente", "isCorrect": false, "rationale": "La recuperación elástica es pasiva, no una contracción activa." },
+      { "text": "Detienen el flujo sanguíneo", "isCorrect": false, "rationale": "Mantienen el flujo continuo, no lo detienen." },
+      { "text": "Se dilatan más", "isCorrect": false, "rationale": "Durante la diástole vuelven a su diámetro normal, no se dilatan más." }
+    ],
+    "hint": "Actúan como un 'reservorio' que mantiene el flujo entre latidos."
+  },
+  {
+    "question": "¿Qué caracteriza a las arterias musculares?",
+    "options": [
+      { "text": "Calibre mediano sin membrana elástica externa en general", "isCorrect": true, "rationale": "Las arterias musculares son de calibre mediano o intermedio y su túnica media no presenta, en general, membrana elástica externa." },
+      { "text": "Gran calibre con dos membranas elásticas", "isCorrect": false, "rationale": "Eso caracteriza a las arterias elásticas." },
+      { "text": "Pequeño calibre con poco tejido elástico", "isCorrect": false, "rationale": "Eso describe a las arteriolas." },
+      { "text": "Calibre muy pequeño sin túnica media", "isCorrect": false, "rationale": "Eso describe a los capilares." }
+    ],
+    "hint": "Son las arterias de distribución hacia los órganos."
+  },
+  {
+    "question": "¿Qué son las arteriolas?",
+    "options": [
+      { "text": "Arterias de pequeño calibre (menor a 0,5 mm) con poco tejido elástico", "isCorrect": true, "rationale": "Las arteriolas son de pequeño calibre (inferior a 0,5 mm). Su túnica intermedia tiene poco tejido elástico y escasas fibras de músculo liso." },
+      { "text": "Arterias de gran calibre", "isCorrect": false, "rationale": "Las arteriolas son las más pequeñas de las arterias." },
+      { "text": "Capilares agrandados", "isCorrect": false, "rationale": "Las arteriolas son arterias, no capilares." },
+      { "text": "Venas pequeñas", "isCorrect": false, "rationale": "Las arteriolas son arterias, no venas." }
+    ],
+    "hint": "Son las arterias más pequeñas antes de los capilares."
+  },
+  {
+    "question": "¿Qué caracteriza a los capilares?",
+    "options": [
+      { "text": "Muy pequeño calibre (5-30 micrones) sin túnica intermedia", "isCorrect": true, "rationale": "Los capilares son de muy pequeño calibre (5-30 micrones). No presentan túnica intermedia y tienen esfínter precapilar." },
+      { "text": "Calibre de 0,5 mm con túnica media muscular", "isCorrect": false, "rationale": "Eso describe a las arteriolas." },
+      { "text": "Gran calibre con membranas elásticas", "isCorrect": false, "rationale": "Eso describe a las arterias elásticas." },
+      { "text": "Calibre mediano sin membrana elástica externa", "isCorrect": false, "rationale": "Eso describe a las arterias musculares." }
+    ],
+    "hint": "Son los vasos más pequeños donde ocurre el intercambio."
+  },
+  {
+    "question": "¿Qué estructura presenta el inicio de los capilares?",
+    "options": [
+      { "text": "Una dilatación con esfínter precapilar", "isCorrect": true, "rationale": "A nivel del inicio de los capilares presentan una dilatación donde la arteriola forma un esfínter precapilar." },
+      { "text": "Una válvula", "isCorrect": false, "rationale": "Los capilares no tienen válvulas." },
+      { "text": "Una bifurcación", "isCorrect": false, "rationale": "Tienen un esfínter que regula el flujo, no una bifurcación." },
+      { "text": "Un engrosamiento muscular", "isCorrect": false, "rationale": "Es un esfínter precapilar, no un engrosamiento general." }
+    ],
+    "hint": "Regula el ingreso de sangre al capilar."
+  },
+  {
+    "question": "¿Qué zonas NO son nutridas por las arterias?",
+    "options": [
+      { "text": "Cartílago hialino, córnea, cristalino, epidermis y faneras", "isCorrect": true, "rationale": "Las arterias nutren todo el cuerpo, excepto el cartílago hialino, la córnea, el cristalino, la epidermis y las faneras." },
+      { "text": "El cerebro y la médula espinal", "isCorrect": false, "rationale": "El sistema nervioso central tiene rica irrigación arterial." },
+      { "text": "Los músculos esqueléticos", "isCorrect": false, "rationale": "Los músculos tienen abundante irrigación arterial." },
+      { "text": "Los huesos", "isCorrect": false, "rationale": "Los huesos reciben irrigación arterial a través de nutrientes." }
+    ],
+    "hint": "Son estructuras avasculares que se nutren por difusión."
+  },
+  {
+    "question": "¿Dónde se disponen las arterias grandes e intermedias?",
+    "options": [
+      { "text": "En planos profundos, subfasciales en miembros, retroperitoneales en abdomen", "isCorrect": true, "rationale": "Las arterias grandes e intermedias se disponen en planos profundos. En miembros son subfasciales. En abdomen son retroperitoneales." },
+      { "text": "En planos superficiales bajo la piel", "isCorrect": false, "rationale": "Solo las pequeñas arterias pueden ser subcutáneas." },
+      { "text": "Dentro de los órganos", "isCorrect": false, "rationale": "Las pequeñas arterias son intraviscerales, no las grandes." },
+      { "text": "En el tejido celular subcutáneo", "isCorrect": false, "rationale": "Las arterias grandes están profundas, protegidas." }
+    ],
+    "hint": "Están protegidas en profundidad, cerca del esqueleto."
+  },
+  {
+    "question": "¿Qué son las ramas colaterales de las arterias?",
+    "options": [
+      { "text": "Ramas que se desprenden de un tronco arterial", "isCorrect": true, "rationale": "Las ramas colaterales son ramas que se desprenden de un tronco arterial." },
+      { "text": "Ramas que marcan la terminación de una arteria", "isCorrect": false, "rationale": "Esas son las ramas terminales." },
+      { "text": "Comunicaciones entre dos arterias", "isCorrect": false, "rationale": "Esas son las anastomosis." },
+      { "text": "Ramas que van hacia la piel", "isCorrect": false, "rationale": "Las colaterales pueden ir a cualquier estructura." }
+    ],
+    "hint": "Son 'salidas laterales' del vaso principal."
+  },
+  {
+    "question": "¿Qué son las ramas terminales de las arterias?",
+    "options": [
+      { "text": "Las ramas que marcan la terminación de una arteria", "isCorrect": true, "rationale": "Las ramas terminales son las que marcan la terminación de una arteria." },
+      { "text": "Ramas que salen lateralmente del vaso principal", "isCorrect": false, "rationale": "Esas son las ramas colaterales." },
+      { "text": "Comunicaciones entre arterias", "isCorrect": false, "rationale": "Esas son las anastomosis." },
+      { "text": "Arteriolas finales", "isCorrect": false, "rationale": "Son ramas de distribución terminal, no necesariamente arteriolas." }
+    ],
+    "hint": "Son el 'final del camino' de una arteria."
+  },
+  {
+    "question": "¿Qué es la distribución plexiforme de las arterias?",
+    "options": [
+      { "text": "Cuando las ramas terminales se anastomosan con ramas vecinas", "isCorrect": true, "rationale": "En la distribución plexiforme, algunas ramas terminales terminan anastomosándose con las ramas vecinas." },
+      { "text": "Cuando las arterias terminan sin anastomosis", "isCorrect": false, "rationale": "Eso es la distribución terminal." },
+      { "text": "Cuando forman una red única sin conexiones", "isCorrect": false, "rationale": "La distribución plexiforme implica anastomosis." },
+      { "text": "Cuando todas las ramas van al mismo órgano", "isCorrect": false, "rationale": "No se refiere al destino, sino al patrón de conexiones." }
+    ],
+    "hint": "Forma una red de conexiones entre arterias vecinas."
+  }
+]

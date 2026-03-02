@@ -1,0 +1,402 @@
+[
+  {
+    "question": "¿Qué ocurre con la resistencia gravitatoria al pasar de decúbito supino a posición de pie?",
+    "options": [
+      { "text": "Aumenta por un aporte de 500 cm³ de sangre en venas del miembro inferior", "isCorrect": true, "rationale": "La resistencia gravitatoria aumenta por un aporte de 500 centímetros cúbicos de sangre en las venas del miembro inferior al cambiar a bipedestación." },
+      { "text": "Disminuye la resistencia", "isCorrect": false, "rationale": "La resistencia aumenta, no disminuye, por efecto de la gravedad." },
+      { "text": "No cambia la resistencia", "isCorrect": false, "rationale": "Cambiar de posición afecta significativamente la resistencia venosa." },
+      { "text": "Aumenta solo 50 cm³", "isCorrect": false, "rationale": "El aporte es de 500 cm³, no 50." }
+    ],
+    "hint": "La gravedad dificulta el retorno venoso cuando nos ponemos de pie."
+  },
+  {
+    "question": "¿Qué compresiones pueden comprometer el retorno venoso?",
+    "options": [
+      { "text": "Compresiones externas o internas (presión abdominal, útero grávido, tumor abdominal)", "isCorrect": true, "rationale": "Las compresiones externas o internas como presión abdominal, útero grávido o tumor abdominal pueden comprometer el retorno venoso." },
+      { "text": "Solo compresiones en los pies", "isCorrect": false, "rationale": "Las compresiones abdominales y pélvicas también afectan el retorno." },
+      { "text": "Solo compresiones en el cuello", "isCorrect": false, "rationale": "Las compresiones abdominales son más significativas para el retorno venoso." },
+      { "text": "Las compresiones no afectan el retorno venoso", "isCorrect": false, "rationale": "Sí pueden comprometerlo significativamente." }
+    ],
+    "hint": "El embarazo y los tumores abdominales pueden dificultar el retorno venoso."
+  },
+  {
+    "question": "¿Cuál es la capacidad del sistema venoso comparado con el arterial?",
+    "options": [
+      { "text": "4.700 ml el venoso frente a 800 ml el arterial", "isCorrect": true, "rationale": "La capacidad del sistema venoso es de 4.700 mililitros frente a los 800 mililitros de las arterias." },
+      { "text": "800 ml el venoso frente a 4.700 ml el arterial", "isCorrect": false, "rationale": "Es al revés: el venoso tiene mayor capacidad." },
+      { "text": "Ambos tienen la misma capacidad", "isCorrect": false, "rationale": "El sistema venoso tiene casi 6 veces más capacidad." },
+      { "text": "1.000 ml cada uno", "isCorrect": false, "rationale": "El venoso tiene 4.700 ml y el arterial 800 ml." }
+    ],
+    "hint": "Las venas son el 'reservorio' de sangre del cuerpo."
+  },
+  {
+    "question": "¿Cuántas veces más distensible es el sistema venoso que el arterial?",
+    "options": [
+      { "text": "100 a 200 veces más distensible", "isCorrect": true, "rationale": "La reserva vascular venosa es 100 a 200 veces más distensible que el sistema arterial." },
+      { "text": "10 veces más distensible", "isCorrect": false, "rationale": "Es mucho más distensible: 100 a 200 veces." },
+      { "text": "Igual de distensible", "isCorrect": false, "rationale": "El sistema venoso es mucho más distensible." },
+      { "text": "Menos distensible que el arterial", "isCorrect": false, "rationale": "Es más distensible, no menos." }
+    ],
+    "hint": "Las venas pueden expandirse mucho más que las arterias."
+  },
+  {
+    "question": "¿Qué papel desempeñan las venas esplácnicas en la reserva vascular?",
+    "options": [
+      { "text": "Desempeñan un papel central en la reserva vascular", "isCorrect": true, "rationale": "Las venas esplácnicas (de las vísceras) desempeñan un papel central en la reserva vascular." },
+      { "text": "No participan en la reserva vascular", "isCorrect": false, "rationale": "Son fundamentales en la reserva vascular." },
+      { "text": "Solo participan en la circulación pulmonar", "isCorrect": false, "rationale": "Son venas sistémicas, no pulmonares." },
+      { "text": "Son las menos importantes", "isCorrect": false, "rationale": "Desempeñan un papel central." }
+    ],
+    "hint": "Las venas de las vísceras abdominales son un gran reservorio."
+  },
+  {
+    "question": "¿Cómo varía la presión venosa desde los capilares hacia las venas cavas?",
+    "options": [
+      { "text": "Disminuye progresivamente y llega a ser negativa en las venas cavas", "isCorrect": true, "rationale": "La presión venosa disminuye progresivamente desde los capilares hacia las venas cavas donde es negativa." },
+      { "text": "Aumenta hacia las venas cavas", "isCorrect": false, "rationale": "Disminuye, no aumenta." },
+      { "text": "Se mantiene constante", "isCorrect": false, "rationale": "Disminuye progresivamente." },
+      { "text": "Es siempre positiva", "isCorrect": false, "rationale": "En las venas cavas es negativa." }
+    ],
+    "hint": "La presión negativa en cavas ayuda a 'aspirar' la sangre."
+  },
+  {
+    "question": "¿Qué explica la presión negativa en las venas cavas?",
+    "options": [
+      { "text": "La posibilidad de embolias gaseosas en traumatismos de grandes venas", "isCorrect": true, "rationale": "Esta presión negativa explica la posibilidad de producción de embolias gaseosas cuando hay traumatismos de las grandes venas." },
+      { "text": "Que la sangre no circula", "isCorrect": false, "rationale": "La sangre sí circula; la presión negativa es por la succión del corazón." },
+      { "text": "Que las venas están vacías", "isCorrect": false, "rationale": "Las venas contienen sangre; la presión negativa es relativa." },
+      { "text": "Un error de medición", "isCorrect": false, "rationale": "Es un fenómeno físico real producido por la succión cardíaca." }
+    ],
+    "hint": "Si se perfora una vena grande con presión negativa, puede entrar aire."
+  },
+  {
+    "question": "¿Cuál es el papel de las válvulas en el retorno venoso?",
+    "options": [
+      { "text": "Se oponen al reflujo venoso manteniendo la dirección centrípeta de la sangre", "isCorrect": true, "rationale": "Las válvulas se oponen al reflujo venoso manteniendo la dirección centrípeta de la corriente sanguínea." },
+      { "text": "Bombear sangre hacia el corazón", "isCorrect": false, "rationale": "Las válvulas no bombean, solo impiden el reflujo." },
+      { "text": "Aumentar la presión venosa", "isCorrect": false, "rationale": "No aumentan presión, regulan dirección." },
+      { "text": "Producir linfa", "isCorrect": false, "rationale": "No tienen relación con la producción de linfa." }
+    ],
+    "hint": "Actúan como compuertas que permiten solo un sentido de flujo."
+  },
+  {
+    "question": "¿Dónde son más importantes las válvulas venosas?",
+    "options": [
+      { "text": "En las pequeñas venas más que en las grandes", "isCorrect": true, "rationale": "Las válvulas son más importantes en las pequeñas venas que en las grandes." },
+      { "text": "En las grandes venas exclusivamente", "isCorrect": false, "rationale": "Son más importantes en las venas pequeñas." },
+      { "text": "En todas por igual", "isCorrect": false, "rationale": "Son más importantes en las pequeñas venas." },
+      { "text": "Solo en las venas cavas", "isCorrect": false, "rationale": "Las venas cavas son avalvulares." }
+    ],
+    "hint": "Las venas pequeñas tienen más válvulas y dependen más de ellas."
+  },
+  {
+    "question": "¿Qué protegen las válvulas venosas?",
+    "options": [
+      { "text": "Protegen a los capilares de los aumentos de presión retrógrados", "isCorrect": true, "rationale": "Las válvulas protegen a los capilares de los aumentos de presión retrógrados." },
+      { "text": "Protegen al corazón", "isCorrect": false, "rationale": "Protegen principalmente a los capilares." },
+      { "text": "Protegen a las arterias", "isCorrect": false, "rationale": "Protegen a los capilares del sistema venoso." },
+      { "text": "No tienen función protectora", "isCorrect": false, "rationale": "Protegen a los capilares de la presión retrógrada." }
+    ],
+    "hint": "Evitan que la presión retroceda hacia los capilares."
+  },
+  {
+    "question": "¿Cuál es el papel de la motricidad propia de la vena?",
+    "options": [
+      { "text": "Débil en venas superficiales, importante en venas esplácnicas", "isCorrect": true, "rationale": "El papel de la motricidad propia es débil en las venas superficiales, pero importante en las venas esplácnicas." },
+      { "text": "Igual en todas las venas", "isCorrect": false, "rationale": "Es diferente según el tipo de vena." },
+      { "text": "Muy importante en venas superficiales", "isCorrect": false, "rationale": "Es débil en las venas superficiales." },
+      { "text": "Inexistente", "isCorrect": false, "rationale": "Existe y es importante en las venas esplácnicas." }
+    ],
+    "hint": "Las venas de las vísceras se vacían activamente."
+  },
+  {
+    "question": "¿En cuánto tiempo se vacían las venas esplácnicas a la mitad de su volumen?",
+    "options": [
+      { "text": "En 20 segundos", "isCorrect": true, "rationale": "Las venas esplácnicas se vacían a la mitad de su volumen en 20 segundos." },
+      { "text": "En 2 segundos", "isCorrect": false, "rationale": "Tarda 20 segundos, no 2." },
+      { "text": "En 2 minutos", "isCorrect": false, "rationale": "Es 20 segundos, no minutos." },
+      { "text": "No se vacían nunca", "isCorrect": false, "rationale": "Se vacían activamente en 20 segundos a la mitad." }
+    ],
+    "hint": "Es un vaciado relativamente rápido por contracción propia."
+  },
+  {
+    "question": "¿Qué es el acoplamiento arteriovenoso?",
+    "options": [
+      { "text": "Transmisión de onda pulsátil arterial a las paredes venosas colapsándolas", "isCorrect": true, "rationale": "La onda pulsátil se transmite desde las arterias hacia las paredes de las venas, colapsándolas por contracciones musculares." },
+      { "text": "Conexión anatómica entre arteria y vena", "isCorrect": false, "rationale": "No es conexión anatómica, es transmisión de pulso." },
+      { "text": "Fusión de arteria y vena", "isCorrect": false, "rationale": "Es un fenómeno dinámico, no anatómico." },
+      { "text": "Mezcla de sangre arterial y venosa", "isCorrect": false, "rationale": "No hay mezcla de sangre." }
+    ],
+    "hint": "Las arterias 'masajean' a las venas vecinas."
+  },
+  {
+    "question": "¿Qué son las venas contiguas en el acoplamiento arteriovenoso?",
+    "options": [
+      { "text": "Venas comprendidas en la misma vaina fibrosa que la arteria", "isCorrect": true, "rationale": "El acoplamiento arteriovenoso se produce en venas contiguas, comprendidas en la misma vaina fibrosa que la arteria." },
+      { "text": "Venas lejos de las arterias", "isCorrect": false, "rationale": "Son venas en la misma vaina que las arterias." },
+      { "text": "Solo las venas superficiales", "isCorrect": false, "rationale": "Son venas profundas que acompañan arterias." },
+      { "text": "Las venas pulmonares", "isCorrect": false, "rationale": "Son venas sistémicas satélites de arterias." }
+    ],
+    "hint": "Son las venas satélites que viajan junto a las arterias."
+  },
+  {
+    "question": "¿Qué efecto tienen las pulsaciones arteriales sobre las venas contiguas?",
+    "options": [
+      { "text": "Les dan una contracción pasiva favorable al retorno venoso", "isCorrect": true, "rationale": "Las pulsaciones arteriales, transmitidas a la vena, le dan una contracción pasiva favorable al retorno venoso." },
+      { "text": "Obstruyen las venas", "isCorrect": false, "rationale": "Ayudan al retorno, no obstruyen." },
+      { "text": "Disminuyen el flujo venoso", "isCorrect": false, "rationale": "Favorecen el flujo venoso." },
+      { "text": "No tienen efecto", "isCorrect": false, "rationale": "Tienen un efecto positivo en el retorno." }
+    ],
+    "hint": "El pulso arterial 'empuja' la sangre venosa hacia el corazón."
+  },
+  {
+    "question": "¿Cuál es la fuerza propulsora del corazón (vis a tergo)?",
+    "options": [
+      { "text": "Aproximadamente 35 mmHg de presión a nivel de arteriolas precapilares", "isCorrect": true, "rationale": "La fuerza propulsora del corazón (vis a tergo) es eficaz y se estima en 35 mmHg de presión a nivel de las arteriolas precapilares." },
+      { "text": "100 mmHg", "isCorrect": false, "rationale": "Es aproximadamente 35 mmHg, no 100." },
+      { "text": "5 mmHg", "isCorrect": false, "rationale": "Es 35 mmHg, bastante más." },
+      { "text": "120 mmHg", "isCorrect": false, "rationale": "Esa es la presión arterial sistólica, no la vis a tergo." }
+    ],
+    "hint": "'Vis a tergo' = fuerza desde atrás (presión arterial empuja)."
+  },
+  {
+    "question": "¿Qué favorece la fuerza aspirante del corazón (vis a fronte)?",
+    "options": [
+      { "text": "Las presiones intratorácicas y abdominales, el fin de la sístole y la inspiración", "isCorrect": true, "rationale": "La fuerza aspirante del corazón se ve favorecida por las presiones intratorácicas y abdominales. El fin de la sístole y la inspiración son factores esenciales." },
+      { "text": "La espiración solamente", "isCorrect": false, "rationale": "La inspiración es más importante que la espiración." },
+      { "text": "La contracción muscular", "isCorrect": false, "rationale": "Ese es otro mecanismo diferente." },
+      { "text": "Las válvulas venosas", "isCorrect": false, "rationale": "Las válvulas son otro mecanismo." }
+    ],
+    "hint": "'Vis a fronte' = fuerza desde adelante (el corazón aspira)."
+  },
+  {
+    "question": "¿Qué ocurre con la inmovilización prolongada de un paciente?",
+    "options": [
+      { "text": "Reduce la circulación venosa y favorece la trombosis venosa", "isCorrect": true, "rationale": "La inmovilización prolongada de un paciente reduce la circulación venosa y favorece la trombosis venosa." },
+      { "text": "Mejora el retorno venoso", "isCorrect": false, "rationale": "Empeora el retorno venoso." },
+      { "text": "No tiene efectos sobre la circulación", "isCorrect": false, "rationale": "Tiene efectos significativos y peligrosos." },
+      { "text": "Aumenta la presión arterial", "isCorrect": false, "rationale": "El efecto principal es sobre el sistema venoso." }
+    ],
+    "hint": "Sin movimiento no hay bomba muscular activa."
+  },
+  {
+    "question": "¿Dónde están interpuestos los capilares?",
+    "options": [
+      { "text": "Entre las arterias y las venas", "isCorrect": true, "rationale": "Los capilares están interpuestos entre las arterias y las venas." },
+      { "text": "Solo entre arterias", "isCorrect": false, "rationale": "Conectan arterias con venas." },
+      { "text": "Solo entre venas", "isCorrect": false, "rationale": "Conectan arterias con venas." },
+      { "text": "Dentro del corazón", "isCorrect": false, "rationale": "Están en los tejidos, no en el corazón." }
+    ],
+    "hint": "Son el puente entre el sistema arterial y venoso."
+  },
+  {
+    "question": "¿Qué se produce en los capilares?",
+    "options": [
+      { "text": "Intercambios entre la sangre y los órganos (nutrición y eliminación)", "isCorrect": true, "rationale": "En los capilares se producen los intercambios entre la sangre y los órganos, en sentido sangre-tejido (nutrición) o tejido-sangre (eliminación)." },
+      { "text": "Producción de sangre", "isCorrect": false, "rationale": "La sangre se produce en la médula ósea." },
+      { "text": "Filtración renal únicamente", "isCorrect": false, "rationale": "Los intercambios ocurren en todos los tejidos." },
+      { "text": "Almacenamiento de sangre", "isCorrect": false, "rationale": "El almacenamiento es función de las venas." }
+    ],
+    "hint": "Son el sitio de intercambio de nutrientes y desechos."
+  },
+  {
+    "question": "¿Cuál es el resultado de los intercambios capilares?",
+    "options": [
+      { "text": "Transformación de sangre arterial en sangre venosa", "isCorrect": true, "rationale": "El resultado de los intercambios es la transformación de sangre arterial (rica en O₂) en sangre venosa (cargada de CO₂)." },
+      { "text": "Sangre arterial permanece arterial", "isCorrect": false, "rationale": "La sangre se transforma de arterial a venosa." },
+      { "text": "No hay cambios en la sangre", "isCorrect": false, "rationale": "La sangre cambia significativamente." },
+      { "text": "Sangre venosa se vuelve arterial", "isCorrect": false, "rationale": "Eso ocurre en los pulmones, no en los capilares sistémicos." }
+    ],
+    "hint": "La sangre pierde O₂ y gana CO₂."
+  },
+  {
+    "question": "¿Qué son las uniones arteriolocapilar y capilarovenular?",
+    "options": [
+      { "text": "Zonas intermediarias entre arterias-capilares y capilares-venas", "isCorrect": true, "rationale": "La unión entre arterias y capilares, y entre capilares y venas, constituye una zona intermediaria denominada uniones arteriolocapilar y capilarovenular." },
+      { "text": "Tipos de capilares", "isCorrect": false, "rationale": "Son zonas de transición, no tipos de capilares." },
+      { "text": "Válvulas en los capilares", "isCorrect": false, "rationale": "Son zonas de unión, no válvulas." },
+      { "text": "Anastomosis arteriovenosas", "isCorrect": false, "rationale": "Son zonas de unión normal, no cortocircuitos." }
+    ],
+    "hint": "Son las zonas de transición entre los diferentes vasos."
+  },
+  {
+    "question": "¿Qué son los cortocircuitos arteriovenosos?",
+    "options": [
+      { "text": "Vasos que unen arteriolas a vénulas salteando el territorio capilar", "isCorrect": true, "rationale": "Los cortocircuitos arteriovenosos son vasos que reúnen arteriolas con vénulas estableciendo un pasaje que saltea el territorio capilar." },
+      { "text": "Conexiones entre dos arterias", "isCorrect": false, "rationale": "Conectan arteriola con vénula, no arterias entre sí." },
+      { "text": "Conexiones entre dos venas", "isCorrect": false, "rationale": "Conectan arteriola con vénula." },
+      { "text": "Capilares agrandados", "isCorrect": false, "rationale": "No son capilares, son vías de derivación." }
+    ],
+    "hint": "Permiten que la sangre pase directo sin intercambiar."
+  },
+  {
+    "question": "¿Desde cuándo se sabe que la sangre circula a partir del ventrículo izquierdo?",
+    "options": [
+      { "text": "Desde William Harvey (1628)", "isCorrect": true, "rationale": "Desde William Harvey (1628) se sabe que la sangre circula en el organismo a partir del ventrículo izquierdo." },
+      { "text": "Desde la antigüedad", "isCorrect": false, "rationale": "El conocimiento correcto es de Harvey en 1628." },
+      { "text": "Desde el siglo XX", "isCorrect": false, "rationale": "Se conoció mucho antes, en 1628." },
+      { "text": "Desde Galeno", "isCorrect": false, "rationale": "Galeno tenía teorías erróneas sobre la circulación." }
+    ],
+    "hint": "Harvey descubrió la circulación sanguínea."
+  },
+  {
+    "question": "¿Qué hace el ventrículo izquierdo con la sangre arterial?",
+    "options": [
+      { "text": "La impulsa a la aorta para repartirla en todo el cuerpo excepto pulmones", "isCorrect": true, "rationale": "El ventrículo izquierdo impulsa la sangre arterial a la aorta para repartirse en todo el cuerpo excepto los pulmones." },
+      { "text": "La envía a los pulmones", "isCorrect": false, "rationale": "El ventrículo derecho envía sangre a los pulmones." },
+      { "text": "La recibe de las venas", "isCorrect": false, "rationale": "El atrio izquierdo recibe sangre de las venas pulmonares." },
+      { "text": "La almacena", "isCorrect": false, "rationale": "El ventrículo bombea sangre, no la almacena." }
+    ],
+    "hint": "El ventrículo izquierdo es la bomba del circuito sistémico."
+  },
+  {
+    "question": "¿Qué ocurre en los diferentes órganos y capilares?",
+    "options": [
+      { "text": "Se establecen intercambios fisicoquímicos que aseguran la vida de los tejidos", "isCorrect": true, "rationale": "En los diferentes órganos y en los capilares se establecen intercambios fisicoquímicos que aseguran la vida de los diferentes tejidos." },
+      { "text": "No ocurren intercambios", "isCorrect": false, "rationale": "Los intercambios son fundamentales para la vida." },
+      { "text": "Solo ocurre filtración", "isCorrect": false, "rationale": "Ocurren múltiples tipos de intercambios." },
+      { "text": "Solo ocurre en el hígado", "isCorrect": false, "rationale": "Ocurre en todos los órganos." }
+    ],
+    "hint": "Los capilares son el sitio de intercambio nutricional."
+  },
+  {
+    "question": "¿A dónde llega la sangre desde los diferentes órganos?",
+    "options": [
+      { "text": "Al atrio derecho por las venas cavas superior e inferior", "isCorrect": true, "rationale": "La sangre es recogida por las venas que la conducen al atrio derecho por intermedio de las venas cavas superior e inferior." },
+      { "text": "Al atrio izquierdo", "isCorrect": false, "rationale": "El atrio izquierdo recibe sangre de los pulmones." },
+      { "text": "Al ventrículo derecho directamente", "isCorrect": false, "rationale": "Pasa primero por el atrio derecho." },
+      { "text": "A los pulmones", "isCorrect": false, "rationale": "Va a los pulmones desde el ventrículo derecho." }
+    ],
+    "hint": "Las venas cavas drenan en el atrio derecho."
+  },
+  {
+    "question": "¿Qué hace el ventrículo derecho con la sangre?",
+    "options": [
+      { "text": "La impulsa al tronco pulmonar hacia los dos pulmones", "isCorrect": true, "rationale": "Del atrio derecho la sangre pasa al ventrículo derecho, que impulsa la sangre venosa al tronco pulmonar y de allí a los dos pulmones." },
+      { "text": "La envía a la aorta", "isCorrect": false, "rationale": "El ventrículo izquierdo envía sangre a la aorta." },
+      { "text": "La recibe de las venas cavas", "isCorrect": false, "rationale": "El atrio derecho recibe de las venas cavas." },
+      { "text": "La almacena", "isCorrect": false, "rationale": "El ventrículo bombea sangre, no la almacena." }
+    ],
+    "hint": "El ventrículo derecho es la bomba del circuito pulmonar."
+  },
+  {
+    "question": "¿Qué transformación sufre la sangre en los pulmones?",
+    "options": [
+      { "text": "Elimina CO₂ y se enriquece en O₂", "isCorrect": true, "rationale": "En los pulmones, la sangre venosa sufre una transformación donde se elimina el anhídrido carbónico y se enriquece en oxígeno." },
+      { "text": "Elimina O₂ y gana CO₂", "isCorrect": false, "rationale": "Es al revés: gana O₂ y pierde CO₂." },
+      { "text": "No cambia su composición", "isCorrect": false, "rationale": "Cambia significativamente su composición gaseosa." },
+      { "text": "Se vuelve más oscura", "isCorrect": false, "rationale": "Se vuelve más roja brillante por la oxigenación." }
+    ],
+    "hint": "Es el proceso de hematosis u oxigenación."
+  },
+  {
+    "question": "¿Por dónde vuelve la sangre oxigenada al corazón?",
+    "options": [
+      { "text": "Por las venas pulmonares al atrio izquierdo", "isCorrect": true, "rationale": "La sangre oxigenada vuelve al corazón por las venas pulmonares que terminan en el atrio izquierdo." },
+      { "text": "Por las venas cavas", "isCorrect": false, "rationale": "Las venas cavas traen sangre venosa." },
+      { "text": "Por la aorta", "isCorrect": false, "rationale": "La aorta sale del ventrículo izquierdo." },
+      { "text": "Por el tronco pulmonar", "isCorrect": false, "rationale": "El tronco pulmonar lleva sangre venosa a los pulmones." }
+    ],
+    "hint": "Las venas pulmonares son las únicas que traen sangre oxigenada."
+  },
+  {
+    "question": "¿Qué sentido tiene la sangre en las arterias?",
+    "options": [
+      { "text": "Se aleja del corazón", "isCorrect": true, "rationale": "La sangre circula en los vasos con sentido único: se aleja del corazón en las arterias." },
+      { "text": "Se dirige hacia el corazón", "isCorrect": false, "rationale": "En las venas se dirige hacia el corazón." },
+      { "text": "Puede ir en ambos sentidos", "isCorrect": false, "rationale": "El flujo es unidireccional." },
+      { "text": "Circula en círculos", "isCorrect": false, "rationale": "Tiene dirección definida alejándose del corazón." }
+    ],
+    "hint": "Arterias = Alejan (ambas empiezan con A)."
+  },
+  {
+    "question": "¿Qué sentido tiene la sangre en las venas?",
+    "options": [
+      { "text": "Se dirige hacia el corazón", "isCorrect": true, "rationale": "La sangre se dirige hacia el corazón en las venas." },
+      { "text": "Se aleja del corazón", "isCorrect": false, "rationale": "En las arterias se aleja del corazón." },
+      { "text": "Puede ir en ambos sentidos", "isCorrect": false, "rationale": "El flujo es unidireccional." },
+      { "text": "Circula alejándose", "isCorrect": false, "rationale": "Se dirige hacia el corazón." }
+    ],
+    "hint": "Venas = Vienen al corazón (ambas empiezan con V)."
+  },
+  {
+    "question": "¿Qué función tienen las válvulas auriculoventriculares?",
+    "options": [
+      { "text": "Se oponen al reflujo de sangre desde los ventrículos hacia los atrios", "isCorrect": true, "rationale": "Las válvulas auriculoventriculares se oponen al reflujo de la sangre desde los ventrículos hacia los atrios." },
+      { "text": "Evitan el reflujo desde las arterias", "isCorrect": false, "rationale": "Esa es función de las válvulas aórtica y pulmonar." },
+      { "text": "Permiten flujo en ambos sentidos", "isCorrect": false, "rationale": "Solo permiten flujo unidireccional." },
+      { "text": "Regulan la presión arterial", "isCorrect": false, "rationale": "No regulan presión, previenen reflujo." }
+    ],
+    "hint": "Están entre los atrios y los ventrículos."
+  },
+  {
+    "question": "¿Qué función tienen las válvulas pulmonar y aórtica?",
+    "options": [
+      { "text": "Evitan el reflujo de sangre desde las arterias hacia los ventrículos", "isCorrect": true, "rationale": "Las válvulas pulmonar y aórtica evitan el reflujo de la sangre desde las arterias (pulmonar y aorta) hacia los ventrículos." },
+      { "text": "Evitan reflujo hacia los atrios", "isCorrect": false, "rationale": "Esa es función de las válvulas auriculoventriculares." },
+      { "text": "Permiten flujo bidireccional", "isCorrect": false, "rationale": "Solo permiten flujo unidireccional." },
+      { "text": "Conectan arterias con venas", "isCorrect": false, "rationale": "Son válvulas del corazón, no conexiones." }
+    ],
+    "hint": "Están en la salida de los ventrículos hacia las arterias."
+  },
+  {
+    "question": "¿Qué comprende la gran circulación o circulación sistémica?",
+    "options": [
+      { "text": "Ventrículo izquierdo, aorta, arterias, capilares, venas hasta el atrio derecho", "isCorrect": true, "rationale": "La gran circulación comprende: el ventrículo izquierdo, la aorta y todas las arterias, los capilares y las venas hasta el atrio derecho." },
+      { "text": "Solo el corazón izquierdo", "isCorrect": false, "rationale": "Incluye todo el circuito sistémico." },
+      { "text": "Solo las arterias", "isCorrect": false, "rationale": "Incluye arterias, capilares y venas." },
+      { "text": "El circuito pulmonar", "isCorrect": false, "rationale": "Esa es la pequeña circulación." }
+    ],
+    "hint": "Es el circuito que recorre todo el cuerpo excepto pulmones."
+  },
+  {
+    "question": "¿Qué desembocan en la gran circulación?",
+    "options": [
+      { "text": "Los vasos linfáticos: conducto torácico y conducto linfático derecho", "isCorrect": true, "rationale": "En la gran circulación desembocan los vasos linfáticos: conducto torácico a la izquierda y conducto linfático derecho a la derecha." },
+      { "text": "Las venas pulmonares", "isCorrect": false, "rationale": "Las venas pulmonares van al atrio izquierdo." },
+      { "text": "Solo la vena cava", "isCorrect": false, "rationale": "También desembocan los vasos linfáticos." },
+      { "text": "Las arterias", "isCorrect": false, "rationale": "Las arterias salen del corazón, no desembocan." }
+    ],
+    "hint": "El sistema linfático se conecta con el sistema venoso."
+  },
+  {
+    "question": "¿Qué comprende la pequeña circulación o circulación pulmonar?",
+    "options": [
+      { "text": "Ventrículo derecho, arteria pulmonar, capilares pulmonares, venas pulmonares al atrio izquierdo", "isCorrect": true, "rationale": "La pequeña circulación comprende: el ventrículo derecho, la arteria pulmonar y sus ramas, los capilares pulmonares, las venas pulmonares y el atrio izquierdo." },
+      { "text": "El circuito sistémico completo", "isCorrect": false, "rationale": "Esa es la gran circulación." },
+      { "text": "Solo los pulmones", "isCorrect": false, "rationale": "Incluye el circuito completo con corazón y vasos." },
+      { "text": "Solo las venas pulmonares", "isCorrect": false, "rationale": "Incluye todo el circuito pulmonar." }
+    ],
+    "hint": "Es el circuito que va del corazón a los pulmones y vuelve."
+  },
+  {
+    "question": "¿Qué diferencia hay entre arterias y venas en la circulación pulmonar?",
+    "options": [
+      { "text": "Las arterias contienen sangre carbooxigenada y las venas sangre oxigenada", "isCorrect": true, "rationale": "En la circulación pulmonar, las arterias contienen sangre carbooxigenada y las venas sangre oxigenada: es lo contrario de la circulación sistémica." },
+      { "text": "Ambas contienen sangre arterial", "isCorrect": false, "rationale": "Las arterias pulmonares tienen sangre venosa." },
+      { "text": "Ambas contienen sangre venosa", "isCorrect": false, "rationale": "Las venas pulmonares tienen sangre arterial." },
+      { "text": "Es igual que en la circulación sistémica", "isCorrect": false, "rationale": "Es exactamente lo contrario." }
+    ],
+    "hint": "En pulmones, arterias = venosa, venas = arterial."
+  },
+  {
+    "question": "¿Qué contiene el corazón derecho y qué hace con ella?",
+    "options": [
+      { "text": "Sangre venosa que envía a los pulmones", "isCorrect": true, "rationale": "El corazón derecho contiene sangre venosa y la envía a los pulmones para oxigenarla." },
+      { "text": "Sangre arterial que envía al cuerpo", "isCorrect": false, "rationale": "El corazón izquierdo hace esto." },
+      { "text": "Sangre arterial que envía a los pulmones", "isCorrect": false, "rationale": "Contiene sangre venosa, no arterial." },
+      { "text": "Sangre venosa que envía al cuerpo", "isCorrect": false, "rationale": "Envía sangre a los pulmones, no al cuerpo." }
+    ],
+    "hint": "El corazón derecho es la bomba del circuito pulmonar."
+  },
+  {
+    "question": "¿Qué contiene el corazón izquierdo y qué hace con ella?",
+    "options": [
+      { "text": "Sangre arterial que reparte en el resto del cuerpo", "isCorrect": true, "rationale": "El corazón izquierdo recibe sangre arterial y la reparte en el resto del cuerpo." },
+      { "text": "Sangre venosa que envía a los pulmones", "isCorrect": false, "rationale": "El corazón derecho hace esto." },
+      { "text": "Sangre mixta", "isCorrect": false, "rationale": "Cada lado del corazón tiene un tipo de sangre específico." },
+      { "text": "Sangre arterial que envía a los pulmones", "isCorrect": false, "rationale": "Envía sangre al cuerpo, no a los pulmones." }
+    ],
+    "hint": "El corazón izquierdo es la bomba del circuito sistémico."
+  }
+]

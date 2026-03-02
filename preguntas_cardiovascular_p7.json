@@ -1,0 +1,212 @@
+[
+  {
+    "question": "¿Cuáles son las dos vías principales de la circulación venosa?",
+    "options": [
+      { "text": "La pequeña circulación venosa (pulmonares) y la gran circulación venosa (cavas)", "isCorrect": true, "rationale": "Las venas se reagrupan según dos vías principales: la pequeña circulación venosa (venas pulmonares) y la gran circulación venosa (sistemas de venas cavas)." },
+      { "text": "Circulación arterial y linfática", "isCorrect": false, "rationale": "Se refiere a las dos vías venosas principales del cuerpo." },
+      { "text": "Sistémica y portal", "isCorrect": false, "rationale": "Las dos vías principales son la pequeña (pulmonar) y la gran (sistémica con cavas)." },
+      { "text": "Superior e inferior", "isCorrect": false, "rationale": "Esas son partes de la gran circulación venosa." }
+    ],
+    "hint": "Una va a los pulmones, la otra al resto del cuerpo."
+  },
+  {
+    "question": "¿Qué forma la pequeña circulación venosa?",
+    "options": [
+      { "text": "Las cuatro venas pulmonares que drenan sangre oxigenada al atrio izquierdo", "isCorrect": true, "rationale": "La pequeña circulación venosa está formada por las cuatro venas pulmonares y drena la sangre oxigenada de los pulmones hacia el atrio izquierdo." },
+      { "text": "Las venas cavas", "isCorrect": false, "rationale": "Las venas cavas son parte de la gran circulación venosa." },
+      { "text": "Las venas sistémicas", "isCorrect": false, "rationale": "Las venas sistémicas son parte de la gran circulación." },
+      { "text": "Los vasos linfáticos", "isCorrect": false, "rationale": "Los vasos linfáticos no son parte de la circulación venosa." }
+    ],
+    "hint": "Son las únicas venas que transportan sangre oxigenada."
+  },
+  {
+    "question": "¿Qué constituye la gran circulación venosa?",
+    "options": [
+      { "text": "El sistema de la vena cava superior y el sistema de la vena cava inferior", "isCorrect": true, "rationale": "La gran circulación venosa está constituida por dos sistemas que desembocan en el atrio derecho: el sistema de la vena cava superior y el sistema de la vena cava inferior." },
+      { "text": "Solo la vena cava inferior", "isCorrect": false, "rationale": "Incluye ambos sistemas: cava superior e inferior." },
+      { "text": "Las venas pulmonares", "isCorrect": false, "rationale": "Las venas pulmonares son la pequeña circulación." },
+      { "text": "Las venas porta", "isCorrect": false, "rationale": "La vena porta es parte del sistema de la cava inferior." }
+    ],
+    "hint": "Dos grandes colectores que llegan al atrio derecho."
+  },
+  {
+    "question": "¿Cómo está constituida la vena cava superior?",
+    "options": [
+      { "text": "Por la reunión de las venas braquiocefálicas derecha e izquierda", "isCorrect": true, "rationale": "La vena cava superior está constituida por la reunión de las venas braquiocefálicas derecha e izquierda." },
+      { "text": "Por las venas ilíacas comunes", "isCorrect": false, "rationale": "Esas forman la vena cava inferior." },
+      { "text": "Por las venas pulmonares", "isCorrect": false, "rationale": "Las venas pulmonares van al atrio izquierdo." },
+      { "text": "Por las venas renales", "isCorrect": false, "rationale": "Las venas renales desembocan en la cava inferior." }
+    ],
+    "hint": "Recibe sangre de la cabeza, cuello y miembros superiores."
+  },
+  {
+    "question": "¿Qué drenan las venas braquiocefálicas hacia la vena cava superior?",
+    "options": [
+      { "text": "Cabeza y cuello (venas vertebrales, yugulares) y miembros superiores (venas subclavias)", "isCorrect": true, "rationale": "Las venas braquiocefálicas drenan: la cabeza y cuello (venas vertebrales, yugulares internas, externas y anteriores) y los miembros superiores (venas subclavias)." },
+      { "text": "Solo el cerebro", "isCorrect": false, "rationale": "Drenan cabeza, cuello y miembros superiores." },
+      { "text": "Solo los miembros superiores", "isCorrect": false, "rationale": "También drenan cabeza y cuello." },
+      { "text": "El abdomen", "isCorrect": false, "rationale": "El abdomen es drenado por la cava inferior." }
+    ],
+    "hint": "Drenan la parte superior del cuerpo."
+  },
+  {
+    "question": "¿Qué vena afluente tiene la vena cava superior?",
+    "options": [
+      { "text": "La vena ácigos, que drena la pared del tronco", "isCorrect": true, "rationale": "La vena cava superior posee una sola vena afluente: la vena ácigos, que drena la pared del tronco." },
+      { "text": "Las venas renales", "isCorrect": false, "rationale": "Las venas renales van a la cava inferior." },
+      { "text": "Las venas hepáticas", "isCorrect": false, "rationale": "Las venas hepáticas van a la cava inferior." },
+      { "text": "No tiene venas afluentes", "isCorrect": false, "rationale": "Tiene la vena ácigos como afluente." }
+    ],
+    "hint": "Es una sola vena que drena el tronco."
+  },
+  {
+    "question": "¿Cómo está constituida la vena cava inferior?",
+    "options": [
+      { "text": "Por la reunión de las venas ilíacas comunes", "isCorrect": true, "rationale": "La vena cava inferior está constituida por la reunión de las venas ilíacas comunes." },
+      { "text": "Por las venas braquiocefálicas", "isCorrect": false, "rationale": "Esas forman la vena cava superior." },
+      { "text": "Por las venas pulmonares", "isCorrect": false, "rationale": "Las venas pulmonares van al atrio izquierdo." },
+      { "text": "Por la vena porta", "isCorrect": false, "rationale": "La vena porta va al hígado, no forma la cava inferior." }
+    ],
+    "hint": "Recibe sangre de la mitad inferior del cuerpo."
+  },
+  {
+    "question": "¿Qué drenan las venas ilíacas comunes hacia la cava inferior?",
+    "options": [
+      { "text": "Miembros inferiores (venas ilíacas externas) y órganos de la pelvis (venas ilíacas internas)", "isCorrect": true, "rationale": "Las venas ilíacas comunes drenan el miembro inferior (por venas ilíacas externas) y los órganos de la pelvis (por venas ilíacas internas)." },
+      { "text": "Solo los miembros inferiores", "isCorrect": false, "rationale": "También drenan los órganos pélvicos." },
+      { "text": "Solo la pelvis", "isCorrect": false, "rationale": "También drenan los miembros inferiores." },
+      { "text": "El hígado", "isCorrect": false, "rationale": "El hígado drena por venas hepáticas directamente." }
+    ],
+    "hint": "Drenan la mitad inferior del cuerpo."
+  },
+  {
+    "question": "¿Qué venas afluentes tiene la vena cava inferior?",
+    "options": [
+      { "text": "Venas renales, suprarrenal derecha, testicular/ovárica derecha, frénicas inferiores y hepáticas", "isCorrect": true, "rationale": "La vena cava inferior posee numerosas venas afluentes: venas renales (con suprarrenal y testicular/ovárica izquierdas), suprarrenal derecha, testicular/ovárica derecha, frénicas inferiores y venas hepáticas." },
+      { "text": "Solo las venas renales", "isCorrect": false, "rationale": "Tiene muchas más venas afluentes." },
+      { "text": "Solo las venas hepáticas", "isCorrect": false, "rationale": "Tiene múltiples afluentes además de las hepáticas." },
+      { "text": "La vena ácigos", "isCorrect": false, "rationale": "La vena ácigos es afluente de la cava superior." }
+    ],
+    "hint": "Son múltiples venas que drenan órganos abdominales."
+  },
+  {
+    "question": "¿Qué particularidad tiene la vena renal izquierda?",
+    "options": [
+      { "text": "Recibe a la vena suprarrenal izquierda y a la vena testicular/ovárica izquierda", "isCorrect": true, "rationale": "La vena renal izquierda recibe a la vena suprarrenal izquierda y a la vena testicular u ovárica izquierda antes de desembocar en la cava." },
+      { "text": "No tiene afluentes", "isCorrect": false, "rationale": "Recibe las venas suprarrenal y gonadal izquierdas." },
+      { "text": "Desemboca en la cava superior", "isCorrect": false, "rationale": "Desemboca en la cava inferior." },
+      { "text": "Es más corta que la derecha", "isCorrect": false, "rationale": "Es más larga que la derecha porque cruza la línea media." }
+    ],
+    "hint": "Recibe sangre de la glándula suprarrenal y gónada del mismo lado."
+  },
+  {
+    "question": "¿Qué es la vena porta?",
+    "options": [
+      { "text": "Vena que drena todas las venas del intestino y del bazo hacia el hígado", "isCorrect": true, "rationale": "La vena porta drena todas las venas del intestino y del bazo hacia el hígado, donde la sangre pasa a las venas hepáticas." },
+      { "text": "Una vena que va directo al corazón", "isCorrect": false, "rationale": "La vena porta va al hígado, no directo al corazón." },
+      { "text": "Una arteria", "isCorrect": false, "rationale": "La vena porta es una vena, no una arteria." },
+      { "text": "Un vaso linfático", "isCorrect": false, "rationale": "Es una vena del sistema portal hepático." }
+    ],
+    "hint": "Es un sistema venoso especial que pasa por el hígado."
+  },
+  {
+    "question": "¿Qué drenan las venas hepáticas?",
+    "options": [
+      { "text": "La sangre del hígado que incluye la sangre de la vena porta", "isCorrect": true, "rationale": "Las venas hepáticas drenan la sangre del hígado, que a su vez recibió la sangre de la vena porta (del intestino y bazo)." },
+      { "text": "Solo la sangre del estómago", "isCorrect": false, "rationale": "Drenan la sangre que ya pasó por el hígado." },
+      { "text": "La sangre del bazo directamente", "isCorrect": false, "rationale": "El bazo drena en la vena porta primero." },
+      { "text": "La sangre de los riñones", "isCorrect": false, "rationale": "Los riñones drenan por venas renales." }
+    ],
+    "hint": "Son la 'salida' venosa del hígado hacia la cava inferior."
+  },
+  {
+    "question": "¿Cuáles son los tres tipos de anastomosis venosas?",
+    "options": [
+      { "text": "Venovenosas, arteriovenosas y venolinfáticas", "isCorrect": true, "rationale": "Las venas presentan tres tipos de anastomosis: las venovenosas, las arteriovenosas y las venolinfáticas." },
+      { "text": "Solo venovenosas", "isCorrect": false, "rationale": "Hay tres tipos de anastomosis venosas." },
+      { "text": "Arteriales y venosas", "isCorrect": false, "rationale": "Son tres tipos específicos de anastomosis venosas." },
+      { "text": "Lináticas y sanguíneas", "isCorrect": false, "rationale": "Los tres tipos son venovenosas, arteriovenosas y venolinfáticas." }
+    ],
+    "hint": "Conectan venas entre sí, con arterias o con vasos linfáticos."
+  },
+  {
+    "question": "¿Cómo se efectúan las anastomosis venovenosas?",
+    "options": [
+      { "text": "Por inosculación, por conducto de unión o por convergencia", "isCorrect": true, "rationale": "Las anastomosis venovenosas se efectúan por inosculación, por conducto de unión o por convergencia. A veces constituyen una red o plexo venoso." },
+      { "text": "Solo por convergencia", "isCorrect": false, "rationale": "Hay tres formas: inosculación, conducto de unión y convergencia." },
+      { "text": "Solo por inosculación", "isCorrect": false, "rationale": "Hay tres formas diferentes." },
+      { "text": "Por fusión completa", "isCorrect": false, "rationale": "Las formas son inosculación, conducto de unión o convergencia." }
+    ],
+    "hint": "Tres formas de conectar venas entre sí."
+  },
+  {
+    "question": "¿Qué puede formar una anastomosis venovenosa?",
+    "options": [
+      { "text": "Una red o plexo venoso", "isCorrect": true, "rationale": "Las anastomosis venovenosas a veces constituyen una red o plexo venoso." },
+      { "text": "Un aneurisma", "isCorrect": false, "rationale": "Un aneurisma es una dilatación arterial, no una red venosa." },
+      { "text": "Un trombo", "isCorrect": false, "rationale": "Un trombo es un coágulo, no una anastomosis." },
+      { "text": "Una válvula", "isCorrect": false, "rationale": "Las válvulas son estructuras diferentes de las anastomosis." }
+    ],
+    "hint": "Múltiples conexiones venosas pueden formar redes."
+  },
+  {
+    "question": "¿Qué son las anastomosis arteriovenosas?",
+    "options": [
+      { "text": "Vías de derivación entre arteriola y vénula que evitan el plexo capilar", "isCorrect": true, "rationale": "Las anastomosis arteriovenosas son vías de derivación entre una arteriola y una vénula, un sistema de regulación que puede permitir evitar el pasaje por un plexo capilar." },
+      { "text": "Conexiones entre dos arterias", "isCorrect": false, "rationale": "Conectan arteriola con vénula, no dos arterias." },
+      { "text": "Conexiones entre dos venas", "isCorrect": false, "rationale": "Conectan arteriola con vénula, no dos venas." },
+      { "text": "Conexiones linfáticas", "isCorrect": false, "rationale": "Conectan vasos sanguíneos, no linfáticos." }
+    ],
+    "hint": "Permiten 'saltar' los capilares."
+  },
+  {
+    "question": "¿Qué función tienen las anastomosis arteriovenosas?",
+    "options": [
+      { "text": "Sistema de regulación que puede evitar el pasaje por el plexo capilar", "isCorrect": true, "rationale": "Las anastomosis arteriovenosas son un sistema de regulación que puede permitir evitar el pasaje por un plexo capilar." },
+      { "text": "Aumentar la presión arterial", "isCorrect": false, "rationale": "Regulan distribución de flujo, no aumentan presión." },
+      { "text": "Filtrar la sangre", "isCorrect": false, "rationale": "No filtran, derivan flujo." },
+      { "text": "Producir linfa", "isCorrect": false, "rationale": "No producen linfa, regulan flujo sanguíneo." }
+    ],
+    "hint": "Regulan el flujo según las necesidades del tejido."
+  },
+  {
+    "question": "¿Qué son las anastomosis venolinfáticas?",
+    "options": [
+      { "text": "La vía de drenaje final de los vasos linfáticos hacia el sistema venoso", "isCorrect": true, "rationale": "Las anastomosis venolinfáticas constituyen la vía de drenaje final de los vasos linfáticos." },
+      { "text": "Conexiones entre venas", "isCorrect": false, "rationale": "Conectan vasos linfáticos con venas." },
+      { "text": "Conexiones entre arterias y venas", "isCorrect": false, "rationale": "Esas son anastomosis arteriovenosas." },
+      { "text": "Conexiones entre linfáticos", "isCorrect": false, "rationale": "Conectan linfáticos con el sistema venoso." }
+    ],
+    "hint": "Es donde el sistema linfático se conecta con el venoso."
+  },
+  {
+    "question": "¿Qué ocurre en la insuficiencia de la circulación venosa?",
+    "options": [
+      { "text": "Aumento de producción de linfa que no puede drenarse correctamente, generando edemas", "isCorrect": true, "rationale": "En la insuficiencia venosa se produce aumento en la producción de linfa que no puede ser correctamente drenado y genera edemas." },
+      { "text": "Disminución de la producción de linfa", "isCorrect": false, "rationale": "La producción de linfa aumenta, no disminuye." },
+      { "text": "No afecta al sistema linfático", "isCorrect": false, "rationale": "La insuficiencia venosa afecta el drenaje linfático." },
+      { "text": "Mejora el retorno venoso", "isCorrect": false, "rationale": "Precisamente es lo contrario: el retorno venoso falla." }
+    ],
+    "hint": "El edema es un signo de insuficiencia venosa."
+  },
+  {
+    "question": "¿Cómo es la vascularización de las venas?",
+    "options": [
+      { "text": "Semejante a la de las arterias: por difusión de sangre circulante y vasa vasorum", "isCorrect": true, "rationale": "La vascularización de las venas es semejante a la de las arterias: por difusión de sangre circulante y de los vasa vasorum en las grandes venas." },
+      { "text": "No tienen vascularización", "isCorrect": false, "rationale": "Las venas sí tienen vascularización, especialmente las grandes." },
+      { "text": "Solo por difusión", "isCorrect": false, "rationale": "Las grandes venas también tienen vasa vasorum." },
+      { "text": "Solo por vasa vasorum", "isCorrect": false, "rationale": "También hay difusión desde la sangre circulante." }
+    ],
+    "hint": "'Vasa vasorum' = vasos de los vasos."
+  },
+  {
+    "question": "¿Cómo es la inervación de las venas?",
+    "options": [
+      { "text": "Rica en venas viscerales e idéntica a la de las arterias en venas periféricas", "isCorrect": true, "rationale": "La inervación es rica a nivel de las venas viscerales y es idéntica a la de las arterias en las venas periféricas." },
+      { "text": "Ausente en todas las venas", "isCorrect": false, "rationale": "Las venas sí tienen inervación." },
+      { "text": "Solo en las venas superficiales", "isCorrect": false, "rationale": "Las venas viscerales tienen inervación especialmente rica." },
+      { "text": "Solo en las venas profundas", "isCorrect": false, "rationale": "Todas las venas tienen inervación." }
+    ],
+    "hint": "Los nervios controlan el tono de la pared venosa."
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "question": "¿Qué es una úlcera?",
+    "options": [
+      { "text": "Excavación en la superficie de un tejido por desprendimiento de tejido necrótico", "isCorrect": true, "rationale": "Una úlcera es una excavación en la superficie de un tejido que se produce como consecuencia del desprendimiento de tejido necrótico." },
+      { "text": "Una inflamación de la piel", "isCorrect": false, "rationale": "La úlcera es una pérdida de sustancia, no solo inflamación." },
+      { "text": "Un tumor cutáneo", "isCorrect": false, "rationale": "La úlcera es una lesión por pérdida de tejido." },
+      { "text": "Una infección superficial", "isCorrect": false, "rationale": "Puede infectarse, pero la úlcera es la lesión misma." }
+    ],
+    "hint": "Es como un 'hueco' en la piel o mucosa."
+  },
+  {
+    "question": "¿Qué porcentaje de úlceras de la pierna son venosas?",
+    "options": [
+      { "text": "Aproximadamente el 70%", "isCorrect": true, "rationale": "Aproximadamente el 70% de las úlceras de la pierna son de origen venoso." },
+      { "text": "El 10%", "isCorrect": false, "rationale": "Son la mayoría, aproximadamente 70%." },
+      { "text": "El 30%", "isCorrect": false, "rationale": "Son más frecuentes, cerca del 70%." },
+      { "text": "El 50%", "isCorrect": false, "rationale": "Son más frecuentes, aproximadamente 70%." }
+    ],
+    "hint": "La mayoría de las úlceras de pierna son venosas."
+  },
+  {
+    "question": "¿Dónde se ubican típicamente las úlceras venosas?",
+    "options": [
+      { "text": "En la cara medial de la pierna, en su tercio inferior o medio", "isCorrect": true, "rationale": "Las úlceras venosas se ubican en la cara medial de la pierna, en su tercio inferior o medio." },
+      { "text": "En el lado lateral de la pierna", "isCorrect": false, "rationale": "Las úlceras arteriales se ubican en el lado lateral." },
+      { "text": "En el pie", "isCorrect": false, "rationale": "Se ubican en la pierna, no principalmente en el pie." },
+      { "text": "En el muslo", "isCorrect": false, "rationale": "Se ubican en el tercio inferior de la pierna." }
+    ],
+    "hint": "Cara medial = lado interno de la pierna."
+  },
+  {
+    "question": "¿Qué características presentan las úlceras venosas?",
+    "options": [
+      { "text": "Bordes irregulares y fondo sucio, con pierna hinchada", "isCorrect": true, "rationale": "Las úlceras venosas presentan bordes irregulares, fondo sucio, pierna hinchada y dolorosa si se infecta." },
+      { "text": "Bordes netos y fondo limpio", "isCorrect": false, "rationale": "Esas son características de úlceras arteriales." },
+      { "text": "Sin inflamación circundante", "isCorrect": false, "rationale": "Generalmente hay inflamación y edema." },
+      { "text": "Pierna fría y pálida", "isCorrect": false, "rationale": "Esas son características de úlceras arteriales." }
+    ],
+    "hint": "Son úlceras 'sucias' con bordes mal definidos."
+  },
+  {
+    "question": "¿Qué causa las úlceras venosas?",
+    "options": [
+      { "text": "Compromiso vascular que dificulta el retorno venoso, produciendo hipertensión venosa", "isCorrect": true, "rationale": "Las úlceras venosas son consecuencia del compromiso vascular que dificulta el retorno venoso, produciendo hipertensión venosa y alteraciones tróficas." },
+      { "text": "Falta de irrigación arterial", "isCorrect": false, "rationale": "Esa es la causa de úlceras arteriales." },
+      { "text": "Infección bacteriana primaria", "isCorrect": false, "rationale": "La causa es vascular, aunque pueden infectarse secundariamente." },
+      { "text": "Traumatismo directo", "isCorrect": false, "rationale": "La causa es la insuficiencia venosa crónica." }
+    ],
+    "hint": "El problema es el retorno venoso deficiente."
+  },
+  {
+    "question": "¿Dónde se ubican las úlceras arteriales?",
+    "options": [
+      { "text": "En el lado lateral de la pierna", "isCorrect": true, "rationale": "Las úlceras arteriales suelen ubicarse en el lado lateral de la pierna." },
+      { "text": "En la cara medial", "isCorrect": false, "rationale": "Las úlceras venosas se ubican en la cara medial." },
+      { "text": "En el muslo", "isCorrect": false, "rationale": "Se ubican en la pierna, no en el muslo." },
+      { "text": "En el pie únicamente", "isCorrect": false, "rationale": "Pueden estar en pierna, especialmente lateral." }
+    ],
+    "hint": "Lateral = lado externo de la pierna."
+  },
+  {
+    "question": "¿Qué características presentan las úlceras arteriales?",
+    "options": [
+      { "text": "Bordes netos, causa isquémica, dolorosas en reposo o con pierna elevada", "isCorrect": true, "rationale": "Las úlceras arteriales son de causa isquémica, presentan bordes netos, y suelen ser dolorosas sobre todo durante el reposo o con la pierna elevada." },
+      { "text": "Bordes irregulares y fondo sucio", "isCorrect": false, "rationale": "Esas son características de úlceras venosas." },
+      { "text": "Pierna hinchada y caliente", "isCorrect": false, "rationale": "Las úlceras arteriales tienen pierna fría y pálida por isquemia." },
+      { "text": "Indoloras", "isCorrect": false, "rationale": "Son dolorosas, especialmente en reposo." }
+    ],
+    "hint": "Son úlceras 'limpias' con bordes bien definidos."
+  },
+  {
+    "question": "¿Qué puede causar las úlceras arteriales?",
+    "options": [
+      { "text": "Aterosclerosis arterial o diabetes mellitus", "isCorrect": true, "rationale": "La causa de úlceras arteriales puede ser la aterosclerosis arterial o la diabetes mellitus." },
+      { "text": "Insuficiencia venosa", "isCorrect": false, "rationale": "Esa es causa de úlceras venosas." },
+      { "text": "Infección bacteriana", "isCorrect": false, "rationale": "La causa es la isquemia por enfermedad arterial." },
+      { "text": "Traumatismo", "isCorrect": false, "rationale": "La causa es la falta de irrigación." }
+    ],
+    "hint": "Son enfermedades que afectan las arterias."
+  },
+  {
+    "question": "¿Qué comprende la gran circulación o circulación sistémica?",
+    "options": [
+      { "text": "Ventrículo izquierdo, aorta, arterias, capilares, venas hasta el atrio derecho", "isCorrect": true, "rationale": "La gran circulación comprende: el ventrículo izquierdo, la aorta y todas las arterias, los capilares y las venas que conducen la sangre al atrio derecho." },
+      { "text": "Ventrículo derecho, pulmonar, capilares pulmonares y venas pulmonares", "isCorrect": false, "rationale": "Esa es la pequeña circulación." },
+      { "text": "Solo el corazón izquierdo", "isCorrect": false, "rationale": "Incluye todo el circuito desde ventrículo izquierdo hasta atrio derecho." },
+      { "text": "Solo las arterias sistémicas", "isCorrect": false, "rationale": "Incluye arterias, capilares y venas del sistema sistémico." }
+    ],
+    "hint": "Es el circuito que recorre todo el cuerpo excepto los pulmones."
+  },
+  {
+    "question": "¿Qué desembocan en la gran circulación?",
+    "options": [
+      { "text": "Los vasos linfáticos: conducto torácico y conducto linfático derecho", "isCorrect": true, "rationale": "En la gran circulación desembocan los vasos linfáticos: conducto torácico a la izquierda y conducto linfático derecho a la derecha." },
+      { "text": "Las venas pulmonares", "isCorrect": false, "rationale": "Las venas pulmonares van al atrio izquierdo (pequeña circulación)." },
+      { "text": "Solo la vena cava", "isCorrect": false, "rationale": "También desembocan los vasos linfáticos." },
+      { "text": "Las arterias sistémicas", "isCorrect": false, "rationale": "Las arterias salen del corazón, no desembocan." }
+    ],
+    "hint": "El sistema linfático se conecta con el sistema venoso."
+  },
+  {
+    "question": "¿Qué comprende la pequeña circulación o circulación pulmonar?",
+    "options": [
+      { "text": "Ventrículo derecho, arteria pulmonar, capilares pulmonares, venas pulmonares al atrio izquierdo", "isCorrect": true, "rationale": "La pequeña circulación comprende: el ventrículo derecho, la arteria pulmonar, los capilares pulmonares, las venas pulmonares y el atrio izquierdo." },
+      { "text": "Ventrículo izquierdo y aorta", "isCorrect": false, "rationale": "Eso es parte de la gran circulación." },
+      { "text": "Solo los pulmones", "isCorrect": false, "rationale": "Incluye el circuito completo con corazón y vasos." },
+      { "text": "Solo las arterias pulmonares", "isCorrect": false, "rationale": "Incluye todo el circuito pulmonar." }
+    ],
+    "hint": "Es el circuito que va del corazón a los pulmones y vuelve."
+  },
+  {
+    "question": "¿Qué diferencia hay entre arterias y venas en la circulación pulmonar respecto a la sangre?",
+    "options": [
+      { "text": "Las arterias pulmonares llevan sangre venosa y las venas pulmonares llevan sangre arterial", "isCorrect": true, "rationale": "En la circulación pulmonar, las arterias contienen sangre carbooxigenada y las venas sangre oxigenada: es lo contrario de la circulación sistémica." },
+      { "text": "Ambas llevan sangre arterial", "isCorrect": false, "rationale": "Las arterias pulmonares llevan sangre venosa." },
+      { "text": "Ambas llevan sangre venosa", "isCorrect": false, "rationale": "Las venas pulmonares llevan sangre arterial." },
+      { "text": "Es igual que en la circulación sistémica", "isCorrect": false, "rationale": "Es exactamente lo contrario." }
+    ],
+    "hint": "En pulmones, arterias = venosa, venas = arterial."
+  },
+  {
+    "question": "¿Qué es la oximetría de pulso?",
+    "options": [
+      { "text": "Instrumento que mide la saturación de oxígeno de la sangre arterial de manera no invasiva", "isCorrect": true, "rationale": "Los oxímetros de pulso miden la saturación de oxígeno de la sangre arterial, a través de la piel o las uñas sin necesidad de penetrarlas (no invasiva)." },
+      { "text": "Un análisis de sangre", "isCorrect": false, "rationale": "Es no invasivo, no requiere extraer sangre." },
+      { "text": "Un electrocardiograma", "isCorrect": false, "rationale": "Mide oxigenación, no actividad eléctrica cardíaca." },
+      { "text": "Una radiografía", "isCorrect": false, "rationale": "No utiliza radiación, es un sensor de luz." }
+    ],
+    "hint": "Es el 'dedal' que ponen en el dedo en hospitales."
+  },
+  {
+    "question": "¿Qué ventaja tiene la oximetría de pulso?",
+    "options": [
+      { "text": "Detecta descenso de saturación de oxígeno antes de que ocurra daño o aparezcan signos físicos", "isCorrect": true, "rationale": "La oximetría de pulso permite detectar el descenso de los niveles de saturación de oxígeno antes de que ocurra daño en el organismo y antes de que aparezcan los signos físicos." },
+      { "text": "Diagnostica todas las enfermedades pulmonares", "isCorrect": false, "rationale": "Solo mide saturación de oxígeno, no diagnostica enfermedades específicas." },
+      { "text": "Reemplaza todos los análisis de sangre", "isCorrect": false, "rationale": "No reemplaza otros análisis, es complementario." },
+      { "text": "Mide la presión arterial", "isCorrect": false, "rationale": "Mide saturación de O₂, no presión." }
+    ],
+    "hint": "Es una herramienta de monitoreo precoz."
+  },
+  {
+    "question": "¿Cuál es la capacidad del sistema venoso comparado con el arterial?",
+    "options": [
+      { "text": "4.700 ml el venoso frente a 800 ml el arterial (aproximadamente 6 veces mayor)", "isCorrect": true, "rationale": "La capacidad del sistema venoso es de 4.700 ml frente a los 800 ml de las arterias. Esta reserva vascular es 100 a 200 veces más distensible." },
+      { "text": "Son iguales", "isCorrect": false, "rationale": "El sistema venoso tiene mucha más capacidad." },
+      { "text": "El arterial es mayor", "isCorrect": false, "rationale": "El venoso tiene aproximadamente 6 veces más capacidad." },
+      { "text": "El venoso tiene la mitad de capacidad", "isCorrect": false, "rationale": "Tiene mucho más capacidad que el arterial." }
+    ],
+    "hint": "Las venas son el 'reservorio' de sangre del cuerpo."
+  }
+]

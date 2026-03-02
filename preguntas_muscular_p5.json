@@ -1,0 +1,132 @@
+[
+  {
+    "question": "¿Qué es el endomisio?",
+    "options": [
+      { "text": "El tejido conectivo que envuelve los fascículos musculares primarios", "isCorrect": true, "rationale": "El endomisio envuelve los fascículos musculares primarios dentro del músculo." },
+      { "text": "La membrana que rodea todo el músculo", "isCorrect": false, "rationale": "La membrana que rodea todo el músculo es el epimisio." },
+      { "text": "El tejido que agrupa varios fascículos", "isCorrect": false, "rationale": "El perimisio agrupa fascículos secundarios." },
+      { "text": "La membrana celular de la fibra muscular", "isCorrect": false, "rationale": "La membrana celular de la fibra es el sarcolema." }
+    ],
+    "hint": "Es la capa más interna de tejido conectivo muscular."
+  },
+  {
+    "question": "¿Qué función tiene el endomisio según el texto?",
+    "options": [
+      { "text": "Envuelve los fascículos musculares primarios", "isCorrect": true, "rationale": "El endomisio envuelve los fascículos musculares primarios, proporcionando cohesión a las fibras." },
+      { "text": "Separa el músculo del tejido subcutáneo", "isCorrect": false, "rationale": "Esta es función de la fascia de revestimiento superficial." },
+      { "text": "Conecta el músculo con el tendón", "isCorrect": false, "rationale": "El tejido conectivo se continúa con el tendón, pero no es su función principal." },
+      { "text": "Protege al músculo de traumatismos externos", "isCorrect": false, "rationale": "Esta función corresponde a estructuras más superficiales." }
+    ],
+    "hint": "Es la capa más íntima de tejido conectivo muscular."
+  },
+  {
+    "question": "¿Qué es el perimisio?",
+    "options": [
+      { "text": "El tejido conectivo que agrupa fascículos primarios y envuelve fascículos secundarios", "isCorrect": true, "rationale": "El perimisio agrupa varios fascículos primarios y envuelve los fascículos secundarios." },
+      { "text": "El tejido que envuelve cada fibra muscular individual", "isCorrect": false, "rationale": "Cada fibra muscular está envuelta por endomisio." },
+      { "text": "La membrana que rodea todo el músculo", "isCorrect": false, "rationale": "La membrana que rodea todo el músculo es el epimisio." },
+      { "text": "El tejido que conecta músculo y tendón", "isCorrect": false, "rationale": "El perimisio es parte de la organización interna del músculo." }
+    ],
+    "hint": "Está entre el endomisio y el epimisio en organización."
+  },
+  {
+    "question": "¿Cómo se relaciona el perimisio con el tendón?",
+    "options": [
+      { "text": "El tejido conectivo del tendón se continúa con el perimisio muscular", "isCorrect": true, "rationale": "El tejido conectivo fibroso del tendón se continúa con el perimisio, asegurando la transmisión de fuerza." },
+      { "text": "El perimisio forma el tendón", "isCorrect": false, "rationale": "El tendón tiene su propia estructura, pero se continúa con el perimisio." },
+      { "text": "El perimisio está separado del tendón", "isCorrect": false, "rationale": "Existe continuidad entre ambos para la transmisión de fuerza." },
+      { "text": "El perimisio solo rodea el vientre muscular", "isCorrect": false, "rationale": "El perimisio se continúa con el tejido tendinoso." }
+    ],
+    "hint": "Asegura la transmisión de la fuerza de tracción del músculo."
+  },
+  {
+    "question": "¿Qué es el epimisio?",
+    "options": [
+      { "text": "El tejido conectivo laxo ubicado inmediatamente profundo a la fascia muscular", "isCorrect": true, "rationale": "El epimisio es tejido conectivo laxo que se ubica profundo a la fascia muscular, rodeando todo el músculo." },
+      { "text": "El tejido que envuelve cada fibra muscular", "isCorrect": false, "rationale": "Las fibras musculares están envueltas por endomisio." },
+      { "text": "El tejido que agrupa fascículos", "isCorrect": false, "rationale": "Los fascículos están envueltos por perimisio." },
+      { "text": "La fascia que rodea el músculo", "isCorrect": false, "rationale": "El epimisio está profundo a la fascia, no es la fascia misma." }
+    ],
+    "hint": "Es la capa más externa de tejido conectivo dentro del músculo."
+  },
+  {
+    "question": "¿Dónde se ubica el epimisio respecto a la fascia muscular?",
+    "options": [
+      { "text": "Inmediatamente profundo a la fascia muscular", "isCorrect": true, "rationale": "El epimisio se encuentra profundo (por debajo) de la fascia muscular." },
+      { "text": "Superficial a la fascia muscular", "isCorrect": false, "rationale": "El epimisio está por debajo de la fascia, no por encima." },
+      { "text": "En el interior de los fascículos", "isCorrect": false, "rationale": "Dentro de los fascículos está el endomisio." },
+      { "text": "Entre el músculo y el tendón", "isCorrect": false, "rationale": "El epimisio rodea todo el músculo, está en su superficie externa." }
+    ],
+    "hint": "Está entre la fascia y las fibras musculares."
+  },
+  {
+    "question": "¿Qué son las fibras musculares?",
+    "options": [
+      { "text": "Células musculares especializadas en la contracción, de forma alargada y estrecha", "isCorrect": true, "rationale": "Las fibras musculares son células especializadas en la contracción, con forma alargada cuando están relajadas." },
+      { "text": "Fibras de colágeno dentro del músculo", "isCorrect": false, "rationale": "Las fibras musculares son células, no fibras de colágeno." },
+      { "text": "Los tendones que conectan el músculo", "isCorrect": false, "rationale": "Los tendones son estructuras diferentes a las fibras musculares." },
+      { "text": "Las ramificaciones nerviosas del músculo", "isCorrect": false, "rationale": "Las fibras musculares son el tejido contráctil del músculo." }
+    ],
+    "hint": "También se llaman células musculares."
+  },
+  {
+    "question": "¿Por qué se las llama 'fibras' a las células musculares?",
+    "options": [
+      { "text": "Por su forma alargada y estrecha cuando están relajadas", "isCorrect": true, "rationale": "Las células musculares reciben el nombre de fibras por su forma alargada y estrecha." },
+      { "text": "Porque son filamentosas como las fibras textiles", "isCorrect": false, "rationale": "Aunque la analogía es válida, la razón es su forma celular." },
+      { "text": "Porque forman parte de un tejido fibroso", "isCorrect": false, "rationale": "El tejido muscular es diferente del tejido conectivo fibroso." },
+      { "text": "Porque tienen estrías longitudinales", "isCorrect": false, "rationale": "El nombre deriva de su forma, no de las estrías." }
+    ],
+    "hint": "Su forma característica es alargada."
+  },
+  {
+    "question": "¿Qué son los fascículos musculares?",
+    "options": [
+      { "text": "Agrupaciones de fibras musculares mantenidas unidas por tejido conectivo", "isCorrect": true, "rationale": "Los fascículos musculares son agrupaciones de fibras musculares cuya cohesión se debe al tejido conectivo." },
+      { "text": "Las ramificaciones nerviosas dentro del músculo", "isCorrect": false, "rationale": "Los fascículos son grupos de fibras musculares." },
+      { "text": "Los vasos sanguíneos que nutren el músculo", "isCorrect": false, "rationale": "Los fascículos son estructuras musculares, no vasculares." },
+      { "text": "Los tendones que se dividen dentro del músculo", "isCorrect": false, "rationale": "Los fascículos son grupos de células musculares." }
+    ],
+    "hint": "Son haces de fibras musculares agrupadas."
+  },
+  {
+    "question": "¿Qué mantiene unidas las fibras dentro de los fascículos musculares?",
+    "options": [
+      { "text": "El entrelazamiento y disposición helicoidal del tejido conectivo", "isCorrect": true, "rationale": "La cohesión de las fibras se debe al entrelazamiento y disposición helicoidal del tejido conectivo entre ellas." },
+      { "text": "Proteínas de adhesión celular exclusivamente", "isCorrect": false, "rationale": "Además de proteínas, el tejido conectivo tiene un papel estructural importante." },
+      { "text": "La membrana basal de cada fibra", "isCorrect": false, "rationale": "El tejido conectivo entre las fibras es el principal responsable." },
+      { "text": "Las estrías transversales que las conectan", "isCorrect": false, "rationale": "Las estrías son características de la estructura interna de la fibra." }
+    ],
+    "hint": "El tejido conectivo tiene una disposición particular entre las fibras."
+  },
+  {
+    "question": "¿Qué es el sarcolema?",
+    "options": [
+      { "text": "La membrana plasmática de la fibra muscular", "isCorrect": true, "rationale": "El sarcolema es la membrana plasmática de la célula muscular o fibra muscular." },
+      { "text": "El tejido conectivo que rodea la fibra", "isCorrect": false, "rationale": "El tejido conectivo que rodea la fibra es el endomisio." },
+      { "text": "El núcleo de la célula muscular", "isCorrect": false, "rationale": "El sarcolema es la membrana, no el núcleo." },
+      { "text": "El citoplasma de la fibra muscular", "isCorrect": false, "rationale": "El citoplasma muscular se llama sarcoplasma." }
+    ],
+    "hint": "Es equivalente a la membrana celular de otras células."
+  },
+  {
+    "question": "¿Qué son las miofibrillas?",
+    "options": [
+      { "text": "Elementos contráctiles cilíndricos dentro de la fibra muscular", "isCorrect": true, "rationale": "Las miofibrillas son estructuras cilíndricas dentro de la fibra muscular encargadas de la contracción." },
+      { "text": "Las fibras musculares individuales", "isCorrect": false, "rationale": "Las miofibrillas están dentro de cada fibra muscular." },
+      { "text": "Los fascículos musculares más pequeños", "isCorrect": false, "rationale": "Las miofibrillas son estructuras subcelulares, no fascículos." },
+      { "text": "Las ramificaciones nerviosas que inervan el músculo", "isCorrect": false, "rationale": "Las miofibrillas son estructuras intracelulares de la fibra muscular." }
+    ],
+    "hint": "Son componentes subcelulares responsables de la contracción."
+  },
+  {
+    "question": "¿Qué es el sarcómero?",
+    "options": [
+      { "text": "La unidad funcional contráctil de la miofibrilla", "isCorrect": true, "rationale": "El sarcómero es la unidad funcional de contracción que se repite a lo largo de la miofibrilla." },
+      { "text": "El conjunto de todas las miofibrillas", "isCorrect": false, "rationale": "El sarcómero es una unidad dentro de cada miofibrilla." },
+      { "text": "La membrana que rodea la miofibrilla", "isCorrect": false, "rationale": "El sarcómero es una estructura interna, no una membrana." },
+      { "text": "El núcleo de la célula muscular", "isCorrect": false, "rationale": "El sarcómero es parte de la maquinaria contráctil." }
+    ],
+    "hint": "Es la unidad básica de contracción muscular."
+  }
+]

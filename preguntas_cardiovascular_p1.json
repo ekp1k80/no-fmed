@@ -1,0 +1,152 @@
+[
+  {
+    "question": "¿Qué estudia la angiología?",
+    "options": [
+      { "text": "El sistema que asegura la circulación de sangre, quilo y linfa", "isCorrect": true, "rationale": "La angiología estudia el sistema que asegura la circulación de la sangre, del quilo y de la linfa en todo el organismo." },
+      { "text": "Solo el corazón", "isCorrect": false, "rationale": "La cardiología estudia el corazón; la angiología es más amplia." },
+      { "text": "Solo los vasos sanguíneos", "isCorrect": false, "rationale": "Incluye también el corazón y los vasos linfáticos." },
+      { "text": "El sistema nervioso", "isCorrect": false, "rationale": "El sistema nervioso es estudiado por la neurología." }
+    ],
+    "hint": "Incluye todo el sistema circulatorio: sangre y linfa."
+  },
+  {
+    "question": "¿Qué comprende el sistema cardiovascular?",
+    "options": [
+      { "text": "Un órgano central (corazón) y conductos (arterias, venas, capilares, linfáticos)", "isCorrect": true, "rationale": "El sistema cardiovascular comprende un órgano central de impulsión (corazón) y un conjunto de conductos (arterias, venas, capilares y vasos linfáticos)." },
+      { "text": "Solo el corazón y las arterias", "isCorrect": false, "rationale": "Incluye también venas, capilares y vasos linfáticos." },
+      { "text": "Solo los vasos sanguíneos", "isCorrect": false, "rationale": "El corazón es parte fundamental del sistema cardiovascular." },
+      { "text": "Corazón, pulmones y vasos", "isCorrect": false, "rationale": "Los pulmones no son parte del sistema cardiovascular." }
+    ],
+    "hint": "Tiene un componente de bombeo y una red de conductos."
+  },
+  {
+    "question": "¿Cómo está compuesto el corazón?",
+    "options": [
+      { "text": "Dos mitades (derecha e izquierda) con dos cavidades cada una", "isCorrect": true, "rationale": "El corazón tiene un corazón derecho y un corazón izquierdo, cada uno con un atrio y un ventrículo." },
+      { "text": "Una sola cavidad", "isCorrect": false, "rationale": "El corazón tiene cuatro cavidades: dos atrios y dos ventrículos." },
+      { "text": "Tres cavidades", "isCorrect": false, "rationale": "Tiene cuatro cavidades, no tres." },
+      { "text": "Solo ventrículos", "isCorrect": false, "rationale": "Tiene dos atrios y dos ventrículos." }
+    ],
+    "hint": "Total de cuatro cavidades en el corazón."
+  },
+  {
+    "question": "¿Qué separa al corazón derecho del corazón izquierdo?",
+    "options": [
+      { "text": "Un tabique", "isCorrect": true, "rationale": "El corazón derecho y el corazón izquierdo están separados por un tabique." },
+      { "text": "Válvulas", "isCorrect": false, "rationale": "Las válvulas separan atrios de ventrículos, no los dos corazones entre sí." },
+      { "text": "El pericardio", "isCorrect": false, "rationale": "El pericardio envuelve todo el corazón externamente." },
+      { "text": "La aorta", "isCorrect": false, "rationale": "La aorta es un vaso que sale del ventrículo izquierdo." }
+    ],
+    "hint": "Es una pared interna que divide el corazón en dos."
+  },
+  {
+    "question": "¿Qué estructura comunica cada atrio con su ventrículo correspondiente?",
+    "options": [
+      { "text": "Un orificio provisto de válvulas", "isCorrect": true, "rationale": "Cada atrio comunica con el ventrículo correspondiente por un orificio provisto de válvulas que aseguran circulación en sentido único." },
+      { "text": "Un tabique", "isCorrect": false, "rationale": "Los tabiques separan, no comunican." },
+      { "text": "Un vaso sanguíneo", "isCorrect": false, "rationale": "La comunicación es directa dentro del corazón, no por vasos." },
+      { "text": "Una pared muscular", "isCorrect": false, "rationale": "Las paredes separan, no comunican." }
+    ],
+    "hint": "Es una abertura con estructuras que permiten flujo unidireccional."
+  },
+  {
+    "question": "¿De dónde llegan las venas al corazón?",
+    "options": [
+      { "text": "A los atrios", "isCorrect": true, "rationale": "A los atrios (aurículas) llegan las venas." },
+      { "text": "A los ventrículos", "isCorrect": false, "rationale": "De los ventrículos parten las arterias; las venas llegan a los atrios." },
+      { "text": "Al tabique", "isCorrect": false, "rationale": "El tabique es una pared separadora, no recibe venas." },
+      { "text": "Al pericardio", "isCorrect": false, "rationale": "El pericardio es la membrana externa que envuelve el corazón." }
+    ],
+    "hint": "Las aurículas reciben sangre, los ventrículos la bombean."
+  },
+  {
+    "question": "¿De dónde parten las arterias del corazón?",
+    "options": [
+      { "text": "De los ventrículos", "isCorrect": true, "rationale": "De los ventrículos parten las arterias: aorta o tronco pulmonar." },
+      { "text": "De los atrios", "isCorrect": false, "rationale": "A los atrios llegan las venas; de los ventrículos parten las arterias." },
+      { "text": "Del pericardio", "isCorrect": false, "rationale": "El pericardio es una membrana, no origen de arterias." },
+      { "text": "Del tabique", "isCorrect": false, "rationale": "El tabique separa cavidades, no es origen de vasos." }
+    ],
+    "hint": "Los ventrículos bombean sangre hacia las arterias."
+  },
+  {
+    "question": "¿Qué es el miocardio?",
+    "options": [
+      { "text": "El músculo que forma el corazón", "isCorrect": true, "rationale": "El corazón está formado por un músculo con propiedades particulares: el miocardio." },
+      { "text": "La membrana interna del corazón", "isCorrect": false, "rationale": "La membrana interna es el endocardio." },
+      { "text": "La membrana externa del corazón", "isCorrect": false, "rationale": "La membrana externa es el epicardio." },
+      { "text": "El saco que envuelve el corazón", "isCorrect": false, "rationale": "Ese es el pericardio." }
+    ],
+    "hint": "Es el tejido muscular cardíaco especializado."
+  },
+  {
+    "question": "¿Qué es el endocardio?",
+    "options": [
+      { "text": "El revestimiento interno del corazón", "isCorrect": true, "rationale": "El miocardio está tapizado interiormente por el endocardio." },
+      { "text": "El músculo cardíaco", "isCorrect": false, "rationale": "El músculo cardíaco es el miocardio." },
+      { "text": "El revestimiento externo del corazón", "isCorrect": false, "rationale": "El revestimiento externo es el epicardio." },
+      { "text": "El saco fibroso que envuelve el corazón", "isCorrect": false, "rationale": "Ese es el pericardio." }
+    ],
+    "hint": "'Endo' significa dentro, es la capa interna."
+  },
+  {
+    "question": "¿Qué es el epicardio?",
+    "options": [
+      { "text": "El revestimiento externo del corazón", "isCorrect": true, "rationale": "El miocardio está tapizado exteriormente por el epicardio." },
+      { "text": "El músculo cardíaco", "isCorrect": false, "rationale": "El músculo cardíaco es el miocardio." },
+      { "text": "El revestimiento interno del corazón", "isCorrect": false, "rationale": "El revestimiento interno es el endocardio." },
+      { "text": "El saco que separa el corazón de órganos vecinos", "isCorrect": false, "rationale": "Ese es el pericardio." }
+    ],
+    "hint": "'Epi' significa sobre, es la capa más externa del corazón."
+  },
+  {
+    "question": "¿Qué es el pericardio?",
+    "options": [
+      { "text": "El conjunto fibroseroso que separa el corazón de los órganos vecinos", "isCorrect": true, "rationale": "El corazón está rodeado por el pericardio, conjunto fibroseroso que lo separa de los órganos vecinos." },
+      { "text": "El músculo del corazón", "isCorrect": false, "rationale": "El músculo es el miocardio." },
+      { "text": "La válvula cardíaca", "isCorrect": false, "rationale": "Las válvulas son estructuras diferentes del pericardio." },
+      { "text": "La cavidad interior del corazón", "isCorrect": false, "rationale": "El pericardio es externo al corazón." }
+    ],
+    "hint": "'Peri' significa alrededor, envuelve el corazón."
+  },
+  {
+    "question": "¿Dónde está situado el corazón?",
+    "options": [
+      { "text": "En el tórax, en el mediastino medio", "isCorrect": true, "rationale": "El corazón está situado en el tórax, detrás de la pared esternocondrocostal, en la parte inferior del mediastino (mediastino medio)." },
+      { "text": "En el abdomen", "isCorrect": false, "rationale": "El corazón está en el tórax, no en el abdomen." },
+      { "text": "En el cuello", "isCorrect": false, "rationale": "El corazón está en el tórax, no en el cuello." },
+      { "text": "En el mediastino anterior", "isCorrect": false, "rationale": "Está en el mediastino medio, no anterior." }
+    ],
+    "hint": "Está en el centro del tórax, ligeramente desplazado a la izquierda."
+  },
+  {
+    "question": "¿Qué son las arterias?",
+    "options": [
+      { "text": "Conductos que transportan sangre desde el corazón", "isCorrect": true, "rationale": "Las arterias son los conductos de transporte de la sangre desde el corazón." },
+      { "text": "Conductos que transportan sangre hacia el corazón", "isCorrect": false, "rationale": "Esos son las venas." },
+      { "text": "Vasos microscópicos de intercambio", "isCorrect": false, "rationale": "Esos son los capilares." },
+      { "text": "Vasos que transportan linfa", "isCorrect": false, "rationale": "Esos son los vasos linfáticos." }
+    ],
+    "hint": "Las arterias llevan sangre alejándose del corazón."
+  },
+  {
+    "question": "¿De dónde se originan todas las arterias?",
+    "options": [
+      { "text": "De la arteria aorta y la arteria pulmonar", "isCorrect": true, "rationale": "El origen de todas las arterias se reparte entre la arteria aorta y la arteria pulmonar." },
+      { "text": "Solo de la aorta", "isCorrect": false, "rationale": "La arteria pulmonar también es origen de arterias para los pulmones." },
+      { "text": "De los ventrículos directamente", "isCorrect": false, "rationale": "Los ventrículos dan origen a la aorta y el tronco pulmonar, que luego se ramifican." },
+      { "text": "De los atrios", "isCorrect": false, "rationale": "De los atrios salen venas, no arterias." }
+    ],
+    "hint": "Dos grandes arterias son el origen de todo el sistema arterial."
+  },
+  {
+    "question": "¿Qué característica tienen las arterias respecto a las válvulas?",
+    "options": [
+      { "text": "Están desprovistas de válvulas, salvo los orígenes de aorta y tronco pulmonar", "isCorrect": true, "rationale": "Las arterias están desprovistas de válvulas, salvo los orígenes de la aorta y el tronco pulmonar." },
+      { "text": "Tienen válvulas en todo su trayecto", "isCorrect": false, "rationale": "Solo tienen válvulas en su origen, no en todo el trayecto." },
+      { "text": "No tienen válvulas en ningún punto", "isCorrect": false, "rationale": "Tienen válvulas en sus orígenes (válvulas sigmoideas)." },
+      { "text": "Tienen más válvulas que las venas", "isCorrect": false, "rationale": "Las venas tienen muchas más válvulas que las arterias." }
+    ],
+    "hint": "La presión arterial es tan alta que no necesitan válvulas en su trayecto."
+  }
+]

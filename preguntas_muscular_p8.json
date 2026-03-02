@@ -1,0 +1,292 @@
+[
+  {
+    "question": "¿Qué son las vainas fibrosas de los tendones?",
+    "options": [
+      { "text": "Formaciones en forma de puente o túnel sobre superficies óseas donde se deslizan los tendones", "isCorrect": true, "rationale": "Las vainas fibrosas son formaciones tipo puente o túnel sobre superficies óseas donde se deslizan los tendones." },
+      { "text": "Membranas que envuelven los músculos", "isCorrect": false, "rationale": "Las vainas fibrosas rodean tendones, no músculos." },
+      { "text": "Ligamentos que conectan huesos", "isCorrect": false, "rationale": "Las vainas fibrosas contienen tendones, no conectan huesos entre sí." },
+      { "text": "Tendones aplanados", "isCorrect": false, "rationale": "Los tendones aplanados son aponeurosis." }
+    ],
+    "hint": "Funcionan como poleas de reflexión para los tendones."
+  },
+  {
+    "question": "¿Cuál es la función de las vainas fibrosas?",
+    "options": [
+      { "text": "Contener el tendón permitiendo su deslizamiento o actuar como polea de reflexión", "isCorrect": true, "rationale": "Las vainas fibrosas contienen el tendón, permiten su deslizamiento fácil o actúan como polea de reflexión." },
+      { "text": "Unir el tendón al hueso permanentemente", "isCorrect": false, "rationale": "Las vainas permiten deslizamiento, no unión fija." },
+      { "text": "Nutrir el tendón", "isCorrect": false, "rationale": "La nutrición proviene de los mesotendones." },
+      { "text": "Producir líquido sinovial", "isCorrect": false, "rationale": "El líquido sinovial es producido por la vaina sinovial, no la fibrosa." }
+    ],
+    "hint": "Mantienen el tendón en contacto con el esqueleto durante el movimiento."
+  },
+  {
+    "question": "¿Dónde se encuentran principalmente las vainas fibrosas?",
+    "options": [
+      { "text": "En los extremos de los miembros donde los tendones deben permanecer en contacto con el esqueleto", "isCorrect": true, "rationale": "Se encuentran en especial en los extremos de los miembros donde los tendones deben permanecer en contacto con el esqueleto." },
+      { "text": "En el tronco", "isCorrect": false, "rationale": "Son típicas de las extremidades, no del tronco." },
+      { "text": "En la cara", "isCorrect": false, "rationale": "La cara no es región típica de vainas fibrosas." },
+      { "text": "En los músculos abdominales", "isCorrect": false, "rationale": "Son características de manos y pies." }
+    ],
+    "hint": "Son típicas en la región de la mano y el pie."
+  },
+  {
+    "question": "¿Qué son las vainas sinoviales?",
+    "options": [
+      { "text": "Envolturas serosas que tapizan el interior de los túneles osteofibrosos", "isCorrect": true, "rationale": "Las vainas sinoviales son envolturas serosas que tapizan el interior de los túneles osteofibrosos." },
+      { "text": "Vainas de tejido fibroso denso", "isCorrect": false, "rationale": "Las vainas sinoviales son serosas, no fibrosas." },
+      { "text": "Membranas musculares", "isCorrect": false, "rationale": "Son estructuras alrededor de tendones." },
+      { "text": "Ligamentos sinoviales", "isCorrect": false, "rationale": "Son envolturas serosas de tendones." }
+    ],
+    "hint": "Son similares a las bolsas sinoviales de las articulaciones."
+  },
+  {
+    "question": "¿Cuál es la función de las vainas sinoviales?",
+    "options": [
+      { "text": "Favorecer el deslizamiento de los tendones", "isCorrect": true, "rationale": "Las vainas sinoviales favorecen el deslizamiento de los tendones." },
+      { "text": "Unir el tendón al hueso", "isCorrect": false, "rationale": "Facilitan el movimiento, no la unión." },
+      { "text": "Contraer el músculo", "isCorrect": false, "rationale": "La contracción es función del músculo." },
+      { "text": "Proteger el hueso", "isCorrect": false, "rationale": "Su función está relacionada con el tendón." }
+    ],
+    "hint": "Reducen la fricción durante el movimiento del tendón."
+  },
+  {
+    "question": "¿Qué láminas componen una vaina sinovial?",
+    "options": [
+      { "text": "Una lámina visceral que reviste el tendón y una lámina parietal que tapiza la vaina osteofibrosa", "isCorrect": true, "rationale": "La vaina sinovial tiene lámina visceral (sobre el tendón) y lámina parietal (sobre la vaina osteofibrosa)." },
+      { "text": "Solo una lámina parietal", "isCorrect": false, "rationale": "Tiene dos láminas: visceral y parietal." },
+      { "text": "Tres láminas: interna, media y externa", "isCorrect": false, "rationale": "Son dos láminas, no tres." },
+      { "text": "Una sola lámina continua", "isCorrect": false, "rationale": "Existen dos láminas diferenciadas." }
+    ],
+    "hint": "Similar a la estructura de las serosas como el peritoneo."
+  },
+  {
+    "question": "¿Qué son los mesotendones?",
+    "options": [
+      { "text": "Repliegues conectivos revestidos por sinovial que contienen vasos para el tendón", "isCorrect": true, "rationale": "Los mesotendones son repliegues conectivos revestidos por sinovial que contienen vasos destinados al tendón." },
+      { "text": "Partes medias del tendón", "isCorrect": false, "rationale": "Son estructuras vasculares, no partes del tendón." },
+      { "text": "Músculos pequeños del tendón", "isCorrect": false, "rationale": "Son pliegues de tejido conectivo vascularizados." },
+      { "text": "Inserciones del tendón en el hueso", "isCorrect": false, "rationale": "Son estructuras que nutren el tendón." }
+    ],
+    "hint": "Conectan la vaina sinovial con el tendón y aportan vascularización."
+  },
+  {
+    "question": "¿Qué son las bolsas serosas?",
+    "options": [
+      { "text": "Pequeñas bolsas tapizadas por membrana serosa entre músculos o entre músculo y hueso", "isCorrect": true, "rationale": "Las bolsas serosas son pequeñas bolsas entre músculos o entre músculo y hueso, tapizadas por membrana serosa." },
+      { "text": "Bolsas de líquido dentro de los músculos", "isCorrect": false, "rationale": "Están entre estructuras, no dentro de los músculos." },
+      { "text": "Tumores del tejido muscular", "isCorrect": false, "rationale": "Son estructuras normales, no tumores." },
+      { "text": "Acumulaciones de grasa", "isCorrect": false, "rationale": "Son estructuras serosas." }
+    ],
+    "hint": "Facilitan el deslizamiento entre estructuras adyacentes."
+  },
+  {
+    "question": "¿Cuál es la función de las bolsas serosas?",
+    "options": [
+      { "text": "Favorecer el deslizamiento muscular", "isCorrect": true, "rationale": "Las bolsas serosas favorecen el deslizamiento muscular entre músculos o entre músculo y hueso." },
+      { "text": "Producir músculo nuevo", "isCorrect": false, "rationale": "No producen tejido muscular." },
+      { "text": "Almacenar energía", "isCorrect": false, "rationale": "Su función es mecánica, reducir fricción." },
+      { "text": "Nutrir el músculo", "isCorrect": false, "rationale": "Facilitan el movimiento, no la nutrición." }
+    ],
+    "hint": "Reducen la fricción entre estructuras que se mueven."
+  },
+  {
+    "question": "¿Qué es una fascia según la definición del texto?",
+    "options": [
+      { "text": "Una lámina o membrana de tejido conectivo fibroso denso que recubre o envuelve estructuras anatómicas", "isCorrect": true, "rationale": "Una fascia es una lámina de tejido conectivo fibroso denso que recubre o envuelve estructuras como músculos, vasos y vísceras." },
+      { "text": "Un tendón aplanado", "isCorrect": false, "rationale": "Un tendón aplanado es una aponeurosis, no una fascia." },
+      { "text": "Una membrana serosa", "isCorrect": false, "rationale": "Las fascias son de tejido conectivo fibroso, no seroso." },
+      { "text": "Un ligamento amplio", "isCorrect": false, "rationale": "Los ligamentos anchos son membranas fibrosas, no fascias." }
+    ],
+    "hint": "Es tejido conectivo fibroso denso que envuelve estructuras."
+  },
+  {
+    "question": "¿Qué tipos de fascias se mencionan según su mecanismo de formación?",
+    "options": [
+      { "text": "Fascias de condensación, de migración y de fusión", "isCorrect": true, "rationale": "Se diferencian tres tipos: fascias de condensación, fascias de migración y fascias de fusión." },
+      { "text": "Fascias superficiales y profundas únicamente", "isCorrect": false, "rationale": "El texto desaconseja estos términos como genéricos." },
+      { "text": "Fascias internas y externas", "isCorrect": false, "rationale": "Los tipos mencionados son por mecanismo de formación." },
+      { "text": "Fascias musculares y viscerales", "isCorrect": false, "rationale": "La clasificación es por formación: condensación, migración y fusión." }
+    ],
+    "hint": "Se clasifican según cómo se forman durante el desarrollo."
+  },
+  {
+    "question": "¿De qué derivan las fascias?",
+    "options": [
+      { "text": "Del mesodermo", "isCorrect": true, "rationale": "Las fascias derivan del mesodermo." },
+      { "text": "Del ectodermo", "isCorrect": false, "rationale": "El ectodermo da origen a piel y sistema nervioso." },
+      { "text": "Del endodermo", "isCorrect": false, "rationale": "El endodermo forma el tubo digestivo y respiratorio." },
+      { "text": "De la cresta neural", "isCorrect": false, "rationale": "Derivan del mesodermo." }
+    ],
+    "hint": "Derivan de la misma capa embrionaria que el músculo."
+  },
+  {
+    "question": "¿Qué contiene el tejido de las fascias?",
+    "options": [
+      { "text": "Rico en fibras de colágeno y en algunos casos fibras elásticas", "isCorrect": true, "rationale": "Las fascias están formadas por tejido rico en fibras de colágeno y en algunos casos fibras elásticas." },
+      { "text": "Solo fibras elásticas", "isCorrect": false, "rationale": "Predominan las fibras de colágeno." },
+      { "text": "Principalmente células musculares", "isCorrect": false, "rationale": "Las fascias son tejido conectivo, no muscular." },
+      { "text": "Exclusivamente células adiposas", "isCorrect": false, "rationale": "Son ricas en fibras de colágeno." }
+    ],
+    "hint": "Son estructuras fibrosas resistentes."
+  },
+  {
+    "question": "¿Qué es la fascia de revestimiento superficial?",
+    "options": [
+      { "text": "La fascia ubicada profunda al tejido subcutáneo que recubre músculos y otras estructuras", "isCorrect": true, "rationale": "La fascia de revestimiento superficial se ubica profunda al tejido subcutáneo y recubre músculos." },
+      { "text": "La fascia más superficial del cuerpo", "isCorrect": false, "rationale": "Está por debajo del tejido subcutáneo." },
+      { "text": "La piel", "isCorrect": false, "rationale": "La piel está por encima de esta fascia." },
+      { "text": "El tejido subcutáneo", "isCorrect": false, "rationale": "Está por debajo del tejido subcutáneo." }
+    ],
+    "hint": "Envuelve las masas musculares en forma de cilindro hueco en los miembros."
+  },
+  {
+    "question": "¿Qué forma adopta la fascia de revestimiento superficial en los miembros?",
+    "options": [
+      { "text": "Forma de cilindro hueco que rodea las masas musculares", "isCorrect": true, "rationale": "En los miembros, esta fascia adopta forma de cilindro hueco que rodea las masas musculares." },
+      { "text": "Forma plana como una sábana", "isCorrect": false, "rationale": "En los miembros forma un cilindro." },
+      { "text": "Forma esférica", "isCorrect": false, "rationale": "Adapta su forma a la del miembro." },
+      { "text": "Forma irregular variable", "isCorrect": false, "rationale": "Tiene forma de cilindro hueco en los miembros." }
+    ],
+    "hint": "Aísla las masas musculares de los planos más superficiales."
+  },
+  {
+    "question": "¿Qué son los tabiques intermusculares?",
+    "options": [
+      { "text": "Prolongaciones de la fascia hacia la profundidad que separan músculos o grupos musculares", "isCorrect": true, "rationale": "Los tabiques intermusculares son prolongaciones de la fascia que separan músculos y delimitan compartimentos." },
+      { "text": "Divisiones dentro del músculo", "isCorrect": false, "rationale": "Separan músculos entre sí, no dentro del músculo." },
+      { "text": "Tabiques óseos entre músculos", "isCorrect": false, "rationale": "Son prolongaciones de la fascia, no estructuras óseas." },
+      { "text": "Membranas sinoviales", "isCorrect": false, "rationale": "Son prolongaciones de tejido conectivo fibroso." }
+    ],
+    "hint": "Delimitan compartimentos musculares."
+  },
+  {
+    "question": "¿Qué función tienen los tabiques intermusculares?",
+    "options": [
+      { "text": "Separar músculos o grupos musculares y delimitar celdas o compartimentos", "isCorrect": true, "rationale": "Los tabiques intermusculares separan músculos y delimitan celdas o compartimentos musculares." },
+      { "text": "Nutrir los músculos", "isCorrect": false, "rationale": "Su función es de separación y organización." },
+      { "text": "Contraer los músculos", "isCorrect": false, "rationale": "Son estructuras pasivas de separación." },
+      { "text": "Producir movimiento", "isCorrect": false, "rationale": "Organizan los músculos, no producen movimiento." }
+    ],
+    "hint": "Crean compartimentos anatómicos en los miembros."
+  },
+  {
+    "question": "¿Qué es el síndrome compartimental?",
+    "options": [
+      { "text": "Aumento de presión dentro de un compartimento que compromete la circulación y función tisular", "isCorrect": true, "rationale": "El síndrome compartimental se produce cuando el aumento de presión en un compartimento compromete la circulación y función de los tejidos." },
+      { "text": "Inflamación de un compartimento muscular", "isCorrect": false, "rationale": "Es un problema de presión, no solo inflamación." },
+      { "text": "Infección de un compartimento", "isCorrect": false, "rationale": "Es un problema de presión, no infeccioso." },
+      { "text": "Ruptura de un músculo", "isCorrect": false, "rationale": "Es un problema de presión compartimental." }
+    ],
+    "hint": "Las fascias son inextensibles, lo que favorece este síndrome."
+  },
+  {
+    "question": "¿Cuáles son los tipos de síndrome compartimental?",
+    "options": [
+      { "text": "Agudo (generalmente postraumático) y crónico (frecuente en atletas)", "isCorrect": true, "rationale": "El síndrome compartimental puede ser agudo (postraumático) o crónico (por desarrollo muscular en atletas)." },
+      { "text": "Solo agudo", "isCorrect": false, "rationale": "Existe también la forma crónica." },
+      { "text": "Únicamente crónico", "isCorrect": false, "rationale": "La forma aguda es la más urgente." },
+      { "text": "Infeccioso y traumático", "isCorrect": false, "rationale": "Se clasifica en agudo y crónico según su evolución." }
+    ],
+    "hint": "El agudo es emergencia quirúrgica; el crónico ocurre en atletas."
+  },
+  {
+    "question": "¿Qué causa el síndrome compartimental agudo?",
+    "options": [
+      { "text": "Traumatismo con o sin fractura, produciendo hemorragia y edema en espacio cerrado", "isCorrect": true, "rationale": "El agudo generalmente se debe a traumatismo con hemorragia y edema dentro del espacio cerrado del compartimento." },
+      { "text": "Solo por fracturas óseas", "isCorrect": false, "rationale": "Puede ocurrir también sin fractura." },
+      { "text": "Exclusivamente por infecciones", "isCorrect": false, "rationale": "La causa principal es traumática." },
+      { "text": "Únicamente por ejercicio excesivo", "isCorrect": false, "rationale": "Esto causa la forma crónica." }
+    ],
+    "hint": "Es una emergencia quirúrgica."
+  },
+  {
+    "question": "¿Qué síntomas presenta el síndrome compartimental agudo?",
+    "options": [
+      { "text": "Dolor progresivo muy intenso, tumefacción tensa y relajación muscular", "isCorrect": true, "rationale": "El agudo presenta dolor progresivo intenso, tumefacción tensa y relajación de los músculos del compartimento." },
+      { "text": "Solo dolor leve", "isCorrect": false, "rationale": "El dolor es muy intenso y progresivo." },
+      { "text": "Ausencia de dolor", "isCorrect": false, "rationale": "El dolor intenso es característico." },
+      { "text": "Rigidez articular exclusivamente", "isCorrect": false, "rationale": "Los síntomas son musculares y de presión." }
+    ],
+    "hint": "El dolor es desproporcionado a la lesión inicial."
+  },
+  {
+    "question": "¿Cuál es el tratamiento del síndrome compartimental agudo?",
+    "options": [
+      { "text": "Fasciotomía para descomprimir la región", "isCorrect": true, "rationale": "El tratamiento del síndrome compartimental agudo incluye una fasciotomía que permite descomprimir la región." },
+      { "text": "Solo antibióticos", "isCorrect": false, "rationale": "No es una infección, es un problema de presión." },
+      { "text": "Reposo exclusivamente", "isCorrect": false, "rationale": "Requiere intervención quirúrgica urgente." },
+      { "text": "Medicación antiinflamatoria", "isCorrect": false, "rationale": "El tratamiento es quirúrgico: fasciotomía." }
+    ],
+    "hint": "Es una emergencia quirúrgica que requiere descompresión."
+  },
+  {
+    "question": "¿Qué es la fascitis?",
+    "options": [
+      { "text": "La inflamación de una fascia", "isCorrect": true, "rationale": "La fascitis es la inflamación de una fascia." },
+      { "text": "La inflamación de un músculo", "isCorrect": false, "rationale": "La inflamación del músculo es miositis." },
+      { "text": "La inflamación de un tendón", "isCorrect": false, "rationale": "La inflamación del tendón es tendinitis." },
+      { "text": "La inflamación de una articulación", "isCorrect": false, "rationale": "La inflamación articular es artritis." }
+    ],
+    "hint": "El sufijo '-itis' indica inflamación."
+  },
+  {
+    "question": "¿Qué causa puede tener la fascitis?",
+    "options": [
+      { "text": "Causa infecciosa o traumática", "isCorrect": true, "rationale": "La fascitis puede ser de causa infecciosa o traumática." },
+      { "text": "Solo infecciosa", "isCorrect": false, "rationale": "También puede ser traumática." },
+      { "text": "Exclusivamente traumática", "isCorrect": false, "rationale": "Puede ser infecciosa." },
+      { "text": "Únicamente autoinmune", "isCorrect": false, "rationale": "Las causas principales son infecciosa y traumática." }
+    ],
+    "hint": "Puede deberse a gérmenes o a lesiones."
+  },
+  {
+    "question": "¿Qué es la fascitis necrosante?",
+    "options": [
+      { "text": "Una infección grave que se extiende por el tejido subcutáneo y fascia, produciendo necrosis", "isCorrect": true, "rationale": "La fascitis necrosante es la más común de las fascitis infecciosas, se extiende por el tejido subcutáneo y fascia produciendo necrosis." },
+      { "text": "Una fascitis leve", "isCorrect": false, "rationale": "Es una infección muy grave." },
+      { "text": "Una inflamación crónica", "isCorrect": false, "rationale": "Es aguda y grave, requiere tratamiento urgente." },
+      { "text": "Un tipo de fascitis traumática", "isCorrect": false, "rationale": "Es de causa infecciosa." }
+    ],
+    "hint": "Es una infección muy grave que requiere tratamiento antibiótico y remoción de tejido."
+  },
+  {
+    "question": "¿Qué tratamiento requiere la fascitis necrosante?",
+    "options": [
+      { "text": "Tratamiento antibiótico enérgico y remoción del tejido afectado", "isCorrect": true, "rationale": "La fascitis necrosante requiere tratamiento antibiótico enérgico y la remoción del tejido afectado." },
+      { "text": "Solo antibióticos orales", "isCorrect": false, "rationale": "Requiere tratamiento enérgico y remoción de tejido." },
+      { "text": "Únicamente reposo", "isCorrect": false, "rationale": "Es una emergencia que requiere tratamiento agresivo." },
+      { "text": "Medicación antiinflamatoria exclusivamente", "isCorrect": false, "rationale": "Requiere antibióticos y desbridamiento quirúrgico." }
+    ],
+    "hint": "Es una emergencia que requiere tratamiento agresivo."
+  },
+  {
+    "question": "¿Qué es la fascitis plantar?",
+    "options": [
+      { "text": "Inflamación aguda de la aponeurosis plantar con dolor en talón o planta del pie", "isCorrect": true, "rationale": "La fascitis plantar es una inflamación de la aponeurosis plantar con dolor en el talón o planta del pie." },
+      { "text": "Inflamación del músculo de la pantorrilla", "isCorrect": false, "rationale": "Afecta la aponeurosis plantar del pie." },
+      { "text": "Inflamación del tendón de Aquiles", "isCorrect": false, "rationale": "Afecta la aponeurosis plantar, no el tendón." },
+      { "text": "Infección del pie", "isCorrect": false, "rationale": "Es una inflamación, no necesariamente infección." }
+    ],
+    "hint": "Afecta la planta del pie, dolor más intenso por las mañanas."
+  },
+  {
+    "question": "¿Qué causa la fascitis plantar según el texto?",
+    "options": [
+      { "text": "Pequeños traumatismos repetidos, malas posturas o trabajo excesivo de la región", "isCorrect": true, "rationale": "Se debe a pequeños traumatismos repetidos, malas posturas, trabajo excesivo (correr, saltar)." },
+      { "text": "Solo traumatismos intensos", "isCorrect": false, "rationale": "Suele deberse a pequeños traumatismos repetidos." },
+      { "text": "Exclusivamente infecciones", "isCorrect": false, "rationale": "No es de causa infecciosa." },
+      { "text": "Únicamente por uso de calzado inadecuado", "isCorrect": false, "rationale": "Puede ser por múltiples causas de sobrecarga." }
+    ],
+    "hint": "Es por microtraumatismos repetidos, no por un solo evento traumático."
+  },
+  {
+    "question": "¿Qué son las aponeurosis?",
+    "options": [
+      { "text": "Láminas gruesas de tejido conectivo fibroso denso, son tendones aplanados", "isCorrect": true, "rationale": "Las aponeurosis son láminas gruesas de tejido conectivo fibroso denso; son tendones aplanados." },
+      { "text": "Un tipo de fascia", "isCorrect": false, "rationale": "El texto especifica que las aponeurosis no son fascias." },
+      { "text": "Membranas serosas", "isCorrect": false, "rationale": "Son de tejido conectivo fibroso, no serosas." },
+      { "text": "Ligamentos anchos", "isCorrect": false, "rationale": "Son tendones aplanados." }
+    ],
+    "hint": "Son tendones en forma de lámina."
+  }
+]

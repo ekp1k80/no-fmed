@@ -1,0 +1,182 @@
+[
+  {
+    "question": "¿Qué son las válvulas venosas?",
+    "options": [
+      { "text": "Estructuras endoteliales que evitan el reflujo de sangre hacia distal", "isCorrect": true, "rationale": "Las válvulas venosas son estructuras endoteliales que funcionan como compuertas evitando el reflujo hacia distal de la sangre." },
+      { "text": "Estructuras que aumentan el flujo sanguíneo", "isCorrect": false, "rationale": "Las válvulas regulan dirección, no aumentan flujo." },
+      { "text": "Dilataciones en las paredes venosas", "isCorrect": false, "rationale": "Las válvulas son pliegues del endotelio, no dilataciones." },
+      { "text": "Músculos que bombean sangre", "isCorrect": false, "rationale": "Las válvulas son pasivas, no musculares." }
+    ],
+    "hint": "Son como 'compuertas' que permiten flujo en un solo sentido."
+  },
+  {
+    "question": "¿De cuántas valvas se componen las válvulas venosas?",
+    "options": [
+      { "text": "Dos valvas o cúspides", "isCorrect": true, "rationale": "Las válvulas venosas se componen de dos valvas o cúspides." },
+      { "text": "Una sola valva", "isCorrect": false, "rationale": "Tienen dos valvas, no una." },
+      { "text": "Tres valvas", "isCorrect": false, "rationale": "Tienen dos valvas, no tres como las válvulas semilunares del corazón." },
+      { "text": "Cuatro valvas", "isCorrect": false, "rationale": "Tienen dos valvas únicamente." }
+    ],
+    "hint": "Son bíuspides (dos cúspides)."
+  },
+  {
+    "question": "¿Dónde se encuentran principalmente las válvulas venosas?",
+    "options": [
+      { "text": "A nivel de los orificios de desembocadura de las venas", "isCorrect": true, "rationale": "Las válvulas se encuentran principalmente a nivel de los orificios (ostium) de desembocadura de las venas." },
+      { "text": "En el centro de las venas grandes", "isCorrect": false, "rationale": "Se ubican en puntos específicos, especialmente donde hay desembocaduras." },
+      { "text": "Solo en las venas superficiales", "isCorrect": false, "rationale": "Están en venas superficiales y profundas." },
+      { "text": "Solo en las venas de los miembros inferiores", "isCorrect": false, "rationale": "Están en múltiples regiones del cuerpo." }
+    ],
+    "hint": "Se localizan donde una vena desemboca en otra."
+  },
+  {
+    "question": "¿Qué estructuras venosas son avalvulares?",
+    "options": [
+      { "text": "Senos de la duramadre, vena cava superior, vena porta y venas renales", "isCorrect": true, "rationale": "Son avalvulares: los senos de la duramadre, la vena cava superior, la vena porta y las venas renales." },
+      { "text": "Las venas de los miembros inferiores", "isCorrect": false, "rationale": "Estas tienen abundantes válvulas." },
+      { "text": "Las venas superficiales", "isCorrect": false, "rationale": "Las venas superficiales tienen válvulas." },
+      { "text": "Todas las venas profundas", "isCorrect": false, "rationale": "Muchas venas profundas tienen válvulas." }
+    ],
+    "hint": "Son venas de gran calibre o encefálicas."
+  },
+  {
+    "question": "¿Cuáles son los factores que permiten el retorno venoso al corazón?",
+    "options": [
+      { "text": "Efecto de succión del corazón, onda pulsátil arterial, bombas musculares y válvulas venosas", "isCorrect": true, "rationale": "Los factores son: succión del corazón, acoplamiento arteriovenoso, bombas musculofasciales y apertura/cierre de válvulas venosas." },
+      { "text": "Solo la gravedad", "isCorrect": false, "rationale": "La gravedad en realidad dificulta el retorno venoso en bipedestación." },
+      { "text": "Solo las válvulas", "isCorrect": false, "rationale": "Las válvulas son solo uno de los factores." },
+      { "text": "Solo la contracción muscular", "isCorrect": false, "rationale": "La contracción muscular es uno de varios factores." }
+    ],
+    "hint": "Son múltiples mecanismos que trabajan en conjunto."
+  },
+  {
+    "question": "¿Qué es el efecto de succión del corazón (vis a fronte)?",
+    "options": [
+      { "text": "Presión negativa generada por el desplazamiento ventricular durante la sístole", "isCorrect": true, "rationale": "El efecto de succión del corazón genera una presión hipobárica por desplazamiento del nivel ventricular hacia el vértice durante la sístole." },
+      { "text": "La presión arterial impulsando sangre", "isCorrect": false, "rationale": "Esa es la vis a tergo (fuerza propulsora)." },
+      { "text": "La contracción muscular de las piernas", "isCorrect": false, "rationale": "Esa es la bomba muscular." },
+      { "text": "Las válvulas venosas", "isCorrect": false, "rationale": "Las válvulas previenen reflujo, no generan succión." }
+    ],
+    "hint": "'Vis a fronte' significa 'fuerza desde adelante' (el corazón atrae)."
+  },
+  {
+    "question": "¿Qué es la vis a tergo en el retorno venoso?",
+    "options": [
+      { "text": "La fuerza propulsora del corazón estimada en 35 mmHg a nivel de arteriolas", "isCorrect": true, "rationale": "La fuerza propulsora del corazón (vis a tergo) es eficaz y se estima en 35 mmHg de presión a nivel de las arteriolas precapilares." },
+      { "text": "La succión del corazón", "isCorrect": false, "rationale": "Esa es la vis a fronte." },
+      { "text": "La bomba muscular", "isCorrect": false, "rationale": "La bomba muscular es un mecanismo diferente." },
+      { "text": "Las válvulas venosas", "isCorrect": false, "rationale": "Las válvulas son un mecanismo pasivo." }
+    ],
+    "hint": "'Vis a tergo' significa 'fuerza desde atrás' (presión arterial empuja)."
+  },
+  {
+    "question": "¿Qué favorece la fuerza aspirante del corazón?",
+    "options": [
+      { "text": "Las presiones intratorácicas y abdominales, especialmente durante la inspiración", "isCorrect": true, "rationale": "La fuerza aspirante se ve favorecida por las presiones intratorácicas y abdominales. El fin de la sístole y la inspiración son factores esenciales." },
+      { "text": "La contracción muscular intensa", "isCorrect": false, "rationale": "La contracción muscular es otro mecanismo, no la aspiración torácica." },
+      { "text": "Las válvulas venosas", "isCorrect": false, "rationale": "Las válvulas no generan aspiración." },
+      { "text": "La presión arterial alta", "isCorrect": false, "rationale": "La presión arterial es la vis a tergo, no la aspiración." }
+    ],
+    "hint": "La respiración crea cambios de presión que ayudan al retorno."
+  },
+  {
+    "question": "¿Qué papel juegan los músculos en el retorno venoso?",
+    "options": [
+      { "text": "La contracción muscular y el apoyo plantar favorecen la propulsión de sangre", "isCorrect": true, "rationale": "La contracción muscular (bomba muscular de la pierna) y el aplastamiento de la planta de los pies (red venosa plantar) favorecen la propulsión de sangre hacia proximal." },
+      { "text": "Los músculos no participan en el retorno venoso", "isCorrect": false, "rationale": "Los músculos son fundamentales, especialmente en miembros inferiores." },
+      { "text": "Solo los músculos respiratorios participan", "isCorrect": false, "rationale": "Todos los músculos, especialmente de piernas, participan." },
+      { "text": "Los músculos dificultan el retorno venoso", "isCorrect": false, "rationale": "Lo facilitan mediante la bomba muscular." }
+    ],
+    "hint": "Al caminar se activa la 'bomba muscular' de las piernas."
+  },
+  {
+    "question": "¿Qué ocurre con la inmovilización prolongada respecto a la circulación venosa?",
+    "options": [
+      { "text": "Reduce la circulación venosa y favorece la trombosis venosa", "isCorrect": true, "rationale": "La inmovilización prolongada reduce la circulación venosa y favorece la trombosis venosa." },
+      { "text": "Mejora el retorno venoso", "isCorrect": false, "rationale": "La inmovilización empeora el retorno venoso." },
+      { "text": "No tiene efecto sobre la circulación", "isCorrect": false, "rationale": "Tiene efectos significativos y potencialmente peligrosos." },
+      { "text": "Aumenta la presión arterial", "isCorrect": false, "rationale": "El efecto principal es sobre el retorno venoso." }
+    ],
+    "hint": "Sin movimiento no hay bomba muscular activa."
+  },
+  {
+    "question": "¿Qué son las várices?",
+    "options": [
+      { "text": "Venas dilatadas anormalmente con trayecto tortuoso", "isCorrect": true, "rationale": "Las várices son venas dilatadas de manera anormal que presentan un trayecto tortuoso." },
+      { "text": "Venas inflamadas", "isCorrect": false, "rationale": "La inflamación venosa es la flebitis." },
+      { "text": "Venas obstruidas", "isCorrect": false, "rationale": "La obstrucción es la trombosis." },
+      { "text": "Arterias dilatadas", "isCorrect": false, "rationale": "Las várices afectan venas, no arterias." }
+    ],
+    "hint": "Son venas que se hinchan y se vuelven tortuosas."
+  },
+  {
+    "question": "¿Qué causa la formación de várices?",
+    "options": [
+      { "text": "Aumento de presión sobre la vena y pérdida del tono de la pared venosa", "isCorrect": true, "rationale": "Las várices se generan por aumento de la presión que ejerce la sangre sobre el vaso y por la pérdida del tono de la pared de la vena." },
+      { "text": "Infección de la vena", "isCorrect": false, "rationale": "La infección causa flebitis, no várices." },
+      { "text": "Disminución de la presión venosa", "isCorrect": false, "rationale": "Es el aumento de presión, no la disminución." },
+      { "text": "Exceso de ejercicio", "isCorrect": false, "rationale": "El ejercicio ayuda al retorno venoso, no causa várices." }
+    ],
+    "hint": "La presión crónica dilata las venas como un globo."
+  },
+  {
+    "question": "¿Qué ocurre con las válvulas en las venas varicosas?",
+    "options": [
+      { "text": "Se tornan incompetentes, perdiendo capacidad de contener el reflujo", "isCorrect": true, "rationale": "Las válvulas de estas venas pueden perder su capacidad de contener el reflujo, tornándose incompetentes." },
+      { "text": "Se vuelven más eficientes", "isCorrect": false, "rationale": "Se vuelven incompetentes, no más eficientes." },
+      { "text": "Desaparecen completamente", "isCorrect": false, "rationale": "Se dañan pero no desaparecen." },
+      { "text": "Se multiplican", "isCorrect": false, "rationale": "No se multiplican, se dañan." }
+    ],
+    "hint": "La incompetencia valvular perpetúa el problema."
+  },
+  {
+    "question": "¿Qué factores favorecen la aparición de várices?",
+    "options": [
+      { "text": "Bipedestación prolongada, posición sentada con piernas en declive, obesidad y sexo femenino", "isCorrect": true, "rationale": "Factores favorables: bipedestación prolongada, posición sentada con piernas en declive, obesidad y ser mujer (predomina en mayores de 50 años, 20% de la población)." },
+      { "text": "El ejercicio intenso", "isCorrect": false, "rationale": "El ejercicio ayuda al retorno venoso." },
+      { "text": "La dieta rica en grasas", "isCorrect": false, "rationale": "La dieta no es factor directo de várices." },
+      { "text": "El descanso en cama", "isCorrect": false, "rationale": "El reposo con piernas elevadas ayuda, no perjudica." }
+    ],
+    "hint": "La gravedad actuando por tiempo prolongado sobre las venas."
+  },
+  {
+    "question": "¿Qué es la trombosis?",
+    "options": [
+      { "text": "Obstrucción de un vaso sanguíneo por formación de un coágulo (trombo)", "isCorrect": true, "rationale": "La trombosis es la obstrucción de un vaso sanguíneo por la formación de un coágulo de sangre (trombo) en su interior." },
+      { "text": "Dilatación de un vaso", "isCorrect": false, "rationale": "La dilatación es el aneurisma o várice." },
+      { "text": "Inflamación de un vaso", "isCorrect": false, "rationale": "La inflamación es la vasculitis." },
+      { "text": "Rotura de un vaso", "isCorrect": false, "rationale": "La rotura causa hemorragia." }
+    ],
+    "hint": "Un trombo es un coágulo dentro de un vaso."
+  },
+  {
+    "question": "¿Qué es la tromboflebitis?",
+    "options": [
+      { "text": "Obstrucción trombótica con inflamación del vaso venoso", "isCorrect": true, "rationale": "Si el vaso afectado por trombosis es una vena se denomina tromboflebitis: obstrucción trombótica con inflamación del vaso." },
+      { "text": "Trombosis arterial", "isCorrect": false, "rationale": "La tromboflebitis afecta venas." },
+      { "text": "Inflamación sin trombosis", "isCorrect": false, "rationale": "La tromboflebitis incluye trombosis." },
+      { "text": "Dilatación venosa", "isCorrect": false, "rationale": "Es una obstrucción, no una dilatación." }
+    ],
+    "hint": "'Flebitis' significa inflamación de vena."
+  },
+  {
+    "question": "¿Qué es la tromboembolia?",
+    "options": [
+      { "text": "Migración de un trombo desde su sitio de origen hacia otra localización", "isCorrect": true, "rationale": "Los trombos pueden migrar desde su sitio de origen generando una tromboembolia." },
+      { "text": "Formación de un trombo in situ", "isCorrect": false, "rationale": "Eso es trombosis, no embolia." },
+      { "text": "Disolución del trombo", "isCorrect": false, "rationale": "La embolia es migración, no disolución." },
+      { "text": "Inflamación del trombo", "isCorrect": false, "rationale": "La embolia es el viaje del trombo." }
+    ],
+    "hint": "'Embolia' significa algo que viaja por el torrente sanguíneo."
+  },
+  {
+    "question": "¿Cuál es la consecuencia de una trombosis arterial?",
+    "options": [
+      { "text": "Isquemia del territorio irrigado por esa arteria", "isCorrect": true, "rationale": "La consecuencia de una trombosis arterial es la isquemia: infarto miocárdico, ACV isquémico, necrosis de dedos, etc., según el vaso afectado." },
+      { "text": "Hemorragia", "isCorrect": false, "rationale": "La trombosis obstruye, no causa hemorragia." },
+      { "text": "Dilatación vascular", "isCorrect": false, "rationale": "La trombosis estrecha, no dilata." },
+      { "text": "Aumento del flujo", "isCorrect": false, "rationale": "Disminuye o detiene el flujo." }
+    ],
+    "hint": "Sin riego sanguíneo = isquemia = daño tisular."
+  }
+]

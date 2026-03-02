@@ -1,0 +1,162 @@
+[
+  {
+    "question": "¿Qué son las anastomosis arterioarteriales?",
+    "options": [
+      { "text": "Comunicaciones intervasculares entre arterias que regulan la distribución de sangre", "isCorrect": true, "rationale": "Las anastomosis arterioarteriales constituyen una circulación colateral que regula la distribución de la sangre." },
+      { "text": "Conexiones entre arterias y venas", "isCorrect": false, "rationale": "Esas son las anastomosis arteriovenosas." },
+      { "text": "Comunicaciones entre dos venas", "isCorrect": false, "rationale": "Esas son las anastomosis venovenosas." },
+      { "text": "Union entre capilares", "isCorrect": false, "rationale": "Las anastomosis arterioarteriales son entre arterias, no capilares." }
+    ],
+    "hint": "Permiten que la sangre fluya entre arterias conectadas."
+  },
+  {
+    "question": "¿Qué es la anastomosis por inosculación?",
+    "options": [
+      { "text": "Continuidad entre dos arterias que se unen en su terminación", "isCorrect": true, "rationale": "La anastomosis por inosculación forma una continuidad entre dos arterias que se unen en su terminación (p. ej., los arcos palmares)." },
+      { "text": "Un conducto de unión entre dos arterias paralelas", "isCorrect": false, "rationale": "Esa es la anastomosis transversal." },
+      { "text": "Fusión de dos arterias en una sola", "isCorrect": false, "rationale": "Esa es la anastomosis por convergencia." },
+      { "text": "Conexión entre arteria y vena", "isCorrect": false, "rationale": "Esa es la anastomosis arteriovenosa." }
+    ],
+    "hint": "Ejemplo: los arcos palmares de la mano."
+  },
+  {
+    "question": "¿Qué es la anastomosis transversal?",
+    "options": [
+      { "text": "Un conducto de unión entre dos arterias paralelas", "isCorrect": true, "rationale": "La anastomosis transversal es un conducto de pequeño calibre que une dos arterias paralelas, permitiendo distribuir sangre entre ellas." },
+      { "text": "Dos arterias que se unen en su terminación", "isCorrect": false, "rationale": "Esa es la anastomosis por inosculación." },
+      { "text": "Fusión de dos arterias en una", "isCorrect": false, "rationale": "Esa es la anastomosis por convergencia." },
+      { "text": "Conexión entre arteria y vena", "isCorrect": false, "rationale": "Esa es la anastomosis arteriovenosa." }
+    ],
+    "hint": "Es como un 'puente' entre dos arterias que corren paralelas."
+  },
+  {
+    "question": "¿Qué es la anastomosis por convergencia?",
+    "options": [
+      { "text": "Dos arterias que se fusionan en una sola", "isCorrect": true, "rationale": "En la anastomosis por convergencia, dos arterias se fusionan en una (p. ej., la arteria basilar)." },
+      { "text": "Dos arterias que se unen en su terminación", "isCorrect": false, "rationale": "Esa es la anastomosis por inosculación." },
+      { "text": "Un conducto entre arterias paralelas", "isCorrect": false, "rationale": "Esa es la anastomosis transversal." },
+      { "text": "Conexión entre arteria y vena", "isCorrect": false, "rationale": "Esa es la anastomosis arteriovenosa." }
+    ],
+    "hint": "Ejemplo: la arteria basilar se forma por fusión de dos vertebrales."
+  },
+  {
+    "question": "¿Qué son las anastomosis arteriovenosas?",
+    "options": [
+      { "text": "Desviación entre arteriola y vénula que genera cortocircuito capilar", "isCorrect": true, "rationale": "Las anastomosis arteriovenosas son una desviación entre arteriola y vénula que genera un cortocircuito, permitiendo saltear el paso por los capilares." },
+      { "text": "Conexiones entre dos arterias", "isCorrect": false, "rationale": "Esas son anastomosis arterioarteriales." },
+      { "text": "Conexiones entre dos venas", "isCorrect": false, "rationale": "Esas son anastomosis venovenosas." },
+      { "text": "Comunicaciones entre capilares", "isCorrect": false, "rationale": "Las arteriovenosas son entre arteriola y vénula, no entre capilares." }
+    ],
+    "hint": "Permiten que la sangre pase directamente de arterias a venas."
+  },
+  {
+    "question": "¿Cuál es la función de las anastomosis arteriovenosas?",
+    "options": [
+      { "text": "Sistema de regulación de la circulación por diferentes tejidos", "isCorrect": true, "rationale": "Es un sistema de regulación de la circulación por diferentes tejidos, que puede convertirse en circulación con doble sentido." },
+      { "text": "Aumentar la presión arterial", "isCorrect": false, "rationale": "No regulan presión, regulan distribución de flujo." },
+      { "text": "Disminuir el retorno venoso", "isCorrect": false, "rationale": "Pueden aumentar el retorno venoso al saltear capilares." },
+      { "text": "Mejorar la oxigenación tisular", "isCorrect": false, "rationale": "Al saltear capilares, no mejoran oxigenación directamente." }
+    ],
+    "hint": "Regulan el flujo sanguíneo según las necesidades del tejido."
+  },
+  {
+    "question": "¿Qué es la arteriosclerosis?",
+    "options": [
+      { "text": "Término que incluye enfermedades vasculares con engrosamiento y pérdida de elasticidad", "isCorrect": true, "rationale": "La arteriosclerosis es un término que incluye distintas enfermedades vasculares que llevan al engrosamiento y la pérdida de elasticidad de la pared arterial." },
+      { "text": "Inflamación de la pared arterial", "isCorrect": false, "rationale": "La inflamación arterial es la arteritis." },
+      { "text": "Dilatación permanente de una arteria", "isCorrect": false, "rationale": "La dilatación permanente es un aneurisma." },
+      { "text": "Obstrucción arterial por coágulo", "isCorrect": false, "rationale": "La obstrucción por coágulo es trombosis." }
+    ],
+    "hint": "'Esclerosis' significa endurecimiento."
+  },
+  {
+    "question": "¿Qué es la aterosclerosis?",
+    "options": [
+      { "text": "Formación progresiva de placas fibrosas con núcleo de colesterol en la arteria", "isCorrect": true, "rationale": "La aterosclerosis es la forma más frecuente de arteriosclerosis, caracterizada por placas fibrosas con núcleo de colesterol y lípidos que sobresalen hacia la luz." },
+      { "text": "Inflamación de la pared arterial", "isCorrect": false, "rationale": "Eso es la arteritis." },
+      { "text": "Dilatación anormal de la arteria", "isCorrect": false, "rationale": "Eso es el aneurisma." },
+      { "text": "Rotura de la pared arterial", "isCorrect": false, "rationale": "La rotura es una complicación, no la definición de aterosclerosis." }
+    ],
+    "hint": "'Atero' se refiere a la placa de lípidos (como 'ateroma')."
+  },
+  {
+    "question": "¿Qué consecuencias tiene la aterosclerosis?",
+    "options": [
+      { "text": "Estenosis de la arteria, obstrucción del flujo y aumento de riesgo de isquemia", "isCorrect": true, "rationale": "La aterosclerosis produce estenosis de la arteria, obstrucción del flujo sanguíneo y aumento de probabilidades de desarrollar episodios de isquemia en diferentes órganos." },
+      { "text": "Dilatación de la arteria", "isCorrect": false, "rationale": "La aterosclerosis estrecha, no dilata." },
+      { "text": "Aumento del flujo sanguíneo", "isCorrect": false, "rationale": "Disminuye el flujo por la estenosis." },
+      { "text": "Mejora de la elasticidad arterial", "isCorrect": false, "rationale": "La arteriosclerosis causa pérdida de elasticidad." }
+    ],
+    "hint": "Las placas reducen el espacio interno de la arteria."
+  },
+  {
+    "question": "¿Qué es la arteritis (vasculitis)?",
+    "options": [
+      { "text": "Inflamación de la pared de los vasos que puede ser autoinmunitaria o por lesión directa", "isCorrect": true, "rationale": "La arteritis o vasculitis es la inflamación de la pared de los vasos. Puede ser de etiología autoinmunitaria o por lesión directa (toxinas, radiación, infecciones)." },
+      { "text": "Endurecimiento de la pared arterial", "isCorrect": false, "rationale": "Eso es la arteriosclerosis." },
+      { "text": "Dilatación de la arteria", "isCorrect": false, "rationale": "Eso es el aneurisma." },
+      { "text": "Obstrucción por coágulo", "isCorrect": false, "rationale": "Eso es la trombosis." }
+    ],
+    "hint": "El sufijo '-itis' siempre indica inflamación."
+  },
+  {
+    "question": "¿Qué manifestaciones clínicas puede presentar la arteritis?",
+    "options": [
+      { "text": "Fiebre, dolores musculares, dolores articulares y malestar general", "isCorrect": true, "rationale": "La arteritis puede presentar fiebre, dolores musculares, dolores articulares y malestar general, ya que afecta vasos de distinto calibre y localización." },
+      { "text": "Solo dolor localizado", "isCorrect": false, "rationale": "Las manifestaciones son más sistémicas." },
+      { "text": "Solo síntomas cutáneos", "isCorrect": false, "rationale": "Afecta múltiples órganos y sistemas." },
+      { "text": "Asintomática siempre", "isCorrect": false, "rationale": "Generalmente produce síntomas sistémicos." }
+    ],
+    "hint": "Es una enfermedad inflamatoria sistémica."
+  },
+  {
+    "question": "¿Cómo se diagnostica habitualmente la arteritis?",
+    "options": [
+      { "text": "Mediante biopsia de la pared del vaso", "isCorrect": true, "rationale": "Habitualmente el diagnóstico de arteritis se realiza mediante la biopsia de la pared del vaso." },
+      { "text": "Solo con análisis de sangre", "isCorrect": false, "rationale": "Los análisis ayudan pero el diagnóstico definitivo es por biopsia." },
+      { "text": "Solo con ecografía", "isCorrect": false, "rationale": "La ecografía puede sugerir pero no reemplaza la biopsia." },
+      { "text": "Con radiografía", "isCorrect": false, "rationale": "La radiografía no es útil para diagnosticar inflamación vascular." }
+    ],
+    "hint": "Se necesita muestra del tejido vascular afectado."
+  },
+  {
+    "question": "¿Qué son los aneurismas?",
+    "options": [
+      { "text": "Dilataciones permanentes y localizadas de una arteria", "isCorrect": true, "rationale": "Los aneurismas son dilataciones permanentes y localizadas de una arteria." },
+      { "text": "Estrechamiento de una arteria", "isCorrect": false, "rationale": "El estrechamiento es estenosis." },
+      { "text": "Inflamación de la pared arterial", "isCorrect": false, "rationale": "Eso es la arteritis." },
+      { "text": "Obstrucción completa de una arteria", "isCorrect": false, "rationale": "Eso es la oclusión arterial." }
+    ],
+    "hint": "'Aneurisma' viene del griego 'ensanchar'."
+  },
+  {
+    "question": "¿Cuál es la complicación más grave de los aneurismas?",
+    "options": [
+      { "text": "La rotura que ocasiona hemorragia", "isCorrect": true, "rationale": "La complicación más grave que pueden presentar los aneurismas es su rotura, que ocasiona una gran hemorragia." },
+      { "text": "La infección", "isCorrect": false, "rationale": "La rotura es mucho más grave y potencialmente mortal." },
+      { "text": "El dolor crónico", "isCorrect": false, "rationale": "El dolor es síntoma, pero la rotura es la complicación grave." },
+      { "text": "La trombosis", "isCorrect": false, "rationale": "La trombosis puede ocurrir, pero la rotura es más grave." }
+    ],
+    "hint": "Puede causar muerte por hemorragia interna masiva."
+  },
+  {
+    "question": "¿Qué arterias se afectan con mayor frecuencia por aneurismas?",
+    "options": [
+      { "text": "La aorta y las de la base del cerebro", "isCorrect": true, "rationale": "Las arterias afectadas con mayor frecuencia por aneurismas son la aorta y las de la base del cerebro." },
+      { "text": "Las arterias de los miembros", "isCorrect": false, "rationale": "Los aneurismas son más frecuentes en aorta y cerebro." },
+      { "text": "Las arterias renales", "isCorrect": false, "rationale": "Pueden ocurrir, pero son menos frecuentes." },
+      { "text": "Las arterias coronarias", "isCorrect": false, "rationale": "Pueden ocurrir, pero son menos frecuentes que en aorta y cerebro." }
+    ],
+    "hint": "Son los vasos de mayor calibre y presión."
+  },
+  {
+    "question": "¿Qué ocurre con la rotura o corte de un vaso?",
+    "options": [
+      { "text": "Extravasación de sangre (hemorragia) que puede ser externa o interna", "isCorrect": true, "rationale": "La rotura o el corte de un vaso provoca una extravasación de sangre (hemorragia). Si sale del cuerpo es externa; si se acumula en cavidades, es interna." },
+      { "text": "Siempre hemorragia externa visible", "isCorrect": false, "rationale": "Puede ser interna y no visible externamente." },
+      { "text": "Siempre formación de coágulo", "isCorrect": false, "rationale": "El coágulo puede formarse, pero el problema inicial es la hemorragia." },
+      { "text": "Detención inmediata del flujo", "isCorrect": false, "rationale": "La sangre sale del vaso; no se detiene inmediatamente." }
+    ],
+    "hint": "Puede ser visible fuera del cuerpo o acumularse adentro."
+  }
+]
