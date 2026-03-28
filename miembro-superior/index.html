@@ -393,33 +393,7 @@ let filled = {}, ok = 0;
 let activeDropdown = null;
 
 
-
-// Load JSON
-
-
-  const f = e.target.files[0]; if(!f) return;
-
-  const r = new FileReader();
-
-  r.onload = () => {
-
-    try {
-
-      allZones = JSON.parse(r.result);
-
-      localStorage.setItem(window.innerWidth < 800 ? 'escapula_zones_mobile' : 'escapula_zones', JSON.stringify(allZones));
-
-      selectedView = 'posterior'; reset();
-
-      document.getElementById('msg').textContent = '✅ JSON cargado desde archivo';
-
-    } catch(err) { alert('JSON inválido'); }
-
-  };
-
-  r.readAsText(f);
-
-};
+// Load zones
 
 
 
