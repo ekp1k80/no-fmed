@@ -29618,7 +29618,7 @@ const quizzes = {
         "id": 1,
         "nombre": "Cintura Pectoral (Labeling)",
         "preguntas": 113,
-        "url": "miembro-superior/escapula/"
+        "url": "miembro-superior/"
       },
       {
         "id": 2,
