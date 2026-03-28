@@ -1,0 +1,443 @@
+{
+  "posterior": [
+    {
+      "label": "apofisis coracoides",
+      "x": 65.5,
+      "y": 13,
+      "w": 130,
+      "h": 28,
+      "dir": "bl"
+    },
+    {
+      "label": "Acromion",
+      "x": 71.5,
+      "y": 17.5,
+      "w": 130,
+      "h": 28
+    },
+    {
+      "label": "Angulo del acromion",
+      "x": 73.5,
+      "y": 21,
+      "w": 130,
+      "h": 28
+    },
+    {
+      "label": "escotadura que conecta las fosas supraespinosa e infraespinosa",
+      "x": 75,
+      "y": 24,
+      "w": 130,
+      "h": 28
+    },
+    {
+      "label": "Tuberculo mayor",
+      "x": 75,
+      "y": 31.5,
+      "w": 130,
+      "h": 28
+    },
+    {
+      "label": "Cabeza del humero",
+      "x": 75,
+      "y": 35,
+      "w": 130,
+      "h": 28
+    },
+    {
+      "label": "Cuello anatomico",
+      "x": 75,
+      "y": 38.5,
+      "w": 130,
+      "h": 28
+    },
+    {
+      "label": "Cuello quirurgico",
+      "x": 75,
+      "y": 42,
+      "w": 130,
+      "h": 28
+    },
+    {
+      "label": "Tuberculo infraglenoideo",
+      "x": 75,
+      "y": 46,
+      "w": 130,
+      "h": 28
+    },
+    {
+      "label": "Tuberosidad deltoidea",
+      "x": 75,
+      "y": 52,
+      "w": 130,
+      "h": 28
+    },
+    {
+      "label": "Surco del nervio radial",
+      "x": 75,
+      "y": 58,
+      "w": 130,
+      "h": 28
+    },
+    {
+      "label": "Cresta supracondilea medial",
+      "x": 79.5,
+      "y": 65,
+      "w": 130,
+      "h": 28
+    },
+    {
+      "label": "Cresta supracondilea lateral",
+      "x": 81,
+      "y": 72,
+      "w": 130,
+      "h": 28
+    },
+    {
+      "label": "Fosa del olecranon",
+      "x": 82,
+      "y": 80.5,
+      "w": 130,
+      "h": 28
+    },
+    {
+      "label": "Epicondilo lateral",
+      "x": 82,
+      "y": 86,
+      "w": 130,
+      "h": 28
+    },
+    {
+      "label": "Troclea",
+      "x": 80,
+      "y": 91,
+      "w": 130,
+      "h": 28
+    },
+    {
+      "label": "Surco del nervio cubital",
+      "x": 66.5,
+      "y": 94.5,
+      "w": 130,
+      "h": 28
+    },
+    {
+      "label": "Epicondilo medial",
+      "x": 65,
+      "y": 98,
+      "w": 130,
+      "h": 28
+    },
+    {
+      "label": "surco de los vasos circunflejos de la escapula",
+      "x": 49,
+      "y": 46.5,
+      "w": 130,
+      "h": 28
+    },
+    {
+      "label": "Clavicula",
+      "x": 55.5,
+      "y": 9.5,
+      "w": 130,
+      "h": 28
+    },
+    {
+      "label": "Escotadura de la escapula",
+      "x": 39,
+      "y": 9,
+      "w": 130,
+      "h": 28
+    },
+    {
+      "label": "Borde superior",
+      "x": 23,
+      "y": 12.5,
+      "w": 130,
+      "h": 28
+    },
+    {
+      "label": "Angulo superior",
+      "x": 15.5,
+      "y": 17.5,
+      "w": 130,
+      "h": 28
+    },
+    {
+      "label": "Fosa supraespinosa",
+      "x": 13,
+      "y": 23.5,
+      "w": 130,
+      "h": 28
+    },
+    {
+      "label": "Espina",
+      "x": 13,
+      "y": 27.5,
+      "w": 130,
+      "h": 28
+    },
+    {
+      "label": "Cuello",
+      "x": 12.5,
+      "y": 31.5,
+      "w": 130,
+      "h": 28
+    },
+    {
+      "label": "Fosa infraespinosa",
+      "x": 13,
+      "y": 35.5,
+      "w": 130,
+      "h": 28
+    },
+    {
+      "label": "Borde medial",
+      "x": 12.5,
+      "y": 40,
+      "w": 130,
+      "h": 28
+    },
+    {
+      "label": "Borde lateral",
+      "x": 12.5,
+      "y": 43.5,
+      "w": 130,
+      "h": 28
+    },
+    {
+      "label": "Angulo inferior",
+      "x": 12.5,
+      "y": 48,
+      "w": 130,
+      "h": 28
+    }
+  ],
+  "anterior": [
+    {
+      "label": "Escotadura de la escapula",
+      "x": 92,
+      "y": 18,
+      "w": 130,
+      "h": 28
+    },
+    {
+      "label": "Cuello",
+      "x": 95,
+      "y": 22,
+      "w": 72,
+      "h": 30
+    },
+    {
+      "label": "Borde medial",
+      "x": 94.5,
+      "y": 26.5,
+      "w": 89,
+      "h": 34
+    },
+    {
+      "label": "Fosa subescapular",
+      "x": 94,
+      "y": 30.5,
+      "w": 99,
+      "h": 31
+    },
+    {
+      "label": "Tuberculo infraglenoideo",
+      "x": 94.5,
+      "y": 35,
+      "w": 85,
+      "h": 38
+    },
+    {
+      "label": "Borde lateral",
+      "x": 94,
+      "y": 39.5,
+      "w": 86,
+      "h": 32
+    },
+    {
+      "label": "Angulo inferior",
+      "x": 93.5,
+      "y": 43.5,
+      "w": 99,
+      "h": 28
+    },
+    {
+      "label": "Cavidad glenoidea",
+      "x": 60.5,
+      "y": 37,
+      "w": 60,
+      "h": 53
+    },
+    {
+      "label": "Cabeza del humero",
+      "x": 59.5,
+      "y": 44.5,
+      "w": 116,
+      "h": 34
+    },
+    {
+      "label": "Epicondilo medial",
+      "x": 58,
+      "y": 98,
+      "w": 130,
+      "h": 28
+    },
+    {
+      "label": "Troclea",
+      "x": 35.5,
+      "y": 97.5,
+      "w": 78,
+      "h": 29
+    },
+    {
+      "label": "Condilo",
+      "x": 30.5,
+      "y": 91.5,
+      "w": 81,
+      "h": 32
+    },
+    {
+      "label": "Epicondilo lateral",
+      "x": 19.5,
+      "y": 87.5,
+      "w": 103,
+      "h": 31
+    },
+    {
+      "label": "Fosa radial",
+      "x": 24.5,
+      "y": 80,
+      "w": 91,
+      "h": 28
+    },
+    {
+      "label": "Fosa coronoidea",
+      "x": 27.5,
+      "y": 74.5,
+      "w": 113,
+      "h": 29
+    },
+    {
+      "label": "Cresta supracondilea lateral",
+      "x": 30,
+      "y": 65.5,
+      "w": 142,
+      "h": 33
+    },
+    {
+      "label": "Cresta supracondilea medial",
+      "x": 29,
+      "y": 59.5,
+      "w": 149,
+      "h": 32
+    },
+    {
+      "label": "Tuberosidad deltoidea",
+      "x": 32,
+      "y": 54.5,
+      "w": 130,
+      "h": 28
+    },
+    {
+      "label": "Cresta del tuberculo menor",
+      "x": 24.5,
+      "y": 50,
+      "w": 140,
+      "h": 28
+    },
+    {
+      "label": "Cresta del tuberculo mayor",
+      "x": 24.5,
+      "y": 42,
+      "w": 142,
+      "h": 29
+    },
+    {
+      "label": "Surco intertubercular",
+      "x": 24.5,
+      "y": 34.5,
+      "w": 130,
+      "h": 28
+    },
+    {
+      "label": "Cuello quirurgico",
+      "x": 27.5,
+      "y": 28.5,
+      "w": 118,
+      "h": 29
+    },
+    {
+      "label": "Tuberculo menor",
+      "x": 28.5,
+      "y": 24.5,
+      "w": 115,
+      "h": 28
+    },
+    {
+      "label": "Tuberculo mayor",
+      "x": 28.5,
+      "y": 20.5,
+      "w": 106,
+      "h": 29
+    },
+    {
+      "label": "Cuello anatomico",
+      "x": 29,
+      "y": 16.5,
+      "w": 112,
+      "h": 28
+    },
+    {
+      "label": "Tuberculo supraglenoideo",
+      "x": 28.5,
+      "y": 12.5,
+      "w": 143,
+      "h": 31
+    },
+    {
+      "label": "Angulo del acromion",
+      "x": 34,
+      "y": 7,
+      "w": 130,
+      "h": 28
+    },
+    {
+      "label": "Acromion",
+      "x": 50.5,
+      "y": 4,
+      "w": 130,
+      "h": 28
+    },
+    {
+      "label": "Apofisis coracoides",
+      "x": 66,
+      "y": 4.5,
+      "w": 130,
+      "h": 28
+    },
+    {
+      "label": "Clavicula",
+      "x": 82.5,
+      "y": 3,
+      "w": 130,
+      "h": 28
+    },
+    {
+      "label": "Angulo superior",
+      "x": 87.5,
+      "y": 7.5,
+      "w": 130,
+      "h": 28
+    },
+    {
+      "label": "Borde superior",
+      "x": 91,
+      "y": 13,
+      "w": 90,
+      "h": 34
+    }
+  ],
+  "postMusculatura": [],
+  "antMusculatura": []
+}

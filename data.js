@@ -29607,5 +29607,37 @@ const quizzes = {
         ]
     }
 ]
+  },
+
+  "miembro-superior": {
+    "titulo": "Miembro Superior",
+    "descripcion": "Huesos, articulaciones y músculos del miembro superior",
+    "totalPreguntas": 113,
+    "partes": [
+      {
+        "id": 1,
+        "nombre": "Cintura Pectoral (Labeling)",
+        "preguntas": 113,
+        "url": "miembro-superior/escapula/"
+      },
+      {
+        "id": 2,
+        "nombre": "Clavícula",
+        "preguntas": 0,
+        "url": null
+      },
+      {
+        "id": 3,
+        "nombre": "Articulaciones",
+        "preguntas": 0,
+        "url": null
+      },
+      {
+        "id": 4,
+        "nombre": "Músculos",
+        "preguntas": 0,
+        "url": null
+      }
+    ]
   }
 };
