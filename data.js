@@ -29616,7 +29616,7 @@ const quizzes = {
     "partes": [
       {
         "id": 1,
-        "nombre": "Cintura Pectoral (Labeling)",
+        "nombre": "Cintura Pectoral",
         "preguntas": 113,
         "url": "miembro-superior/index.html"
       },
