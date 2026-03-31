@@ -1,0 +1,330 @@
+{
+  "anato-tegumento": {
+    "titulo": "Tegumento Común",
+    "descripcion": "Piel, anexos, glándulas, vascularización",
+    "totalPreguntas": 152,
+    "partes": [
+      {
+        "id": 1,
+        "nombre": "Tegumento + Piel",
+        "preguntas": 16
+      },
+      {
+        "id": 2,
+        "nombre": "Epidermis",
+        "preguntas": 24
+      },
+      {
+        "id": 3,
+        "nombre": "Dermis",
+        "preguntas": 21
+      },
+      {
+        "id": 4,
+        "nombre": "Glándulas Cutáneas",
+        "preguntas": 17
+      },
+      {
+        "id": 5,
+        "nombre": "Pelos",
+        "preguntas": 21
+      },
+      {
+        "id": 6,
+        "nombre": "Uñas",
+        "preguntas": 10
+      },
+      {
+        "id": 7,
+        "nombre": "Tejido Subcutáneo",
+        "preguntas": 12
+      },
+      {
+        "id": 8,
+        "nombre": "Vascularización/Inervación",
+        "preguntas": 18
+      },
+      {
+        "id": 9,
+        "nombre": "Patologías + Mama",
+        "preguntas": 13
+      }
+    ]
+  },
+  "anato-esqueletico": {
+    "titulo": "Sistema Esquelético",
+    "descripcion": "Huesos, cartílagos, estructura, osificación, vascularización",
+    "totalPreguntas": 157,
+    "partes": [
+      {
+        "id": 1,
+        "nombre": "Cartílagos + Generalidades",
+        "preguntas": 14
+      },
+      {
+        "id": 2,
+        "nombre": "Esqueleto Axial y Apendicular",
+        "preguntas": 12
+      },
+      {
+        "id": 3,
+        "nombre": "Estructura Interna del Hueso",
+        "preguntas": 19
+      },
+      {
+        "id": 4,
+        "nombre": "Clasificación de los Huesos",
+        "preguntas": 19
+      },
+      {
+        "id": 5,
+        "nombre": "Partes de los Huesos Largos",
+        "preguntas": 15
+      },
+      {
+        "id": 6,
+        "nombre": "Accidentes de la Superficie Ósea",
+        "preguntas": 23
+      },
+      {
+        "id": 7,
+        "nombre": "Osificación",
+        "preguntas": 19
+      },
+      {
+        "id": 8,
+        "nombre": "Vascularización del Hueso",
+        "preguntas": 18
+      },
+      {
+        "id": 9,
+        "nombre": "Patologías Óseas",
+        "preguntas": 18
+      }
+    ]
+  },
+  "anato-articular": {
+    "titulo": "Sistema Articular",
+    "descripcion": "Articulaciones, sinartrosis, diartrosis, movimientos, lesiones",
+    "totalPreguntas": 237,
+    "partes": [
+      {
+        "id": 1,
+        "nombre": "Generalidades de Articulaciones",
+        "preguntas": 12
+      },
+      {
+        "id": 2,
+        "nombre": "Sinartrrosis",
+        "preguntas": 29
+      },
+      {
+        "id": 3,
+        "nombre": "Diartrosis - Superficies Articulares I",
+        "preguntas": 20
+      },
+      {
+        "id": 4,
+        "nombre": "Diartrosis - Superficies Articulares II",
+        "preguntas": 18
+      },
+      {
+        "id": 5,
+        "nombre": "Elementos de Articulaciones Sinoviales",
+        "preguntas": 26
+      },
+      {
+        "id": 6,
+        "nombre": "Cápsula Articular y Membrana Sinovial",
+        "preguntas": 26
+      },
+      {
+        "id": 7,
+        "nombre": "Mecánica Articular",
+        "preguntas": 21
+      },
+      {
+        "id": 8,
+        "nombre": "Movimientos Simples",
+        "preguntas": 23
+      },
+      {
+        "id": 9,
+        "nombre": "Movimientos Complejos",
+        "preguntas": 29
+      },
+      {
+        "id": 10,
+        "nombre": "Lesiones Articulares",
+        "preguntas": 33
+      }
+    ]
+  },
+  "anato-comparaciones": {
+    "titulo": "Comparaciones de Tejidos",
+    "descripcion": "Diferencias entre tendones, ligamentos, fascias, cartílagos, periostio",
+    "totalPreguntas": 21,
+    "partes": [
+      {
+        "id": 1,
+        "nombre": "Comparaciones de Tejidos Conectivos",
+        "preguntas": 21
+      }
+    ]
+  },
+  "anato-muscular": {
+    "titulo": "Sistema Muscular",
+    "descripcion": "Tipos, formas, contracción, tendones, estructura, patologías, fascias",
+    "totalPreguntas": 129,
+    "partes": [
+      {
+        "id": 1,
+        "nombre": "Tipos y Clasificación de Músculos",
+        "preguntas": 15
+      },
+      {
+        "id": 2,
+        "nombre": "Formas de Músculos",
+        "preguntas": 17
+      },
+      {
+        "id": 3,
+        "nombre": "Contracción Muscular",
+        "preguntas": 10
+      },
+      {
+        "id": 4,
+        "nombre": "Tendones e Inserciones",
+        "preguntas": 14
+      },
+      {
+        "id": 5,
+        "nombre": "Estructura del Músculo",
+        "preguntas": 13
+      },
+      {
+        "id": 6,
+        "nombre": "Patologías Musculares I",
+        "preguntas": 16
+      },
+      {
+        "id": 7,
+        "nombre": "Patologías Musculares II",
+        "preguntas": 15
+      },
+      {
+        "id": 8,
+        "nombre": "Vainas, Bolsas y Fascias",
+        "preguntas": 29
+      }
+    ]
+  },
+  "anato-cardiovascular": {
+    "titulo": "Sistema Cardiovascular",
+    "descripcion": "Corazón, arterias, venas, capilares, circulación sistémica y pulmonar",
+    "totalPreguntas": 155,
+    "partes": [
+      {
+        "id": 1,
+        "nombre": "Parte 1",
+        "preguntas": 15
+      },
+      {
+        "id": 2,
+        "nombre": "Parte 2",
+        "preguntas": 15
+      },
+      {
+        "id": 3,
+        "nombre": "Parte 3",
+        "preguntas": 16
+      },
+      {
+        "id": 4,
+        "nombre": "Parte 4",
+        "preguntas": 15
+      },
+      {
+        "id": 5,
+        "nombre": "Parte 5",
+        "preguntas": 18
+      },
+      {
+        "id": 6,
+        "nombre": "Parte 6",
+        "preguntas": 15
+      },
+      {
+        "id": 7,
+        "nombre": "Parte 7",
+        "preguntas": 21
+      },
+      {
+        "id": 8,
+        "nombre": "Parte 8",
+        "preguntas": 40
+      }
+    ]
+  },
+  "anato-linfatico": {
+    "titulo": "Sistema Linfático",
+    "descripcion": "Vasos linfáticos, nodos, drenaje linfático, linfedema",
+    "totalPreguntas": 41,
+    "partes": [
+      {
+        "id": 1,
+        "nombre": "Parte 1",
+        "preguntas": 15
+      },
+      {
+        "id": 2,
+        "nombre": "Parte 2",
+        "preguntas": 9
+      },
+      {
+        "id": 3,
+        "nombre": "Parte 3",
+        "preguntas": 17
+      }
+    ]
+  },
+  "anato-sangre": {
+    "titulo": "Sangre y Médula Ósea",
+    "descripcion": "Hematopoyesis, células sanguíneas, tejidos linfoides",
+    "totalPreguntas": 14,
+    "partes": [
+      {
+        "id": 1,
+        "nombre": "Parte 1",
+        "preguntas": 14
+      }
+    ]
+  },
+  "miembro-superior": {
+    "titulo": "Miembro Superior",
+    "descripcion": "Huesos, articulaciones y músculos del miembro superior",
+    "totalPreguntas": 113,
+    "partes": [
+      {
+        "id": 1,
+        "nombre": "Cintura Pectoral",
+        "preguntas": 113
+      },
+      {
+        "id": 2,
+        "nombre": "Clavícula",
+        "preguntas": 0
+      },
+      {
+        "id": 3,
+        "nombre": "Articulaciones",
+        "preguntas": 0
+      },
+      {
+        "id": 4,
+        "nombre": "Músculos",
+        "preguntas": 0
+      }
+    ]
+  }
+}

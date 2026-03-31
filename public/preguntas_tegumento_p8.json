@@ -1,0 +1,238 @@
+{
+  "value": [
+    {
+      "question": "¿Qué son las anastomosis arteriovenosas?",
+      "options": [
+        {
+          "text": "Conexiones entre arterias y venas en capas profundas de la dermis",
+          "isCorrect": true,
+          "rationale": "Las anastomosis arteriovenosas son conexiones directas entre arterias y venas en capas profundas de la dermis."
+        },
+        {
+          "text": "Nervios sensitivos de la piel",
+          "isCorrect": false,
+          "rationale": "No son nervios; son conexiones vasculares."
+        },
+        {
+          "text": "Glándulas sudoríparas",
+          "isCorrect": false,
+          "rationale": "No son glándulas."
+        },
+        {
+          "text": "Células de la epidermis",
+          "isCorrect": false,
+          "rationale": "No son células epiteliales."
+        }
+      ],
+      "hint": "Permiten que la sangre circule directamente de arterias a venas..."
+    },
+    {
+      "question": "¿Cuál es la función de las anastomosis arteriovenosas cuando están permeables?",
+      "options": [
+        {
+          "text": "Reducen la circulación superficial evitando pérdida de calor",
+          "isCorrect": true,
+          "rationale": "Cuando están permeables, reducen la circulación en plexos superficiales, evitando pérdida de calor."
+        },
+        {
+          "text": "Aumentan la sudoración",
+          "isCorrect": false,
+          "rationale": "No están directamente relacionadas con sudoración."
+        },
+        {
+          "text": "Producen melanina",
+          "isCorrect": false,
+          "rationale": "No producen pigmento."
+        },
+        {
+          "text": "Fijan la piel a planos profundos",
+          "isCorrect": false,
+          "rationale": "Esa es función de los ligamentos."
+        }
+      ],
+      "hint": "Son un mecanismo de shunt para controlar temperatura..."
+    },
+    {
+      "question": "¿Dónde se ubican los capilares linfáticos de la piel?",
+      "options": [
+        {
+          "text": "En la región profunda de la capa papilar de la dermis",
+          "isCorrect": true,
+          "rationale": "Los capilares linfáticos se ubican en la región profunda de la capa papilar."
+        },
+        {
+          "text": "En la epidermis",
+          "isCorrect": false,
+          "rationale": "La epidermis no tiene vasos linfáticos."
+        },
+        {
+          "text": "En el estrato córneo",
+          "isCorrect": false,
+          "rationale": "El estrato córneo no tiene estructuras vivas."
+        },
+        {
+          "text": "En el tejido óseo",
+          "isCorrect": false,
+          "rationale": "No están en el hueso."
+        }
+      ],
+      "hint": "Están en la dermis papilar, cerca de los vasos sanguíneos..."
+    },
+    {
+      "question": "¿Qué proporción de inervación tiene la piel?",
+      "options": [
+        {
+          "text": "Mayoritariamente sensitiva (aferente)",
+          "isCorrect": true,
+          "rationale": "La inervación de la piel es mayoritariamente sensitiva (aferente), con simpática en menor proporción."
+        },
+        {
+          "text": "Exclusivamente motora",
+          "isCorrect": false,
+          "rationale": "No es exclusivamente motora; es principalmente sensitiva."
+        },
+        {
+          "text": "Solamente autónoma simpática",
+          "isCorrect": false,
+          "rationale": "Aunque hay simpática, la mayor parte es sensitiva."
+        },
+        {
+          "text": "Únicamente parasimpática",
+          "isCorrect": false,
+          "rationale": "La parasimpática no inerva la piel de forma significativa."
+        }
+      ],
+      "hint": "La piel es principalmente un órgano de los sentidos..."
+    },
+    {
+      "question": "¿Dónde se encuentran los epiteliocitos táctiles (células de Merkel)?",
+      "options": [
+        {
+          "text": "En la porción profunda de la epidermis",
+          "isCorrect": true,
+          "rationale": "Los epiteliocitos táctiles (células de Merkel) están en la porción profunda de la epidermis."
+        },
+        {
+          "text": "En la capa reticular de la dermis",
+          "isCorrect": false,
+          "rationale": "Están en la epidermis, no en la dermis reticular."
+        },
+        {
+          "text": "En el tejido subcutáneo",
+          "isCorrect": false,
+          "rationale": "No están tan profundos."
+        },
+        {
+          "text": "En el estrato córneo",
+          "isCorrect": false,
+          "rationale": "El estrato córneo tiene células muertas."
+        }
+      ],
+      "hint": "Son receptores táctiles en la base de la epidermis..."
+    },
+    {
+      "question": "¿Dónde se encuentra el corpúsculo táctil ovoideo de Meissner?",
+      "options": [
+        {
+          "text": "En la capa papilar de la dermis",
+          "isCorrect": true,
+          "rationale": "El corpúsculo de Meissner es un receptor táctil ubicado en la capa papilar de la dermis."
+        },
+        {
+          "text": "En la epidermis",
+          "isCorrect": false,
+          "rationale": "Está en la dermis papilar, no en la epidermis."
+        },
+        {
+          "text": "En el tejido subcutáneo",
+          "isCorrect": false,
+          "rationale": "En el tejido subcutáneo está el corpúsculo de Pacini."
+        },
+        {
+          "text": "En el hueso",
+          "isCorrect": false,
+          "rationale": "No está en el hueso."
+        }
+      ],
+      "hint": "Es un receptor de discriminación táctil fina en las yemas de los dedos..."
+    },
+    {
+      "question": "¿Dónde se encuentra el corpúsculo lamelar de Pacini?",
+      "options": [
+        {
+          "text": "En el tejido subcutáneo",
+          "isCorrect": true,
+          "rationale": "El corpúsculo de Pacini es un receptor ubicado en el tejido subcutáneo."
+        },
+        {
+          "text": "En la epidermis",
+          "isCorrect": false,
+          "rationale": "No está en la epidermis."
+        },
+        {
+          "text": "En la capa papilar",
+          "isCorrect": false,
+          "rationale": "Ahí está el corpúsculo de Meissner."
+        },
+        {
+          "text": "En el estrato córneo",
+          "isCorrect": false,
+          "rationale": "No está en el estrato córneo."
+        }
+      ],
+      "hint": "Es un receptor de presión profunda, muy sensible a vibraciones..."
+    },
+    {
+      "question": "¿Qué destina la inervación simpática (eferente) en la piel?",
+      "options": [
+        {
+          "text": "Músculos erectores del pelo, glándulas sudoríparas y vasos",
+          "isCorrect": true,
+          "rationale": "La inervación simpática se destina a músculos erectores de pelos, glándulas sudoríparas y vasos sanguíneos."
+        },
+        {
+          "text": "Receptores táctiles",
+          "isCorrect": false,
+          "rationale": "Los receptores táctiles son inervados por fibras sensitivas, no simpáticas."
+        },
+        {
+          "text": "Células de Merkel",
+          "isCorrect": false,
+          "rationale": "Las células de Merkel reciben inervación sensitiva."
+        },
+        {
+          "text": "Melanocitos",
+          "isCorrect": false,
+          "rationale": "Los melanocitos no están inervados por el simpático."
+        }
+      ],
+      "hint": "Controla funciones 'automáticas' como sudoración y piel de gallina..."
+    },
+    {
+      "question": "¿Dónde están los cuerpos neuronales de las fibras nerviosas sensitivas somáticas?",
+      "options": [
+        {
+          "text": "En el ganglio espinal correspondiente",
+          "isCorrect": true,
+          "rationale": "Los cuerpos neuronales de las fibras sensitivas están en los ganglios espinales."
+        },
+        {
+          "text": "En la epidermis",
+          "isCorrect": false,
+          "rationale": "No hay cuerpos neuronales en la epidermis."
+        },
+        {
+          "text": "En el corazón",
+          "isCorrect": false,
+          "rationale": "Los ganglios espinales están en la médula espinal."
+        },
+        {
+          "text": "En el cerebro",
+          "isCorrect": false,
+          "rationale": "Los cuerpos de las neuronas sensitivas periféricas están en ganglios espinales."
+        }
+      ],
+      "hint": "Son pseudounipolares ubicados a los lados de la médula espinal..."
+    }
+  ]
+}

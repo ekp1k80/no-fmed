@@ -1,0 +1,186 @@
+{
+  "value": [
+    {
+      "question": "¿Qué son las arterias musculocutáneas y fasciocutáneas?",
+      "options": [
+        {
+          "text": "Arterias que atraviesan la fascia y penetran en el tejido subcutáneo",
+          "isCorrect": true,
+          "rationale": "Las arterias musculocutáneas y fasciocutáneas atraviesan la fascia de revestimiento y penetran en el tejido subcutáneo."
+        },
+        {
+          "text": "Arterias del corazón",
+          "isCorrect": false,
+          "rationale": "No son arterias coronarias."
+        },
+        {
+          "text": "Arterias exclusivas de los músculos",
+          "isCorrect": false,
+          "rationale": "Atraviesan hacia la piel, no son solo musculares."
+        },
+        {
+          "text": "Venias de la dermis",
+          "isCorrect": false,
+          "rationale": "Son arterias, no venas."
+        }
+      ],
+      "hint": "Traen sangre desde músculos y fascias hacia la piel..."
+    },
+    {
+      "question": "¿Dónde se ubica el plexo arterial dérmico profundo?",
+      "options": [
+        {
+          "text": "En el nivel profundo de la capa reticular de la dermis",
+          "isCorrect": true,
+          "rationale": "El plexo arterial dérmico profundo está en el nivel profundo de la capa reticular."
+        },
+        {
+          "text": "En la epidermis",
+          "isCorrect": false,
+          "rationale": "La epidermis no tiene vasos."
+        },
+        {
+          "text": "En la capa papilar superficial",
+          "isCorrect": false,
+          "rationale": "Hay otro plexo más superficial."
+        },
+        {
+          "text": "En el tejido óseo",
+          "isCorrect": false,
+          "rationale": "No está en el hueso."
+        }
+      ],
+      "hint": "Está en la parte profunda de la dermis reticular..."
+    },
+    {
+      "question": "¿Dónde se ubica el plexo arterial subpapilar?",
+      "options": [
+        {
+          "text": "Entre las capas papilar y reticular de la dermis",
+          "isCorrect": true,
+          "rationale": "El plexo subpapilar está entre las capas papilar y reticular."
+        },
+        {
+          "text": "Solo en la capa papilar",
+          "isCorrect": false,
+          "rationale": "Está en la unión entre ambas capas."
+        },
+        {
+          "text": "En la epidermis",
+          "isCorrect": false,
+          "rationale": "No está en la epidermis."
+        },
+        {
+          "text": "En el tejido subcutáneo profundo",
+          "isCorrect": false,
+          "rationale": "Está en la dermis, no en tejido subcutáneo."
+        }
+      ],
+      "hint": "Está justo debajo de la capa papilar..."
+    },
+    {
+      "question": "¿Qué son las asas capilares intrapapilares?",
+      "options": [
+        {
+          "text": "Estructuras vasculares que se originan del plexo subpapilar",
+          "isCorrect": true,
+          "rationale": "Las asas capilares intrapapilares se originan del plexo arterial subpapilar y suben por las papilas."
+        },
+        {
+          "text": "Nervios sensitivos de las papilas",
+          "isCorrect": false,
+          "rationale": "Son estructuras vasculares, no nerviosas."
+        },
+        {
+          "text": "Glándulas sudoríparas en las papilas",
+          "isCorrect": false,
+          "rationale": "No son glándulas."
+        },
+        {
+          "text": "Células de la epidermis",
+          "isCorrect": false,
+          "rationale": "Son vasos sanguíneos."
+        }
+      ],
+      "hint": "Son los capilares en forma de asa que suben por las papilas dérmicas..."
+    },
+    {
+      "question": "¿Dónde se encuentra el corpúsculo sensitivo fusiforme de Ruffini?",
+      "options": [
+        {
+          "text": "En la capa reticular de la dermis",
+          "isCorrect": true,
+          "rationale": "El corpúsculo de Ruffini es un receptor ubicado en la capa reticular de la dermis."
+        },
+        {
+          "text": "En la capa papilar",
+          "isCorrect": false,
+          "rationale": "Ahí está el corpúsculo de Meissner."
+        },
+        {
+          "text": "En el tejido subcutáneo",
+          "isCorrect": false,
+          "rationale": "Ahí está el corpúsculo de Pacini."
+        },
+        {
+          "text": "En la epidermis",
+          "isCorrect": false,
+          "rationale": "No está en la epidermis."
+        }
+      ],
+      "hint": "Es un receptor de estiramiento y presión en la dermis profunda..."
+    },
+    {
+      "question": "¿Dónde se encuentra el bulbo terminal de Krause?",
+      "options": [
+        {
+          "text": "En la capa reticular de la dermis",
+          "isCorrect": true,
+          "rationale": "El bulbo terminal de Krause es un receptor ubicado en la capa reticular de la dermis."
+        },
+        {
+          "text": "En la capa papilar",
+          "isCorrect": false,
+          "rationale": "No está en la capa papilar."
+        },
+        {
+          "text": "En el estrato córneo",
+          "isCorrect": false,
+          "rationale": "No está en la epidermis."
+        },
+        {
+          "text": "En el hueso",
+          "isCorrect": false,
+          "rationale": "No está en el hueso."
+        }
+      ],
+      "hint": "Se encuentra en la dermis reticular, similar al de Ruffini..."
+    },
+    {
+      "question": "¿Qué son las terminaciones peritriciales?",
+      "options": [
+        {
+          "text": "Terminaciones nerviosas en espiral alrededor de los pelos",
+          "isCorrect": true,
+          "rationale": "Las terminaciones peritriciales son terminaciones nerviosas en espiral que rodean los pelos."
+        },
+        {
+          "text": "Glándulas alrededor de los folículos",
+          "isCorrect": false,
+          "rationale": "No son glándulas, son terminaciones nerviosas."
+        },
+        {
+          "text": "Vasos sanguíneos del bulbo piloso",
+          "isCorrect": false,
+          "rationale": "No son vasos, son nervios."
+        },
+        {
+          "text": "Músculos que rodean el pelo",
+          "isCorrect": false,
+          "rationale": "El músculo erector es único, no son terminaciones."
+        }
+      ],
+      "hint": "Son receptores sensitivos que rodean los pelos en espiral..."
+    }
+  ]
+}

@@ -1,0 +1,1830 @@
+﻿{
+    "desktop":  {
+                    "postMusculatura":  [
+                                            {
+                                                "h":  28,
+                                                "label":  "M. deltoides",
+                                                "dir":  null,
+                                                "y":  21,
+                                                "x":  79,
+                                                "w":  130
+                                            },
+                                            {
+                                                "h":  28,
+                                                "label":  "m. supraespinoso",
+                                                "dir":  null,
+                                                "y":  25,
+                                                "x":  79,
+                                                "w":  130
+                                            },
+                                            {
+                                                "h":  28,
+                                                "label":  "M. infraespinoso",
+                                                "dir":  null,
+                                                "y":  29,
+                                                "x":  79,
+                                                "w":  130
+                                            },
+                                            {
+                                                "h":  28,
+                                                "label":  "M. redondo menor",
+                                                "dir":  null,
+                                                "y":  32.5,
+                                                "x":  79,
+                                                "w":  130
+                                            },
+                                            {
+                                                "h":  28,
+                                                "label":  "M. cabeza lateral triceps braquial",
+                                                "dir":  null,
+                                                "y":  39,
+                                                "x":  78.5,
+                                                "w":  130
+                                            },
+                                            {
+                                                "h":  28,
+                                                "label":  "M. deltoides",
+                                                "dir":  null,
+                                                "y":  52,
+                                                "x":  77.5,
+                                                "w":  130
+                                            },
+                                            {
+                                                "h":  28,
+                                                "label":  "M. braquial",
+                                                "dir":  null,
+                                                "y":  57.5,
+                                                "x":  78,
+                                                "w":  130
+                                            },
+                                            {
+                                                "h":  28,
+                                                "label":  "M. cabeza medial triceps braquial",
+                                                "dir":  null,
+                                                "y":  64,
+                                                "x":  78,
+                                                "w":  130
+                                            },
+                                            {
+                                                "h":  28,
+                                                "label":  "T. comun de los extensores",
+                                                "dir":  null,
+                                                "y":  85.5,
+                                                "x":  82.5,
+                                                "w":  130
+                                            },
+                                            {
+                                                "h":  28,
+                                                "label":  "M. anconeo",
+                                                "dir":  null,
+                                                "y":  89.5,
+                                                "x":  79,
+                                                "w":  95
+                                            },
+                                            {
+                                                "h":  28,
+                                                "label":  "M. triceps braquial",
+                                                "dir":  null,
+                                                "y":  80,
+                                                "x":  44,
+                                                "w":  130
+                                            },
+                                            {
+                                                "h":  28,
+                                                "label":  "T. comun de los flexores",
+                                                "dir":  null,
+                                                "y":  87,
+                                                "x":  40,
+                                                "w":  130
+                                            },
+                                            {
+                                                "h":  41,
+                                                "label":  "M. cabeza larga triceps braquial",
+                                                "dir":  null,
+                                                "y":  44,
+                                                "x":  54.5,
+                                                "w":  67
+                                            },
+                                            {
+                                                "h":  42,
+                                                "label":  "M. redondo menor",
+                                                "dir":  null,
+                                                "y":  55.5,
+                                                "x":  50,
+                                                "w":  74
+                                            },
+                                            {
+                                                "h":  45,
+                                                "label":  "M. redondo mayor",
+                                                "dir":  null,
+                                                "y":  62,
+                                                "x":  47.5,
+                                                "w":  108
+                                            },
+                                            {
+                                                "h":  32,
+                                                "label":  "M. dorsal ancho",
+                                                "dir":  null,
+                                                "y":  62.5,
+                                                "x":  31,
+                                                "w":  109
+                                            },
+                                            {
+                                                "h":  30,
+                                                "label":  "M. infraespinoso",
+                                                "dir":  null,
+                                                "y":  55,
+                                                "x":  24,
+                                                "w":  106
+                                            },
+                                            {
+                                                "h":  28,
+                                                "label":  "M. romboides mayor",
+                                                "dir":  null,
+                                                "y":  43.5,
+                                                "x":  15.5,
+                                                "w":  130
+                                            },
+                                            {
+                                                "h":  28,
+                                                "label":  "M. romboides menor",
+                                                "dir":  null,
+                                                "y":  31.5,
+                                                "x":  15.5,
+                                                "w":  130
+                                            },
+                                            {
+                                                "h":  28,
+                                                "label":  "M. elevador de la escapula",
+                                                "dir":  null,
+                                                "y":  21,
+                                                "x":  21.5,
+                                                "w":  130
+                                            },
+                                            {
+                                                "h":  28,
+                                                "label":  "M. supraespinoso",
+                                                "dir":  null,
+                                                "y":  7,
+                                                "x":  30.5,
+                                                "w":  130
+                                            },
+                                            {
+                                                "h":  31,
+                                                "label":  "M. trapecio",
+                                                "dir":  null,
+                                                "y":  9,
+                                                "x":  46.5,
+                                                "w":  100
+                                            }
+                                        ],
+                    "anterior":  [
+                                     {
+                                         "h":  28,
+                                         "label":  "Escotadura de la escapula",
+                                         "dir":  null,
+                                         "y":  18,
+                                         "x":  92,
+                                         "w":  130
+                                     },
+                                     {
+                                         "h":  30,
+                                         "label":  "Cuello",
+                                         "dir":  null,
+                                         "y":  22,
+                                         "x":  95,
+                                         "w":  72
+                                     },
+                                     {
+                                         "h":  34,
+                                         "label":  "Borde medial",
+                                         "dir":  null,
+                                         "y":  26.5,
+                                         "x":  94.5,
+                                         "w":  89
+                                     },
+                                     {
+                                         "h":  31,
+                                         "label":  "Fosa subescapular",
+                                         "dir":  null,
+                                         "y":  30.5,
+                                         "x":  94,
+                                         "w":  99
+                                     },
+                                     {
+                                         "h":  38,
+                                         "label":  "Tuberculo infraglenoideo",
+                                         "dir":  null,
+                                         "y":  35,
+                                         "x":  94.5,
+                                         "w":  85
+                                     },
+                                     {
+                                         "h":  32,
+                                         "label":  "Borde lateral",
+                                         "dir":  null,
+                                         "y":  39.5,
+                                         "x":  94,
+                                         "w":  86
+                                     },
+                                     {
+                                         "h":  28,
+                                         "label":  "Angulo inferior",
+                                         "dir":  null,
+                                         "y":  43.5,
+                                         "x":  93.5,
+                                         "w":  99
+                                     },
+                                     {
+                                         "h":  53,
+                                         "label":  "Cavidad glenoidea",
+                                         "dir":  null,
+                                         "y":  37,
+                                         "x":  60.5,
+                                         "w":  60
+                                     },
+                                     {
+                                         "h":  34,
+                                         "label":  "Cabeza del humero",
+                                         "dir":  null,
+                                         "y":  44.5,
+                                         "x":  59.5,
+                                         "w":  116
+                                     },
+                                     {
+                                         "h":  28,
+                                         "label":  "Epicondilo medial",
+                                         "dir":  null,
+                                         "y":  98,
+                                         "x":  58,
+                                         "w":  130
+                                     },
+                                     {
+                                         "h":  29,
+                                         "label":  "Troclea",
+                                         "dir":  null,
+                                         "y":  97.5,
+                                         "x":  35.5,
+                                         "w":  78
+                                     },
+                                     {
+                                         "h":  32,
+                                         "label":  "Condilo",
+                                         "dir":  null,
+                                         "y":  91.5,
+                                         "x":  30.5,
+                                         "w":  81
+                                     },
+                                     {
+                                         "h":  31,
+                                         "label":  "Epicondilo lateral",
+                                         "dir":  null,
+                                         "y":  87.5,
+                                         "x":  19.5,
+                                         "w":  103
+                                     },
+                                     {
+                                         "h":  28,
+                                         "label":  "Fosa radial",
+                                         "dir":  null,
+                                         "y":  80,
+                                         "x":  24.5,
+                                         "w":  91
+                                     },
+                                     {
+                                         "h":  29,
+                                         "label":  "Fosa coronoidea",
+                                         "dir":  null,
+                                         "y":  74.5,
+                                         "x":  27.5,
+                                         "w":  113
+                                     },
+                                     {
+                                         "h":  33,
+                                         "label":  "Cresta supracondilea lateral",
+                                         "dir":  null,
+                                         "y":  65.5,
+                                         "x":  30,
+                                         "w":  142
+                                     },
+                                     {
+                                         "h":  32,
+                                         "label":  "Cresta supracondilea medial",
+                                         "dir":  null,
+                                         "y":  59.5,
+                                         "x":  29,
+                                         "w":  149
+                                     },
+                                     {
+                                         "h":  28,
+                                         "label":  "Tuberosidad deltoidea",
+                                         "dir":  null,
+                                         "y":  54.5,
+                                         "x":  32,
+                                         "w":  130
+                                     },
+                                     {
+                                         "h":  28,
+                                         "label":  "Cresta del tuberculo menor",
+                                         "dir":  null,
+                                         "y":  50,
+                                         "x":  24.5,
+                                         "w":  140
+                                     },
+                                     {
+                                         "h":  29,
+                                         "label":  "Cresta del tuberculo mayor",
+                                         "dir":  null,
+                                         "y":  42,
+                                         "x":  24.5,
+                                         "w":  142
+                                     },
+                                     {
+                                         "h":  28,
+                                         "label":  "Surco intertubercular",
+                                         "dir":  null,
+                                         "y":  34.5,
+                                         "x":  24.5,
+                                         "w":  130
+                                     },
+                                     {
+                                         "h":  29,
+                                         "label":  "Cuello quirurgico",
+                                         "dir":  null,
+                                         "y":  28.5,
+                                         "x":  27.5,
+                                         "w":  118
+                                     },
+                                     {
+                                         "h":  28,
+                                         "label":  "Tuberculo menor",
+                                         "dir":  null,
+                                         "y":  24.5,
+                                         "x":  28.5,
+                                         "w":  115
+                                     },
+                                     {
+                                         "h":  29,
+                                         "label":  "Tuberculo mayor",
+                                         "dir":  null,
+                                         "y":  20.5,
+                                         "x":  28.5,
+                                         "w":  106
+                                     },
+                                     {
+                                         "h":  28,
+                                         "label":  "Cuello anatomico",
+                                         "dir":  null,
+                                         "y":  16.5,
+                                         "x":  29,
+                                         "w":  112
+                                     },
+                                     {
+                                         "h":  31,
+                                         "label":  "Tuberculo supraglenoideo",
+                                         "dir":  null,
+                                         "y":  12.5,
+                                         "x":  28.5,
+                                         "w":  143
+                                     },
+                                     {
+                                         "h":  28,
+                                         "label":  "Angulo del acromion",
+                                         "dir":  null,
+                                         "y":  7,
+                                         "x":  34,
+                                         "w":  130
+                                     },
+                                     {
+                                         "h":  28,
+                                         "label":  "Acromion",
+                                         "dir":  null,
+                                         "y":  4,
+                                         "x":  50.5,
+                                         "w":  130
+                                     },
+                                     {
+                                         "h":  28,
+                                         "label":  "Apofisis coracoides",
+                                         "dir":  null,
+                                         "y":  4.5,
+                                         "x":  66,
+                                         "w":  130
+                                     },
+                                     {
+                                         "h":  28,
+                                         "label":  "Clavicula",
+                                         "dir":  null,
+                                         "y":  3,
+                                         "x":  82.5,
+                                         "w":  130
+                                     },
+                                     {
+                                         "h":  28,
+                                         "label":  "Angulo superior",
+                                         "dir":  null,
+                                         "y":  7.5,
+                                         "x":  87.5,
+                                         "w":  130
+                                     },
+                                     {
+                                         "h":  34,
+                                         "label":  "Borde superior",
+                                         "dir":  null,
+                                         "y":  13,
+                                         "x":  91,
+                                         "w":  90
+                                     }
+                                 ],
+                    "posterior":  [
+                                      {
+                                          "h":  28,
+                                          "label":  "apofisis coracoides",
+                                          "dir":  null,
+                                          "y":  14,
+                                          "x":  67.5,
+                                          "w":  130
+                                      },
+                                      {
+                                          "h":  28,
+                                          "label":  "Acromion",
+                                          "dir":  null,
+                                          "y":  17.5,
+                                          "x":  71.5,
+                                          "w":  130
+                                      },
+                                      {
+                                          "h":  28,
+                                          "label":  "Angulo del acromion",
+                                          "dir":  null,
+                                          "y":  21,
+                                          "x":  73.5,
+                                          "w":  130
+                                      },
+                                      {
+                                          "h":  28,
+                                          "label":  "escotadura que conecta las fosas supraespinosa e infraespinosa",
+                                          "dir":  null,
+                                          "y":  24,
+                                          "x":  75,
+                                          "w":  130
+                                      },
+                                      {
+                                          "h":  28,
+                                          "label":  "Tuberculo mayor",
+                                          "dir":  null,
+                                          "y":  31.5,
+                                          "x":  75,
+                                          "w":  130
+                                      },
+                                      {
+                                          "h":  28,
+                                          "label":  "Cabeza del humero",
+                                          "dir":  null,
+                                          "y":  35,
+                                          "x":  75,
+                                          "w":  130
+                                      },
+                                      {
+                                          "h":  28,
+                                          "label":  "Cuello anatomico",
+                                          "dir":  null,
+                                          "y":  38.5,
+                                          "x":  75,
+                                          "w":  130
+                                      },
+                                      {
+                                          "h":  28,
+                                          "label":  "Cuello quirurgico",
+                                          "dir":  null,
+                                          "y":  42,
+                                          "x":  75,
+                                          "w":  130
+                                      },
+                                      {
+                                          "h":  28,
+                                          "label":  "Tuberculo infraglenoideo",
+                                          "dir":  null,
+                                          "y":  46,
+                                          "x":  75,
+                                          "w":  130
+                                      },
+                                      {
+                                          "h":  28,
+                                          "label":  "Tuberosidad deltoidea",
+                                          "dir":  null,
+                                          "y":  52,
+                                          "x":  75,
+                                          "w":  130
+                                      },
+                                      {
+                                          "h":  28,
+                                          "label":  "Surco del nervio radial",
+                                          "dir":  null,
+                                          "y":  58,
+                                          "x":  75,
+                                          "w":  130
+                                      },
+                                      {
+                                          "h":  28,
+                                          "label":  "Cresta supracondilea medial",
+                                          "dir":  null,
+                                          "y":  65,
+                                          "x":  79.5,
+                                          "w":  130
+                                      },
+                                      {
+                                          "h":  28,
+                                          "label":  "Cresta supracondilea lateral",
+                                          "dir":  null,
+                                          "y":  72,
+                                          "x":  81,
+                                          "w":  130
+                                      },
+                                      {
+                                          "h":  28,
+                                          "label":  "Fosa del olecranon",
+                                          "dir":  null,
+                                          "y":  80.5,
+                                          "x":  82,
+                                          "w":  130
+                                      },
+                                      {
+                                          "h":  28,
+                                          "label":  "Epicondilo lateral",
+                                          "dir":  null,
+                                          "y":  86,
+                                          "x":  82,
+                                          "w":  130
+                                      },
+                                      {
+                                          "h":  28,
+                                          "label":  "Troclea",
+                                          "dir":  null,
+                                          "y":  91,
+                                          "x":  80,
+                                          "w":  130
+                                      },
+                                      {
+                                          "h":  28,
+                                          "label":  "Surco del nervio cubital",
+                                          "dir":  null,
+                                          "y":  94.5,
+                                          "x":  66.5,
+                                          "w":  130
+                                      },
+                                      {
+                                          "h":  28,
+                                          "label":  "Epicondilo medial",
+                                          "dir":  null,
+                                          "y":  98,
+                                          "x":  65,
+                                          "w":  130
+                                      },
+                                      {
+                                          "h":  28,
+                                          "label":  "surco de los vasos circunflejos de la escapula",
+                                          "dir":  null,
+                                          "y":  46.5,
+                                          "x":  49,
+                                          "w":  130
+                                      },
+                                      {
+                                          "h":  28,
+                                          "label":  "Clavicula",
+                                          "dir":  null,
+                                          "y":  9.5,
+                                          "x":  55.5,
+                                          "w":  130
+                                      },
+                                      {
+                                          "h":  28,
+                                          "label":  "Escotadura de la escapula",
+                                          "dir":  null,
+                                          "y":  9,
+                                          "x":  39,
+                                          "w":  130
+                                      },
+                                      {
+                                          "h":  28,
+                                          "label":  "Borde superior",
+                                          "dir":  null,
+                                          "y":  12.5,
+                                          "x":  23,
+                                          "w":  130
+                                      },
+                                      {
+                                          "h":  28,
+                                          "label":  "Angulo superior",
+                                          "dir":  null,
+                                          "y":  17.5,
+                                          "x":  15.5,
+                                          "w":  130
+                                      },
+                                      {
+                                          "h":  28,
+                                          "label":  "Fosa supraespinosa",
+                                          "dir":  null,
+                                          "y":  23.5,
+                                          "x":  13,
+                                          "w":  130
+                                      },
+                                      {
+                                          "h":  28,
+                                          "label":  "Espina",
+                                          "dir":  null,
+                                          "y":  27.5,
+                                          "x":  13,
+                                          "w":  130
+                                      },
+                                      {
+                                          "h":  28,
+                                          "label":  "Cuello",
+                                          "dir":  null,
+                                          "y":  31.5,
+                                          "x":  12.5,
+                                          "w":  130
+                                      },
+                                      {
+                                          "h":  28,
+                                          "label":  "Fosa infraespinosa",
+                                          "dir":  null,
+                                          "y":  35.5,
+                                          "x":  13,
+                                          "w":  130
+                                      },
+                                      {
+                                          "h":  28,
+                                          "label":  "Borde medial",
+                                          "dir":  null,
+                                          "y":  40,
+                                          "x":  12.5,
+                                          "w":  130
+                                      },
+                                      {
+                                          "h":  28,
+                                          "label":  "Borde lateral",
+                                          "dir":  null,
+                                          "y":  43.5,
+                                          "x":  12.5,
+                                          "w":  130
+                                      },
+                                      {
+                                          "h":  28,
+                                          "label":  "Angulo inferior",
+                                          "dir":  null,
+                                          "y":  48,
+                                          "x":  12.5,
+                                          "w":  130
+                                      }
+                                  ],
+                    "antMusculatura":  [
+                                           {
+                                               "h":  28,
+                                               "label":  "M. Serrato anterior",
+                                               "dir":  null,
+                                               "y":  41,
+                                               "x":  86,
+                                               "w":  130
+                                           },
+                                           {
+                                               "h":  32,
+                                               "label":  "M. subescapular",
+                                               "dir":  null,
+                                               "y":  48.5,
+                                               "x":  59,
+                                               "w":  119
+                                           },
+                                           {
+                                               "h":  28,
+                                               "label":  "M. Cabeza larga triceps braquial",
+                                               "dir":  null,
+                                               "y":  36,
+                                               "x":  51,
+                                               "w":  130
+                                           },
+                                           {
+                                               "h":  28,
+                                               "label":  "M. cabeza humeral pronador redondo",
+                                               "dir":  null,
+                                               "y":  66,
+                                               "x":  50.5,
+                                               "w":  130
+                                           },
+                                           {
+                                               "h":  28,
+                                               "label":  "T. comun de los flexores",
+                                               "dir":  null,
+                                               "y":  70.5,
+                                               "x":  59,
+                                               "w":  130
+                                           },
+                                           {
+                                               "h":  28,
+                                               "label":  "M. flexor superficial de los dedos",
+                                               "dir":  null,
+                                               "y":  80.5,
+                                               "x":  57,
+                                               "w":  130
+                                           },
+                                           {
+                                               "h":  28,
+                                               "label":  "M. pronador redondo",
+                                               "dir":  null,
+                                               "y":  87,
+                                               "x":  57,
+                                               "w":  130
+                                           },
+                                           {
+                                               "h":  28,
+                                               "label":  "M. flexor largo del pulgar",
+                                               "dir":  null,
+                                               "y":  93,
+                                               "x":  54,
+                                               "w":  130
+                                           },
+                                           {
+                                               "h":  28,
+                                               "label":  "M. biceps braquial",
+                                               "dir":  null,
+                                               "y":  94,
+                                               "x":  17.5,
+                                               "w":  110
+                                           },
+                                           {
+                                               "h":  27,
+                                               "label":  "M. supinador",
+                                               "dir":  null,
+                                               "y":  89.5,
+                                               "x":  18,
+                                               "w":  99
+                                           },
+                                           {
+                                               "h":  24,
+                                               "label":  "M. braquial",
+                                               "dir":  null,
+                                               "y":  85,
+                                               "x":  18.5,
+                                               "w":  99
+                                           },
+                                           {
+                                               "h":  28,
+                                               "label":  "T. comun de los extensores",
+                                               "dir":  null,
+                                               "y":  75,
+                                               "x":  15.5,
+                                               "w":  130
+                                           },
+                                           {
+                                               "h":  28,
+                                               "label":  "M. extensor radial largo del carpo",
+                                               "dir":  null,
+                                               "y":  66,
+                                               "x":  20,
+                                               "w":  130
+                                           },
+                                           {
+                                               "h":  28,
+                                               "label":  "M. braquiorradial",
+                                               "dir":  null,
+                                               "y":  61.5,
+                                               "x":  21,
+                                               "w":  130
+                                           },
+                                           {
+                                               "h":  29,
+                                               "label":  "M. braquial",
+                                               "dir":  null,
+                                               "y":  57.5,
+                                               "x":  18.5,
+                                               "w":  101
+                                           },
+                                           {
+                                               "h":  28,
+                                               "label":  "M. coracobraquial",
+                                               "dir":  null,
+                                               "y":  53.5,
+                                               "x":  23.5,
+                                               "w":  113
+                                           },
+                                           {
+                                               "h":  28,
+                                               "label":  "M. deltoides",
+                                               "dir":  null,
+                                               "y":  49.5,
+                                               "x":  18.5,
+                                               "w":  118
+                                           },
+                                           {
+                                               "h":  29,
+                                               "label":  "M. redondo mayor",
+                                               "dir":  null,
+                                               "y":  44.5,
+                                               "x":  23,
+                                               "w":  120
+                                           },
+                                           {
+                                               "h":  29,
+                                               "label":  "M. dorsal ancho",
+                                               "dir":  null,
+                                               "y":  40.5,
+                                               "x":  22,
+                                               "w":  107
+                                           },
+                                           {
+                                               "h":  29,
+                                               "label":  "M. pectoral mayor",
+                                               "dir":  null,
+                                               "y":  36.5,
+                                               "x":  23,
+                                               "w":  118
+                                           },
+                                           {
+                                               "h":  28,
+                                               "label":  "M. cabeza corta biceps braquial",
+                                               "dir":  null,
+                                               "y":  31,
+                                               "x":  22.5,
+                                               "w":  130
+                                           },
+                                           {
+                                               "h":  28,
+                                               "label":  "M. coracobraquial",
+                                               "dir":  null,
+                                               "y":  27,
+                                               "x":  23,
+                                               "w":  130
+                                           },
+                                           {
+                                               "h":  28,
+                                               "label":  "M. subescapular",
+                                               "dir":  null,
+                                               "y":  23,
+                                               "x":  21.5,
+                                               "w":  113
+                                           },
+                                           {
+                                               "h":  27,
+                                               "label":  "M. supraespinoso",
+                                               "dir":  null,
+                                               "y":  19,
+                                               "x":  22,
+                                               "w":  114
+                                           },
+                                           {
+                                               "h":  28,
+                                               "label":  "M. cabeza larga biceps braquial",
+                                               "dir":  null,
+                                               "y":  14.5,
+                                               "x":  20.5,
+                                               "w":  130
+                                           },
+                                           {
+                                               "h":  30,
+                                               "label":  "M. deltoides",
+                                               "dir":  null,
+                                               "y":  8.5,
+                                               "x":  28,
+                                               "w":  88
+                                           },
+                                           {
+                                               "h":  28,
+                                               "label":  "M. trapecio",
+                                               "dir":  null,
+                                               "y":  2.5,
+                                               "x":  43.5,
+                                               "w":  130
+                                           },
+                                           {
+                                               "h":  28,
+                                               "label":  "M. pectoral menor",
+                                               "dir":  null,
+                                               "y":  2,
+                                               "x":  69.5,
+                                               "w":  130
+                                           },
+                                           {
+                                               "h":  28,
+                                               "label":  "M. omohioideo",
+                                               "dir":  null,
+                                               "y":  5.5,
+                                               "x":  76.5,
+                                               "w":  130
+                                           }
+                                       ]
+                },
+    "mobile":  {
+                   "postMusculatura":  [
+                                           {
+                                               "h":  24,
+                                               "label":  "M. deltoides",
+                                               "dir":  "l",
+                                               "y":  20.5,
+                                               "x":  83,
+                                               "w":  60
+                                           },
+                                           {
+                                               "h":  29,
+                                               "label":  "M. supraespinoso",
+                                               "dir":  "l",
+                                               "y":  24,
+                                               "x":  84.5,
+                                               "w":  75
+                                           },
+                                           {
+                                               "h":  31,
+                                               "label":  "M. infraespinoso",
+                                               "dir":  "l",
+                                               "y":  28.5,
+                                               "x":  83,
+                                               "w":  77
+                                           },
+                                           {
+                                               "h":  32,
+                                               "label":  "M. redondo menor",
+                                               "dir":  "l",
+                                               "y":  32.5,
+                                               "x":  84,
+                                               "w":  81
+                                           },
+                                           {
+                                               "h":  45,
+                                               "label":  "M. cabeza lateral triceps braquial",
+                                               "dir":  "l",
+                                               "y":  39.5,
+                                               "x":  82.5,
+                                               "w":  68
+                                           },
+                                           {
+                                               "h":  35,
+                                               "label":  "M. deltoides",
+                                               "dir":  "l",
+                                               "y":  51.5,
+                                               "x":  81.5,
+                                               "w":  71
+                                           },
+                                           {
+                                               "h":  37,
+                                               "label":  "M. braquial",
+                                               "dir":  "l",
+                                               "y":  57.5,
+                                               "x":  81.5,
+                                               "w":  72
+                                           },
+                                           {
+                                               "h":  33,
+                                               "label":  "M. cabeza medial triceps braquial",
+                                               "dir":  "l",
+                                               "y":  64.5,
+                                               "x":  83.5,
+                                               "w":  95
+                                           },
+                                           {
+                                               "h":  35,
+                                               "label":  "T. comun de los extensores",
+                                               "dir":  "l",
+                                               "y":  85.5,
+                                               "x":  87,
+                                               "w":  72
+                                           },
+                                           {
+                                               "h":  34,
+                                               "label":  "M. anconeo",
+                                               "dir":  "l",
+                                               "y":  89.5,
+                                               "x":  85,
+                                               "w":  64
+                                           },
+                                           {
+                                               "h":  35,
+                                               "label":  "M. triceps braquial",
+                                               "dir":  "r",
+                                               "y":  79.5,
+                                               "x":  38.5,
+                                               "w":  70
+                                           },
+                                           {
+                                               "h":  35,
+                                               "label":  "T. comun de los flexores",
+                                               "dir":  "r",
+                                               "y":  87.5,
+                                               "x":  35,
+                                               "w":  77
+                                           },
+                                           {
+                                               "h":  45,
+                                               "label":  "M. cabeza larga triceps braquial",
+                                               "dir":  "u",
+                                               "y":  49.5,
+                                               "x":  50.5,
+                                               "w":  60
+                                           },
+                                           {
+                                               "h":  39,
+                                               "label":  "M. redondo menor",
+                                               "dir":  "u",
+                                               "y":  60,
+                                               "x":  47.5,
+                                               "w":  60
+                                           },
+                                           {
+                                               "h":  45,
+                                               "label":  "M. redondo mayor",
+                                               "dir":  "u",
+                                               "y":  67,
+                                               "x":  41.5,
+                                               "w":  60
+                                           },
+                                           {
+                                               "h":  37,
+                                               "label":  "M. dorsal ancho",
+                                               "dir":  "u",
+                                               "y":  67.5,
+                                               "x":  35,
+                                               "w":  60
+                                           },
+                                           {
+                                               "h":  32,
+                                               "label":  "M. infraespinoso",
+                                               "dir":  "r",
+                                               "y":  53.5,
+                                               "x":  15.5,
+                                               "w":  72
+                                           },
+                                           {
+                                               "h":  32,
+                                               "label":  "M. romboides mayor",
+                                               "dir":  "r",
+                                               "y":  43.5,
+                                               "x":  13,
+                                               "w":  63
+                                           },
+                                           {
+                                               "h":  31,
+                                               "label":  "M. romboides menor",
+                                               "dir":  "r",
+                                               "y":  32,
+                                               "x":  11,
+                                               "w":  60
+                                           },
+                                           {
+                                               "h":  34,
+                                               "label":  "M. elevador de la escapula",
+                                               "dir":  "r",
+                                               "y":  21,
+                                               "x":  16.5,
+                                               "w":  82
+                                           },
+                                           {
+                                               "h":  32,
+                                               "label":  "M. supraespinoso",
+                                               "dir":  "d",
+                                               "y":  4.5,
+                                               "x":  37,
+                                               "w":  66
+                                           },
+                                           {
+                                               "h":  31,
+                                               "label":  "M. trapecio",
+                                               "dir":  "d",
+                                               "y":  5.5,
+                                               "x":  47.5,
+                                               "w":  100
+                                           }
+                                       ],
+                   "anterior":  [
+                                    {
+                                        "h":  29,
+                                        "label":  "Escotadura de la escapula",
+                                        "dir":  "d",
+                                        "y":  12,
+                                        "x":  87,
+                                        "w":  100
+                                    },
+                                    {
+                                        "h":  30,
+                                        "label":  "Cuello",
+                                        "dir":  "d",
+                                        "y":  16.5,
+                                        "x":  89.5,
+                                        "w":  72
+                                    },
+                                    {
+                                        "h":  32,
+                                        "label":  "Borde medial",
+                                        "dir":  "d",
+                                        "y":  19.5,
+                                        "x":  89.5,
+                                        "w":  73
+                                    },
+                                    {
+                                        "h":  32,
+                                        "label":  "Fosa subescapular",
+                                        "dir":  "d",
+                                        "y":  23.5,
+                                        "x":  89,
+                                        "w":  78
+                                    },
+                                    {
+                                        "h":  38,
+                                        "label":  "Tuberculo infraglenoideo",
+                                        "dir":  "d",
+                                        "y":  27.5,
+                                        "x":  89,
+                                        "w":  80
+                                    },
+                                    {
+                                        "h":  28,
+                                        "label":  "Borde lateral",
+                                        "dir":  "d",
+                                        "y":  33,
+                                        "x":  88,
+                                        "w":  62
+                                    },
+                                    {
+                                        "h":  32,
+                                        "label":  "Angulo inferior",
+                                        "dir":  "u",
+                                        "y":  53,
+                                        "x":  87.5,
+                                        "w":  64
+                                    },
+                                    {
+                                        "h":  35,
+                                        "label":  "Cavidad glenoidea",
+                                        "dir":  "u",
+                                        "y":  40,
+                                        "x":  58,
+                                        "w":  60
+                                    },
+                                    {
+                                        "h":  37,
+                                        "label":  "Cabeza del humero",
+                                        "dir":  "l",
+                                        "y":  40.5,
+                                        "x":  68,
+                                        "w":  83
+                                    },
+                                    {
+                                        "h":  28,
+                                        "label":  "Epicondilo medial",
+                                        "dir":  "l",
+                                        "y":  95.5,
+                                        "x":  67,
+                                        "w":  108
+                                    },
+                                    {
+                                        "h":  29,
+                                        "label":  "Troclea",
+                                        "dir":  "l",
+                                        "y":  95,
+                                        "x":  56,
+                                        "w":  78
+                                    },
+                                    {
+                                        "h":  32,
+                                        "label":  "Condilo",
+                                        "dir":  "u",
+                                        "y":  95.5,
+                                        "x":  36,
+                                        "w":  81
+                                    },
+                                    {
+                                        "h":  36,
+                                        "label":  "Epicondilo lateral",
+                                        "dir":  "r",
+                                        "y":  87.5,
+                                        "x":  13.5,
+                                        "w":  74
+                                    },
+                                    {
+                                        "h":  35,
+                                        "label":  "Fosa radial",
+                                        "dir":  "r",
+                                        "y":  80,
+                                        "x":  17.5,
+                                        "w":  68
+                                    },
+                                    {
+                                        "h":  36,
+                                        "label":  "Fosa coronoidea",
+                                        "dir":  "r",
+                                        "y":  75.5,
+                                        "x":  22,
+                                        "w":  74
+                                    },
+                                    {
+                                        "h":  44,
+                                        "label":  "Cresta supracondilea lateral",
+                                        "dir":  "r",
+                                        "y":  67,
+                                        "x":  25,
+                                        "w":  85
+                                    },
+                                    {
+                                        "h":  34,
+                                        "label":  "Cresta supracondilea medial",
+                                        "dir":  "r",
+                                        "y":  60,
+                                        "x":  20,
+                                        "w":  132
+                                    },
+                                    {
+                                        "h":  30,
+                                        "label":  "Tuberosidad deltoidea",
+                                        "dir":  "r",
+                                        "y":  53,
+                                        "x":  28,
+                                        "w":  77
+                                    },
+                                    {
+                                        "h":  32,
+                                        "label":  "Cresta del tuberculo menor",
+                                        "dir":  "r",
+                                        "y":  50.5,
+                                        "x":  19.5,
+                                        "w":  93
+                                    },
+                                    {
+                                        "h":  37,
+                                        "label":  "Cresta del tuberculo mayor",
+                                        "dir":  "r",
+                                        "y":  42.5,
+                                        "x":  19,
+                                        "w":  92
+                                    },
+                                    {
+                                        "h":  33,
+                                        "label":  "Surco intertubercular",
+                                        "dir":  "r",
+                                        "y":  34,
+                                        "x":  16.5,
+                                        "w":  98
+                                    },
+                                    {
+                                        "h":  34,
+                                        "label":  "Cuello quirurgico",
+                                        "dir":  "r",
+                                        "y":  28.5,
+                                        "x":  23,
+                                        "w":  86
+                                    },
+                                    {
+                                        "h":  36,
+                                        "label":  "Tuberculo menor",
+                                        "dir":  "r",
+                                        "y":  25,
+                                        "x":  22.5,
+                                        "w":  79
+                                    },
+                                    {
+                                        "h":  34,
+                                        "label":  "Tuberculo mayor",
+                                        "dir":  "r",
+                                        "y":  21,
+                                        "x":  21,
+                                        "w":  82
+                                    },
+                                    {
+                                        "h":  34,
+                                        "label":  "Cuello anatomico",
+                                        "dir":  "r",
+                                        "y":  17.5,
+                                        "x":  22.5,
+                                        "w":  80
+                                    },
+                                    {
+                                        "h":  37,
+                                        "label":  "Tuberculo supraglenoideo",
+                                        "dir":  "r",
+                                        "y":  13,
+                                        "x":  20.5,
+                                        "w":  105
+                                    },
+                                    {
+                                        "h":  34,
+                                        "label":  "Angulo del acromion",
+                                        "dir":  "r",
+                                        "y":  7,
+                                        "x":  26.5,
+                                        "w":  101
+                                    },
+                                    {
+                                        "h":  28,
+                                        "label":  "Acromion",
+                                        "dir":  "d",
+                                        "y":  2.5,
+                                        "x":  53,
+                                        "w":  130
+                                    },
+                                    {
+                                        "h":  28,
+                                        "label":  "Apofisis coracoides",
+                                        "dir":  "d",
+                                        "y":  3,
+                                        "x":  60,
+                                        "w":  130
+                                    },
+                                    {
+                                        "h":  28,
+                                        "label":  "Clavicula",
+                                        "dir":  "d",
+                                        "y":  2.5,
+                                        "x":  77,
+                                        "w":  130
+                                    },
+                                    {
+                                        "h":  28,
+                                        "label":  "Angulo superior",
+                                        "dir":  "d",
+                                        "y":  4,
+                                        "x":  85,
+                                        "w":  130
+                                    },
+                                    {
+                                        "h":  29,
+                                        "label":  "Borde superior",
+                                        "dir":  "d",
+                                        "y":  8.5,
+                                        "x":  87.5,
+                                        "w":  60
+                                    }
+                                ],
+                   "posterior":  [
+                                     {
+                                         "h":  28,
+                                         "label":  "apofisis coracoides",
+                                         "dir":  "d",
+                                         "y":  8,
+                                         "x":  60.5,
+                                         "w":  130
+                                     },
+                                     {
+                                         "h":  28,
+                                         "label":  "Acromion",
+                                         "dir":  "d",
+                                         "y":  12,
+                                         "x":  63.5,
+                                         "w":  130
+                                     },
+                                     {
+                                         "h":  28,
+                                         "label":  "Angulo del acromion",
+                                         "dir":  "d",
+                                         "y":  14.5,
+                                         "x":  66.5,
+                                         "w":  130
+                                     },
+                                     {
+                                         "h":  42,
+                                         "label":  "Escotadura que conecta las fosas supraespinosa e infraespinosa",
+                                         "dir":  "d",
+                                         "y":  16,
+                                         "x":  68,
+                                         "w":  130
+                                     },
+                                     {
+                                         "h":  31,
+                                         "label":  "Tuberculo mayor",
+                                         "dir":  "l",
+                                         "y":  31,
+                                         "x":  81,
+                                         "w":  84
+                                     },
+                                     {
+                                         "h":  34,
+                                         "label":  "Cabeza del humero",
+                                         "dir":  "l",
+                                         "y":  34.5,
+                                         "x":  82,
+                                         "w":  89
+                                     },
+                                     {
+                                         "h":  33,
+                                         "label":  "Cuello anatomico",
+                                         "dir":  "l",
+                                         "y":  38,
+                                         "x":  80.5,
+                                         "w":  79
+                                     },
+                                     {
+                                         "h":  35,
+                                         "label":  "Cuello quirurgico",
+                                         "dir":  "l",
+                                         "y":  42,
+                                         "x":  80.5,
+                                         "w":  82
+                                     },
+                                     {
+                                         "h":  33,
+                                         "label":  "Tuberculo infraglenoideo",
+                                         "dir":  "l",
+                                         "y":  46,
+                                         "x":  81.5,
+                                         "w":  90
+                                     },
+                                     {
+                                         "h":  30,
+                                         "label":  "Tuberosidad deltoidea",
+                                         "dir":  "l",
+                                         "y":  51,
+                                         "x":  82.5,
+                                         "w":  92
+                                     },
+                                     {
+                                         "h":  33,
+                                         "label":  "Surco del nervio radial",
+                                         "dir":  "l",
+                                         "y":  56.5,
+                                         "x":  80,
+                                         "w":  82
+                                     },
+                                     {
+                                         "h":  43,
+                                         "label":  "Cresta supracondilea medial",
+                                         "dir":  "l",
+                                         "y":  65.5,
+                                         "x":  85,
+                                         "w":  93
+                                     },
+                                     {
+                                         "h":  41,
+                                         "label":  "Cresta supracondilea lateral",
+                                         "dir":  "l",
+                                         "y":  73.5,
+                                         "x":  88,
+                                         "w":  97
+                                     },
+                                     {
+                                         "h":  39,
+                                         "label":  "Fosa del olecranon",
+                                         "dir":  "l",
+                                         "y":  81,
+                                         "x":  88,
+                                         "w":  73
+                                     },
+                                     {
+                                         "h":  37,
+                                         "label":  "Epicondilo lateral",
+                                         "dir":  "l",
+                                         "y":  85.5,
+                                         "x":  87.5,
+                                         "w":  68
+                                     },
+                                     {
+                                         "h":  34,
+                                         "label":  "Troclea",
+                                         "dir":  "l",
+                                         "y":  91,
+                                         "x":  85,
+                                         "w":  72
+                                     },
+                                     {
+                                         "h":  31,
+                                         "label":  "Surco del nervio cubital",
+                                         "dir":  "l",
+                                         "y":  95,
+                                         "x":  75,
+                                         "w":  107
+                                     },
+                                     {
+                                         "h":  26,
+                                         "label":  "Epicondilo medial",
+                                         "dir":  "r",
+                                         "y":  96.5,
+                                         "x":  39.5,
+                                         "w":  104
+                                     },
+                                     {
+                                         "h":  42,
+                                         "label":  "Surco de los vasos circunflejos de la escapula",
+                                         "dir":  "u",
+                                         "y":  52,
+                                         "x":  45.5,
+                                         "w":  104
+                                     },
+                                     {
+                                         "h":  28,
+                                         "label":  "Clavicula",
+                                         "dir":  "d",
+                                         "y":  5.5,
+                                         "x":  49,
+                                         "w":  130
+                                     },
+                                     {
+                                         "h":  28,
+                                         "label":  "Escotadura de la escapula",
+                                         "dir":  "d",
+                                         "y":  5.5,
+                                         "x":  39.5,
+                                         "w":  130
+                                     },
+                                     {
+                                         "h":  28,
+                                         "label":  "Borde superior",
+                                         "dir":  "d",
+                                         "y":  8.5,
+                                         "x":  30.5,
+                                         "w":  130
+                                     },
+                                     {
+                                         "h":  30,
+                                         "label":  "Angulo superior",
+                                         "dir":  "d",
+                                         "y":  13,
+                                         "x":  23.5,
+                                         "w":  109
+                                     },
+                                     {
+                                         "h":  28,
+                                         "label":  "Fosa supraespinosa",
+                                         "dir":  "d",
+                                         "y":  16,
+                                         "x":  21,
+                                         "w":  111
+                                     },
+                                     {
+                                         "h":  33,
+                                         "label":  "Espina",
+                                         "dir":  "r",
+                                         "y":  28,
+                                         "x":  9,
+                                         "w":  76
+                                     },
+                                     {
+                                         "h":  26,
+                                         "label":  "Cuello",
+                                         "dir":  "r",
+                                         "y":  31.5,
+                                         "x":  9.5,
+                                         "w":  64
+                                     },
+                                     {
+                                         "h":  29,
+                                         "label":  "Fosa infraespinosa",
+                                         "dir":  "r",
+                                         "y":  36,
+                                         "x":  10,
+                                         "w":  75
+                                     },
+                                     {
+                                         "h":  31,
+                                         "label":  "Borde medial",
+                                         "dir":  "r",
+                                         "y":  40,
+                                         "x":  9,
+                                         "w":  70
+                                     },
+                                     {
+                                         "h":  34,
+                                         "label":  "Borde lateral",
+                                         "dir":  "r",
+                                         "y":  44,
+                                         "x":  9.5,
+                                         "w":  60
+                                     },
+                                     {
+                                         "h":  29,
+                                         "label":  "Angulo inferior",
+                                         "dir":  "u",
+                                         "y":  56.5,
+                                         "x":  21,
+                                         "w":  77
+                                     }
+                                 ],
+                   "antMusculatura":  [
+                                          {
+                                              "h":  34,
+                                              "label":  "M. Serrato anterior",
+                                              "dir":  "l",
+                                              "y":  41.5,
+                                              "x":  89,
+                                              "w":  73
+                                          },
+                                          {
+                                              "h":  26,
+                                              "label":  "M. subescapular",
+                                              "dir":  "u",
+                                              "y":  50.5,
+                                              "x":  60,
+                                              "w":  107
+                                          },
+                                          {
+                                              "h":  42,
+                                              "label":  "M. Cabeza larga triceps braquial",
+                                              "dir":  "u",
+                                              "y":  41.5,
+                                              "x":  48.5,
+                                              "w":  84
+                                          },
+                                          {
+                                              "h":  44,
+                                              "label":  "M. cabeza humeral pronador redondo",
+                                              "dir":  "d",
+                                              "y":  60.5,
+                                              "x":  46,
+                                              "w":  100
+                                          },
+                                          {
+                                              "h":  38,
+                                              "label":  "T. comun de los flexores",
+                                              "dir":  "l",
+                                              "y":  72.5,
+                                              "x":  65.5,
+                                              "w":  94
+                                          },
+                                          {
+                                              "h":  42,
+                                              "label":  "M. flexor superficial de los dedos",
+                                              "dir":  "l",
+                                              "y":  83,
+                                              "x":  63,
+                                              "w":  89
+                                          },
+                                          {
+                                              "h":  36,
+                                              "label":  "M. pronador redondo",
+                                              "dir":  "l",
+                                              "y":  88,
+                                              "x":  63.5,
+                                              "w":  102
+                                          },
+                                          {
+                                              "h":  28,
+                                              "label":  "M. flexor largo del pulgar",
+                                              "dir":  "l",
+                                              "y":  93.5,
+                                              "x":  64.5,
+                                              "w":  130
+                                          },
+                                          {
+                                              "h":  28,
+                                              "label":  "M. biceps braquial",
+                                              "dir":  "r",
+                                              "y":  93.5,
+                                              "x":  12.5,
+                                              "w":  74
+                                          },
+                                          {
+                                              "h":  27,
+                                              "label":  "M. supinador",
+                                              "dir":  "r",
+                                              "y":  89,
+                                              "x":  13.5,
+                                              "w":  79
+                                          },
+                                          {
+                                              "h":  25,
+                                              "label":  "M. braquial",
+                                              "dir":  "r",
+                                              "y":  85.5,
+                                              "x":  12,
+                                              "w":  81
+                                          },
+                                          {
+                                              "h":  30,
+                                              "label":  "T. comun de los extensores",
+                                              "dir":  "r",
+                                              "y":  75.5,
+                                              "x":  11,
+                                              "w":  91
+                                          },
+                                          {
+                                              "h":  35,
+                                              "label":  "M. extensor radial largo del carpo",
+                                              "dir":  "r",
+                                              "y":  66.5,
+                                              "x":  13,
+                                              "w":  109
+                                          },
+                                          {
+                                              "h":  31,
+                                              "label":  "M. braquiorradial",
+                                              "dir":  "r",
+                                              "y":  62,
+                                              "x":  14.5,
+                                              "w":  100
+                                          },
+                                          {
+                                              "h":  30,
+                                              "label":  "M. braquial",
+                                              "dir":  "r",
+                                              "y":  57.5,
+                                              "x":  12.5,
+                                              "w":  72
+                                          },
+                                          {
+                                              "h":  28,
+                                              "label":  "M. coracobraquial",
+                                              "dir":  "r",
+                                              "y":  53.5,
+                                              "x":  16,
+                                              "w":  94
+                                          },
+                                          {
+                                              "h":  30,
+                                              "label":  "M. deltoides",
+                                              "dir":  "r",
+                                              "y":  49.5,
+                                              "x":  13,
+                                              "w":  78
+                                          },
+                                          {
+                                              "h":  36,
+                                              "label":  "M. redondo mayor",
+                                              "dir":  "r",
+                                              "y":  44.5,
+                                              "x":  19,
+                                              "w":  73
+                                          },
+                                          {
+                                              "h":  35,
+                                              "label":  "M. dorsal ancho",
+                                              "dir":  "r",
+                                              "y":  41.5,
+                                              "x":  15,
+                                              "w":  83
+                                          },
+                                          {
+                                              "h":  35,
+                                              "label":  "M. pectoral mayor",
+                                              "dir":  "r",
+                                              "y":  37,
+                                              "x":  16,
+                                              "w":  86
+                                          },
+                                          {
+                                              "h":  37,
+                                              "label":  "M. cabeza corta biceps braquial",
+                                              "dir":  "r",
+                                              "y":  31,
+                                              "x":  15,
+                                              "w":  105
+                                          },
+                                          {
+                                              "h":  32,
+                                              "label":  "M. coracobraquial",
+                                              "dir":  "r",
+                                              "y":  27.5,
+                                              "x":  15,
+                                              "w":  100
+                                          },
+                                          {
+                                              "h":  31,
+                                              "label":  "M. subescapular",
+                                              "dir":  "r",
+                                              "y":  22.5,
+                                              "x":  16,
+                                              "w":  89
+                                          },
+                                          {
+                                              "h":  30,
+                                              "label":  "M. supraespinoso",
+                                              "dir":  "r",
+                                              "y":  18.5,
+                                              "x":  15,
+                                              "w":  97
+                                          },
+                                          {
+                                              "h":  38,
+                                              "label":  "M. cabeza larga biceps braquial",
+                                              "dir":  "r",
+                                              "y":  15.5,
+                                              "x":  13.5,
+                                              "w":  110
+                                          },
+                                          {
+                                              "h":  30,
+                                              "label":  "M. deltoides",
+                                              "dir":  "r",
+                                              "y":  8,
+                                              "x":  18.5,
+                                              "w":  88
+                                          },
+                                          {
+                                              "h":  24,
+                                              "label":  "M. trapecio",
+                                              "dir":  "r",
+                                              "y":  4,
+                                              "x":  36,
+                                              "w":  89
+                                          },
+                                          {
+                                              "h":  31,
+                                              "label":  "M. pectoral menor",
+                                              "dir":  "l",
+                                              "y":  3,
+                                              "x":  77,
+                                              "w":  103
+                                          },
+                                          {
+                                              "h":  33,
+                                              "label":  "M. omohioideo",
+                                              "dir":  "l",
+                                              "y":  6,
+                                              "x":  83,
+                                              "w":  90
+                                          }
+                                      ]
+               }
+}

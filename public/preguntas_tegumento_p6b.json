@@ -1,0 +1,82 @@
+{
+  "value": [
+    {
+      "question": "¿Qué es el arco de la lúnula?",
+      "options": [
+        {
+          "text": "La zona hasta donde se extiende la matriz ungueal",
+          "isCorrect": true,
+          "rationale": "El arco de la lúnula marca hasta dónde se extiende la matriz ungueal."
+        },
+        {
+          "text": "La punta de la uña",
+          "isCorrect": false,
+          "rationale": "La punta es la porción libre, no la lúnula."
+        },
+        {
+          "text": "La cutícula de la uña",
+          "isCorrect": false,
+          "rationale": "La cutícula es la piel que cubre la base, no la lúnula."
+        },
+        {
+          "text": "El borde lateral de la uña",
+          "isCorrect": false,
+          "rationale": "La lúnula está en el centro de la base, no a los lados."
+        }
+      ],
+      "hint": "Es la zona blanquecina en la base de la uña..."
+    },
+    {
+      "question": "¿Qué es la placa ungueal?",
+      "options": [
+        {
+          "text": "La uña propiamente dicha, formada por escamas córneas",
+          "isCorrect": true,
+          "rationale": "La placa ungueal es la uña visible, formada por escamas córneas aplicadas."
+        },
+        {
+          "text": "El lecho bajo la uña",
+          "isCorrect": false,
+          "rationale": "El lecho es la piel de soporte, no la placa."
+        },
+        {
+          "text": "La cutícula alrededor",
+          "isCorrect": false,
+          "rationale": "La cutícula es tejido dérmico, no la placa."
+        },
+        {
+          "text": "El músculo del dedo",
+          "isCorrect": false,
+          "rationale": "No es músculo; es tejido queratinizado."
+        }
+      ],
+      "hint": "Es la parte dura y visible de la uña..."
+    },
+    {
+      "question": "¿Qué es el hiponiquio?",
+      "options": [
+        {
+          "text": "Porción de epidermis cubierta por la placa ungueal en la parte distal",
+          "isCorrect": true,
+          "rationale": "El hiponiquio es la porción de epidermis cubierta por la placa ungueal ubicada más distal."
+        },
+        {
+          "text": "La base de la uña",
+          "isCorrect": false,
+          "rationale": "La base tiene la lúnula y matriz, no el hiponiquio."
+        },
+        {
+          "text": "El centro de la uña",
+          "isCorrect": false,
+          "rationale": "El hiponiquio está en la punta, no en el centro."
+        },
+        {
+          "text": "La cutícula lateral",
+          "isCorrect": false,
+          "rationale": "No es cutícula; es epidermis bajo la punta de la uña."
+        }
+      ],
+      "hint": "Está en la punta del dedo, bajo el borde libre de la uña..."
+    }
+  ]
+}

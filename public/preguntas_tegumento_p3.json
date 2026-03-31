@@ -1,0 +1,550 @@
+{
+  "value": [
+    {
+      "question": "¿Dónde está ubicada la dermis?",
+      "options": [
+        {
+          "text": "Profunda a la membrana basal de la epidermis",
+          "isCorrect": true,
+          "rationale": "La dermis está ubicada profunda a la membrana basal de la epidermis."
+        },
+        {
+          "text": "Superficial a la epidermis",
+          "isCorrect": false,
+          "rationale": "La epidermis es la capa más superficial, la dermis está debajo."
+        },
+        {
+          "text": "Por encima del tejido subcutáneo",
+          "isCorrect": false,
+          "rationale": "La dermis está por debajo de la epidermis, pero por encima del tejido subcutáneo es la epidermis."
+        },
+        {
+          "text": "Dentro del tejido subcutáneo",
+          "isCorrect": false,
+          "rationale": "El tejido subcutáneo está por debajo de la dermis, no dentro de ella."
+        }
+      ],
+      "hint": "Está entre la piel visible y la grasa de debajo..."
+    },
+    {
+      "question": "¿Qué característica tiene la dermis respecto al grosor?",
+      "options": [
+        {
+          "text": "Es la capa más gruesa de la piel",
+          "isCorrect": true,
+          "rationale": "La dermis es la capa más gruesa de la piel, mucho más gruesa que la epidermis."
+        },
+        {
+          "text": "Es más delgada que la epidermis",
+          "isCorrect": false,
+          "rationale": "La dermis es considerablemente más gruesa que la epidermis."
+        },
+        {
+          "text": "Tiene el mismo grosor que la epidermis",
+          "isCorrect": false,
+          "rationale": "La dermis es mucho más gruesa que la epidermis."
+        },
+        {
+          "text": "No tiene grosor definido",
+          "isCorrect": false,
+          "rationale": "La dermis tiene grosor definido y es la capa más gruesa."
+        }
+      ],
+      "hint": "Es la parte 'gruesa' de la piel que da volumen y resistencia..."
+    },
+    {
+      "question": "¿Qué contiene la dermis?",
+      "options": [
+        {
+          "text": "Vasos sanguíneos, linfáticos, nervios y anexos cutáneos",
+          "isCorrect": true,
+          "rationale": "La dermis contiene vasos sanguíneos y linfáticos, nervios y anexos cutáneos (pelos, glándulas)."
+        },
+        {
+          "text": "Solo células muertas queratinizadas",
+          "isCorrect": false,
+          "rationale": "Eso describe el estrato córneo de la epidermis."
+        },
+        {
+          "text": "Solo tejido adiposo",
+          "isCorrect": false,
+          "rationale": "El tejido adiposo principal está en el tejido subcutáneo."
+        },
+        {
+          "text": "Solo músculo estriado",
+          "isCorrect": false,
+          "rationale": "La dermis no contiene músculo estriado; tiene músculo liso (erector del pelo)."
+        }
+      ],
+      "hint": "Es la capa 'viva' con irrigación y estructuras especializadas..."
+    },
+    {
+      "question": "¿Qué tipo de tejido forma la dermis?",
+      "options": [
+        {
+          "text": "Tejido conectivo denso",
+          "isCorrect": true,
+          "rationale": "La dermis está formada por tejido conectivo denso con gran resistencia y elasticidad."
+        },
+        {
+          "text": "Tejido epitelial estratificado",
+          "isCorrect": false,
+          "rationale": "Eso forma la epidermis, no la dermis."
+        },
+        {
+          "text": "Tejido adiposo",
+          "isCorrect": false,
+          "rationale": "El tejido adiposo es predominante en el tejido subcutáneo."
+        },
+        {
+          "text": "Tejido cartilaginoso",
+          "isCorrect": false,
+          "rationale": "El cartílago se encuentra en articulaciones, nariz, oídos; no en la dermis."
+        }
+      ],
+      "hint": "Es un tejido de soporte denso que da resistencia..."
+    },
+    {
+      "question": "¿Qué fibras contiene la dermis?",
+      "options": [
+        {
+          "text": "Fibras de colágeno orientadas en sentido de líneas de Langer",
+          "isCorrect": true,
+          "rationale": "La dermis contiene fibras de colágeno orientadas según líneas de tensión (líneas de Langer), entrelazadas con fibras elásticas."
+        },
+        {
+          "text": "Fibras de queratina únicamente",
+          "isCorrect": false,
+          "rationale": "La queratina está en la epidermis, no en la dermis."
+        },
+        {
+          "text": "Fibras musculares estriadas",
+          "isCorrect": false,
+          "rationale": "La dermis no contiene músculo estriado."
+        },
+        {
+          "text": "Fibras nerviosas únicamente",
+          "isCorrect": false,
+          "rationale": "Aunque tiene fibras nerviosas, también tiene colágeno y elastina como componentes principales."
+        }
+      ],
+      "hint": "Son fibras que dan resistencia y elasticidad a la piel..."
+    },
+    {
+      "question": "¿Cuál es la capa más superficial de la dermis?",
+      "options": [
+        {
+          "text": "Capa papilar",
+          "isCorrect": true,
+          "rationale": "La capa papilar es la más superficial de la dermis, limita con la epidermis."
+        },
+        {
+          "text": "Capa reticular",
+          "isCorrect": false,
+          "rationale": "La capa reticular es la más profunda de la dermis."
+        },
+        {
+          "text": "Tejido subcutáneo",
+          "isCorrect": false,
+          "rationale": "El tejido subcutáneo está por debajo de la dermis."
+        },
+        {
+          "text": "Estrato basal",
+          "isCorrect": false,
+          "rationale": "El estrato basal es de la epidermis, no de la dermis."
+        }
+      ],
+      "hint": "Tiene proyecciones que suben hacia la epidermis..."
+    },
+    {
+      "question": "¿Qué caracteriza a la capa papilar de la dermis?",
+      "options": [
+        {
+          "text": "Tejido conectivo con fibras finas de colágeno y elastina",
+          "isCorrect": true,
+          "rationale": "La capa papilar tiene tejido conectivo con fibras finas de colágeno y elastina."
+        },
+        {
+          "text": "Tejido conectivo denso irregular",
+          "isCorrect": false,
+          "rationale": "Eso caracteriza a la capa reticular, no a la papilar."
+        },
+        {
+          "text": "Células muertas queratinizadas",
+          "isCorrect": false,
+          "rationale": "Eso es el estrato córneo de la epidermis."
+        },
+        {
+          "text": "Tejido adiposo abundante",
+          "isCorrect": false,
+          "rationale": "El tejido adiposo está en el tejido subcutáneo."
+        }
+      ],
+      "hint": "Es una capa más delicada con fibras finas..."
+    },
+    {
+      "question": "¿Qué estructuras presenta la capa papilar?",
+      "options": [
+        {
+          "text": "Papilas dérmicas",
+          "isCorrect": true,
+          "rationale": "La capa papilar presenta proyecciones cónicas redondeadas llamadas papilas dérmicas."
+        },
+        {
+          "text": "Folículos pilosos",
+          "isCorrect": false,
+          "rationale": "Los folículos atraviesan toda la dermis, no son específicos de la capa papilar."
+        },
+        {
+          "text": "Glándulas sudoríparas",
+          "isCorrect": false,
+          "rationale": "Las glándulas sudoríparas se originan en la dermis profunda o tejido subcutáneo."
+        },
+        {
+          "text": "Células adiposas",
+          "isCorrect": false,
+          "rationale": "Las células adiposas están en el tejido subcutáneo."
+        }
+      ],
+      "hint": "Son proyecciones que suben hacia la epidermis aumentando la superficie de contacto..."
+    },
+    {
+      "question": "¿Cuál es la capa más profunda de la dermis?",
+      "options": [
+        {
+          "text": "Capa reticular",
+          "isCorrect": true,
+          "rationale": "La capa reticular es la más profunda de la dermis, limita con el tejido subcutáneo."
+        },
+        {
+          "text": "Capa papilar",
+          "isCorrect": false,
+          "rationale": "La capa papilar es la más superficial de la dermis."
+        },
+        {
+          "text": "Estrato basal",
+          "isCorrect": false,
+          "rationale": "El estrato basal es de la epidermis."
+        },
+        {
+          "text": "Tejido subcutáneo",
+          "isCorrect": false,
+          "rationale": "El tejido subcutáneo está debajo de la dermis, no es parte de ella."
+        }
+      ],
+      "hint": "Limita directamente con el tejido subcutáneo..."
+    },
+    {
+      "question": "¿Qué caracteriza a la capa reticular de la dermis?",
+      "options": [
+        {
+          "text": "Tejido conectivo denso irregular con fibras de colágeno en red",
+          "isCorrect": true,
+          "rationale": "La capa reticular tiene tejido conectivo denso irregular con fibras de colágeno formando red y fibras elásticas entrelazadas."
+        },
+        {
+          "text": "Fibras finas de colágeno únicamente",
+          "isCorrect": false,
+          "rationale": "Las fibras finas son de la capa papilar; la reticular tiene fibras gruesas."
+        },
+        {
+          "text": "Ausencia de fibras elásticas",
+          "isCorrect": false,
+          "rationale": "La capa reticular SÍ tiene fibras elásticas entrelazadas."
+        },
+        {
+          "text": "Tejido epitelial estratificado",
+          "isCorrect": false,
+          "rationale": "La dermis es tejido conectivo, no epitelial."
+        }
+      ],
+      "hint": "Es una capa más gruesa y resistente que la papilar..."
+    },
+    {
+      "question": "¿Qué propiedades otorgan las fibras de la capa reticular?",
+      "options": [
+        {
+          "text": "Resistencia, extensibilidad y elasticidad",
+          "isCorrect": true,
+          "rationale": "Las redes de fibras de colágeno y elásticas otorgan resistencia, extensibilidad y elasticidad a la piel."
+        },
+        {
+          "text": "Producción de melanina",
+          "isCorrect": false,
+          "rationale": "La melanina se produce en los melanocitos de la epidermis."
+        },
+        {
+          "text": "Síntesis de vitamina D",
+          "isCorrect": false,
+          "rationale": "La vitamina D se sintetiza en la epidermis."
+        },
+        {
+          "text": "Protección contra UV",
+          "isCorrect": false,
+          "rationale": "La protección UV es función de la melanina en la epidermis."
+        }
+      ],
+      "hint": "Son propiedades mecánicas de la piel..."
+    },
+    {
+      "question": "¿Qué ocupa el espacio entre las fibras de la capa reticular?",
+      "options": [
+        {
+          "text": "Células adiposas, vasos, fibras nerviosas y anexos de la piel",
+          "isCorrect": true,
+          "rationale": "El espacio entre las fibras de la capa reticular está ocupado por células adiposas, vasos, fibras nerviosas y anexos."
+        },
+        {
+          "text": "Células muertas queratinizadas",
+          "isCorrect": false,
+          "rationale": "Eso está en el estrato córneo de la epidermis."
+        },
+        {
+          "text": "Aire",
+          "isCorrect": false,
+          "rationale": "El espacio está ocupado por células y estructuras, no por aire."
+        },
+        {
+          "text": "Líquido sinovial",
+          "isCorrect": false,
+          "rationale": "El líquido sinovial está en las articulaciones."
+        }
+      ],
+      "hint": "Es una matriz con células y estructuras funcionales..."
+    },
+    {
+      "question": "¿Qué son las papilas dérmicas?",
+      "options": [
+        {
+          "text": "Protrusiones cónicas redondeadas de la capa papilar",
+          "isCorrect": true,
+          "rationale": "Las papilas dérmicas son protrusiones cónicas redondeadas de la capa papilar."
+        },
+        {
+          "text": "Glándulas productoras de sudor",
+          "isCorrect": false,
+          "rationale": "Las glándulas sudoríparas son estructuras glandulares, no papilas."
+        },
+        {
+          "text": "Células receptoras del tacto",
+          "isCorrect": false,
+          "rationale": "Aunque contienen receptores, las papilas son estructuras anatómicas, no células."
+        },
+        {
+          "text": "Fibras de colágeno aisladas",
+          "isCorrect": false,
+          "rationale": "Las papilas son estructuras tridimensionales, no fibras sueltas."
+        }
+      ],
+      "hint": "Son como 'dedos' que suben desde la dermis hacia la epidermis..."
+    },
+    {
+      "question": "¿Hacia dónde se proyectan las papilas dérmicas?",
+      "options": [
+        {
+          "text": "Hacia la epidermis",
+          "isCorrect": true,
+          "rationale": "Las papilas dérmicas se proyectan hacia la epidermis formando una amplia superficie de unión."
+        },
+        {
+          "text": "Hacia el tejido subcutáneo",
+          "isCorrect": false,
+          "rationale": "Las papilas van hacia arriba (epidermis), no hacia abajo."
+        },
+        {
+          "text": "Hacia los músculos",
+          "isCorrect": false,
+          "rationale": "Las papilas no llegan hasta los músculos."
+        },
+        {
+          "text": "Hacia los vasos sanguíneos profundos",
+          "isCorrect": false,
+          "rationale": "Las papilas suben hacia la superficie, no hacia vasos profundos."
+        }
+      ],
+      "hint": "Van en dirección opuesta al tejido subcutáneo..."
+    },
+    {
+      "question": "¿Qué relación existe entre altura de papilas y exigencia mecánica?",
+      "options": [
+        {
+          "text": "La cantidad y altura está relacionada con la exigencia mecánica del sector",
+          "isCorrect": true,
+          "rationale": "La cantidad y altura de las papilas está relacionada con la exigencia mecánica de esa zona."
+        },
+        {
+          "text": "No tienen relación con la mecánica",
+          "isCorrect": false,
+          "rationale": "Sí existe relación directa con la exigencia mecánica."
+        },
+        {
+          "text": "Son más altas donde menos fricción hay",
+          "isCorrect": false,
+          "rationale": "Es al revés: son más desarrolladas donde hay más fricción."
+        },
+        {
+          "text": "Tienen la misma altura en todo el cuerpo",
+          "isCorrect": false,
+          "rationale": "La altura varía según la región y su función mecánica."
+        }
+      ],
+      "hint": "Piensa en las palmas de las manos vs. el abdomen..."
+    },
+    {
+      "question": "¿Qué se encuentra en las papilas dérmicas?",
+      "options": [
+        {
+          "text": "Asas capilares y receptores táctiles",
+          "isCorrect": true,
+          "rationale": "En las papilas dérmicas se encuentran asas capilares y receptores táctiles."
+        },
+        {
+          "text": "Glándulas sebáceas",
+          "isCorrect": false,
+          "rationale": "Las glándulas sebáceas desembocan en folículos pilosos, no en las papilas."
+        },
+        {
+          "text": "Melanocitos",
+          "isCorrect": false,
+          "rationale": "Los melanocitos están en la epidermis, no en las papilas dérmicas."
+        },
+        {
+          "text": "Células de Merkel",
+          "isCorrect": false,
+          "rationale": "Las células de Merkel están en la base de la epidermis, no en las papilas."
+        }
+      ],
+      "hint": "Son estructuras relacionadas con nutrición y sensación..."
+    },
+    {
+      "question": "¿Quién estudió las líneas de tensión de la piel?",
+      "options": [
+        {
+          "text": "Karl Langer",
+          "isCorrect": true,
+          "rationale": "Karl Langer estudió las líneas de tensión presentes en la piel."
+        },
+        {
+          "text": "William Harvey",
+          "isCorrect": false,
+          "rationale": "Harvey descubrió la circulación sanguínea."
+        },
+        {
+          "text": "Robert Koch",
+          "isCorrect": false,
+          "rationale": "Koch trabajó en microbiología y enfermedades infecciosas."
+        },
+        {
+          "text": "Sigmund Freud",
+          "isCorrect": false,
+          "rationale": "Freud fue un psicoanalista, no un anatomista de la piel."
+        }
+      ],
+      "hint": "Su apellido se asocia a las líneas de tensión cutánea..."
+    },
+    {
+      "question": "¿En qué dirección siguen las líneas de Langer?",
+      "options": [
+        {
+          "text": "La dirección de las fibras de colágeno en la dermis reticular",
+          "isCorrect": true,
+          "rationale": "Las líneas de Langer siguen la dirección de las fibras de colágeno de la dermis reticular."
+        },
+        {
+          "text": "La dirección del flujo sanguíneo",
+          "isCorrect": false,
+          "rationale": "Las líneas de Langer están relacionadas con fibras de colágeno, no con vasos."
+        },
+        {
+          "text": "La dirección del crecimiento del pelo",
+          "isCorrect": false,
+          "rationale": "Las líneas de tensión no siguen el patrón del crecimiento piloso."
+        },
+        {
+          "text": "La dirección de las líneas de expresión",
+          "isCorrect": false,
+          "rationale": "Las líneas de expresión siguen músculos; las de Langer siguen fibras de colágeno."
+        }
+      ],
+      "hint": "Están relacionadas con la estructura del tejido conectivo..."
+    },
+    {
+      "question": "¿Qué sucede con incisiones paralelas a las líneas de Langer?",
+      "options": [
+        {
+          "text": "Curan con muy poco tejido cicatrizal",
+          "isCorrect": true,
+          "rationale": "Las incisiones paralelas a las líneas de Langer curan con muy poco tejido cicatrizal."
+        },
+        {
+          "text": "Producen cicatrices hipertróficas siempre",
+          "isCorrect": false,
+          "rationale": "Eso ocurre cuando se cortan las líneas, no cuando son paralelas."
+        },
+        {
+          "text": "Causan más dolor",
+          "isCorrect": false,
+          "rationale": "No hay relación directa con el dolor."
+        },
+        {
+          "text": "Sangran más",
+          "isCorrect": false,
+          "rationale": "El sangrado depende de vasos, no de la dirección de las fibras."
+        }
+      ],
+      "hint": "Los cirujanos las usan para mejores resultados estéticos..."
+    },
+    {
+      "question": "¿Qué sucede con incisiones que cortan las líneas de Langer?",
+      "options": [
+        {
+          "text": "Pueden producir defecto estético y cicatrices hipertróficas",
+          "isCorrect": true,
+          "rationale": "Cortar las líneas de Langer produce retracción de fibras, dificultad de cicatrización y posibles defectos estéticos."
+        },
+        {
+          "text": "Curan más rápido",
+          "isCorrect": false,
+          "rationale": "Curan peor, no más rápido."
+        },
+        {
+          "text": "No hay diferencia con las paralelas",
+          "isCorrect": false,
+          "rationale": "Sí hay diferencia significativa en la cicatrización."
+        },
+        {
+          "text": "Producen menos dolor",
+          "isCorrect": false,
+          "rationale": "No hay relación con el dolor."
+        }
+      ],
+      "hint": "Van contra la estructura natural del tejido..."
+    },
+    {
+      "question": "¿Por qué se dificulta la aposición de bordes al cortar las líneas de Langer?",
+      "options": [
+        {
+          "text": "Por la retracción de las fibras colágenas",
+          "isCorrect": true,
+          "rationale": "Cortar las líneas lleva a retracción de fibras colágenas, dificultando la aposición de bordes."
+        },
+        {
+          "text": "Por falta de irrigación",
+          "isCorrect": false,
+          "rationale": "La irrigación no se ve afectada por la dirección del corte."
+        },
+        {
+          "text": "Por destrucción de nervios",
+          "isCorrect": false,
+          "rationale": "Los nervios no son la causa de la dificultad de aposición."
+        },
+        {
+          "text": "Por pérdida de queratina",
+          "isCorrect": false,
+          "rationale": "La queratina no está involucrada en este proceso."
+        }
+      ],
+      "hint": "Las fibras se 'encogen' al ser cortadas perpendicularmente..."
+    }
+  ]
+}
