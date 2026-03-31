@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "FMED 1ro - Cuestionarios de Anatomía",
-  description: "Cuestionarios de Anatomía por tema",
+  title: "NoFmed — Preguntas, Notas y Resúmenes",
+  description: "Cuestionarios, Notas y Resúmenes",
   icons: {
     icon: [
       { url: "/favicon.ico", sizes: "32x32", type: "image/x-icon" },
