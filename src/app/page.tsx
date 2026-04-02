@@ -25,6 +25,19 @@ export default function Home() {
         </div>
       </Link>
 
+      {/* Sección: Anatomía — Cintura Pectoral */}
+      <Link href="/anato-cintura-pectoral" target="_blank">
+        <div className="bg-white rounded-xl shadow-sm hover:shadow-md transition-all p-4 mb-6 cursor-pointer hover:-translate-y-0.5 border border-purple-200">
+          <div className="flex justify-between items-center">
+            <div>
+              <h2 className="text-lg font-bold text-gray-800">🦴 Cintura Pectoral</h2>
+              <p className="text-gray-500 text-xs">Notas de Anatomía — Ruvier-Anatomía Humana (107 archivos)</p>
+            </div>
+            <span className="bg-purple-100 text-purple-700 text-xs font-bold px-3 py-1 rounded-full">Ver</span>
+          </div>
+        </div>
+      </Link>
+
       {/* Lista de Materias */}
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
         {Object.entries(quizzes).map(([key, materia]) => {
