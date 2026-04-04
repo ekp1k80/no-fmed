@@ -1,45 +1,45 @@
-# Redondo Mayor
+﻿# Redondo Mayor
 
-> MÃºsculo grueso y aplanado en el borde lateral de la escÃ¡pula
+> MÃƒÂºsculo grueso y aplanado en el borde lateral de la escÃƒÂ¡pula
 
 #musculo #cintura-pectoral #escapula #hombro
 
-## ðŸ“‹ Datos Clave
-- **Grupo:** MÃºsculos de la espalda
-- **FunciÃ³n principal:** AducciÃ³n, extensiÃ³n y rotaciÃ³n medial del brazo
-- **InervaciÃ³n:** [[Nervio subescapular inferior]]
+## Ã°Å¸â€œâ€¹ Datos Clave
+- **Grupo:** MÃƒÂºsculos de la espalda
+- **FunciÃƒÂ³n principal:** AducciÃƒÂ³n, extensiÃƒÂ³n y rotaciÃƒÂ³n medial del brazo
+- **InervaciÃƒÂ³n:** [[Nervio subescapular inferior]]
 
-## ðŸ“· ImÃ¡genes de Referencia
+## Ã°Å¸â€œÂ· ImÃƒÂ¡genes de Referencia
 
-![[imgs/Redondo_Mayor/Redondo_mayor_anterior.png|400]]
+![Redondo_mayor_anterior.png](imgs/musculos/Redondo_mayor_anterior.png)
 *Vista anterior del redondo mayor*
 
-![[imgs/Redondo_Mayor/Redondo_mayor_posterior.png|400]]
+![Redondo_mayor_posterior.png](imgs/musculos/Redondo_mayor_posterior.png)
 *Vista posterior del redondo mayor*
 
 ## Origen
-- Ãngulo inferior de la escÃ¡pula (cara dorsal)
+- ÃƒÂngulo inferior de la escÃƒÂ¡pula (cara dorsal)
 
-## InserciÃ³n
-- Cresta del tubÃ©rculo menor del hÃºmero (labio medial del surco intertubercular)
+## InserciÃƒÂ³n
+- Cresta del tubÃƒÂ©rculo menor del hÃƒÂºmero (labio medial del surco intertubercular)
 
 ## Relaciones
 - Inferior a [[Redondo Menor]]
-- Superior a [[Dorsal Ancho]] (con el que comparte inserciÃ³n)
+- Superior a [[Dorsal Ancho]] (con el que comparte inserciÃƒÂ³n)
 - Relacionado con [[Triceps Braquial]] (cabeza larga)
 
-## VascularizaciÃ³n
+## VascularizaciÃƒÂ³n
 - [[Arteria subescapular]]
 - [[Arteria circunfleja escapular]]
 
-## InervaciÃ³n
+## InervaciÃƒÂ³n
 - [[Nervio subescapular inferior]] (C5-C6)
 
 ## Funciones
-- AducciÃ³n del brazo
-- ExtensiÃ³n del brazo
-- RotaciÃ³n medial del brazo
-- EstabilizaciÃ³n de la articulaciÃ³n glenohumeral
+- AducciÃƒÂ³n del brazo
+- ExtensiÃƒÂ³n del brazo
+- RotaciÃƒÂ³n medial del brazo
+- EstabilizaciÃƒÂ³n de la articulaciÃƒÂ³n glenohumeral
 
-## ðŸ”— Fuente
-- Rouvier-AnatomÃ­a Humana, Tomo 3
+## Ã°Å¸â€â€” Fuente
+- Rouvier-AnatomÃƒÂ­a Humana, Tomo 3

@@ -1,38 +1,38 @@
-# Arteria Torácica Lateral
+﻿# Arteria TorÃ¡cica Lateral
 
-> Rama de la segunda porción de la arteria axilar que desciende irrigando los músculos pectorales, serrato anterior e intercostales.
+> Rama de la segunda porciÃ³n de la arteria axilar que desciende irrigando los mÃºsculos pectorales, serrato anterior e intercostales.
 
-## 📋 Datos Clave
-- **Porción:** 2da porción de la arteria axilar
-- **Origen:** Cara medial de la arteria axilar, posteriormente al músculo pectoral menor
-- **Región:** #arteria #colateral #2da-porcion #axila
-- **Estructuras relacionadas:** [[Arteria axilar]], [[Músculo pectoral menor]], [[Músculo serrato anterior]], [[Músculos intercostales]]
+## ðŸ“‹ Datos Clave
+- **PorciÃ³n:** 2da porciÃ³n de la arteria axilar
+- **Origen:** Cara medial de la arteria axilar, posteriormente al mÃºsculo pectoral menor
+- **RegiÃ³n:** #arteria #colateral #2da-porcion #axila
+- **Estructuras relacionadas:** [[Arteria axilar]], [[MÃºsculo pectoral menor]], [[MÃºsculo serrato anterior]], [[MÃºsculos intercostales]]
 
 ## Origen
-Nace de la cara medial de la arteria axilar, posteriormente al músculo pectoral menor.
+Nace de la cara medial de la arteria axilar, posteriormente al mÃºsculo pectoral menor.
 
 ## Trayecto
-Desciende entre el plano clavipectoroaxilar (formado por la fascia clavipectoral y la fascia axilar) y el músculo serrato anterior.
+Desciende entre el plano clavipectoroaxilar (formado por la fascia clavipectoral y la fascia axilar) y el mÃºsculo serrato anterior.
 
-## Distribución / Ramas terminales
+## DistribuciÃ³n / Ramas terminales
 Proporciona ramas a:
-- Músculos pectorales (mayor y menor)
-- Músculo serrato anterior
-- Músculos intercostales
+- MÃºsculos pectorales (mayor y menor)
+- MÃºsculo serrato anterior
+- MÃºsculos intercostales
 
 ## Anastomosis
 Se anastomosa con:
-- Arteria torácica superior
+- Arteria torÃ¡cica superior
 - Arterias intercostales posteriores
 
 ## Espacio que atraviesa (si aplica)
-Transcurre entre el plano clavipectoroaxilar y el músculo serrato anterior.
+Transcurre entre el plano clavipectoroaxilar y el mÃºsculo serrato anterior.
 
-## Importancia clínica
-Importante en la vascularización de la pared torácica lateral. En mastectomías y cirugías axilares, debe identificarse para evitar sangrado.
+## Importancia clÃ­nica
+Importante en la vascularizaciÃ³n de la pared torÃ¡cica lateral. En mastectomÃ­as y cirugÃ­as axilares, debe identificarse para evitar sangrado.
 
-## 🔗 Fuente
-- Rouvier-Anatomía Humana, Tomo 3
+## ðŸ”— Fuente
+- Rouvier-AnatomÃ­a Humana, Tomo 3
 
 ## Enlaces
 - [[Arteria axilar]]
@@ -46,6 +46,8 @@ Importante en la vascularización de la pared torácica lateral. En mastectomía
 - [[Nervio axilar]]
 - [[Nervio radial]]
 - [[Nervio cubital]]
-- [[Vena torácica lateral]]
+- [[Vena torÃ¡cica lateral]]
+
+
 
 

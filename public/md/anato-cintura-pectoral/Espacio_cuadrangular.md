@@ -1,46 +1,48 @@
-# Espacio Cuadrangular (Humerotricipital)
+﻿# Espacio Cuadrangular (Humerotricipital)
 
-> Espacio formado por la división del triángulo escapulohumeral por la cabeza larga del [[músculo tríceps braquial]]; por él pasan los vasos circunflejos humerales posteriores y el [[nervio axilar]]
+> Espacio formado por la divisiÃ³n del triÃ¡ngulo escapulohumeral por la cabeza larga del [[mÃºsculo trÃ­ceps braquial]]; por Ã©l pasan los vasos circunflejos humerales posteriores y el [[nervio axilar]]
 
-## 📋 Datos Clave
-- **Región:** #espacio #hombro #cintura-pectoral #axila
+## ðŸ“‹ Datos Clave
+- **RegiÃ³n:** #cintura-pectoral #hombro #axila
 - **Contenido:** [[nervio axilar]] + [[arteria circunfleja humeral posterior]]
-- **Relación clínica:** Luxación anterior del hombro
+- **RelaciÃ³n clÃ­nica:** LuxaciÃ³n anterior del hombro
 
-## 📷 Imágenes de Referencia
+## ðŸ“· ImÃ¡genes de Referencia
 
-*[Imágenes por agregar]*
+*[ImÃ¡genes por agregar]*
 
-## Límites
-Según Ruvier (Tomo 3, p. 230), el espacio cuadrangular está limitado por:
+## LÃ­mites
+SegÃºn Ruvier (Tomo 3, p. 230), el espacio cuadrangular estÃ¡ limitado por:
 
-| Límite | Estructura |
+| LÃ­mite | Estructura |
 |--------|------------|
-| **Superior** | [[Músculo subescapular]] + [[Músculo redondo menor]] |
-| **Inferior** | [[Músculo redondo mayor]] + [[músculo dorsal ancho]] |
-| **Lateral** | [[Húmero]] |
-| **Medial** | Cabeza larga del [[músculo tríceps braquial]] |
+| **Superior** | [[MÃºsculo subescapular]] + [[MÃºsculo redondo menor]] |
+| **Inferior** | [[MÃºsculo redondo mayor]] + [[mÃºsculo dorsal ancho]] |
+| **Lateral** | [[HÃºmero]] |
+| **Medial** | Cabeza larga del [[mÃºsculo trÃ­ceps braquial]] |
 
 ## Contenido
-- **[[Nervio axilar]]:** Situado superiormente a los vasos, inmediatamente inferior a la cápsula articular del hombro
+- **[[Nervio axilar]]:** Situado superiormente a los vasos, inmediatamente inferior a la cÃ¡psula articular del hombro
 - **[[Arteria circunfleja humeral posterior]]:** Situada inferiormente al nervio
-- **Ramos a los músculos del espacio cuadrangular**
+- **Ramos a los mÃºsculos del espacio cuadrangular**
 
-## Relaciones anatómicas importantes
-- **Inmediatamente inferior a la cápsula articular del hombro** — el [[nervio axilar]] puede lesionarse en la **luxación anterior e inferior** del hombro
-- **Bordeado el cuello quirúrgico del [[húmero]]** — los vasos pueden dañarse en fracturas del cuello quirúrgico
+## Relaciones anatÃ³micas importantes
+- **Inmediatamente inferior a la cÃ¡psula articular del hombro** â€” el [[nervio axilar]] puede lesionarse en la **luxaciÃ³n anterior e inferior** del hombro
+- **Bordeado el cuello quirÃºrgico del [[hÃºmero]]** â€” los vasos pueden daÃ±arse en fracturas del cuello quirÃºrgico
 - La [[arteria circunfleja humeral posterior]] se origina de la parte posterior de la [[arteria axilar]] al mismo nivel que la [[arteria subescapular]]
 
-## Importancia clínica
-- **Lesión del [[nervio axilar]]** en luxaciones anteriores del hombro → parálisis del [[músculo deltoides]] (pérdida de abducción)
-- **Lesión vascular** en fracturas del cuello quirúrgico → isquemia del [[músculo deltoides]] y hemorragia
+## Importancia clÃ­nica
+- **LesiÃ³n del [[nervio axilar]]** en luxaciones anteriores del hombro â†’ parÃ¡lisis del [[mÃºsculo deltoides]] (pÃ©rdida de abducciÃ³n)
+- **LesiÃ³n vascular** en fracturas del cuello quirÃºrgico â†’ isquemia del [[mÃºsculo deltoides]] y hemorragia
 
-## Relación con el triángulo escapulohumeral
-El espacio cuadrangular es la **parte lateral** del triángulo escapulohumeral, dividido por la cabeza larga del [[músculo tríceps braquial]].
+## RelaciÃ³n con el triÃ¡ngulo escapulohumeral
+El espacio cuadrangular es la **parte lateral** del triÃ¡ngulo escapulohumeral, dividido por la cabeza larga del [[mÃºsculo trÃ­ceps braquial]].
 
-## 🔗 Fuente
-- Rouvier-Anatomía Humana, Tomo 3
+## ðŸ”— Fuente
+- Rouvier-AnatomÃ­a Humana, Tomo 3
 
-## 🔗 Enlaces
+## ðŸ”— Enlaces
 - [[Nervio axilar]]
 - [[Arteria circunfleja humeral posterior]]
+
+

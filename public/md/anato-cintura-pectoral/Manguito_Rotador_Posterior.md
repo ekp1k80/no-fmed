@@ -1,17 +1,17 @@
-# Manguito Rotador Posterior
+﻿# Manguito Rotador Posterior
 
-> Conjunto de mÃºsculos que estabilizan la articulaciÃ³n glenohumeral por su cara posterior
+> Conjunto de mÃƒÂºsculos que estabilizan la articulaciÃƒÂ³n glenohumeral por su cara posterior
 
 #musculo #cintura-pectoral #escapula #hombro
 
-## ðŸ“‹ Datos Clave
-- **Grupo:** MÃºsculos del manguito rotador
-- **FunciÃ³n principal:** RotaciÃ³n lateral y estabilizaciÃ³n del hombro
-- **InervaciÃ³n:** [[Nervio supraescapular]] y [[Nervio axilar]]
+## Ã°Å¸â€œâ€¹ Datos Clave
+- **Grupo:** MÃƒÂºsculos del manguito rotador
+- **FunciÃƒÂ³n principal:** RotaciÃƒÂ³n lateral y estabilizaciÃƒÂ³n del hombro
+- **InervaciÃƒÂ³n:** [[Nervio supraescapular]] y [[Nervio axilar]]
 
-## ðŸ“· ImÃ¡genes de Referencia
+## Ã°Å¸â€œÂ· ImÃƒÂ¡genes de Referencia
 
-![[imgs/Manguito_Rotador_Posterior/Manguito_rotador_posterior.png|400]]
+![Manguito_rotador_posterior.png](imgs/musculos/Manguito_rotador_posterior.png)
 *Vista posterior del manguito rotador*
 
 ## Componentes
@@ -20,32 +20,32 @@
 - [[Redondo Menor]]
 
 ## Origen
-- Fosas supraespinosa e infraespinosa de la escÃ¡pula
-- Borde lateral de la escÃ¡pula
+- Fosas supraespinosa e infraespinosa de la escÃƒÂ¡pula
+- Borde lateral de la escÃƒÂ¡pula
 
-## InserciÃ³n
-- TubÃ©rculo mayor del hÃºmero
-- CÃ¡psula articular glenohumeral
+## InserciÃƒÂ³n
+- TubÃƒÂ©rculo mayor del hÃƒÂºmero
+- CÃƒÂ¡psula articular glenohumeral
 
 ## Relaciones
 - Cubiertos por [[Deltoides]] y [[Trapecio]]
-- Entre la escÃ¡pula y la cabeza humeral
+- Entre la escÃƒÂ¡pula y la cabeza humeral
 - Relacionados con [[Redondo Mayor]] inferiormente
 
-## VascularizaciÃ³n
+## VascularizaciÃƒÂ³n
 - [[Arteria supraescapular]]
 - [[Arteria circunfleja escapular]]
 
-## InervaciÃ³n
+## InervaciÃƒÂ³n
 - [[Nervio supraescapular]] (C4-C6) - para supraespinoso e infraespinoso
 - [[Nervio axilar]] (C5-C6) - para redondo menor
 
 ## Funciones
-- RotaciÃ³n lateral del brazo
-- AbducciÃ³n del brazo (supraespinoso)
-- EstabilizaciÃ³n posterior de la articulaciÃ³n glenohumeral
-- Previene la luxaciÃ³n superior del hÃºmero
+- RotaciÃƒÂ³n lateral del brazo
+- AbducciÃƒÂ³n del brazo (supraespinoso)
+- EstabilizaciÃƒÂ³n posterior de la articulaciÃƒÂ³n glenohumeral
+- Previene la luxaciÃƒÂ³n superior del hÃƒÂºmero
 - Centra la cabeza humeral en la cavidad glenoidea
 
-## ðŸ”— Fuente
-- Rouvier-AnatomÃ­a Humana, Tomo 3
+## Ã°Å¸â€â€” Fuente
+- Rouvier-AnatomÃƒÂ­a Humana, Tomo 3

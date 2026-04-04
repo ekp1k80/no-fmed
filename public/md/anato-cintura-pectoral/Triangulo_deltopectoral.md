@@ -1,103 +1,104 @@
-# Triángulo deltopectoral
+﻿# TriÃ¡ngulo deltopectoral
 
-> Espacio triangular entre los músculos deltoides y pectoral mayor, importante vía de acceso quirúrgico.
+> Espacio triangular entre los mÃºsculos deltoides y pectoral mayor, importante vÃ­a de acceso quirÃºrgico.
 
-## 📋 Datos Clave
-- **Región:** #espacio #hombro #cintura-pectoral
-- **Relaciones:** [[Deltoides]], [[Pectoral mayor]], [[Clavícula]], [[Vena cefálica]], [[Arteria toracoacromial]]
+## ðŸ“‹ Datos Clave
+- **RegiÃ³n:** #cintura-pectoral
+- **Relaciones:** [[Deltoides]], [[Pectoral mayor]], [[ClavÃ­cula]], [[Vena cefÃ¡lica]], [[Arteria toracoacromial]]
 
 ## Contenido
 
-### Límites del triángulo
+### LÃ­mites del triÃ¡ngulo
 
-#### Límite lateral
-- **Músculo deltoides:** Borde anterior/clavicular del músculo
-- **Origen:** Tercio lateral de la clavícula
+#### LÃ­mite lateral
+- **MÃºsculo deltoides:** Borde anterior/clavicular del mÃºsculo
+- **Origen:** Tercio lateral de la clavÃ­cula
 
-#### Límite medial
-- **Músculo pectoral mayor:** Borde superior/clavicular del músculo
-- **Origen:** Mitad medial de la clavícula
+#### LÃ­mite medial
+- **MÃºsculo pectoral mayor:** Borde superior/clavicular del mÃºsculo
+- **Origen:** Mitad medial de la clavÃ­cula
 
-#### Límite superior
-- **Clavícula:** Tercio medio de la clavícula
+#### LÃ­mite superior
+- **ClavÃ­cula:** Tercio medio de la clavÃ­cula
 - **Espacio:** Entre las inserciones claviculares del deltoides y pectoral mayor
 
-### Contenido del triángulo
+### Contenido del triÃ¡ngulo
 
 #### Estructuras neurovasculares
 
-1. **Vena cefálica:**
-   - **Trayecto:** Asciende desde el brazo, atraviesa el triángulo
+1. **Vena cefÃ¡lica:**
+   - **Trayecto:** Asciende desde el brazo, atraviesa el triÃ¡ngulo
    - **Relaciones:** Superficial, justo bajo la fascia
-   - **Terminación:** Desemboca en la vena axilar
+   - **TerminaciÃ³n:** Desemboca en la vena axilar
 
 2. **Arteria toracoacromial:**
-   - **Origen:** Segunda porción de la arteria axilar
+   - **Origen:** Segunda porciÃ³n de la arteria axilar
    - **Ramos:** Deltoideo, pectoral, acromial, clavicular
-   - **Ramo deltoideo:** Principal rama en el triángulo
+   - **Ramo deltoideo:** Principal rama en el triÃ¡ngulo
 
 3. **Nervios:**
-   - **Ramo deltoideo del nervio axilar:** Inerva porción clavicular del deltoides
-   - **Ramos cutáneos:** De nervios supraclaviculares
+   - **Ramo deltoideo del nervio axilar:** Inerva porciÃ³n clavicular del deltoides
+   - **Ramos cutÃ¡neos:** De nervios supraclaviculares
 
 #### Fascia y tejidos
-- **Fascia deltopectoral:** Cubre el triángulo, continua con fascia pectoral y deltoidea
+- **Fascia deltopectoral:** Cubre el triÃ¡ngulo, continua con fascia pectoral y deltoidea
 - **Tejido celular laxo:** Rellena el espacio
-- **Ganglios linfáticos deltopectorales:** Pequeños, drenan región deltoidea
+- **Ganglios linfÃ¡ticos deltopectorales:** PequeÃ±os, drenan regiÃ³n deltoidea
 
-### Relaciones anatómicas
+### Relaciones anatÃ³micas
 
 #### Profundas
-- **Músculo subclavio:** Bajo la clavícula
-- **Fascia clavipectoral:** Separa el triángulo de estructuras más profundas
-- **Articulación acromioclavicular:** Posterior y superior
+- **MÃºsculo subclavio:** Bajo la clavÃ­cula
+- **Fascia clavipectoral:** Separa el triÃ¡ngulo de estructuras mÃ¡s profundas
+- **ArticulaciÃ³n acromioclavicular:** Posterior y superior
 
 #### Superficiales
-- **Piel y tejido subcutáneo:** Cubren el triángulo
-- **Vena cefálica:** Visible/subcutánea en individuos delgados
+- **Piel y tejido subcutÃ¡neo:** Cubren el triÃ¡ngulo
+- **Vena cefÃ¡lica:** Visible/subcutÃ¡nea en individuos delgados
 
-### Importancia clínica
+### Importancia clÃ­nica
 
-#### Acceso quirúrgico
-- **Articulación acromioclavicular:** Reducción de luxaciones, artroplastia
-- **Clavícula:** Osteosíntesis de fracturas
-- **Espacio subacromial:** Descompresión del manguito rotador
+#### Acceso quirÃºrgico
+- **ArticulaciÃ³n acromioclavicular:** ReducciÃ³n de luxaciones, artroplastia
+- **ClavÃ­cula:** OsteosÃ­ntesis de fracturas
+- **Espacio subacromial:** DescompresiÃ³n del manguito rotador
 
 #### Procedimientos
-- **Cateterización venosa:** Acceso a vena cefálica
+- **CateterizaciÃ³n venosa:** Acceso a vena cefÃ¡lica
 - **Biopsia:** Ganglios deltopectorales
-- **Cirugía plástica:** Incisiones estéticas (ocultas en pliegue)
+- **CirugÃ­a plÃ¡stica:** Incisiones estÃ©ticas (ocultas en pliegue)
 
-#### Marcadores anatómicos
+#### Marcadores anatÃ³micos
 - **Punto deltopectoral:** Para inyecciones intramusculares
-- **Referencia:** Para localizar estructuras más profundas
+- **Referencia:** Para localizar estructuras mÃ¡s profundas
 
 #### Complicaciones potenciales
-- **Lesión de vena cefálica:** Hemorragia, trombosis
-- **Lesión nerviosa:** Rama deltoidea del axilar
-- **Infección:** Proximidad a articulación acromioclavicular
+- **LesiÃ³n de vena cefÃ¡lica:** Hemorragia, trombosis
+- **LesiÃ³n nerviosa:** Rama deltoidea del axilar
+- **InfecciÃ³n:** Proximidad a articulaciÃ³n acromioclavicular
 
-### Variaciones anatómicas
+### Variaciones anatÃ³micas
 
-#### Tamaño y forma
+#### TamaÃ±o y forma
 - **Variable:** Depende de desarrollo muscular
-- **Atléticos:** Triángulo más definido
-- **Obesos:** Triángulo menos evidente
+- **AtlÃ©ticos:** TriÃ¡ngulo mÃ¡s definido
+- **Obesos:** TriÃ¡ngulo menos evidente
 
 #### Contenido
-- **Vena cefálica:** Puede duplicarse o tener trayecto variable
+- **Vena cefÃ¡lica:** Puede duplicarse o tener trayecto variable
 - **Arterias:** Ramos adicionales de toracoacromial
 - **Comunicaciones venosas:** Con venas yugular y subclavia
 
-### Exploración física
-- **Inspección:** Triángulo visible en individuos delgados/musculados
-- **Palpación:** Vena cefálica palpable, pulsación arterial
-- **Auscultación:** Soplos por fístulas arteriovenosas (raras)
+### ExploraciÃ³n fÃ­sica
+- **InspecciÃ³n:** TriÃ¡ngulo visible en individuos delgados/musculados
+- **PalpaciÃ³n:** Vena cefÃ¡lica palpable, pulsaciÃ³n arterial
+- **AuscultaciÃ³n:** Soplos por fÃ­stulas arteriovenosas (raras)
 
-## 🔗 Fuente
-- Rouvier-Anatomía Humana, Tomo 3
+## ðŸ”— Fuente
+- Rouvier-AnatomÃ­a Humana, Tomo 3
 
-## 🔗 Enlaces
-- [[Vena cefálica]]
+## ðŸ”— Enlaces
+- [[Vena cefÃ¡lica]]
 - [[Arteria toracoacromial]]
 - [[Nervio pectoral lateral]]
+

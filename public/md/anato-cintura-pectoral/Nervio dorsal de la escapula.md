@@ -1,92 +1,92 @@
-# Nervio Dorsal de la Escápula
+﻿# Nervio Dorsal de la EscÃ¡pula
 
-> Nervio que inerva los músculos romboides y elevador de la escápula
+> Nervio que inerva los mÃºsculos romboides y elevador de la escÃ¡pula
 
-## 📋 Datos Clave
+## ðŸ“‹ Datos Clave
 - **Etiquetas:** #nervio #colateral-posterior #cintura-pectoral
-- **Origen:** Raíz anterior de C5 (ocasionalmente C4)
-- **Tipo:** Somático motor
-- **Región:** #cintura-pectoral #cuello #escapula
+- **Origen:** RaÃ­z anterior de C5 (ocasionalmente C4)
+- **Tipo:** SomÃ¡tico motor
+- **RegiÃ³n:** #cintura-pectoral #cuello #escapula
 
-## 📷 Imágenes de Referencia
+## ðŸ“· ImÃ¡genes de Referencia
 
-*[Imágenes por agregar - Recorrido del nervio dorsal de la escápula]*
+*[ImÃ¡genes por agregar - Recorrido del nervio dorsal de la escÃ¡pula]*
 
 ## Origen
-Nace directamente de la **raíz anterior de C5** (ocasionalmente también de C4), **antes** de la formación de los troncos del plexo braquial. **No es una rama del plexo braquial** — se origina directamente de la raíz espinal. Ruvier: "nace del n. C5" (Tomo 3).
+Nace directamente de la **raÃ­z anterior de C5** (ocasionalmente tambiÃ©n de C4), **antes** de la formaciÃ³n de los troncos del plexo braquial. **No es una rama del plexo braquial** â€” se origina directamente de la raÃ­z espinal. Ruvier: "nace del n. C5" (Tomo 3).
 
 ## Recorrido
-1. **Porción inicial:** Se destaca de la raíz anterior de C5 (ocasionalmente C4) y **cruza o atraviesa** el [[músculo escaleno medio]] (Ruvier: "cruza o atraviesa el músculo escaleno medio")
-2. **Dirección posterior:** Se dirige posteriormente hacia la escápula
-3. **Paso bajo el músculo elevador de la escápula:** Pasa por debajo del [[músculo elevador de la escápula]]
-4. **Distribución en los romboides:** Se distribuye en el borde medial de la [[escápula]] para inervar los músculos romboides
+1. **PorciÃ³n inicial:** Se destaca de la raÃ­z anterior de C5 (ocasionalmente C4) y **cruza o atraviesa** el [[mÃºsculo escaleno medio]] (Ruvier: "cruza o atraviesa el mÃºsculo escaleno medio")
+2. **DirecciÃ³n posterior:** Se dirige posteriormente hacia la escÃ¡pula
+3. **Paso bajo el mÃºsculo elevador de la escÃ¡pula:** Pasa por debajo del [[mÃºsculo elevador de la escÃ¡pula]]
+4. **DistribuciÃ³n en los romboides:** Se distribuye en el borde medial de la [[escÃ¡pula]] para inervar los mÃºsculos romboides
 
 ## Ramas
-- **Ramas para el músculo elevador de la escápula**
-- **Ramas para el músculo romboides mayor**
-- **Ramas para el músculo romboides menor**
+- **Ramas para el mÃºsculo elevador de la escÃ¡pula**
+- **Ramas para el mÃºsculo romboides mayor**
+- **Ramas para el mÃºsculo romboides menor**
 
-## Territorio de inervación
-### Músculos:
-- [[Músculo elevador de la escápula]] (también llamado angular del omóplato)
-- [[Músculo romboides mayor]]
-- [[Músculo romboides menor]]
+## Territorio de inervaciÃ³n
+### MÃºsculos:
+- [[MÃºsculo elevador de la escÃ¡pula]] (tambiÃ©n llamado angular del omÃ³plato)
+- [[MÃºsculo romboides mayor]]
+- [[MÃºsculo romboides menor]]
 
-### Función de los músculos:
-- **Elevador de la escápula:** Elevación y rotación inferior de la escápula
-- **Romboides:** Retracción (adducción), elevación y rotación inferior de la escápula
-- **Estabilización** de la escápula durante los movimientos del brazo
+### FunciÃ³n de los mÃºsculos:
+- **Elevador de la escÃ¡pula:** ElevaciÃ³n y rotaciÃ³n inferior de la escÃ¡pula
+- **Romboides:** RetracciÃ³n (adducciÃ³n), elevaciÃ³n y rotaciÃ³n inferior de la escÃ¡pula
+- **EstabilizaciÃ³n** de la escÃ¡pula durante los movimientos del brazo
 
-## Relaciones anatómicas importantes
-- **Cruza el escaleno medio:** Pasa a través o por detrás del [[músculo escaleno medio]] (Ruvier: "cruza o atraviesa el músculo escaleno medio")
-- **Profundo al trapecio:** Se encuentra profundo al [[músculo trapecio]]
-- **A lo largo del borde medial de la escápula:** Sigue el borde medial de la escápula
-- **Cercano a:** Arteria dorsal de la escápula
+## Relaciones anatÃ³micas importantes
+- **Cruza el escaleno medio:** Pasa a travÃ©s o por detrÃ¡s del [[mÃºsculo escaleno medio]] (Ruvier: "cruza o atraviesa el mÃºsculo escaleno medio")
+- **Profundo al trapecio:** Se encuentra profundo al [[mÃºsculo trapecio]]
+- **A lo largo del borde medial de la escÃ¡pula:** Sigue el borde medial de la escÃ¡pula
+- **Cercano a:** Arteria dorsal de la escÃ¡pula
 
-## Variaciones anatómicas
+## Variaciones anatÃ³micas
 [por completar]
 
 ## Lesiones
-### 1. Parálisis del nervio dorsal de la escápula
-- **Debilidad para retraer la escápula** (acercarla a la columna)
-- **Dificultad para elevar la escápula**
-- **Asimetría escapular** en reposo
-- **Escápula alada** (menos marcada que en lesión del nervio torácico largo)
+### 1. ParÃ¡lisis del nervio dorsal de la escÃ¡pula
+- **Debilidad para retraer la escÃ¡pula** (acercarla a la columna)
+- **Dificultad para elevar la escÃ¡pula**
+- **AsimetrÃ­a escapular** en reposo
+- **EscÃ¡pula alada** (menos marcada que en lesiÃ³n del nervio torÃ¡cico largo)
 
 ### 2. Causas comunes:
-- **Traumatismos** en la región cervical posterior
-- **Compresión** por el músculo escaleno medio
-- **Cirugías** cervicales posteriores
-- **Síndromes de atrapamiento** nervioso
+- **Traumatismos** en la regiÃ³n cervical posterior
+- **CompresiÃ³n** por el mÃºsculo escaleno medio
+- **CirugÃ­as** cervicales posteriores
+- **SÃ­ndromes de atrapamiento** nervioso
 
-### 3. Signos clínicos:
-- **Dificultad para retraer el hombro** (llevarlo hacia atrás)
+### 3. Signos clÃ­nicos:
+- **Dificultad para retraer el hombro** (llevarlo hacia atrÃ¡s)
 - **Debilidad en ejercicios de remo**
-- **Dolor** en la región interescapular
+- **Dolor** en la regiÃ³n interescapular
 - **Postura de hombros redondeados** hacia adelante
 
-## Examen clínico
-1. **Prueba de retracción escapular:** Paciente intenta juntar las escápulas; evaluar fuerza y simetría
-2. **Elevación del hombro:** Evaluar fuerza del elevador de la escápula
-3. **Inspección:** Observar posición de las escápulas en reposo
-4. **Palpación:** Palpar contracción de los romboides durante la retracción
+## Examen clÃ­nico
+1. **Prueba de retracciÃ³n escapular:** Paciente intenta juntar las escÃ¡pulas; evaluar fuerza y simetrÃ­a
+2. **ElevaciÃ³n del hombro:** Evaluar fuerza del elevador de la escÃ¡pula
+3. **InspecciÃ³n:** Observar posiciÃ³n de las escÃ¡pulas en reposo
+4. **PalpaciÃ³n:** Palpar contracciÃ³n de los romboides durante la retracciÃ³n
 
-## Importancia clínica
-El nervio dorsal de la escápula es importante para la estabilidad escapular y la postura. Su lesión contribuye al síndrome de hombros redondeados y puede afectar el rendimiento en deportes que requieren fuerza de tracción.
+## Importancia clÃ­nica
+El nervio dorsal de la escÃ¡pula es importante para la estabilidad escapular y la postura. Su lesiÃ³n contribuye al sÃ­ndrome de hombros redondeados y puede afectar el rendimiento en deportes que requieren fuerza de tracciÃ³n.
 
-## Diferenciación de otras lesiones
-- **vs. Lesión del nervio torácico largo:** En la lesión del dorsal de la escápula, la escápula no se separa tanto de la pared torácica
-- **vs. Lesión del nervio accesorio:** El trapecio está afectado en lesión del accesorio, no en esta
+## DiferenciaciÃ³n de otras lesiones
+- **vs. LesiÃ³n del nervio torÃ¡cico largo:** En la lesiÃ³n del dorsal de la escÃ¡pula, la escÃ¡pula no se separa tanto de la pared torÃ¡cica
+- **vs. LesiÃ³n del nervio accesorio:** El trapecio estÃ¡ afectado en lesiÃ³n del accesorio, no en esta
 
-## Rehabilitación
-- Ejercicios de retracción escapular
-- Fortalecimiento de romboides y elevador de la escápula
-- Corrección postural
+## RehabilitaciÃ³n
+- Ejercicios de retracciÃ³n escapular
+- Fortalecimiento de romboides y elevador de la escÃ¡pula
+- CorrecciÃ³n postural
 - Estiramiento de pectorales
 
 
-## 🔗 Enlaces
+## ðŸ”— Enlaces
 - [[Plexo braquial]]
 
-## 🔗 Fuente
-- Rouvier-Anatomía Humana, Tomo 3
+## ðŸ”— Fuente
+- Ruvier-AnatomÃ­a Humana, Tomo 3

@@ -1,59 +1,59 @@
-# Subescapular
+﻿# Subescapular
 
-> Músculo grande y triangular que ocupa la fosa subescapular
+> MÃºsculo grande y triangular que ocupa la fosa subescapular
 
-## 📋 Datos Clave
-- **Grupo:** Músculos del manguito rotador
-
-#musculo #cintura-pectoral #escapula #hombro
+## ðŸ“‹ Datos Clave
+- **Grupo:** MÃºsculos del manguito rotador
 
 #musculo #cintura-pectoral #escapula #hombro
 
 #musculo #cintura-pectoral #escapula #hombro
 
-- **Función principal:** Rotación medial del brazo
-- **Inervación:** [[Nervio subescapular superior]] e [[inferior]]
+#musculo #cintura-pectoral #escapula #hombro
+
+- **FunciÃ³n principal:** RotaciÃ³n medial del brazo
+- **InervaciÃ³n:** [[Nervio subescapular superior]] e [[inferior]]
 
 #musculo #cintura-pectoral #escapula #hombro
 
-## 📷 Imágenes de Referencia
+## ðŸ“· ImÃ¡genes de Referencia
 
-![[imgs/Subescupalar/Subescapular_anterior.png|400]]
+![Subescapular_anterior.png](imgs/musculos/Subescapular_anterior.png)
 *Vista anterior del subescapular*
 
-![[imgs/Subescupalar/Subescapular_lateral_anterior.png|400]]
+![Subescapular_lateral_anterior.png](imgs/musculos/Subescapular_lateral_anterior.png)
 *Vista lateral-anterior del subescapular*
 
 ## Origen
-- Fosa subescapular de la escápula
+- Fosa subescapular de la escÃ¡pula
 
-## Inserción
-- Tubérculo menor del húmero
-- Cápsula de la articulación glenohumeral
+## InserciÃ³n
+- TubÃ©rculo menor del hÃºmero
+- CÃ¡psula de la articulaciÃ³n glenohumeral
 
 ## Relaciones
-- Entre la escápula y las costillas
+- Entre la escÃ¡pula y las costillas
 - Anterior a [[Serrato Anterior]]
 - Forma la pared posterior de la axila
 
-## Vascularización
+## VascularizaciÃ³n
 - [[Arteria subescapular]]
 - [[Arteria circunfleja escapular]]
 
-## Inervación
+## InervaciÃ³n
 - [[Nervio subescapular superior]] (C5-C6)
 - [[Nervio subescapular inferior]] (C5-C6)
 
 ## Funciones
-- Rotación medial del brazo
-- Aducción del brazo
-- Estabilización de la articulación glenohumeral
-- Previene la luxación anterior del húmero
+- RotaciÃ³n medial del brazo
+- AducciÃ³n del brazo
+- EstabilizaciÃ³n de la articulaciÃ³n glenohumeral
+- Previene la luxaciÃ³n anterior del hÃºmero
 
-## 🔗 Fuente
-- Rouvier-Anatomía Humana, Tomo 3
+## ðŸ”— Fuente
+- Rouvier-AnatomÃ­a Humana, Tomo 3
 
-## 🔗 Enlaces
+## ðŸ”— Enlaces
 - [[Fascia del subescapular]]
 - [[Nervio subescapular superior]]
 - [[Nervio subescapular inferior]]

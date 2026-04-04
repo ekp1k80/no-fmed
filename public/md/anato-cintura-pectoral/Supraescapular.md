@@ -1,40 +1,40 @@
-# Arteria Supraescapular
+﻿# Arteria Supraescapular
 
-> Rama de la arteria subclavia que pasa sobre el ligamento transverso superior de la escápula. Recorre la fosa supraespinosa, rodea el borde lateral de la espina y continúa a la fosa infraespinosa. Se anastomosa con la dorsal de la escápula.
+> Rama de la arteria subclavia que pasa sobre el ligamento transverso superior de la escÃ¡pula. Recorre la fosa supraespinosa, rodea el borde lateral de la espina y continÃºa a la fosa infraespinosa. Se anastomosa con la dorsal de la escÃ¡pula.
 
-## 📋 Datos Clave
+## ðŸ“‹ Datos Clave
 - **Origen:** Arteria subclavia (tronco tirocervical)
-- **Región:** #arteria #colateral #cintura-pectoral #escápula #hombro
+- **RegiÃ³n:** #arteria #colateral #cintura-pectoral #escÃ¡pula #hombro
 - **Vena correspondiente:** [[Vena supraescapular]]
-- **Estructuras relacionadas:** [[Arteria subclavia]], [[Tronco tirocervical]], [[Escápula]], [[Ligamento transverso superior]], [[Arteria dorsal de la escápula]]
+- **Estructuras relacionadas:** [[Arteria subclavia]], [[Tronco tirocervical]], [[EscÃ¡pula]], [[Ligamento transverso superior]], [[Arteria dorsal de la escÃ¡pula]]
 
 ## Origen
 La arteria supraescapular nace del tronco tirocervical, que es una rama de la arteria subclavia.
 
 ## Trayecto
-1. **Paso supraescapular:** Pasa sobre el ligamento transverso superior de la escápula (no por debajo, a diferencia del nervio supraescapular).
-2. **Fosa supraespinosa:** Entra en la fosa supraespinosa, irrigando el músculo supraespinoso.
-3. **Rodeo de la espina:** Rodea el borde lateral de la espina de la escápula.
-4. **Fosa infraespinosa:** Entra en la fosa infraespinosa, irrigando el músculo infraespinoso.
+1. **Paso supraescapular:** Pasa sobre el ligamento transverso superior de la escÃ¡pula (no por debajo, a diferencia del nervio supraescapular).
+2. **Fosa supraespinosa:** Entra en la fosa supraespinosa, irrigando el mÃºsculo supraespinoso.
+3. **Rodeo de la espina:** Rodea el borde lateral de la espina de la escÃ¡pula.
+4. **Fosa infraespinosa:** Entra en la fosa infraespinosa, irrigando el mÃºsculo infraespinoso.
 
-## Distribución / Ramas terminales
-- **Ramas para el músculo supraespinoso:** En la fosa supraespinosa
-- **Ramas para el músculo infraespinoso:** En la fosa infraespinosa
-- **Ramas para la articulación acromioclavicular:** Irrigación de la articulación
-- **Ramas para la cápsula articular del hombro:** Contribuye al círculo arterial de la articulación glenohumeral
+## DistribuciÃ³n / Ramas terminales
+- **Ramas para el mÃºsculo supraespinoso:** En la fosa supraespinosa
+- **Ramas para el mÃºsculo infraespinoso:** En la fosa infraespinosa
+- **Ramas para la articulaciÃ³n acromioclavicular:** IrrigaciÃ³n de la articulaciÃ³n
+- **Ramas para la cÃ¡psula articular del hombro:** Contribuye al cÃ­rculo arterial de la articulaciÃ³n glenohumeral
 
 ## Anastomosis
-- Con la arteria dorsal de la escápula (rama de la subclavia)
+- Con la arteria dorsal de la escÃ¡pula (rama de la subclavia)
 - Con la arteria circunfleja escapular (rama de la arteria axilar)
 - Con la arteria toracoacromial (rama de la arteria axilar)
 
-## Importancia clínica
-- **Cirugía del hombro:** Debe preservarse durante procedimientos artroscópicos o abiertos del hombro.
-- **Síndrome del espacio supraescapular:** La compresión de la arteria y nervio supraescapular puede causar dolor y debilidad en la abducción y rotación externa del hombro.
-- **Angiografía:** Puede visualizarse en estudios angiográficos de la región del hombro.
+## Importancia clÃ­nica
+- **CirugÃ­a del hombro:** Debe preservarse durante procedimientos artroscÃ³picos o abiertos del hombro.
+- **SÃ­ndrome del espacio supraescapular:** La compresiÃ³n de la arteria y nervio supraescapular puede causar dolor y debilidad en la abducciÃ³n y rotaciÃ³n externa del hombro.
+- **AngiografÃ­a:** Puede visualizarse en estudios angiogrÃ¡ficos de la regiÃ³n del hombro.
 
-## 🔗 Fuente
-- Rouvier-Anatomía Humana, Tomo 3
+## ðŸ”— Fuente
+- Rouvier-AnatomÃ­a Humana, Tomo 3
 
 
 
@@ -47,4 +47,6 @@ La arteria supraescapular nace del tronco tirocervical, que es una rama de la ar
 - [[Dorsal_de_la_escapula]]
 - [[Vena supraescapular]]
 - [[Vena yugular externa]]
+
+
 

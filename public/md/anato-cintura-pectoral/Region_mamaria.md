@@ -1,133 +1,133 @@
-# Región mamaria
+﻿# RegiÃ³n mamaria
 
-> Glándula mamaria ubicada en la pared anterior del tórax, con función de lactancia en la mujer.
+> GlÃ¡ndula mamaria ubicada en la pared anterior del tÃ³rax, con funciÃ³n de lactancia en la mujer.
 
-## 📋 Datos Clave
-- **Región:** #region-mamaria #cintura-pectoral
+## ðŸ“‹ Datos Clave
+- **RegiÃ³n:** #region-mamaria #cintura-pectoral
 - **Relaciones:** [[Pectoral mayor]], [[Serrato anterior]], [[Fascia pectoral]], [[Costillas]], [[Fosa axilar]]
 
 ## Contenido
 
-### Ubicación y extensión
-- **Posición:** Sobre el músculo pectoral mayor
-- **Extensión vertical:** Entre la 2ª y 6ª costilla
-- **Extensión horizontal:** Desde línea paraesternal hasta línea axilar anterior
-- **Centro:** A nivel de la 4ª costilla
+### UbicaciÃ³n y extensiÃ³n
+- **PosiciÃ³n:** Sobre el mÃºsculo pectoral mayor
+- **ExtensiÃ³n vertical:** Entre la 2Âª y 6Âª costilla
+- **ExtensiÃ³n horizontal:** Desde lÃ­nea paraesternal hasta lÃ­nea axilar anterior
+- **Centro:** A nivel de la 4Âª costilla
 - **Relaciones posteriores:** 
   - 2/3 superiores: Pectoral mayor
   - 1/3 inferior: Serrato anterior y oblicuo externo
 
-### Estructura anatómica
+### Estructura anatÃ³mica
 
-#### Parénquima glandular
-- **Lóbulos:** 15-20 lóbulos dispuestos radialmente
-- **Lobulillos:** Unidades funcionales dentro de cada lóbulo
-- **Alvéolos:** Unidades secretoras dentro de los lobulillos
-- **Conductos lactíferos:** Drenan los lobulillos, convergen hacia el pezón
-- **Seno lactífero:** Dilatación del conducto antes de desembocar en el pezón
+#### ParÃ©nquima glandular
+- **LÃ³bulos:** 15-20 lÃ³bulos dispuestos radialmente
+- **Lobulillos:** Unidades funcionales dentro de cada lÃ³bulo
+- **AlvÃ©olos:** Unidades secretoras dentro de los lobulillos
+- **Conductos lactÃ­feros:** Drenan los lobulillos, convergen hacia el pezÃ³n
+- **Seno lactÃ­fero:** DilataciÃ³n del conducto antes de desembocar en el pezÃ³n
 
 #### Estroma
-- **Tejido conjuntivo:** Soporte del parénquima
-- **Tejido adiposo:** Rodea los lóbulos, determina tamaño y forma
-- **Ligamentos de Cooper:** Tabiques fibrosos que unen la glándula a la piel
+- **Tejido conjuntivo:** Soporte del parÃ©nquima
+- **Tejido adiposo:** Rodea los lÃ³bulos, determina tamaÃ±o y forma
+- **Ligamentos de Cooper:** Tabiques fibrosos que unen la glÃ¡ndula a la piel
 
 #### Componentes externos
-- **Pezón:** Proyección cónica en el centro de la areola
-  - Orificios de los conductos lactíferos (15-20)
-  - Músculo liso erectil
-- **Areola:** Zona pigmentada alrededor del pezón
-  - Glándulas areolares (de Montgomery)
-  - Vascularización abundante
+- **PezÃ³n:** ProyecciÃ³n cÃ³nica en el centro de la areola
+  - Orificios de los conductos lactÃ­feros (15-20)
+  - MÃºsculo liso erectil
+- **Areola:** Zona pigmentada alrededor del pezÃ³n
+  - GlÃ¡ndulas areolares (de Montgomery)
+  - VascularizaciÃ³n abundante
 
-### Vascularización
+### VascularizaciÃ³n
 
 #### Arterias
-1. **Arteria torácica interna** (rama de la subclavia)
-   - Ramos perforantes de los espacios intercostales 2º-4º
-   - Vasculariza región medial
+1. **Arteria torÃ¡cica interna** (rama de la subclavia)
+   - Ramos perforantes de los espacios intercostales 2Âº-4Âº
+   - Vasculariza regiÃ³n medial
 
-2. **Arteria torácica lateral** (rama de la axilar)
+2. **Arteria torÃ¡cica lateral** (rama de la axilar)
    - Ramos mamarios externos
-   - Vasculariza región superolateral
+   - Vasculariza regiÃ³n superolateral
 
-3. **Arteria torácica superior** (rama de la axilar)
-   - Ramos para porción superior
+3. **Arteria torÃ¡cica superior** (rama de la axilar)
+   - Ramos para porciÃ³n superior
 
 4. **Arterias intercostales posteriores** (ramos de la aorta)
-   - Ramos laterales para región lateral
+   - Ramos laterales para regiÃ³n lateral
 
 #### Venas
-- **Plexo venoso subareolar:** Drena a venas torácicas internas y axilares
-- **Venas acompañantes:** Siguen el trayecto arterial
-- **Drenaje final:** Vena axilar y vena torácica interna
+- **Plexo venoso subareolar:** Drena a venas torÃ¡cicas internas y axilares
+- **Venas acompaÃ±antes:** Siguen el trayecto arterial
+- **Drenaje final:** Vena axilar y vena torÃ¡cica interna
 
-### Inervación
+### InervaciÃ³n
 
 #### Nervios sensitivos
-- **Ramas cutáneas anteriores** de nervios intercostales (T3-T5)
+- **Ramas cutÃ¡neas anteriores** de nervios intercostales (T3-T5)
 - **Nervio intercostobraquial** (T2)
-- **Rama cutánea lateral** del nervio intercostal (T4-T6)
+- **Rama cutÃ¡nea lateral** del nervio intercostal (T4-T6)
 
-#### Nervios autónomos
-- **Simpáticos:** Para músculo liso del pezón y vasos sanguíneos
-- **Inervación glandular:** Control hormonal predominante
+#### Nervios autÃ³nomos
+- **SimpÃ¡ticos:** Para mÃºsculo liso del pezÃ³n y vasos sanguÃ­neos
+- **InervaciÃ³n glandular:** Control hormonal predominante
 
-### Drenaje linfático
+### Drenaje linfÃ¡tico
 
 #### Principales rutas
 1. **Axilar (75-80%):**
-   - Cuadrantes superolaterales → ganglios axilares anteriores
+   - Cuadrantes superolaterales â†’ ganglios axilares anteriores
    - Algunos vasos directos a ganglios centrales y apicales
 
 2. **Parasternal (20-25%):**
-   - Cuadrantes inferomediales → cadena mamaria interna
+   - Cuadrantes inferomediales â†’ cadena mamaria interna
    - Cruce al lado contralateral posible
 
 3. **Otras rutas (menores):**
-   - **Subclavicular:** Porción superior profunda
+   - **Subclavicular:** PorciÃ³n superior profunda
    - **Interpectoral:** Ganglios de Rotter entre pectorales
    - **Cruzada:** Al lado contralateral
 
-### Relaciones anatómicas importantes
+### Relaciones anatÃ³micas importantes
 
 #### Con la fascia
-- **Fascia pectoral superficial:** Separación entre glándula y piel
-- **Fascia pectoral profunda:** Entre glándula y músculo pectoral mayor
-- **Espacio retromamario:** Tejido laxo entre glándula y fascia profunda
+- **Fascia pectoral superficial:** SeparaciÃ³n entre glÃ¡ndula y piel
+- **Fascia pectoral profunda:** Entre glÃ¡ndula y mÃºsculo pectoral mayor
+- **Espacio retromamario:** Tejido laxo entre glÃ¡ndula y fascia profunda
 
-#### Con músculos
-- **Pectoral mayor:** Principal relación posterior
-- **Serrato anterior:** Porción inferolateral
-- **Oblicuo externo:** Extensión inferolateral
+#### Con mÃºsculos
+- **Pectoral mayor:** Principal relaciÃ³n posterior
+- **Serrato anterior:** PorciÃ³n inferolateral
+- **Oblicuo externo:** ExtensiÃ³n inferolateral
 
-### Variaciones anatómicas
+### Variaciones anatÃ³micas
 
 #### Desarrollo
-- **Mujer adulta:** Glándula completamente desarrollada
-- **Hombre:** Glándula rudimentaria
+- **Mujer adulta:** GlÃ¡ndula completamente desarrollada
+- **Hombre:** GlÃ¡ndula rudimentaria
 - **Embarazo/lactancia:** Hipertrofia e hiperplasia
 
-#### Anomalías
-- **Polimastia:** Mamas supernumerarias (línea mamaria)
-- **Athelia:** Ausencia de pezón
-- **Micromastia/ macromastia:** Tamaño anormal
+#### AnomalÃ­as
+- **Polimastia:** Mamas supernumerarias (lÃ­nea mamaria)
+- **Athelia:** Ausencia de pezÃ³n
+- **Micromastia/ macromastia:** TamaÃ±o anormal
 
-### Importancia clínica
+### Importancia clÃ­nica
 
-#### Cáncer de mama
-- **Detección:** Autoexamen, mamografía
-- **Cirugía:** Mastectomía, cuadrantectomía
-- **Disección axilar:** Evaluación de ganglios
+#### CÃ¡ncer de mama
+- **DetecciÃ³n:** Autoexamen, mamografÃ­a
+- **CirugÃ­a:** MastectomÃ­a, cuadrantectomÃ­a
+- **DisecciÃ³n axilar:** EvaluaciÃ³n de ganglios
 
 #### Lactancia
-- **Producción de leche:** Control hormonal
-- **Mastitis:** Infección durante lactancia
-- **Absceso mamario:** Complicación de mastitis
+- **ProducciÃ³n de leche:** Control hormonal
+- **Mastitis:** InfecciÃ³n durante lactancia
+- **Absceso mamario:** ComplicaciÃ³n de mastitis
 
-#### Cirugía estética
+#### CirugÃ­a estÃ©tica
 - **Aumento mamario:** Implantes
-- **Reducción mamaria:** Alivio de síntomas
-- **Mastopexia:** Elevación mamaria
+- **ReducciÃ³n mamaria:** Alivio de sÃ­ntomas
+- **Mastopexia:** ElevaciÃ³n mamaria
 
-## 🔗 Fuente
-- Rouvier-Anatomía Humana, Tomo 3
+## ðŸ”— Fuente
+- Rouvier-AnatomÃ­a Humana, Tomo 3

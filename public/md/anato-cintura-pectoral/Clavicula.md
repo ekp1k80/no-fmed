@@ -1,63 +1,63 @@
-# Clavícula
+﻿# ClavÃ­cula
 
-> Descripción breve: hueso largo situado en la parte anterosuperior del tórax. Se extiende del esternón al acromion, siguiendo una dirección oblicua lateral y posteriormente. Tiene la forma de una S cursiva. (Rouvier)
+> DescripciÃ³n breve: hueso largo situado en la parte anterosuperior del tÃ³rax. Se extiende del esternÃ³n al acromion, siguiendo una direcciÃ³n oblicua lateral y posteriormente. Tiene la forma de una S cursiva. (Rouvier)
 
-## 📋 Datos Clave
+## ðŸ“‹ Datos Clave
 
 - **Tipo:** largo
-- **Región:** #cintura-pectoral
+- **RegiÃ³n:** #cintura-pectoral
 - **Elemento del esqueleto:** apendicular
-- **Formación:** endoescondral (dos centros: uno primario y otro secundario)
-- **Función principal:** unir el miembro superior al tórax, servir como punto de inserción muscular
+- **FormaciÃ³n:** endoescondral (dos centros: uno primario y otro secundario)
+- **FunciÃ³n principal:** unir el miembro superior al tÃ³rax, servir como punto de inserciÃ³n muscular
 
 #hueso #clavicula #hombro
 
 ---
 
-## 📷 Imágenes de Referencia
+## ðŸ“· ImÃ¡genes de Referencia
 
-![Vista superior](imgs/Clavicula/superior.png)
-*Vista superior de la clavícula*
+![Vista superior](imgs/huesos/Clavicula_superior.png)
+*Vista superior de la clavÃ­cula*
 
-![Vista inferior](imgs/Clavicula/inferior.png)
-*Vista inferior de la clavícula*
+![Vista inferior](imgs/huesos/Clavicula_inferior.png)
+*Vista inferior de la clavÃ­cula*
 
 ---
 
-## Partes / Accidentes Óseos (Rouvier)
+## Partes / Accidentes Ã“seos (Rouvier)
 
 ### Forma General
 - Tiene la forma de una **S cursiva**
 - Describe dos curvaturas:
-  - **Medial:** cóncava posteriormente
-  - **Lateral:** menos extensa, cóncava anteriormente
-- Está **aplanada de superior a inferior** (más acentuado lateralmente)
+  - **Medial:** cÃ³ncava posteriormente
+  - **Lateral:** menos extensa, cÃ³ncava anteriormente
+- EstÃ¡ **aplanada de superior a inferior** (mÃ¡s acentuado lateralmente)
 
 ### Caras
-1. **Cara superior:** lisa en casi toda su extensión. Presenta rugosidades inconstantes para inserciones musculares.
-2. **Cara inferior:** excavada en su parte media por el **surco del músculo subclavio**. Contiene:
+1. **Cara superior:** lisa en casi toda su extensiÃ³n. Presenta rugosidades inconstantes para inserciones musculares.
+2. **Cara inferior:** excavada en su parte media por el **surco del mÃºsculo subclavio**. Contiene:
    - Agujero nutricio del hueso
-   - Impresión del ligamento costoclavicular (extremo esternal)
+   - ImpresiÃ³n del ligamento costoclavicular (extremo esternal)
    - Tuberosidad del ligamento coracoclavicular (extremo acromial)
 
 ### Bordes
-1. **Borde anterior:** en sus dos tercios mediales es grueso, convexo y ligeramente áspero (inserción del [[Músculo pectoral mayor]]). Tercio lateral cóncavo y delgado (inserción del [[Deltoides]]).
-2. **Borde posterior:** grueso, cóncavo y liso en sus dos tercios mediales; lateralmente convexo y rugoso (inserción del [[Trapecio]]).
+1. **Borde anterior:** en sus dos tercios mediales es grueso, convexo y ligeramente Ã¡spero (inserciÃ³n del [[MÃºsculo pectoral mayor]]). Tercio lateral cÃ³ncavo y delgado (inserciÃ³n del [[Deltoides]]).
+2. **Borde posterior:** grueso, cÃ³ncavo y liso en sus dos tercios mediales; lateralmente convexo y rugoso (inserciÃ³n del [[Trapecio]]).
 
 ### Extremidades
-1. **Extremidad acromial:** aplanada de superior a inferior. Presenta cara articular elíptica para la articulación con el acromion.
-2. **Extremidad esternal:** presenta superficie articular para el esternón y el primer cartílago costal.
+1. **Extremidad acromial:** aplanada de superior a inferior. Presenta cara articular elÃ­ptica para la articulaciÃ³n con el acromion.
+2. **Extremidad esternal:** presenta superficie articular para el esternÃ³n y el primer cartÃ­lago costal.
 
-### Arquitectura Ósea (Rouvier)
-- Formada por una **vaina de tejido óseo compacto**, muy gruesa en la parte media
-- Tejido óseo compacto rodea el **tejido óseo esponjoso**
+### Arquitectura Ã“sea (Rouvier)
+- Formada por una **vaina de tejido Ã³seo compacto**, muy gruesa en la parte media
+- Tejido Ã³seo compacto rodea el **tejido Ã³seo esponjoso**
 - En la parte media puede aparecer un esbozo de cavidad medular
 
 ---
 
 ## Articulaciones
 
-| Extremidad | Articulación | Tipo | Movimientos |
+| Extremidad | ArticulaciÃ³n | Tipo | Movimientos |
 |------------|-------------|------|-------------|
 | Acromial | [[Acromioclavicular]] | plana | movimientos de deslizamiento |
 | Esternal | [[Esternoclavicular]] | [por completar] | [por completar] |
@@ -66,32 +66,32 @@
 
 ## Inserciones Musculares (Rouvier)
 
-### Origen (fijo, menos móvil)
-| Músculo | Localización en el hueso |
+### Origen (fijo, menos mÃ³vil)
+| MÃºsculo | LocalizaciÃ³n en el hueso |
 |---------|-------------------------|
-| [[Músculo subclavio]] | surco del músculo subclavio (cara inferior) |
+| [[MÃºsculo subclavio]] | surco del mÃºsculo subclavio (cara inferior) |
 
-### Inserción (más móvil)
-| Músculo | Localización en el hueso |
+### InserciÃ³n (mÃ¡s mÃ³vil)
+| MÃºsculo | LocalizaciÃ³n en el hueso |
 |---------|-------------------------|
-| [[Deltoides]] | tercio lateral del borde anterior, fascículos anteriores |
-| [[Trapecio]] | borde posterior, fascículos claviculares |
-| [[Músculo pectoral mayor]] | dos tercios mediales del borde anterior |
-| [[Músculo esternocleidomastoideo]] | cara superior medial |
+| [[Deltoides]] | tercio lateral del borde anterior, fascÃ­culos anteriores |
+| [[Trapecio]] | borde posterior, fascÃ­culos claviculares |
+| [[MÃºsculo pectoral mayor]] | dos tercios mediales del borde anterior |
+| [[MÃºsculo esternocleidomastoideo]] | cara superior medial |
 
 ---
 
 ## Ligamentos
 
-| Ligamento | Inserción en la clavícula |
+| Ligamento | InserciÃ³n en la clavÃ­cula |
 |-----------|--------------------------|
-| Ligamento costoclavicular | impresión en cara inferior (extremo esternal) |
-| Ligamento trapezoideo | línea trapezoidea (parte anterior de tuberosidad coracoclavicular) |
-| Ligamento conoideo | tubérculo conoideo (parte posterior de tuberosidad coracoclavicular) |
+| Ligamento costoclavicular | impresiÃ³n en cara inferior (extremo esternal) |
+| Ligamento trapezoideo | lÃ­nea trapezoidea (parte anterior de tuberosidad coracoclavicular) |
+| Ligamento conoideo | tubÃ©rculo conoideo (parte posterior de tuberosidad coracoclavicular) |
 
 ---
 
-## Vascularización
+## VascularizaciÃ³n
 
 | Arteria | Territorio |
 |---------|-----------|
@@ -99,56 +99,56 @@
 
 ---
 
-## Inervación
+## InervaciÃ³n
 
-| Nervio | Función |
+| Nervio | FunciÃ³n |
 |--------|---------|
 | [por completar] | [por completar] |
 
 ---
 
-## Relaciones Anatómicas
+## Relaciones AnatÃ³micas
 
-- **Superior:** piel, fascia, músculos ([[Deltoides]], [[Trapecio]])
-- **Inferior:** [[Músculo subclavio]], [[Plexo braquial]], [[Vena subclavia]]
-- **Medial:** [[Esternón]], primera costilla
-- **Lateral:** [[Acromion]], [[Articulación acromioclavicular]]
+- **Superior:** piel, fascia, mÃºsculos ([[Deltoides]], [[Trapecio]])
+- **Inferior:** [[MÃºsculo subclavio]], [[Plexo braquial]], [[Vena subclavia]]
+- **Medial:** [[EsternÃ³n]], primera costilla
+- **Lateral:** [[Acromion]], [[ArticulaciÃ³n acromioclavicular]]
 
 ---
 
-## Relaciones con Órganos / Vísceras
+## Relaciones con Ã“rganos / VÃ­sceras
 
-| Estructura | Relación |
+| Estructura | RelaciÃ³n |
 |-----------|----------|
-| [[Pulmón]] | inferior y posterior, separado por músculos y fascia |
-| [[Vena subclavia]] | inferior, en el triángulo clavipectoral |
+| [[PulmÃ³n]] | inferior y posterior, separado por mÃºsculos y fascia |
+| [[Vena subclavia]] | inferior, en el triÃ¡ngulo clavipectoral |
 
 ---
 
-## Osificación (Rouvier)
+## OsificaciÃ³n (Rouvier)
 
 - **Centro primario:** aparece al final del primer mes de desarrollo
-- **Centro secundario:** se desarrolla en la cara articular esternal hacia los 18 años
-- **Fusión:** el centro secundario se suelda al resto del hueso hacia los 25 años
+- **Centro secundario:** se desarrolla en la cara articular esternal hacia los 18 aÃ±os
+- **FusiÃ³n:** el centro secundario se suelda al resto del hueso hacia los 25 aÃ±os
 
 ---
 
-## Notas Clínicas
+## Notas ClÃ­nicas
 
-- **Fracturas de clavícula:** comunes por caídas sobre el hombro o brazo extendido
-- **Luxación acromioclavicular:** frecuente en deportes de contacto
-- **Síndrome del desfiladero torácico:** compresión de estructuras neurovasculares entre clavícula y primera costilla
+- **Fracturas de clavÃ­cula:** comunes por caÃ­das sobre el hombro o brazo extendido
+- **LuxaciÃ³n acromioclavicular:** frecuente en deportes de contacto
+- **SÃ­ndrome del desfiladero torÃ¡cico:** compresiÃ³n de estructuras neurovasculares entre clavÃ­cula y primera costilla
 
 ---
 
-## Tabla de Imágenes
+## Tabla de ImÃ¡genes
 
-| Imagen | Vista | Descripción |
+| Imagen | Vista | DescripciÃ³n |
 |--------|-------|-------------|
-| ![Superior](imgs/Clavicula/superior.png) | Superior | Vista superior de la clavícula |
-| ![Inferior](imgs/Clavicula/inferior.png) | Inferior | Vista inferior de la clavícula |
+| ![Superior](imgs/huesos/Clavicula_superior.png) | Superior | Vista superior de la clavÃ­cula |
+| ![Inferior](imgs/huesos/Clavicula_inferior.png) | Inferior | Vista inferior de la clavÃ­cula |
 
 ---
 
-## 🔗 Fuente
-- Rouvier-Anatomía Humana, Tomo 3
+## ðŸ”— Fuente
+- Rouvier-AnatomÃ­a Humana, Tomo 3

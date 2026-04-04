@@ -1,65 +1,65 @@
-# Fosa axilar
+﻿# Fosa axilar
 
-> Cavidad piramidal ubicada entre el brazo y la pared torácica, que contiene estructuras neurovasculares importantes.
+> Cavidad piramidal ubicada entre el brazo y la pared torÃ¡cica, que contiene estructuras neurovasculares importantes.
 
-## 📋 Datos Clave
-- **Región:** #espacio #axila #cintura-pectoral
-- **Relaciones:** [[Pectoral mayor]], [[Pectoral menor]], [[Subescapular]], [[Redondo mayor]], [[Dorsal ancho]], [[Serrato anterior]], [[Húmero]], [[Clavícula]], [[Costillas]]
+## ðŸ“‹ Datos Clave
+- **RegiÃ³n:** #espacio #axila #cintura-pectoral
+- **Relaciones:** [[Pectoral mayor]], [[Pectoral menor]], [[Subescapular]], [[Redondo mayor]], [[Dorsal ancho]], [[Serrato anterior]], [[HÃºmero]], [[ClavÃ­cula]], [[Costillas]]
 
 ## Contenido
 
-### Límites de la fosa axilar
+### LÃ­mites de la fosa axilar
 
 #### Pared anterior
-- **Superficial:** Músculo pectoral mayor
-- **Profunda:** Músculo pectoral menor y fascia clavipectoral
-- La fascia clavipectoral se extiende desde la clavícula hasta el pectoral menor, envolviendo al músculo subclavio
+- **Superficial:** MÃºsculo pectoral mayor
+- **Profunda:** MÃºsculo pectoral menor y fascia clavipectoral
+- La fascia clavipectoral se extiende desde la clavÃ­cula hasta el pectoral menor, envolviendo al mÃºsculo subclavio
 
 #### Pared posterior
-- Músculo subescapular (superior)
-- Músculo redondo mayor (inferior)
-- Músculo dorsal ancho (inferior)
+- MÃºsculo subescapular (superior)
+- MÃºsculo redondo mayor (inferior)
+- MÃºsculo dorsal ancho (inferior)
 
 #### Pared medial
-- Músculo serrato anterior (superficial)
+- MÃºsculo serrato anterior (superficial)
 - Superficies costales de las primeras 4 costillas
-- Fascia torácica
+- Fascia torÃ¡cica
 
 #### Pared lateral
-- Surco intertubercular del húmero
-- Intersticio braquial entre los músculos bíceps braquial y tríceps braquial
+- Surco intertubercular del hÃºmero
+- Intersticio braquial entre los mÃºsculos bÃ­ceps braquial y trÃ­ceps braquial
 
-#### Ápex (vértice superior)
+#### Ãpex (vÃ©rtice superior)
 - Espacio cervicoaxilar limitado por:
   - Primera costilla (inferior)
-  - Clavícula (anterior)
-  - Borde superior de la escápula (posterior)
+  - ClavÃ­cula (anterior)
+  - Borde superior de la escÃ¡pula (posterior)
 - Comunica la axila con el cuello
 
-#### Base (vértice inferior)
+#### Base (vÃ©rtice inferior)
 - Espacio axilar limitado por:
-  - Músculo serrato anterior (anterior)
-  - Músculo dorsal ancho (posterior)
+  - MÃºsculo serrato anterior (anterior)
+  - MÃºsculo dorsal ancho (posterior)
   - Piel y fascia axilar (superficial)
 
 ### Contenido de la fosa axilar
 
 #### Estructuras neurovasculares
-- **Arteria axilar:** Continuación de la arteria subclavia, se divide en 3 porciones con ramas importantes
-- **Vena axilar:** Recibe sangre del miembro superior, continúa como vena subclavia
+- **Arteria axilar:** ContinuaciÃ³n de la arteria subclavia, se divide en 3 porciones con ramas importantes
+- **Vena axilar:** Recibe sangre del miembro superior, continÃºa como vena subclavia
 - **Plexo braquial:** Red nerviosa que inerva el miembro superior
-- **Vasos linfáticos axilares:** Drenan la linfa del miembro superior, mama y pared torácica
+- **Vasos linfÃ¡ticos axilares:** Drenan la linfa del miembro superior, mama y pared torÃ¡cica
 
 #### Tejidos
 - Tejido adiposo abundante
-- Ganglios linfáticos axilares (5 grupos)
+- Ganglios linfÃ¡ticos axilares (5 grupos)
 - Fascia axilar que envuelve las estructuras
 
-### Importancia clínica
-- **Examen axilar:** Fundamental en evaluación de cáncer de mama (ganglios axilares)
-- **Acceso quirúrgico:** Vía para cirugías de mama, hombro y pared torácica
-- **Bloqueos anestésicos:** Anestesia regional del miembro superior
-- **Lesiones:** Compresión neurovascular (síndrome del desfiladero torácico)
+### Importancia clÃ­nica
+- **Examen axilar:** Fundamental en evaluaciÃ³n de cÃ¡ncer de mama (ganglios axilares)
+- **Acceso quirÃºrgico:** VÃ­a para cirugÃ­as de mama, hombro y pared torÃ¡cica
+- **Bloqueos anestÃ©sicos:** Anestesia regional del miembro superior
+- **Lesiones:** CompresiÃ³n neurovascular (sÃ­ndrome del desfiladero torÃ¡cico)
 
-## 🔗 Fuente
-- Rouvier-Anatomía Humana, Tomo 3 (p. 159-164)
+## ðŸ”— Fuente
+- Rouvier-AnatomÃ­a Humana, Tomo 3 (p. 159-164)

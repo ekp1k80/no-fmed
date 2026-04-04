@@ -1,30 +1,30 @@
-# Fascia del Músculo Serrato Anterior
+﻿# Fascia del MÃºsculo Serrato Anterior
 
-> Lámina fibrocelular laxa que recubre el [[Músculo serrato anterior]]
+> LÃ¡mina fibrocelular laxa que recubre el [[MÃºsculo serrato anterior]]
 
-## 📋 Datos Clave
-- **Región:** #fascia #cintura-pectoral #tórax #axila
-- **Estructuras relacionadas:** [[Músculo serrato anterior]], [[fascia axilar]], [[ligamento suspensorio de la axila]]
+## ðŸ“‹ Datos Clave
+- **RegiÃ³n:** #fascia #cintura-pectoral #tÃ³rax #axila
+- **Estructuras relacionadas:** [[MÃºsculo serrato anterior]], [[fascia axilar]], [[ligamento suspensorio de la axila]]
 
-## Descripción
-Según Ruvier (Tomo 3, p. 152):
-- Se trata de una **lámina fibrocelular laxa**, delgada
-- Recubre el [[Músculo serrato anterior]] en su cara lateral
+## DescripciÃ³n
+SegÃºn Ruvier (Tomo 3, p. 152):
+- Se trata de una **lÃ¡mina fibrocelular laxa**, delgada
+- Recubre el [[MÃºsculo serrato anterior]] en su cara lateral
 
-## Relaciones anatómicas
+## Relaciones anatÃ³micas
 - Se une anteriormente con la hoja profunda del [[ligamento suspensorio de la axila]]
-- El borde inferomedial de la lámina profunda del ligamento suspensorio cruza la fascia del [[Músculo serrato anterior]]
-- Se une anteriormente con la [[fascia del [[músculo coracobraquial]]]]
+- El borde inferomedial de la lÃ¡mina profunda del ligamento suspensorio cruza la fascia del [[MÃºsculo serrato anterior]]
+- Se une anteriormente con la [[fascia del [[mÃºsculo coracobraquial]]]]
 
-## Importancia clínica
-- El [[Músculo serrato anterior]] forma la **pared medial** de la [[fosa axilar]]
-- La fascia del serrato anterior está en relación con la [[arteria toracodorsal]] y la [[arteria torácica lateral]]
+## Importancia clÃ­nica
+- El [[MÃºsculo serrato anterior]] forma la **pared medial** de la [[fosa axilar]]
+- La fascia del serrato anterior estÃ¡ en relaciÃ³n con la [[arteria toracodorsal]] y la [[arteria torÃ¡cica lateral]]
 
-## 🔗 Fuente
-- Rouvier-Anatomía Humana, Tomo 3
+## ðŸ”— Fuente
+- Rouvier-AnatomÃ­a Humana, Tomo 3
 
-## 🔗 Enlaces
+## ðŸ”— Enlaces
 - [[Fascia axilar]]
-- [[Músculo serrato anterior]]
+- [[MÃºsculo serrato anterior]]
 - [[Ligamento suspensorio de la axila]]
-- [[Nervio torácico largo]]
+- [[Nervio torÃ¡cico largo]]

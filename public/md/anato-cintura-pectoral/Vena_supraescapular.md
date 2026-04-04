@@ -1,34 +1,35 @@
-# Vena supraescapular
+﻿# Vena supraescapular
 
-> Vena que drena la región supraespinosa y fosa infraespinosa. Desemboca en la vena subclavia.
+> Vena que drena la regiÃ³n supraespinosa y fosa infraespinosa. Desemboca en la vena subclavia.
 
-## 📋 Datos Clave
+## ðŸ“‹ Datos Clave
 - **Drena en:** [[Vena subclavia]]
-- **Región:** #vena #colateral #cintura-pectoral
-- **Acompaña a:** [[Arteria supraescapular]]
+- **RegiÃ³n:** #vena #colateral #cintura-pectoral
+- **AcompaÃ±a a:** [[Arteria supraescapular]]
 
 ## Origen/Drenaje
-La vena supraescapular drena los músculos supraespinoso e infraespinoso, así como las estructuras de la fosa supraespinosa e infraespinosa de la escápula.
+La vena supraescapular drena los mÃºsculos supraespinoso e infraespinoso, asÃ­ como las estructuras de la fosa supraespinosa e infraespinosa de la escÃ¡pula.
 
 ## Trayecto
-Acompaña a la arteria supraescapular, pasando por encima del ligamento escapular transverso (o a través de la escotadura escapular) para llegar a la fosa supraespinosa, luego continúa a la fosa infraespinosa.
+AcompaÃ±a a la arteria supraescapular, pasando por encima del ligamento escapular transverso (o a travÃ©s de la escotadura escapular) para llegar a la fosa supraespinosa, luego continÃºa a la fosa infraespinosa.
 
-## Relaciones anatómicas
+## Relaciones anatÃ³micas
 - **Superior:** Ligamento escapular transverso
-- **Profundo:** Músculos supraespinoso e infraespinoso
+- **Profundo:** MÃºsculos supraespinoso e infraespinoso
 - **Cercana:** Nervio supraescapular
 - **Conecta con:** Plexo venoso escapular
 
-## Importancia clínica
-- **Síndrome del estrecho escapular:** Puede comprimirse en la escotadura escapular
-- **Cirugía de hombro:** Consideración en procedimientos artroscópicos
-- **Drenaje venoso:** Importante en patologías de la cintura escapular
+## Importancia clÃ­nica
+- **SÃ­ndrome del estrecho escapular:** Puede comprimirse en la escotadura escapular
+- **CirugÃ­a de hombro:** ConsideraciÃ³n en procedimientos artroscÃ³picos
+- **Drenaje venoso:** Importante en patologÃ­as de la cintura escapular
 
-## 🔗 Fuente
-- Rouvier-Anatomía Humana, Tomo 3
+## ðŸ”— Fuente
+- Rouvier-AnatomÃ­a Humana, Tomo 3
 
-## 🔗 Enlaces
+## ðŸ”— Enlaces
 - **Vena padre:** [[Venas subclavias]]
-- **Ramas hermanas:** [[Vena yugular externa]], [[Vena vertebral]], [[Vena torácica interna]], [[Vena cervical profunda]]
+- **Ramas hermanas:** [[Vena yugular externa]], [[Vena vertebral]], [[Vena torÃ¡cica interna]], [[Vena cervical profunda]]
 - **Arteria correspondiente:** [[Arteria supraescapular]]
-- **Estructuras relacionadas:** [[Vena cefálica]], [[Vena basílica]], [[Triángulo deltopectoral]], [[Fascia clavipectoral]]
+- **Estructuras relacionadas:** [[Vena cefÃ¡lica]], [[Vena basÃ­lica]], [[TriÃ¡ngulo deltopectoral]], [[Fascia clavipectoral]]
+

@@ -1,42 +1,42 @@
-# Nervio Subclavio
+﻿# Nervio Subclavio
 
-> Nervio delgado que inerva el músculo subclavio y se comunica con el nervio frénico
+> Nervio delgado que inerva el mÃºsculo subclavio y se comunica con el nervio frÃ©nico
 
-## 📋 Datos Clave
+## ðŸ“‹ Datos Clave
 - **Etiquetas:** #nervio #colateral-anterior #cintura-pectoral
-- **Origen:** Fascículo lateral o división anterior del tronco superior del [[plexo braquial]] (C5-C6)
-- **Tipo:** Somático motor
-- **Región:** #cintura-pectoral #clavicula
+- **Origen:** FascÃ­culo lateral o divisiÃ³n anterior del tronco superior del [[plexo braquial]] (C5-C6)
+- **Tipo:** SomÃ¡tico motor
+- **RegiÃ³n:** #cintura-pectoral #clavicula
 
-## 📷 Imágenes de Referencia
+## ðŸ“· ImÃ¡genes de Referencia
 
-*[Imágenes por agregar]*
+*[ImÃ¡genes por agregar]*
 
 ## Origen
-Nace del **fascículo lateral** o de la **división anterior del tronco superior** del [[plexo braquial]] (Ruvier: "unas veces del fascículo lateral y otras de la división anterior del tronco superior").
+Nace del **fascÃ­culo lateral** o de la **divisiÃ³n anterior del tronco superior** del [[plexo braquial]] (Ruvier: "unas veces del fascÃ­culo lateral y otras de la divisiÃ³n anterior del tronco superior").
 
 ## Recorrido
-1. **Descenso:** Desciende anterior al [[plexo braquial]], a lo largo del borde lateral del [[músculo escaleno anterior]]
-2. **Relación con el frénico:** Se sitúa lateralmente al [[nervio frénico]]
-3. **División:** Se divide en dos ramos
+1. **Descenso:** Desciende anterior al [[plexo braquial]], a lo largo del borde lateral del [[mÃºsculo escaleno anterior]]
+2. **RelaciÃ³n con el frÃ©nico:** Se sitÃºa lateralmente al [[nervio frÃ©nico]]
+3. **DivisiÃ³n:** Se divide en dos ramos
 
 ## Ramas
-- **Ramo comunicante:** Se une al [[nervio frénico]] (rama comunicante)
-- **Ramo muscular:** Termina en la parte media del [[músculo subclavio]] (anterior o posterior a la vena subclavia)
+- **Ramo comunicante:** Se une al [[nervio frÃ©nico]] (rama comunicante)
+- **Ramo muscular:** Termina en la parte media del [[mÃºsculo subclavio]] (anterior o posterior a la vena subclavia)
 
-## Territorio de inervación
-### Músculos:
-- [[Músculo subclavio]]
+## Territorio de inervaciÃ³n
+### MÃºsculos:
+- [[MÃºsculo subclavio]]
 
-### Función del músculo:
-- **Descenso de la clavícula** y estabilización de la articulación esternoclavicular
+### FunciÃ³n del mÃºsculo:
+- **Descenso de la clavÃ­cula** y estabilizaciÃ³n de la articulaciÃ³n esternoclavicular
 
-## Relaciones anatómicas importantes
+## Relaciones anatÃ³micas importantes
 - **Anterior al plexo braquial** durante su trayecto
-- **Lateral al [[nervio frénico]]** en el cuello
-- **Relación con la vena subclavia:** Pasa anterior o posterior a la vena
+- **Lateral al [[nervio frÃ©nico]]** en el cuello
+- **RelaciÃ³n con la vena subclavia:** Pasa anterior o posterior a la vena
 
-## Variaciones anatómicas
+## Variaciones anatÃ³micas
 [por completar]
 
 ## Lesiones
@@ -44,9 +44,11 @@ Nace del **fascículo lateral** o de la **división anterior del tronco superior
 - Puede afectarse en lesiones cervicales altas
 
 
-## 🔗 Enlaces
+## ðŸ”— Enlaces
 - [[Plexo braquial]]
 - [[Arteria subclavia]]
 
-## 🔗 Fuente
-- Rouvier-Anatomía Humana, Tomo 3
+## ðŸ”— Fuente
+- Rouvier-AnatomÃ­a Humana, Tomo 3
+
+

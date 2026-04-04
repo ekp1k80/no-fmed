@@ -1,36 +1,36 @@
-# Fascia Deltoidea
+﻿# Fascia Deltoidea
 
-> Delgada lámina fibrosa que recubre las dos caras del [[Músculo deltoides]]
+> Delgada lÃ¡mina fibrosa que recubre las dos caras del [[MÃºsculo deltoides]]
 
-## 📋 Datos Clave
-- **Región:** #fascia #cintura-pectoral #hombro
-- **Estructuras relacionadas:** [[Músculo deltoides]], [[fascia pectoral]], [[fascia del [[músculo infraespinoso]]]]
+## ðŸ“‹ Datos Clave
+- **RegiÃ³n:** #fascia #cintura-pectoral #hombro
+- **Estructuras relacionadas:** [[MÃºsculo deltoides]], [[fascia pectoral]], [[fascia del [[mÃºsculo infraespinoso]]]]
 
-## Descripción
-Según Ruvier (Tomo 3, p. 152):
-- El [[Músculo deltoides]] está recubierto en sus **dos caras** por una delgada lámina fibrosa
-- **Hoja superficial:** Muy adherida al músculo por medio de numerosos tabiques que envuelve entre los fascículos musculares
+## DescripciÃ³n
+SegÃºn Ruvier (Tomo 3, p. 152):
+- El [[MÃºsculo deltoides]] estÃ¡ recubierto en sus **dos caras** por una delgada lÃ¡mina fibrosa
+- **Hoja superficial:** Muy adherida al mÃºsculo por medio de numerosos tabiques que envuelve entre los fascÃ­culos musculares
 - **Hoja profunda:** Menos adherida
 
 ## Continuidades
-- **Inferiormente** se continúa con la [[fascia del brazo]]
-- **Posteriormente** se continúa con la [[fascia del [[músculo infraespinoso]]]]
-- **Anteriormente** cubre el [[Triángulo deltopectoral]] y se reúne con la [[fascia pectoral]]
+- **Inferiormente** se continÃºa con la [[fascia del brazo]]
+- **Posteriormente** se continÃºa con la [[fascia del [[mÃºsculo infraespinoso]]]]
+- **Anteriormente** cubre el [[TriÃ¡ngulo deltopectoral]] y se reÃºne con la [[fascia pectoral]]
 
 ## Contenido
 - Rama acromial de la arteria toracoacromial discurre bajo la fascia deltoidea
-- Ramas del nervio axilar (rama cutánea lateral superior del brazo) perforan la fascia
+- Ramas del nervio axilar (rama cutÃ¡nea lateral superior del brazo) perforan la fascia
 
-## Importancia clínica
+## Importancia clÃ­nica
 - Inyecciones intramusculares en el deltoides deben respetar la fascia
-- La adherencia de la hoja superficial al músculo hace difícil la disección
+- La adherencia de la hoja superficial al mÃºsculo hace difÃ­cil la disecciÃ³n
 
-## 🔗 Fuente
-- Rouvier-Anatomía Humana, Tomo 3
+## ðŸ”— Fuente
+- Rouvier-AnatomÃ­a Humana, Tomo 3
 
-## 🔗 Enlaces
+## ðŸ”— Enlaces
 - [[Fascia pectoral]]
 - [[Fascia del brazo]]
-- [[Músculo deltoides]]
-- [[Triángulo deltopectoral]]
+- [[MÃºsculo deltoides]]
+- [[TriÃ¡ngulo deltopectoral]]
 - [[Nervio axilar]]

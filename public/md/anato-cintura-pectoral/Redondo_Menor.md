@@ -1,43 +1,43 @@
-# Redondo Menor
+﻿# Redondo Menor
 
-> MÃºsculo cilÃ­ndrico que se extiende desde el borde lateral de la escÃ¡pula hasta el hÃºmero
+> MÃƒÂºsculo cilÃƒÂ­ndrico que se extiende desde el borde lateral de la escÃƒÂ¡pula hasta el hÃƒÂºmero
 
 #musculo #cintura-pectoral #escapula #hombro
 
-## ðŸ“‹ Datos Clave
-- **Grupo:** MÃºsculos del manguito rotador
-- **FunciÃ³n principal:** RotaciÃ³n lateral del brazo
-- **InervaciÃ³n:** [[Nervio axilar]]
+## Ã°Å¸â€œâ€¹ Datos Clave
+- **Grupo:** MÃƒÂºsculos del manguito rotador
+- **FunciÃƒÂ³n principal:** RotaciÃƒÂ³n lateral del brazo
+- **InervaciÃƒÂ³n:** [[Nervio axilar]]
 
-## ðŸ“· ImÃ¡genes de Referencia
+## Ã°Å¸â€œÂ· ImÃƒÂ¡genes de Referencia
 
-![[imgs/Redondo_Menor/Redondo_menor_posterior.png|400]]
+![Redondo_menor_posterior.png](imgs/musculos/Redondo_menor_posterior.png)
 *Vista posterior del redondo menor*
 
 ## Origen
-- Borde lateral de la escÃ¡pula (cara dorsal)
+- Borde lateral de la escÃƒÂ¡pula (cara dorsal)
 
-## InserciÃ³n
-- Faceta inferior del tubÃ©rculo mayor del hÃºmero
-- CÃ¡psula de la articulaciÃ³n glenohumeral
+## InserciÃƒÂ³n
+- Faceta inferior del tubÃƒÂ©rculo mayor del hÃƒÂºmero
+- CÃƒÂ¡psula de la articulaciÃƒÂ³n glenohumeral
 
 ## Relaciones
 - Superior a [[Redondo Mayor]]
 - Inferior a [[Infraespinoso]]
-- Relacionado con [[Deltoides]] en su inserciÃ³n
+- Relacionado con [[Deltoides]] en su inserciÃƒÂ³n
 
-## VascularizaciÃ³n
+## VascularizaciÃƒÂ³n
 - [[Arteria circunfleja escapular posterior]]
 - [[Arteria subescapular]]
 
-## InervaciÃ³n
+## InervaciÃƒÂ³n
 - [[Nervio axilar]] (C5-C6)
 
 ## Funciones
-- RotaciÃ³n lateral del brazo
-- AducciÃ³n del brazo
-- ExtensiÃ³n del brazo
-- EstabilizaciÃ³n de la articulaciÃ³n glenohumeral
+- RotaciÃƒÂ³n lateral del brazo
+- AducciÃƒÂ³n del brazo
+- ExtensiÃƒÂ³n del brazo
+- EstabilizaciÃƒÂ³n de la articulaciÃƒÂ³n glenohumeral
 
-## ðŸ”— Fuente
-- Rouvier-AnatomÃ­a Humana, Tomo 3
+## Ã°Å¸â€â€” Fuente
+- Rouvier-AnatomÃƒÂ­a Humana, Tomo 3

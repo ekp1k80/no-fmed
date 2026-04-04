@@ -1,28 +1,28 @@
-# Fascia del Músculo Dorsal Ancho
+﻿# Fascia del MÃºsculo Dorsal Ancho
 
-> Lámina fibrosa que recubre el [[Músculo dorsal ancho]]; presenta continuidad con la [[fascia del [[músculo infraespinoso]]]] y con la hoja profunda de la [[fascia axilar]]
+> LÃ¡mina fibrosa que recubre el [[MÃºsculo dorsal ancho]]; presenta continuidad con la [[fascia del [[mÃºsculo infraespinoso]]]] y con la hoja profunda de la [[fascia axilar]]
 
-## 📋 Datos Clave
-- **Región:** #fascia #cintura-pectoral #espalda
-- **Estructuras relacionadas:** [[Músculo dorsal ancho]], [[fascia del [[músculo infraespinoso]]]], [[fascia axilar]]
+## ðŸ“‹ Datos Clave
+- **RegiÃ³n:** #fascia #cintura-pectoral #espalda
+- **Estructuras relacionadas:** [[MÃºsculo dorsal ancho]], [[fascia del [[mÃºsculo infraespinoso]]]], [[fascia axilar]]
 
-## Descripción
-Según Ruvier (Tomo 3, p. 152):
-- Esta fascia presenta **continuidad con la del [[Músculo infraespinoso]]**
-- Se fija en la cresta del tubérculo mayor del [[húmero]]
+## DescripciÃ³n
+SegÃºn Ruvier (Tomo 3, p. 152):
+- Esta fascia presenta **continuidad con la del [[MÃºsculo infraespinoso]]**
+- Se fija en la cresta del tubÃ©rculo mayor del [[hÃºmero]]
 
 ## Continuidades
-- Superiormente se continúa con la [[fascia del [[músculo infraespinoso]]]]
+- Superiormente se continÃºa con la [[fascia del [[mÃºsculo infraespinoso]]]]
 - Se une a la hoja profunda de la [[fascia axilar]]
 
-## Importancia clínica
-- La [[fascia del [[músculo dorsal ancho]]]] forma parte de las relaciones posteriores de la [[fosa axilar]]
-- El [[Músculo dorsal ancho]] forma parte de las paredes posteriores de la axila
+## Importancia clÃ­nica
+- La [[fascia del [[mÃºsculo dorsal ancho]]]] forma parte de las relaciones posteriores de la [[fosa axilar]]
+- El [[MÃºsculo dorsal ancho]] forma parte de las paredes posteriores de la axila
 
-## 🔗 Fuente
-- Rouvier-Anatomía Humana, Tomo 3
+## ðŸ”— Fuente
+- Rouvier-AnatomÃ­a Humana, Tomo 3
 
-## 🔗 Enlaces
+## ðŸ”— Enlaces
 - [[Fascia axilar]]
-- [[Músculo dorsal ancho]]
+- [[MÃºsculo dorsal ancho]]
 - [[Nervio toracodorsal]]

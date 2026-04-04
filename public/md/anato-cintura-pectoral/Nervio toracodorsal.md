@@ -1,49 +1,51 @@
-# Nervio Toracodorsal
+﻿# Nervio Toracodorsal
 
-> Nervio que inerva el músculo dorsal ancho y el redondo mayor
+> Nervio que inerva el mÃºsculo dorsal ancho y el redondo mayor
 
-## 📋 Datos Clave
+## ðŸ“‹ Datos Clave
 - **Etiquetas:** #nervio #colateral-posterior #cintura-pectoral
-- **Origen:** Fascículo posterior del [[plexo braquial]] (C5-C7)
-- **Tipo:** Somático motor
-- **Región:** #cintura-pectoral #axila #dorso
+- **Origen:** FascÃ­culo posterior del [[plexo braquial]] (C5-C7)
+- **Tipo:** SomÃ¡tico motor
+- **RegiÃ³n:** #cintura-pectoral #axila #dorso
 
-## 📷 Imágenes de Referencia
+## ðŸ“· ImÃ¡genes de Referencia
 
-*[Imágenes por agregar]*
+*[ImÃ¡genes por agregar]*
 
 ## Origen
-Procede del **fascículo posterior** del [[plexo braquial]] (Ruvier: "procede también del fascículo posterior").
+Procede del **fascÃ­culo posterior** del [[plexo braquial]] (Ruvier: "procede tambiÃ©n del fascÃ­culo posterior").
 
 ## Recorrido
-1. **Descenso:** Anterior al [[músculo subescapular]] y a los **vasos subescapulares**
-2. **Penetración:** Penetra en el [[músculo dorsal ancho]] cerca del **borde lateral de la escápula**
-3. **Distribución:** Se distribuye en el músculo desde su cara anterior
+1. **Descenso:** Anterior al [[mÃºsculo subescapular]] y a los **vasos subescapulares**
+2. **PenetraciÃ³n:** Penetra en el [[mÃºsculo dorsal ancho]] cerca del **borde lateral de la escÃ¡pula**
+3. **DistribuciÃ³n:** Se distribuye en el mÃºsculo desde su cara anterior
 
-## Territorio de inervación
-### Músculos:
-- [[Músculo dorsal ancho]]
-- [[Músculo redondo mayor]]
+## Territorio de inervaciÃ³n
+### MÃºsculos:
+- [[MÃºsculo dorsal ancho]]
+- [[MÃºsculo redondo mayor]]
 
-### Función del músculo:
-- **Adducción** del brazo
-- **Extensión** del brazo
-- **Rotación interna** del brazo
-- Participa en movimientos de tracción (dominadas, remo)
+### FunciÃ³n del mÃºsculo:
+- **AdducciÃ³n** del brazo
+- **ExtensiÃ³n** del brazo
+- **RotaciÃ³n interna** del brazo
+- Participa en movimientos de tracciÃ³n (dominadas, remo)
 
-## Relaciones anatómicas importantes
-- **Anterior al [[músculo subescapular]]** en su descenso
+## Relaciones anatÃ³micas importantes
+- **Anterior al [[mÃºsculo subescapular]]** en su descenso
 - **Anterior a los vasos subescapulares**
-- **Cercano al borde lateral de la escápula** en su terminación
+- **Cercano al borde lateral de la escÃ¡pula** en su terminaciÃ³n
 
 ## Lesiones
-- Debilidad en adducción y extensión del brazo
-- Dificultad en movimientos de tracción
+- Debilidad en adducciÃ³n y extensiÃ³n del brazo
+- Dificultad en movimientos de tracciÃ³n
 - Rara vez aislada
 
 
-## 🔗 Enlaces
+## ðŸ”— Enlaces
 - [[Plexo braquial]]
 
-## 🔗 Fuente
-- Rouvier-Anatomía Humana, Tomo 3
+## ðŸ”— Fuente
+- Rouvier-AnatomÃ­a Humana, Tomo 3
+
+

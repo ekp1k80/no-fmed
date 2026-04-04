@@ -1,34 +1,35 @@
-# Vena cervical profunda
+﻿# Vena cervical profunda
 
-> Vena que drena la región profunda del cuello. Desemboca en la vena subclavia.
+> Vena que drena la regiÃ³n profunda del cuello. Desemboca en la vena subclavia.
 
-## 📋 Datos Clave
+## ðŸ“‹ Datos Clave
 - **Drena en:** [[Vena subclavia]]
-- **Región:** #vena #colateral #cintura-pectoral
-- **Acompaña a:** [[Arteria cervical profunda]]
+- **RegiÃ³n:** #vena #colateral #cintura-pectoral
+- **AcompaÃ±a a:** [[Arteria cervical profunda]]
 
 ## Origen/Drenaje
-La vena cervical profunda drena los músculos profundos del cuello, incluyendo los músculos escalenos, largo del cuello y complejo mayor.
+La vena cervical profunda drena los mÃºsculos profundos del cuello, incluyendo los mÃºsculos escalenos, largo del cuello y complejo mayor.
 
 ## Trayecto
-Acompaña a la arteria cervical profunda, ascendiendo por los músculos profundos del cuello en el triángulo posterior cervical.
+AcompaÃ±a a la arteria cervical profunda, ascendiendo por los mÃºsculos profundos del cuello en el triÃ¡ngulo posterior cervical.
 
-## Relaciones anatómicas
-- **Profundo:** Músculos escalenos y prevertebrales
-- **Superficial:** Músculo esternocleidomastoideo
+## Relaciones anatÃ³micas
+- **Profundo:** MÃºsculos escalenos y prevertebrales
+- **Superficial:** MÃºsculo esternocleidomastoideo
 - **Cercana:** Plexo braquial, arteria subclavia
-- **Posterior:** Procesos transversos de vértebras cervicales
+- **Posterior:** Procesos transversos de vÃ©rtebras cervicales
 
-## Importancia clínica
-- **Cirugía cervical:** Consideración en disecciones del cuello
+## Importancia clÃ­nica
+- **CirugÃ­a cervical:** ConsideraciÃ³n en disecciones del cuello
 - **Trauma:** Puede lesionarse en traumatismos cervicales
 - **Drenaje venoso:** Importante en infecciones profundas del cuello
 
-## 🔗 Fuente
-- Rouvier-Anatomía Humana, Tomo 3
+## ðŸ”— Fuente
+- Rouvier-AnatomÃ­a Humana, Tomo 3
 
-## 🔗 Enlaces
+## ðŸ”— Enlaces
 - **Vena padre:** [[Venas subclavias]]
-- **Ramas hermanas:** [[Vena yugular externa]], [[Vena vertebral]], [[Vena torácica interna]], [[Vena supraescapular]]
+- **Ramas hermanas:** [[Vena yugular externa]], [[Vena vertebral]], [[Vena torÃ¡cica interna]], [[Vena supraescapular]]
 - **Arteria correspondiente:** [[Arteria cervical profunda]]
-- **Estructuras relacionadas:** [[Vena cefálica]], [[Vena basílica]], [[Triángulo deltopectoral]], [[Fascia clavipectoral]]
+- **Estructuras relacionadas:** [[Vena cefÃ¡lica]], [[Vena basÃ­lica]], [[TriÃ¡ngulo deltopectoral]], [[Fascia clavipectoral]]
+

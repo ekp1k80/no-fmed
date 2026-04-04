@@ -1,57 +1,59 @@
-# Nervio Pectoral Medial
+﻿# Nervio Pectoral Medial
 
-> Nervio que inerva el músculo pectoral menor y forma el asa de los nervios pectorales
+> Nervio que inerva el mÃºsculo pectoral menor y forma el asa de los nervios pectorales
 
-## 📋 Datos Clave
+## ðŸ“‹ Datos Clave
 - **Etiquetas:** #nervio #colateral-anterior #cintura-pectoral
-- **Origen:** Fascículo medial del [[plexo braquial]] (C8-T1)
-- **Tipo:** Somático motor
-- **Región:** #cintura-pectoral #axila
+- **Origen:** FascÃ­culo medial del [[plexo braquial]] (C8-T1)
+- **Tipo:** SomÃ¡tico motor
+- **RegiÃ³n:** #cintura-pectoral #axila
 
-## 📷 Imágenes de Referencia
+## ðŸ“· ImÃ¡genes de Referencia
 
-*[Imágenes por agregar]*
+*[ImÃ¡genes por agregar]*
 
 ## Origen
-Nace del **fascículo medial** del [[plexo braquial]], posteriormente a la clavícula (Ruvier: "nace del fascículo medial, posteriormente a la clavícula").
+Nace del **fascÃ­culo medial** del [[plexo braquial]], posteriormente a la clavÃ­cula (Ruvier: "nace del fascÃ­culo medial, posteriormente a la clavÃ­cula").
 
 ## Recorrido
-1. **Dirección:** Inferior y un poco anterior
-2. **Relación con la arteria axilar:** Discurre primero **posterior** a la [[arteria axilar]] y luego **entre** la [[arteria axilar]] y la vena axilar
-3. **División:** Se divide en dos ramos: muscular y comunicante
+1. **DirecciÃ³n:** Inferior y un poco anterior
+2. **RelaciÃ³n con la arteria axilar:** Discurre primero **posterior** a la [[arteria axilar]] y luego **entre** la [[arteria axilar]] y la vena axilar
+3. **DivisiÃ³n:** Se divide en dos ramos: muscular y comunicante
 4. **Asa de los nervios pectorales:** El ramo comunicante se une al ramo comunicante del [[nervio pectoral lateral]] **anterior a la arteria axilar**, inmediatamente inferior al origen de la [[arteria toracoacromial]]
 
 ## Ramas
-- **Ramo muscular:** Destinado al [[músculo pectoral menor]]
+- **Ramo muscular:** Destinado al [[mÃºsculo pectoral menor]]
 - **Ramo comunicante:** Se une al ramo del [[nervio pectoral lateral]] formando el **asa de los nervios pectorales**
 - **Ramos del asa:** De la convexidad del asa nacen:
-  - Ramos que cruzan el borde superior del [[músculo pectoral menor]] y se distribuyen por el [[músculo pectoral mayor]]
-  - Ramos que se distribuyen por el [[músculo pectoral menor]]
+  - Ramos que cruzan el borde superior del [[mÃºsculo pectoral menor]] y se distribuyen por el [[mÃºsculo pectoral mayor]]
+  - Ramos que se distribuyen por el [[mÃºsculo pectoral menor]]
 
-## Territorio de inervación
-### Músculos:
-- [[Músculo pectoral menor]]
-- [[Músculo pectoral mayor]] (a través del asa pectoral)
+## Territorio de inervaciÃ³n
+### MÃºsculos:
+- [[MÃºsculo pectoral menor]]
+- [[MÃºsculo pectoral mayor]] (a travÃ©s del asa pectoral)
 
 ## Asa de los Nervios Pectorales
-- Formada por la unión del ramo comunicante del [[nervio pectoral lateral]] y el ramo comunicante del [[nervio pectoral medial]]
+- Formada por la uniÃ³n del ramo comunicante del [[nervio pectoral lateral]] y el ramo comunicante del [[nervio pectoral medial]]
 - **Concavidad:** Se aplica a la cara anterior de la [[arteria axilar]], inmediatamente inferior al origen de la [[arteria toracoacromial]]
 
-## Relaciones anatómicas importantes
+## Relaciones anatÃ³micas importantes
 - **Posterior a la [[arteria axilar]]** en su trayecto inicial
 - **Entre arteria y vena axilares** en su trayecto medio
-- **Posterior a la clavícula** en su origen
+- **Posterior a la clavÃ­cula** en su origen
 
 ## Lesiones
-- Debilidad en aducción del brazo
-- Dificultad en movimientos de compresión
+- Debilidad en aducciÃ³n del brazo
+- Dificultad en movimientos de compresiÃ³n
 - Rara vez aislada
 
 
-## 🔗 Enlaces
+## ðŸ”— Enlaces
 - [[Plexo braquial]]
 - [[Nervio pectoral lateral]]
 - [[Asa pectoral]]
 
-## 🔗 Fuente
-- Rouvier-Anatomía Humana, Tomo 3
+## ðŸ”— Fuente
+- Rouvier-AnatomÃ­a Humana, Tomo 3
+
+

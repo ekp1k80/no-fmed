@@ -1,75 +1,77 @@
-# Nervio Cubital
+﻿# Nervio Cubital
 
-> Nervio terminal del fascículo medial del plexo braquial; inerva parte de los flexores y la musculura hipotenar
+> Nervio terminal del fascÃ­culo medial del plexo braquial; inerva parte de los flexores y la musculura hipotenar
 
-## 📋 Datos Clave
-- **Origen:** Fascículo medial del [[plexo braquial]] (C7-T1)
-- **Tipo:** Somático motor y sensitivo
-- **Región:** #cintura-pectoral #brazo #antebrazo #mano
+## ðŸ“‹ Datos Clave
+- **Origen:** FascÃ­culo medial del [[plexo braquial]] (C7-T1)
+- **Tipo:** SomÃ¡tico motor y sensitivo
+- **RegiÃ³n:** #cintura-pectoral #brazo #antebrazo #mano
 - **Etiquetas:** #nervio #terminal #cintura-pectoral #brazo
 
-## 📷 Imágenes de Referencia
+## ðŸ“· ImÃ¡genes de Referencia
 
-*[Imágenes por agregar]*
+*[ImÃ¡genes por agregar]*
 
 ## Origen
-Nace del **fascículo medial** del [[plexo braquial]], que termina constituyendo este nervio y la raíz medial del [[nervio mediano]] (Ruvier: "nace del fascículo medial, que termina constituyendo este nervio y la raíz medial del mediano"). Raíces: **C8 y T1** (principalmente C8-T1).
+Nace del **fascÃ­culo medial** del [[plexo braquial]], que termina constituyendo este nervio y la raÃ­z medial del [[nervio mediano]] (Ruvier: "nace del fascÃ­culo medial, que termina constituyendo este nervio y la raÃ­z medial del mediano"). RaÃ­ces: **C8 y T1** (principalmente C8-T1).
 
 ## Recorrido
 1. **En la axila:** Medialmente a la [[arteria axilar]], en el intersticio que la separa de la vena axilar
 2. **Brazo:** Desciende medialmente a la [[arteria braquial]] hasta ~6 cm por encima del codo. **No tiene colaterales en el brazo**.
 3. **Tabique intermuscular medial:** Atraviesa el tabique intermuscular medial del brazo para pasar al compartimento posterior
-4. **Codo:** Pasa posterior al [[epicóndilo medial]] del [[húmero]], en el surco cubital
-5. **Antebrazo:** Desciende entre el [[músculo flexor cubital del carpo]] y el [[músculo flexor profundo de los dedos]]
-6. **Muñeca:** Pasa anterior al pisiforme, bajo el retináculo de los flexores
+4. **Codo:** Pasa posterior al [[epicÃ³ndilo medial]] del [[hÃºmero]], en el surco cubital
+5. **Antebrazo:** Desciende entre el [[mÃºsculo flexor cubital del carpo]] y el [[mÃºsculo flexor profundo de los dedos]]
+6. **MuÃ±eca:** Pasa anterior al pisiforme, bajo el retinÃ¡culo de los flexores
 7. **Mano:** Se divide en ramo superficial y profundo en la eminencia hipotenar
 
 ## Ramas
-- **Ramo muscular (codo):** [[músculo flexor cubital del carpo]], [[músculo flexor profundo de los dedos]] (1½ dedos mediales)
-- **Ramo dorsal:** Para el dorso de la mano (mitad medial) y ½ dedo anular
-- **Ramo superficial:** Cutáneo para la palma medial y dedo meñique
-- **Ramo profundo:** Motor para la eminencia hipotenar, [[músculo interóseos]], 3er y 4to lumbricales, [[músculo aductor del pulgar]]
+- **Ramo muscular (codo):** [[mÃºsculo flexor cubital del carpo]], [[mÃºsculo flexor profundo de los dedos]] (1Â½ dedos mediales)
+- **Ramo dorsal:** Para el dorso de la mano (mitad medial) y Â½ dedo anular
+- **Ramo superficial:** CutÃ¡neo para la palma medial y dedo meÃ±ique
+- **Ramo profundo:** Motor para la eminencia hipotenar, [[mÃºsculo interÃ³seos]], 3er y 4to lumbricales, [[mÃºsculo aductor del pulgar]]
 
-## Territorio de inervación
-### Músculos:
-- **Antebrazo:** [[músculo flexor cubital del carpo]], [[músculo flexor profundo de los dedos]] (1½ dedos mediales)
-- **Mano:** **Eminencia hipotenar** (completa), **interóseos** (palmares y dorsales), **3er y 4to lumbricales**, [[músculo aductor del pulgar]], [[músculo cutáneo palmar]]
+## Territorio de inervaciÃ³n
+### MÃºsculos:
+- **Antebrazo:** [[mÃºsculo flexor cubital del carpo]], [[mÃºsculo flexor profundo de los dedos]] (1Â½ dedos mediales)
+- **Mano:** **Eminencia hipotenar** (completa), **interÃ³seos** (palmares y dorsales), **3er y 4to lumbricales**, [[mÃºsculo aductor del pulgar]], [[mÃºsculo cutÃ¡neo palmar]]
 
-### Sensibilidad cutánea:
-- **Dorso de la mano** (mitad medial y ½ dedo anular)
+### Sensibilidad cutÃ¡nea:
+- **Dorso de la mano** (mitad medial y Â½ dedo anular)
 - **Palma** (mitad medial)
-- **Dedo meñique** (completo)
-- **½ dedo anular** (medial)
+- **Dedo meÃ±ique** (completo)
+- **Â½ dedo anular** (medial)
 
-## Relaciones anatómicas importantes
+## Relaciones anatÃ³micas importantes
 - **Medial a la [[arteria axilar]]** en la axila
 - **Atraviesa el tabique intermuscular medial** del brazo
-- **Posterior al [[epicóndilo medial]]** del [[húmero]]
-- **Cercano al [[húmero]]** en el surco cubital — vulnerable en fracturas
+- **Posterior al [[epicÃ³ndilo medial]]** del [[hÃºmero]]
+- **Cercano al [[hÃºmero]]** en el surco cubital â€” vulnerable en fracturas
 
 ## Lesiones
 ### A nivel del codo (surco cubital):
-- **"Garra cubital":** Dedos en extensión (lumbricales 3-4 afectados), hiperextensión MCP, flexión IF
-- Pérdida de aducción del pulgar
-- Debilidad de abducción y aducción de dedos (interóseos)
-- Pérdida de sensibilidad en dedo meñique y medio
+- **"Garra cubital":** Dedos en extensiÃ³n (lumbricales 3-4 afectados), hiperextensiÃ³n MCP, flexiÃ³n IF
+- PÃ©rdida de aducciÃ³n del pulgar
+- Debilidad de abducciÃ³n y aducciÃ³n de dedos (interÃ³seos)
+- PÃ©rdida de sensibilidad en dedo meÃ±ique y medio
 
 ### A nivel del carpo:
-- Solo pérdida motora de interóseos y lumbricales 3-4
+- Solo pÃ©rdida motora de interÃ³seos y lumbricales 3-4
 
 ### Signo de Froment:
-- Al pedir que sostengan un papel entre pulgar e índice, el pulgar se flexiona (compensando con [[nervio mediano]])
+- Al pedir que sostengan un papel entre pulgar e Ã­ndice, el pulgar se flexiona (compensando con [[nervio mediano]])
 
-## 🔗 Fuente
-- Rouvier-Anatomía Humana, Tomo 3
+## ðŸ”— Fuente
+- Rouvier-AnatomÃ­a Humana, Tomo 3
 
-## 🔗 Enlaces
+## ðŸ”— Enlaces
 - [[Plexo braquial]]
 - [[Arteria braquial]]
 - [[Arteria cubital]]
 - [[Arteria axilar]]
 - [[Nervio mediano]]
-- [[Húmero]]
-- [[Músculo flexor cubital del carpo]]
-- [[Músculo flexor profundo de los dedos]]
-- [[Músculo aductor del pulgar]]
+- [[HÃºmero]]
+- [[MÃºsculo flexor cubital del carpo]]
+- [[MÃºsculo flexor profundo de los dedos]]
+- [[MÃºsculo aductor del pulgar]]
+
+

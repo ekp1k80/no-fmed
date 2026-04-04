@@ -1,52 +1,52 @@
-# Romboides Mayor
+﻿# Romboides Mayor
 
-> MÃºsculo aplanado y cuadrilÃ¡tero situado profundamente al trapecio
+> MÃƒÂºsculo aplanado y cuadrilÃƒÂ¡tero situado profundamente al trapecio
 
 #musculo #cintura-pectoral #escapula
 
-## ðŸ“‹ Datos Clave
-- **Grupo:** MÃºsculos profundos de la espalda
-- **FunciÃ³n principal:** RetracciÃ³n y rotaciÃ³n de la escÃ¡pula
-- **InervaciÃ³n:** [[Nervio dorsal de la escÃ¡pula]] (C4-C5)
+## Ã°Å¸â€œâ€¹ Datos Clave
+- **Grupo:** MÃƒÂºsculos profundos de la espalda
+- **FunciÃƒÂ³n principal:** RetracciÃƒÂ³n y rotaciÃƒÂ³n de la escÃƒÂ¡pula
+- **InervaciÃƒÂ³n:** [[Nervio dorsal de la escÃƒÂ¡pula]] (C4-C5)
 
-## ðŸ“· ImÃ¡genes de Referencia
+## Ã°Å¸â€œÂ· ImÃƒÂ¡genes de Referencia
 
-![[imgs/Romboides_Mayor/Romboides_mayor_posterior.png|400]]
-*Vista posterior del mÃºsculo*
+![Romboides_mayor_posterior.png](imgs/musculos/Romboides_mayor_posterior.png)
+*Vista posterior del mÃƒÂºsculo*
 
-![[imgs/Romboides_Mayor/Romboides_mayor_posterior_seleccionado.png|400]]
+![Romboides_mayor_posterior_seleccionado.png](imgs/musculos/Romboides_mayor_posterior_seleccionado.png)
 *Vista posterior seleccionada*
 
 ## Origen
-[por completar - segÃºn Rouvier]
+[por completar - segÃƒÂºn Rouvier]
 
-## InserciÃ³n
-[por completar - segÃºn Rouvier]
+## InserciÃƒÂ³n
+[por completar - segÃƒÂºn Rouvier]
 
 ## Relaciones
-- Situado profundamente al mÃºsculo trapecio
-- Superior al mÃºsculo dorsal ancho
-- Inferior al mÃºsculo romboides menor
-- Forma parte de la capa profunda de los mÃºsculos de la espalda
+- Situado profundamente al mÃƒÂºsculo trapecio
+- Superior al mÃƒÂºsculo dorsal ancho
+- Inferior al mÃƒÂºsculo romboides menor
+- Forma parte de la capa profunda de los mÃƒÂºsculos de la espalda
 
-## VascularizaciÃ³n
-- Arteria dorsal de la escÃ¡pula
+## VascularizaciÃƒÂ³n
+- Arteria dorsal de la escÃƒÂ¡pula
 - Arterias intercostales
 
-## InervaciÃ³n
-- Nervio dorsal de la escÃ¡pula (C4-C5)
+## InervaciÃƒÂ³n
+- Nervio dorsal de la escÃƒÂ¡pula (C4-C5)
 - Rama del plexo braquial
 
 ## Funciones
-1. **RetracciÃ³n de la escÃ¡pula:** Aproxima la escÃ¡pula a la lÃ­nea media
-2. **RotaciÃ³n de la escÃ¡pula:** Gira la escÃ¡pula para deprimir el hombro
-3. **FijaciÃ³n de la escÃ¡pula:** Mantiene la escÃ¡pula aplicada contra el tÃ³rax
-4. **EstabilizaciÃ³n:** De la cintura escapular durante los movimientos del brazo
+1. **RetracciÃƒÂ³n de la escÃƒÂ¡pula:** Aproxima la escÃƒÂ¡pula a la lÃƒÂ­nea media
+2. **RotaciÃƒÂ³n de la escÃƒÂ¡pula:** Gira la escÃƒÂ¡pula para deprimir el hombro
+3. **FijaciÃƒÂ³n de la escÃƒÂ¡pula:** Mantiene la escÃƒÂ¡pula aplicada contra el tÃƒÂ³rax
+4. **EstabilizaciÃƒÂ³n:** De la cintura escapular durante los movimientos del brazo
 
-## CaracterÃ­sticas especiales
-- Trabaja en sinergia con el mÃºsculo romboides menor
-- Forma parte del grupo de mÃºsculos que fijan la escÃ¡pula al tronco
-- Participa en movimientos de retracciÃ³n de los hombros
+## CaracterÃƒÂ­sticas especiales
+- Trabaja en sinergia con el mÃƒÂºsculo romboides menor
+- Forma parte del grupo de mÃƒÂºsculos que fijan la escÃƒÂ¡pula al tronco
+- Participa en movimientos de retracciÃƒÂ³n de los hombros
 
-## ðŸ”— Fuente
-- Rouvier-AnatomÃ­a Humana, Tomo 3
+## Ã°Å¸â€â€” Fuente
+- Rouvier-AnatomÃƒÂ­a Humana, Tomo 3

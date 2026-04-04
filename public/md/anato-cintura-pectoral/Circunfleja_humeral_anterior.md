@@ -1,38 +1,38 @@
-# Arteria Circunfleja Humeral Anterior
+﻿# Arteria Circunfleja Humeral Anterior
 
-> Rama de la tercera porción de la arteria axilar que rodea el cuello quirúrgico del húmero por su cara anterior irrigando la articulación del hombro.
+> Rama de la tercera porciÃ³n de la arteria axilar que rodea el cuello quirÃºrgico del hÃºmero por su cara anterior irrigando la articulaciÃ³n del hombro.
 
-## 📋 Datos Clave
-- **Porción:** 3ra porción de la arteria axilar
-- **Origen:** Lateralmente al origen de la arteria circunfleja humeral posterior (o de tronco común con ella)
-- **Región:** #arteria #colateral #3ra-porcion #axila
-- **Estructuras relacionadas:** [[Arteria axilar]], [[Cuello quirúrgico del húmero]], [[Articulación del hombro]], [[Músculo deltoides]]
+## ðŸ“‹ Datos Clave
+- **PorciÃ³n:** 3ra porciÃ³n de la arteria axilar
+- **Origen:** Lateralmente al origen de la arteria circunfleja humeral posterior (o de tronco comÃºn con ella)
+- **RegiÃ³n:** #arteria #colateral #3ra-porcion #axila
+- **Estructuras relacionadas:** [[Arteria axilar]], [[Cuello quirÃºrgico del hÃºmero]], [[ArticulaciÃ³n del hombro]], [[MÃºsculo deltoides]]
 
 ## Origen
-Nace lateralmente al origen de la arteria circunfleja humeral posterior. A veces ambas arterias nacen de un tronco común.
+Nace lateralmente al origen de la arteria circunfleja humeral posterior. A veces ambas arterias nacen de un tronco comÃºn.
 
 ## Trayecto
-Rodea la cara anterior del cuello quirúrgico del húmero. Pasa posterior a los músculos coracobraquial y bíceps braquial. Cruza el ligamento braquial medial. Alcanza el surco intertubercular.
+Rodea la cara anterior del cuello quirÃºrgico del hÃºmero. Pasa posterior a los mÃºsculos coracobraquial y bÃ­ceps braquial. Cruza el ligamento braquial medial. Alcanza el surco intertubercular.
 
-## Distribución / Ramas terminales
+## DistribuciÃ³n / Ramas terminales
 En el surco intertubercular se divide en:
-- **Rama ascendente** → penetra la articulación del hombro
-- **Rama lateral** → se dirige al músculo deltoides
+- **Rama ascendente** â†’ penetra la articulaciÃ³n del hombro
+- **Rama lateral** â†’ se dirige al mÃºsculo deltoides
 
 ## Anastomosis
 - Rama lateral se anastomosa con la arteria circunfleja humeral posterior
 - Se anastomosa con otras ramas de la arteria axilar
 
 ## Espacio que atraviesa (si aplica)
-Transcurre anterior al cuello quirúrgico del húmero, pasando entre los músculos coracobraquial y bíceps.
+Transcurre anterior al cuello quirÃºrgico del hÃºmero, pasando entre los mÃºsculos coracobraquial y bÃ­ceps.
 
-## Importancia clínica
-- Importante en la vascularización de la cabeza humeral y la articulación del hombro
-- En fracturas del cuello quirúrgico del húmero, su lesión puede contribuir a necrosis avascular
-- En cirugías de hombro, debe preservarse para mantener la viabilidad ósea
+## Importancia clÃ­nica
+- Importante en la vascularizaciÃ³n de la cabeza humeral y la articulaciÃ³n del hombro
+- En fracturas del cuello quirÃºrgico del hÃºmero, su lesiÃ³n puede contribuir a necrosis avascular
+- En cirugÃ­as de hombro, debe preservarse para mantener la viabilidad Ã³sea
 
-## 🔗 Fuente
-- Rouvier-Anatomía Humana, Tomo 3
+## ðŸ”— Fuente
+- Rouvier-AnatomÃ­a Humana, Tomo 3
 
 ## Enlaces
 - [[Arteria axilar]]
@@ -47,5 +47,7 @@ Transcurre anterior al cuello quirúrgico del húmero, pasando entre los múscul
 - [[Nervio radial]]
 - [[Nervio cubital]]
 - [[Vena circunfleja humeral anterior]]
+
+
 
 

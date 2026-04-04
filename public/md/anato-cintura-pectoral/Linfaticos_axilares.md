@@ -1,100 +1,100 @@
-# Linfáticos axilares
+﻿# LinfÃ¡ticos axilares
 
-> Sistema de ganglios y vasos linfáticos que drenan la linfa del miembro superior, mama y pared torácica.
+> Sistema de ganglios y vasos linfÃ¡ticos que drenan la linfa del miembro superior, mama y pared torÃ¡cica.
 
-## 📋 Datos Clave
-- **Región:** #linfatico #axila #cintura-pectoral
+## ðŸ“‹ Datos Clave
+- **RegiÃ³n:** #linfatico #axila #cintura-pectoral
 - **Relaciones:** [[Fosa axilar]], [[Arteria axilar]], [[Vena axilar]], [[Plexo braquial]], [[Mama]]
 
 ## Contenido
 
-### Grupos de ganglios linfáticos axilares
+### Grupos de ganglios linfÃ¡ticos axilares
 
-Según la clasificación de Rouvier, existen 5 grupos principales:
+SegÃºn la clasificaciÃ³n de Rouvier, existen 5 grupos principales:
 
 #### 1. Grupo lateral (humeral)
-- **Ubicación:** Lateral a la vena axilar, a lo largo de la vena humeral
-- **Drenaje:** Miembro superior (excepto región deltoidea)
-- **Número:** 4-6 ganglios
+- **UbicaciÃ³n:** Lateral a la vena axilar, a lo largo de la vena humeral
+- **Drenaje:** Miembro superior (excepto regiÃ³n deltoidea)
+- **NÃºmero:** 4-6 ganglios
 
 #### 2. Grupo anterior (pectoral)
-- **Ubicación:** Borde inferior del pectoral menor, a lo largo de la arteria torácica lateral
+- **UbicaciÃ³n:** Borde inferior del pectoral menor, a lo largo de la arteria torÃ¡cica lateral
 - **Drenaje:** 
   - Mama (especialmente cuadrantes superolaterales)
-  - Pared anterolateral del tórax
-- **Número:** 4-5 ganglios
+  - Pared anterolateral del tÃ³rax
+- **NÃºmero:** 4-5 ganglios
 
 #### 3. Grupo posterior (subescapular)
-- **Ubicación:** A lo largo de la arteria subescapular
+- **UbicaciÃ³n:** A lo largo de la arteria subescapular
 - **Drenaje:** 
-  - Pared posterior del tórax
-  - Región escapular
-- **Número:** 6-7 ganglios
+  - Pared posterior del tÃ³rax
+  - RegiÃ³n escapular
+- **NÃºmero:** 6-7 ganglios
 
 #### 4. Grupo central
-- **Ubicación:** Centro de la axila, en tejido adiposo
+- **UbicaciÃ³n:** Centro de la axila, en tejido adiposo
 - **Drenaje:** Recibe linfa de los grupos lateral, anterior y posterior
-- **Número:** 3-4 ganglios (los más grandes)
+- **NÃºmero:** 3-4 ganglios (los mÃ¡s grandes)
 
 #### 5. Grupo apical (subclavicular)
-- **Ubicación:** Ápex de la axila, medial al pectoral menor
+- **UbicaciÃ³n:** Ãpex de la axila, medial al pectoral menor
 - **Drenaje:** Recibe linfa de todos los otros grupos
-- **Número:** 1-3 ganglios
+- **NÃºmero:** 1-3 ganglios
 
-### Drenaje linfático regional
+### Drenaje linfÃ¡tico regional
 
 #### Miembro superior
-- **Vasos linfáticos superficiales:** Siguen venas cefálica y basílica
-- **Vasos linfáticos profundos:** Acompañan arterias principales
-- **Drenaje final:** Ganglios axilares laterales → centrales → apicales
+- **Vasos linfÃ¡ticos superficiales:** Siguen venas cefÃ¡lica y basÃ­lica
+- **Vasos linfÃ¡ticos profundos:** AcompaÃ±an arterias principales
+- **Drenaje final:** Ganglios axilares laterales â†’ centrales â†’ apicales
 
 #### Mama
-- **Cuadrante superolateral (75%):** → Ganglios axilares anteriores
-- **Cuadrante inferomedial:** → Cadena mamaria interna (parasternal)
+- **Cuadrante superolateral (75%):** â†’ Ganglios axilares anteriores
+- **Cuadrante inferomedial:** â†’ Cadena mamaria interna (parasternal)
 - **Drenaje cruzado:** Posible drenaje contralateral
 
-#### Pared torácica
+#### Pared torÃ¡cica
 - **Anterior:** Ganglios axilares anteriores
 - **Posterior:** Ganglios axilares posteriores
 - **Superior:** Ganglios supraclaviculares
 
-### Colectores linfáticos eferentes
+### Colectores linfÃ¡ticos eferentes
 
 #### Tronco subclavio
-- **Formación:** Unión de vasos eferentes de ganglios apicales
+- **FormaciÃ³n:** UniÃ³n de vasos eferentes de ganglios apicales
 - **Trayecto:** Asciende medialmente
-- **Terminación:**
-  - **Lado izquierdo:** Conducto torácico
-  - **Lado derecho:** Conducto linfático derecho
+- **TerminaciÃ³n:**
+  - **Lado izquierdo:** Conducto torÃ¡cico
+  - **Lado derecho:** Conducto linfÃ¡tico derecho
 
-#### Conducto torácico (izquierdo)
-- Recibe linfa de miembro superior izquierdo, hemitórax izquierdo
-- Desemboca en unión yugulosubclavia izquierda
+#### Conducto torÃ¡cico (izquierdo)
+- Recibe linfa de miembro superior izquierdo, hemitÃ³rax izquierdo
+- Desemboca en uniÃ³n yugulosubclavia izquierda
 
-#### Conducto linfático derecho
-- Recibe linfa de miembro superior derecho, hemitórax derecho
-- Desemboca en unión yugulosubclavia derecha
+#### Conducto linfÃ¡tico derecho
+- Recibe linfa de miembro superior derecho, hemitÃ³rax derecho
+- Desemboca en uniÃ³n yugulosubclavia derecha
 
-### Importancia clínica
+### Importancia clÃ­nica
 
-#### Cáncer de mama
-- **Estadificación:** Número de ganglios afectados determina estadio
-- **Disección axilar:** Extirpación de ganglios para evaluación
+#### CÃ¡ncer de mama
+- **EstadificaciÃ³n:** NÃºmero de ganglios afectados determina estadio
+- **DisecciÃ³n axilar:** ExtirpaciÃ³n de ganglios para evaluaciÃ³n
 - **Biopsia de ganglio centinela:** Identifica primer ganglio de drenaje
 
 #### Linfedema
-- **Post-mastectomía:** Obstrucción del drenaje linfático
-- **Post-radioterapia:** Fibrosis de vasos linfáticos
-- **Tratamiento:** Drenaje linfático manual, compresión
+- **Post-mastectomÃ­a:** ObstrucciÃ³n del drenaje linfÃ¡tico
+- **Post-radioterapia:** Fibrosis de vasos linfÃ¡ticos
+- **Tratamiento:** Drenaje linfÃ¡tico manual, compresiÃ³n
 
 #### Infecciones
-- **Linfadenitis axilar:** Inflamación de ganglios por infección
-- **Bubón axilar:** Ganglio inflamado visible/palpable
+- **Linfadenitis axilar:** InflamaciÃ³n de ganglios por infecciÃ³n
+- **BubÃ³n axilar:** Ganglio inflamado visible/palpable
 
-#### Diagnóstico
-- **Exploración física:** Palpación de ganglios axilares
-- **Ecografía:** Evaluación de tamaño y características
-- **PET-CT:** Detección de metástasis
+#### DiagnÃ³stico
+- **ExploraciÃ³n fÃ­sica:** PalpaciÃ³n de ganglios axilares
+- **EcografÃ­a:** EvaluaciÃ³n de tamaÃ±o y caracterÃ­sticas
+- **PET-CT:** DetecciÃ³n de metÃ¡stasis
 
-## 🔗 Fuente
-- Rouvier-Anatomía Humana, Tomo 3
+## ðŸ”— Fuente
+- Rouvier-AnatomÃ­a Humana, Tomo 3

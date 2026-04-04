@@ -1,79 +1,81 @@
-# Nervio Mediano
+﻿# Nervio Mediano
 
-> Nervio terminal del plexo braquial (raíz lateral + raíz medial); inerva la mayoría de los flexores del antebrazo y la musculatura tenar
+> Nervio terminal del plexo braquial (raÃ­z lateral + raÃ­z medial); inerva la mayorÃ­a de los flexores del antebrazo y la musculatura tenar
 
-## 📋 Datos Clave
+## ðŸ“‹ Datos Clave
 - **Etiquetas:** #nervio #terminal #cintura-pectoral #brazo
-- **Origen:** Fascículo lateral (raíz lateral) + fascículo medial (raíz medial) del [[plexo braquial]] (C6-T1)
-- **Tipo:** Somático motor y sensitivo
-- **Región:** #cintura-pectoral #brazo #antebrazo #mano
+- **Origen:** FascÃ­culo lateral (raÃ­z lateral) + fascÃ­culo medial (raÃ­z medial) del [[plexo braquial]] (C6-T1)
+- **Tipo:** SomÃ¡tico motor y sensitivo
+- **RegiÃ³n:** #cintura-pectoral #brazo #antebrazo #mano
 
-## 📷 Imágenes de Referencia
+## ðŸ“· ImÃ¡genes de Referencia
 
-*[Imágenes por agregar]*
+*[ImÃ¡genes por agregar]*
 
 ## Origen
-Formado por **dos raíces** que se unen anterior a la [[arteria axilar]], formando una **V orientada superior y posteriormente**:
-- **Raíz lateral:** Nace del **fascículo lateral** (C6, C7), junto con el [[nervio musculocutáneo]] (Ruvier: "proceden de los nervios cervicales sexto y séptimo")
-- **Raíz medial:** Nace del **fascículo medial** (C8, T1), procede de la unión del [[nervio cutáneo medial del antebrazo]] y el [[nervio cubital]] (Ruvier: "del octavo nervio cervical y el primer nervio torácico")
+Formado por **dos raÃ­ces** que se unen anterior a la [[arteria axilar]], formando una **V orientada superior y posteriormente**:
+- **RaÃ­z lateral:** Nace del **fascÃ­culo lateral** (C6, C7), junto con el [[nervio musculocutÃ¡neo]] (Ruvier: "proceden de los nervios cervicales sexto y sÃ©ptimo")
+- **RaÃ­z medial:** Nace del **fascÃ­culo medial** (C8, T1), procede de la uniÃ³n del [[nervio cutÃ¡neo medial del antebrazo]] y el [[nervio cubital]] (Ruvier: "del octavo nervio cervical y el primer nervio torÃ¡cico")
 
 ## Recorrido
-1. **En la axila:** Anterior a la [[arteria axilar]], entre la arteria y los músculos pectorales
-2. **Brazo:** Desciende por el **conducto braquial** (surco bicipital medial), lateral a la [[arteria braquial]]. Cruza la arteria braquial como una **X alargada → medial a ella en parte inferior**
+1. **En la axila:** Anterior a la [[arteria axilar]], entre la arteria y los mÃºsculos pectorales
+2. **Brazo:** Desciende por el **conducto braquial** (surco bicipital medial), lateral a la [[arteria braquial]]. Cruza la arteria braquial como una **X alargada â†’ medial a ella en parte inferior**
 3. **Codo:** Pasa anterior a la [[arteria braquial]] a nivel del codo
-4. **Antebrazo:** Penetra profundamente bajo el arco del [[músculo pronador redondo]] y desciende entre los [[músculo flexor superficial]] y [[músculo flexor profundo]] de los dedos
-5. **Muñeca:** Pasa por el **canal del carpo** (bajo el retináculo de los flexores)
+4. **Antebrazo:** Penetra profundamente bajo el arco del [[mÃºsculo pronador redondo]] y desciende entre los [[mÃºsculo flexor superficial]] y [[mÃºsculo flexor profundo]] de los dedos
+5. **MuÃ±eca:** Pasa por el **canal del carpo** (bajo el retinÃ¡culo de los flexores)
 6. **Mano:** Se distribuye en la musculura tenar y la piel de los dedos
 
 ## Ramas
-- **Ramos musculares (antebrazo):** [[músculo pronador redondo]], [[músculo flexor radial del carpo]], [[músculo flexor superficial de los dedos]], [[músculo flexor profundo de los dedos]] (excepto medial), [[músculo flexor largo del pulgar]], [[músculo pronador cuadrado]]
-- **Ramos palmares:** Cutáneos para la piel de la palma y dedos
-- **Ramos digitales:** 3½ dedos laterales (pulgar, índice, medio y lateral del anular)
+- **Ramos musculares (antebrazo):** [[mÃºsculo pronador redondo]], [[mÃºsculo flexor radial del carpo]], [[mÃºsculo flexor superficial de los dedos]], [[mÃºsculo flexor profundo de los dedos]] (excepto medial), [[mÃºsculo flexor largo del pulgar]], [[mÃºsculo pronador cuadrado]]
+- **Ramos palmares:** CutÃ¡neos para la piel de la palma y dedos
+- **Ramos digitales:** 3Â½ dedos laterales (pulgar, Ã­ndice, medio y lateral del anular)
 
-## Territorio de inervación
-### Músculos:
-- **Antebrazo:** Flexores (excepto [[músculo flexor cubital del carpo]] y medial del [[músculo flexor profundo]])
-- **Mano:** **Musculatura tenar** (excepto profundidad del [[músculo abductor corto del pulgar]]), **1er y 2do lumbricales**
+## Territorio de inervaciÃ³n
+### MÃºsculos:
+- **Antebrazo:** Flexores (excepto [[mÃºsculo flexor cubital del carpo]] y medial del [[mÃºsculo flexor profundo]])
+- **Mano:** **Musculatura tenar** (excepto profundidad del [[mÃºsculo abductor corto del pulgar]]), **1er y 2do lumbricales**
 
-### Sensibilidad cutánea:
+### Sensibilidad cutÃ¡nea:
 - **Palma de la mano** (lateral)
-- **3½ dedos laterales** (cara palmar y dorsal de los dedos, hasta la uña)
+- **3Â½ dedos laterales** (cara palmar y dorsal de los dedos, hasta la uÃ±a)
 
-## Relaciones anatómicas importantes
+## Relaciones anatÃ³micas importantes
 - **Anterior a la [[arteria axilar]]** en la axila
-- **En el codo:** Anterior a la [[arteria braquial]], posterior al [[músculo bíceps braquial]]
-- **En el antebrazo:** Entre [[músculo flexor superficial]] y [[músculo flexor profundo]]
-- **En el carpo:** Bajo el retináculo de los flexores (canal del carpo)
+- **En el codo:** Anterior a la [[arteria braquial]], posterior al [[mÃºsculo bÃ­ceps braquial]]
+- **En el antebrazo:** Entre [[mÃºsculo flexor superficial]] y [[mÃºsculo flexor profundo]]
+- **En el carpo:** Bajo el retinÃ¡culo de los flexores (canal del carpo)
 
 ## Lesiones
 ### A nivel del codo:
-- Incapacidad para flexionar la muñeca (con desviación cubital)
+- Incapacidad para flexionar la muÃ±eca (con desviaciÃ³n cubital)
 - Incapacidad para flexionar el pulgar
-- Pérdida de sensibilidad en 3½ dedos laterales
+- PÃ©rdida de sensibilidad en 3Â½ dedos laterales
 
 ### A nivel del canal del carpo:
-- Dolor y parestesias nocturnas en 3½ dedos laterales
+- Dolor y parestesias nocturnas en 3Â½ dedos laterales
 - Debilidad de la musculatura tenar (atrofia de eminencia tenar)
 
-### Signo de la "mano de predicador" (lesión alta):
-- Aducción del pulgar imposible
-- Mano en pronación
+### Signo de la "mano de predicador" (lesiÃ³n alta):
+- AducciÃ³n del pulgar imposible
+- Mano en pronaciÃ³n
 
-## 🔗 Fuente
-- Rouvier-Anatomía Humana, Tomo 3
+## ðŸ”— Fuente
+- Rouvier-AnatomÃ­a Humana, Tomo 3
 
-## 🔗 Enlaces
+## ðŸ”— Enlaces
 - [[Plexo braquial]]
 - [[Arteria axilar]]
 - [[Arteria mediana]]
 - [[Arteria braquial]]
 - [[Nervio cubital]]
-- [[Nervio musculocutáneo]]
-- [[Nervio cutáneo medial del antebrazo]]
-- [[Músculo pronador redondo]]
-- [[Músculo flexor radial del carpo]]
-- [[Músculo flexor superficial de los dedos]]
-- [[Músculo flexor profundo de los dedos]]
-- [[Músculo flexor largo del pulgar]]
-- [[Músculo pronador cuadrado]]
-- [[Músculo bíceps braquial]]
+- [[Nervio musculocutÃ¡neo]]
+- [[Nervio cutÃ¡neo medial del antebrazo]]
+- [[MÃºsculo pronador redondo]]
+- [[MÃºsculo flexor radial del carpo]]
+- [[MÃºsculo flexor superficial de los dedos]]
+- [[MÃºsculo flexor profundo de los dedos]]
+- [[MÃºsculo flexor largo del pulgar]]
+- [[MÃºsculo pronador cuadrado]]
+- [[MÃºsculo bÃ­ceps braquial]]
+
+

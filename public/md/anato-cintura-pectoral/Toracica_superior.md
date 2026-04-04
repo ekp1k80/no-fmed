@@ -1,33 +1,33 @@
-# Arteria Torácica Superior
+﻿# Arteria TorÃ¡cica Superior
 
-> Rama de la primera porción de la arteria axilar que irriga la parte superior de los músculos pectorales y la región mamaria.
+> Rama de la primera porciÃ³n de la arteria axilar que irriga la parte superior de los mÃºsculos pectorales y la regiÃ³n mamaria.
 
-## 📋 Datos Clave
-- **Porción:** 1ra porción de la arteria axilar
-- **Origen:** Cara anterior de la arteria axilar, cerca del borde inferior del músculo subclavio
-- **Región:** #arteria #colateral #1ra-porcion #axila
-- **Estructuras relacionadas:** [[Arteria axilar]], [[Músculo pectoral mayor]], [[Músculo pectoral menor]], [[Fascia clavipectoral]]
+## ðŸ“‹ Datos Clave
+- **PorciÃ³n:** 1ra porciÃ³n de la arteria axilar
+- **Origen:** Cara anterior de la arteria axilar, cerca del borde inferior del mÃºsculo subclavio
+- **RegiÃ³n:** #arteria #colateral #1ra-porcion #axila
+- **Estructuras relacionadas:** [[Arteria axilar]], [[MÃºsculo pectoral mayor]], [[MÃºsculo pectoral menor]], [[Fascia clavipectoral]]
 
 ## Origen
-Nace de la cara anterior de la arteria axilar, cerca del borde inferior del músculo subclavio. Suele originarse de la arteria toracoacromial.
+Nace de la cara anterior de la arteria axilar, cerca del borde inferior del mÃºsculo subclavio. Suele originarse de la arteria toracoacromial.
 
 ## Trayecto
-Se dirige anteriormente, atraviesa la fascia clavipectoral (fascia que une la clavícula con el músculo pectoral menor).
+Se dirige anteriormente, atraviesa la fascia clavipectoral (fascia que une la clavÃ­cula con el mÃºsculo pectoral menor).
 
-## Distribución / Ramas terminales
-Distribuye en la parte superior de los músculos pectorales (mayor y menor) y la región mamaria.
+## DistribuciÃ³n / Ramas terminales
+Distribuye en la parte superior de los mÃºsculos pectorales (mayor y menor) y la regiÃ³n mamaria.
 
 ## Anastomosis
-Se anastomosa con otras ramas de la arteria axilar y con ramas de la arteria torácica interna.
+Se anastomosa con otras ramas de la arteria axilar y con ramas de la arteria torÃ¡cica interna.
 
 ## Espacio que atraviesa (si aplica)
 Atraviesa la fascia clavipectoral.
 
-## Importancia clínica
-Su irrigación es importante para la vascularización de la región pectoral y mamaria. En cirugías de la axila, debe identificarse para evitar sangrado.
+## Importancia clÃ­nica
+Su irrigaciÃ³n es importante para la vascularizaciÃ³n de la regiÃ³n pectoral y mamaria. En cirugÃ­as de la axila, debe identificarse para evitar sangrado.
 
-## 🔗 Fuente
-- Rouvier-Anatomía Humana, Tomo 3
+## ðŸ”— Fuente
+- Rouvier-AnatomÃ­a Humana, Tomo 3
 
 ## Enlaces
 - [[Arteria axilar]]
@@ -43,6 +43,8 @@ Su irrigación es importante para la vascularización de la región pectoral y m
 - [[Nervio axilar]]
 - [[Nervio radial]]
 - [[Nervio cubital]]
-- [[Vena torácica superior]]
+- [[Vena torÃ¡cica superior]]
+
+
 
 

@@ -1,67 +1,67 @@
-# Vena subclavia
+﻿# Vena subclavia
 
-> Vena que continúa a la vena axilar y se une con la vena yugular interna para formar la vena braquiocefálica.
+> Vena que continÃºa a la vena axilar y se une con la vena yugular interna para formar la vena braquiocefÃ¡lica.
 
-## 📋 Datos Clave
-- **Región:** #cintura-pectoral
-- **Relaciones:** [[Vena axilar]], [[Vena yugular interna]], [[Vena braquiocefálica]], [[Primera costilla]]
+## ðŸ“‹ Datos Clave
+- **RegiÃ³n:** #cintura-pectoral
+- **Relaciones:** [[Vena axilar]], [[Vena yugular interna]], [[Vena braquiocefÃ¡lica]], [[Primera costilla]]
 
-## Descripción
+## DescripciÃ³n
 
 ### Origen
-- **Origen:** Continuación de la [[Vena axilar]] a nivel del borde externo de la primera costilla
+- **Origen:** ContinuaciÃ³n de la [[Vena axilar]] a nivel del borde externo de la primera costilla
 
 ### Trayecto
 - Asciende desde el borde externo de la primera costilla
-- Se dirige medialmente hacia la unión con la vena yugular interna
+- Se dirige medialmente hacia la uniÃ³n con la vena yugular interna
 
-### Terminación
-- **Terminación:** Se une con la [[Vena yugular interna]] para formar la [[Vena braquiocefálica]]
+### TerminaciÃ³n
+- **TerminaciÃ³n:** Se une con la [[Vena yugular interna]] para formar la [[Vena braquiocefÃ¡lica]]
 
 ## Ramas/Afluentes
 
 ### Afluentes principales
-- **[[Vena yugular externa]]:** Se une directamente a la vena subclavia, no a la vena braquiocefálica
+- **[[Vena yugular externa]]:** Se une directamente a la vena subclavia, no a la vena braquiocefÃ¡lica
 - **[[Vena vertebral]]:** Desemboca en la cara posterior de la vena subclavia
-- **[[Vena torácica interna]] (mamaria interna):** Acompaña a la arteria homónima
-- **[[Vena supraescapular]]:** Drena la región supraescapular
+- **[[Vena torÃ¡cica interna]] (mamaria interna):** AcompaÃ±a a la arteria homÃ³nima
+- **[[Vena supraescapular]]:** Drena la regiÃ³n supraescapular
 - **[[Vena cervical profunda]]:** Drena las estructuras cervicales profundas
 
-### Características venosas
-- **Válvulas:** Presenta válvulas que facilitan el retorno venoso
+### CaracterÃ­sticas venosas
+- **VÃ¡lvulas:** Presenta vÃ¡lvulas que facilitan el retorno venoso
 
-## Relaciones anatómicas
+## Relaciones anatÃ³micas
 
-### Con estructuras óseas
+### Con estructuras Ã³seas
 - **Primera costilla:** Pasa sobre el borde externo de la primera costilla
-- **Clavícula:** Se sitúa posterior a la clavícula
+- **ClavÃ­cula:** Se sitÃºa posterior a la clavÃ­cula
 
 ### Con estructuras vasculares
-- **Arteria subclavia:** Se sitúa anterior e inferior a la arteria subclavia
-- **Vena yugular interna:** Se une en el ángulo venoso para formar la vena braquiocefálica
+- **Arteria subclavia:** Se sitÃºa anterior e inferior a la arteria subclavia
+- **Vena yugular interna:** Se une en el Ã¡ngulo venoso para formar la vena braquiocefÃ¡lica
 
 ### Con estructuras nerviosas
-- **Plexo braquial:** Relacionada con las raíces del plexo braquial
-- **Nervio frénico:** Cruza anterior a la vena subclavia
+- **Plexo braquial:** Relacionada con las raÃ­ces del plexo braquial
+- **Nervio frÃ©nico:** Cruza anterior a la vena subclavia
 
-## Importancia clínica
+## Importancia clÃ­nica
 
 ### Accesos venosos
-- **Cateterización venosa central:** La vena subclavia es un sitio común para cateterización venosa central
-- **Accesos venosos centrales:** Utilizada para administración de medicamentos, nutrición parenteral y monitorización hemodinámica
+- **CateterizaciÃ³n venosa central:** La vena subclavia es un sitio comÃºn para cateterizaciÃ³n venosa central
+- **Accesos venosos centrales:** Utilizada para administraciÃ³n de medicamentos, nutriciÃ³n parenteral y monitorizaciÃ³n hemodinÃ¡mica
 
 ### Procedimientos
 - **Marcapasos:** Acceso para electrodos de marcapasos
-- **Hemodiálisis:** Catéteres para hemodiálisis
+- **HemodiÃ¡lisis:** CatÃ©teres para hemodiÃ¡lisis
 
-### Patologías
-- **Trombosis venosa subclavia:** Puede ocurrir por compresión (síndrome del desfiladero torácico)
-- **Lesiones iatrogénicas:** Durante procedimientos de cateterización
-- **Síndrome de Paget-Schroetter:** Trombosis por esfuerzo de la vena subclavia
+### PatologÃ­as
+- **Trombosis venosa subclavia:** Puede ocurrir por compresiÃ³n (sÃ­ndrome del desfiladero torÃ¡cico)
+- **Lesiones iatrogÃ©nicas:** Durante procedimientos de cateterizaciÃ³n
+- **SÃ­ndrome de Paget-Schroetter:** Trombosis por esfuerzo de la vena subclavia
 
-### Consideraciones quirúrgicas
-- **Acceso quirúrgico:** Requiere conocimiento preciso de las relaciones anatómicas para evitar complicaciones
-- **Anastomosis vasculares:** Utilizada en procedimientos de reconstrucción vascular
+### Consideraciones quirÃºrgicas
+- **Acceso quirÃºrgico:** Requiere conocimiento preciso de las relaciones anatÃ³micas para evitar complicaciones
+- **Anastomosis vasculares:** Utilizada en procedimientos de reconstrucciÃ³n vascular
 
-## 🔗 Fuente
-- Rouvier-Anatomía Humana, Tomo 3
+## ðŸ”— Fuente
+- Rouvier-AnatomÃ­a Humana, Tomo 3

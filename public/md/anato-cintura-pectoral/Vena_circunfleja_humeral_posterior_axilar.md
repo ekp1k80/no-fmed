@@ -1,34 +1,35 @@
-# Vena circunfleja humeral posterior axilar
+﻿# Vena circunfleja humeral posterior axilar
 
 > Vena correspondiente a la arteria circunfleja humeral posterior. Afluente de la vena axilar.
 
-## 📋 Datos Clave
+## ðŸ“‹ Datos Clave
 - **Drena en:** [[Vena axilar]]
-- **Región:** #vena #colateral #axila
-- **Acompaña a:** [[Arteria circunfleja humeral posterior]]
+- **RegiÃ³n:** #vena #colateral #axila
+- **AcompaÃ±a a:** [[Arteria circunfleja humeral posterior]]
 
 ## Origen/Drenaje
-La vena circunfleja humeral posterior drena la región posterior del hombro, incluyendo el músculo deltoides (porción posterior) y las estructuras alrededor del cuello quirúrgico del húmero.
+La vena circunfleja humeral posterior drena la regiÃ³n posterior del hombro, incluyendo el mÃºsculo deltoides (porciÃ³n posterior) y las estructuras alrededor del cuello quirÃºrgico del hÃºmero.
 
 ## Trayecto
-Acompaña a la arteria circunfleja humeral posterior, pasando a través del espacio cuadrilátero (junto con el nervio axilar) para rodear el cuello quirúrgico del húmero por detrás.
+AcompaÃ±a a la arteria circunfleja humeral posterior, pasando a travÃ©s del espacio cuadrilÃ¡tero (junto con el nervio axilar) para rodear el cuello quirÃºrgico del hÃºmero por detrÃ¡s.
 
-## Relaciones anatómicas
-- **Espacio cuadrilátero:** Con el nervio axilar
-- **Posterior:** Cuello quirúrgico del húmero
+## Relaciones anatÃ³micas
+- **Espacio cuadrilÃ¡tero:** Con el nervio axilar
+- **Posterior:** Cuello quirÃºrgico del hÃºmero
 - **Anterior:** [[Vena axilar]]
-- **Superior:** Músculo redondo menor
+- **Superior:** MÃºsculo redondo menor
 
-## Importancia clínica
-- **Fracturas de húmero:** Puede lesionarse en fracturas del cuello quirúrgico
-- **Cirugía de hombro:** Consideración en abordajes posteriores
-- **Nervio axilar:** Relación estrecha en el espacio cuadrilátero
+## Importancia clÃ­nica
+- **Fracturas de hÃºmero:** Puede lesionarse en fracturas del cuello quirÃºrgico
+- **CirugÃ­a de hombro:** ConsideraciÃ³n en abordajes posteriores
+- **Nervio axilar:** RelaciÃ³n estrecha en el espacio cuadrilÃ¡tero
 
-## 🔗 Fuente
-- Rouvier-Anatomía Humana, Tomo 3
+## ðŸ”— Fuente
+- Rouvier-AnatomÃ­a Humana, Tomo 3
 
-## 🔗 Enlaces
+## ðŸ”— Enlaces
 - **Vena padre:** [[Venas axilares]]
-- **Ramas hermanas:** [[Vena torácica superior]], [[Vena toracoacromial]], [[Vena torácica lateral]], [[Vena subescapular]], [[Vena circunfleja humeral anterior]]
+- **Ramas hermanas:** [[Vena torÃ¡cica superior]], [[Vena toracoacromial]], [[Vena torÃ¡cica lateral]], [[Vena subescapular]], [[Vena circunfleja humeral anterior]]
 - **Arteria correspondiente:** [[Arteria circunfleja humeral posterior]]
-- **Estructuras relacionadas:** [[Vena cefálica]], [[Vena basílica]], [[Triángulo deltopectoral]], [[Fascia clavipectoral]]
+- **Estructuras relacionadas:** [[Vena cefÃ¡lica]], [[Vena basÃ­lica]], [[TriÃ¡ngulo deltopectoral]], [[Fascia clavipectoral]]
+

@@ -1,200 +1,200 @@
-# Articulación Esternoclavicular
+﻿# ArticulaciÃ³n Esternoclavicular
 
-> Descripción breve: articulación sinovial que une la extremidad esternal de la clavícula con el manubrio del esternón y el primer cartílago costal. Única articulación que une el miembro superior al esqueleto axial.
+> DescripciÃ³n breve: articulaciÃ³n sinovial que une la extremidad esternal de la clavÃ­cula con el manubrio del esternÃ³n y el primer cartÃ­lago costal. Ãšnica articulaciÃ³n que une el miembro superior al esqueleto axial.
 
-## 📋 Datos Clave
+## ðŸ“‹ Datos Clave
 
-- **Tipo:** sinovial, selar (encaje recíproco) o esferoidea
-- **Clasificación:** diartrosis
-- **Movimientos:** elevación/descenso, protracción/retracción, rotación
-- **Estabilidad:** alta (múltiples ligamentos)
-- **Función:** unir cintura escapular al esqueleto axial, permitir movimientos de la clavícula
+- **Tipo:** sinovial, selar (encaje recÃ­proco) o esferoidea
+- **ClasificaciÃ³n:** diartrosis
+- **Movimientos:** elevaciÃ³n/descenso, protracciÃ³n/retracciÃ³n, rotaciÃ³n
+- **Estabilidad:** alta (mÃºltiples ligamentos)
+- **FunciÃ³n:** unir cintura escapular al esqueleto axial, permitir movimientos de la clavÃ­cula
 
 #articulacion #hombro #cintura-pectoral
 
 ---
 
-## 📷 Imágenes de Referencia
+## ðŸ“· ImÃ¡genes de Referencia
 
-![Vista anterior](imgs/EsternoClavicular/Esterno_clavicular_anterior.png)
-*Vista anterior de la articulación esternoclavicular*
+![Vista anterior](imgs/articulaciones/huesos/Esterno_clavicular_anterior.png)
+*Vista anterior de la articulaciÃ³n esternoclavicular*
 
-![Vista superior](imgs/EsternoClavicular/Esterno_clavicular_superior.png)
-*Vista superior de la articulación esternoclavicular*
+![Vista superior](imgs/articulaciones/huesos/Esterno_clavicular_superior.png)
+*Vista superior de la articulaciÃ³n esternoclavicular*
 
 ---
 
-## Anatomía Descriptiva
+## AnatomÃ­a Descriptiva
 
 ### Superficies Articulares
 
-#### Extremidad Esternal de la Clavícula
-- Cara articular elíptica o irregular
+#### Extremidad Esternal de la ClavÃ­cula
+- Cara articular elÃ­ptica o irregular
 - Convexa en sentido anteroposterior
-- Cóncava en sentido vertical
-- Revestida de fibrocartílago
+- CÃ³ncava en sentido vertical
+- Revestida de fibrocartÃ­lago
 
-#### Manubrio del Esternón
+#### Manubrio del EsternÃ³n
 - Escotadura clavicular
-- Cara articular para clavícula
-- También articula con primer cartílago costal
+- Cara articular para clavÃ­cula
+- TambiÃ©n articula con primer cartÃ­lago costal
 
-#### Primer Cartílago Costal
+#### Primer CartÃ­lago Costal
 - Contribuye a la superficie articular
-- Forma ángulo diedro con el esternón
+- Forma Ã¡ngulo diedro con el esternÃ³n
 
 ### Disco Articular
-- **Fibrocartilaginoso**, completo (divide articulación en 2 cavidades)
-- **Forma:** irregular, más grueso periféricamente
-- **Función:** aumentar congruencia, absorber fuerzas, permitir movimientos complejos
-- **Inserción:**
-  - Superior: extremidad esternal de clavícula
-  - Inferior: primer cartílago costal y manubrio
-  - Anterior/posterior: cápsula articular
+- **Fibrocartilaginoso**, completo (divide articulaciÃ³n en 2 cavidades)
+- **Forma:** irregular, mÃ¡s grueso perifÃ©ricamente
+- **FunciÃ³n:** aumentar congruencia, absorber fuerzas, permitir movimientos complejos
+- **InserciÃ³n:**
+  - Superior: extremidad esternal de clavÃ­cula
+  - Inferior: primer cartÃ­lago costal y manubrio
+  - Anterior/posterior: cÃ¡psula articular
 
 ---
 
-## Medios de Unión
+## Medios de UniÃ³n
 
-### Cápsula Articular
+### CÃ¡psula Articular
 - **Fuerte pero laxa**
 - Se inserta en bordes de superficies articulares
 - Reforzada por ligamentos
 
 ### Ligamento Esternoclavicular Anterior
 - Desde borde anterior de extremidad clavicular hasta borde anterior del manubrio
-- Refuerza cápsula anteriormente
-- Limita retracción clavicular
+- Refuerza cÃ¡psula anteriormente
+- Limita retracciÃ³n clavicular
 
 ### Ligamento Esternoclavicular Posterior
-- Más fuerte que el anterior
+- MÃ¡s fuerte que el anterior
 - Desde borde posterior de extremidad clavicular hasta borde posterior del manubrio
-- Refuerza cápsula posteriormente
-- Limita protracción clavicular
+- Refuerza cÃ¡psula posteriormente
+- Limita protracciÃ³n clavicular
 
 ### Ligamento Interclavicular
-- Conecta extremidades esternales de ambas clavículas
-- Se inserta en escotadura yugular del esternón
-- Limita depresión clavicular (evita hundimiento de hombros)
+- Conecta extremidades esternales de ambas clavÃ­culas
+- Se inserta en escotadura yugular del esternÃ³n
+- Limita depresiÃ³n clavicular (evita hundimiento de hombros)
 
 ### Ligamento Costoclavicular (Ligamento Romboidal)
 - **Principal estabilizador**
-- Desde cara inferior de clavícula (impresión costoclavicular) hasta primera costilla y su cartílago
-- **Dos fascículos:** anterior (limita elevación) y posterior (limita depresión)
-- Actúa como fulcro para movimientos claviculares
+- Desde cara inferior de clavÃ­cula (impresiÃ³n costoclavicular) hasta primera costilla y su cartÃ­lago
+- **Dos fascÃ­culos:** anterior (limita elevaciÃ³n) y posterior (limita depresiÃ³n)
+- ActÃºa como fulcro para movimientos claviculares
 
 ---
 
-## Vascularización
+## VascularizaciÃ³n
 
 | Arteria | Territorio |
 |---------|-----------|
-| [[Arteria torácica interna]] | ramas esternales |
+| [[Arteria torÃ¡cica interna]] | ramas esternales |
 | [[Arteria supraescapular]] | ramas claviculares |
 | [[Arteria toracoacromial]] | ramas claviculares |
 
 ---
 
-## Inervación
+## InervaciÃ³n
 
-| Nervio | Función |
+| Nervio | FunciÃ³n |
 |--------|---------|
-| Ramos del [[Nervio supraclavicular]] (C3-C4) | inervación cutánea |
-| Ramos del [[Plexo braquial]] | inervación profunda |
-| Ramos del [[Nervio frénico]] (C3-C5) | posible contribución |
+| Ramos del [[Nervio supraclavicular]] (C3-C4) | inervaciÃ³n cutÃ¡nea |
+| Ramos del [[Plexo braquial]] | inervaciÃ³n profunda |
+| Ramos del [[Nervio frÃ©nico]] (C3-C5) | posible contribuciÃ³n |
 
 ---
 
 ## Movimientos y Ejes
 
-### Elevación/Descenso (40-60°)
+### ElevaciÃ³n/Descenso (40-60Â°)
 - **Eje:** anteroposterior
-- **Elevación:** [[Trapecio]] (superior), [[Esternocleidomastoideo]]
+- **ElevaciÃ³n:** [[Trapecio]] (superior), [[Esternocleidomastoideo]]
 - **Descenso:** [[Pectoral menor]], [[Subclavio]], gravedad
 - **Limitado por:** ligamento costoclavicular
 
-### Protracción/Retracción (30-35°)
+### ProtracciÃ³n/RetracciÃ³n (30-35Â°)
 - **Eje:** vertical
-- **Protracción:** [[Serrato anterior]], [[Pectoral menor]]
-- **Retracción:** [[Romboides]], [[Trapecio]] (medio)
+- **ProtracciÃ³n:** [[Serrato anterior]], [[Pectoral menor]]
+- **RetracciÃ³n:** [[Romboides]], [[Trapecio]] (medio)
 - **Limitado por:** ligamentos esternoclaviculares
 
-### Rotación Axial (40-50°)
-- **Eje:** longitudinal de la clavícula
-- **Rotación posterior:** durante elevación del brazo >90°
-- **Rotación anterior:** durante descenso
+### RotaciÃ³n Axial (40-50Â°)
+- **Eje:** longitudinal de la clavÃ­cula
+- **RotaciÃ³n posterior:** durante elevaciÃ³n del brazo >90Â°
+- **RotaciÃ³n anterior:** durante descenso
 - **Importante para:** ritmo escapulohumeral completo
 
 ### Movimientos Combinados
-- **Circunducción clavicular**
-- **Acompañamiento** de movimientos escapulares
-- **Transmisión** de fuerzas desde miembro superior a esqueleto axial
+- **CircunducciÃ³n clavicular**
+- **AcompaÃ±amiento** de movimientos escapulares
+- **TransmisiÃ³n** de fuerzas desde miembro superior a esqueleto axial
 
 ---
 
-## Biomecánica
+## BiomecÃ¡nica
 
 ### Estabilidad
-- **Alta estabilidad** a pesar de poca congruencia ósea
+- **Alta estabilidad** a pesar de poca congruencia Ã³sea
 - **Sistema ligamentoso complejo** (especialmente costoclavicular)
 - **Disco articular** como amortiguador
-- **Músculos periarticulares**
+- **MÃºsculos periarticulares**
 
-### Transmisión de Fuerzas
+### TransmisiÃ³n de Fuerzas
 - **Del miembro superior al esqueleto axial**
-- **Amortiguación** por disco articular y ligamentos
-- **Distribución** entre esternón y primera costilla
+- **AmortiguaciÃ³n** por disco articular y ligamentos
+- **DistribuciÃ³n** entre esternÃ³n y primera costilla
 
-### Cinemática
+### CinemÃ¡tica
 - **Movimientos tridimensionales complejos**
-- **Coordinación** con articulación acromioclavicular
-- **Contribución** a movimientos globales del hombro
+- **CoordinaciÃ³n** con articulaciÃ³n acromioclavicular
+- **ContribuciÃ³n** a movimientos globales del hombro
 
 ---
 
-## Relaciones Anatómicas
+## Relaciones AnatÃ³micas
 
 ### Anteriores
-- **Piel** y **tejido celular subcutáneo**
+- **Piel** y **tejido celular subcutÃ¡neo**
 - [[Platisma]]
-- [[Músculo esternocleidomastoideo]] (cabeza esternal)
+- [[MÃºsculo esternocleidomastoideo]] (cabeza esternal)
 - [[Vena yugular anterior]]
 
 ### Posteriores
-- **Manubrio del esternón**
-- **Arterias** y **venas** innominadas (braquiocefálicas)
-- [[Tráquea]]
-- [[Esófago]] (ligeramente a izquierda)
+- **Manubrio del esternÃ³n**
+- **Arterias** y **venas** innominadas (braquiocefÃ¡licas)
+- [[TrÃ¡quea]]
+- [[EsÃ³fago]] (ligeramente a izquierda)
 - [[Nervio vago]]
-- [[Conducto torácico]] (izquierda)
-- **Pleura** y **ápice pulmonar**
+- [[Conducto torÃ¡cico]] (izquierda)
+- **Pleura** y **Ã¡pice pulmonar**
 
 ### Superiores
 - [[Ligamento interclavicular]]
 - **Espacio supraesternal** (de Burns)
 
 ### Inferiores
-- **Primera costilla** y **cartílago costal**
-- [[Músculo subclavio]]
+- **Primera costilla** y **cartÃ­lago costal**
+- [[MÃºsculo subclavio]]
 - [[Vena subclavia]]
 
 ### Laterales
-- [[Clavícula]]
-- [[Músculo pectoral mayor]] (porción clavicular)
+- [[ClavÃ­cula]]
+- [[MÃºsculo pectoral mayor]] (porciÃ³n clavicular)
 
 ---
 
-## Variaciones Anatómicas
+## Variaciones AnatÃ³micas
 
 ### Superficies Articulares
-- **Tamaño** y **forma** variables
+- **TamaÃ±o** y **forma** variables
 - **Grado de congruencia** diferente
-- **Participación** del primer cartílago costal variable
+- **ParticipaciÃ³n** del primer cartÃ­lago costal variable
 
 ### Disco Articular
 - **Espesor** variable
 - **Completitud** (ocasionalmente incompleto)
-- **Comunicación** entre cavidades articulares
+- **ComunicaciÃ³n** entre cavidades articulares
 
 ### Ligamentos
 - **Desarrollo** variable del ligamento costoclavicular
@@ -202,48 +202,48 @@
 
 ---
 
-## Notas Clínicas
+## Notas ClÃ­nicas
 
-### Luxación Esternoclavicular
+### LuxaciÃ³n Esternoclavicular
 - **Rara** (<1% de luxaciones)
 - **Mecanismo:** trauma directo (posterior) o indirecto (anterior)
-- **Dirección:** anterior (más común, menos grave) o posterior (menos común, más grave)
-- **Complicaciones posteriores:** compresión mediastínica (tráquea, esófago, vasos)
-- **Tratamiento:** reducción cerrada (posterior) o abierta si complicada
+- **DirecciÃ³n:** anterior (mÃ¡s comÃºn, menos grave) o posterior (menos comÃºn, mÃ¡s grave)
+- **Complicaciones posteriores:** compresiÃ³n mediastÃ­nica (trÃ¡quea, esÃ³fago, vasos)
+- **Tratamiento:** reducciÃ³n cerrada (posterior) o abierta si complicada
 
 ### Artrosis Esternoclavicular
-- **Común** con edad (>60 años)
-- **Síntomas:** dolor localizado, crepitación, tumefacción
-- **Diagnóstico:** radiografía, TC
-- **Tratamiento:** conservador (AINES, infiltraciones), raramente quirúrgico
+- **ComÃºn** con edad (>60 aÃ±os)
+- **SÃ­ntomas:** dolor localizado, crepitaciÃ³n, tumefacciÃ³n
+- **DiagnÃ³stico:** radiografÃ­a, TC
+- **Tratamiento:** conservador (AINES, infiltraciones), raramente quirÃºrgico
 
-### Síndrome de Tietze
-- **Inflamación** idiopática de articulación esternocostal (primera)
-- **Confusión** posible con patología esternoclavicular
-- **Característica:** tumefacción dolorosa, autolimitada
+### SÃ­ndrome de Tietze
+- **InflamaciÃ³n** idiopÃ¡tica de articulaciÃ³n esternocostal (primera)
+- **ConfusiÃ³n** posible con patologÃ­a esternoclavicular
+- **CaracterÃ­stica:** tumefacciÃ³n dolorosa, autolimitada
 
 ### Hiperlaxitud
-- **Laxitud ligamentosa** congénita o adquirida
-- **Subluxación** dolorosa con movimientos
+- **Laxitud ligamentosa** congÃ©nita o adquirida
+- **SubluxaciÃ³n** dolorosa con movimientos
 - **Tratamiento:** fortalecimiento muscular, evitar movimientos extremos
 
 ### Fracturas Adyacentes
-- **Fractura de clavícula medial:** puede simular luxación
-- **Fractura de esternón:** trauma de alta energía
-- **Diferenciación** crucial para tratamiento
+- **Fractura de clavÃ­cula medial:** puede simular luxaciÃ³n
+- **Fractura de esternÃ³n:** trauma de alta energÃ­a
+- **DiferenciaciÃ³n** crucial para tratamiento
 
 ---
 
-## Tabla de Imágenes
+## Tabla de ImÃ¡genes
 
-| Imagen | Vista | Descripción |
+| Imagen | Vista | DescripciÃ³n |
 |--------|-------|-------------|
-| ![Anterior](imgs/EsternoClavicular/Esterno_clavicular_anterior.png) | Anterior | Vista anterior de la articulación esternoclavicular |
-| ![Superior](imgs/EsternoClavicular/Esterno_clavicular_superior.png) | Superior | Vista superior de la articulación esternoclavicular |
-| ![Corte anterior](imgs/EsternoClavicular/Esterno_clavicular_corte_anterior.png) | Corte anterior | Corte anterior de la articulación esternoclavicular |
-| ![Músculo subclavio](imgs/EsternoClavicular/Esterno_clavicular_musculo_subclavio.png) | Músculo subclavio | Relación con el músculo subclavio |
+| ![Anterior](imgs/articulaciones/huesos/Esterno_clavicular_anterior.png) | Anterior | Vista anterior de la articulaciÃ³n esternoclavicular |
+| ![Superior](imgs/articulaciones/huesos/Esterno_clavicular_superior.png) | Superior | Vista superior de la articulaciÃ³n esternoclavicular |
+| ![Corte anterior](imgs/articulaciones/huesos/Esterno_clavicular_corte_anterior.png) | Corte anterior | Corte anterior de la articulaciÃ³n esternoclavicular |
+| ![MÃºsculo subclavio](imgs/articulaciones/huesos/Esterno_clavicular_musculo_subclavio.png) | MÃºsculo subclavio | RelaciÃ³n con el mÃºsculo subclavio |
 
 ---
 
-## 🔗 Fuente
-- Rouvier-Anatomía Humana, Tomo 3
+## ðŸ”— Fuente
+- Rouvier-AnatomÃ­a Humana, Tomo 3

@@ -1,28 +1,28 @@
-# Fascia del Músculo Subescapular
+﻿# Fascia del MÃºsculo Subescapular
 
-> Lámina fibrosa que recubre el [[Músculo subescapular]] en la fosa subescapular
+> LÃ¡mina fibrosa que recubre el [[MÃºsculo subescapular]] en la fosa subescapular
 
-## 📋 Datos Clave
-- **Región:** #fascia #cintura-pectoral #escapula
-- **Estructuras relacionadas:** [[Músculo subescapular]], [[fascia axilar]]
+## ðŸ“‹ Datos Clave
+- **RegiÃ³n:** #fascia #cintura-pectoral #escapula
+- **Estructuras relacionadas:** [[MÃºsculo subescapular]], [[fascia axilar]]
 
-## Descripción
-Según Ruvier (Tomo 3, p. 152):
-- El [[Músculo subescapular]] está recubierto por una lámina fibrosa
-- Esta fascia se adhiere a la fosa subescapular de la escápula
+## DescripciÃ³n
+SegÃºn Ruvier (Tomo 3, p. 152):
+- El [[MÃºsculo subescapular]] estÃ¡ recubierto por una lÃ¡mina fibrosa
+- Esta fascia se adhiere a la fosa subescapular de la escÃ¡pula
 
 ## Continuidades
 - Se adhiere a la hoja profunda de la [[fascia axilar]]
-- Se fija en las crestas de la fosa subescapular donde se insertan las láminas aponeuróticas del músculo
+- Se fija en las crestas de la fosa subescapular donde se insertan las lÃ¡minas aponeurÃ³ticas del mÃºsculo
 
 ## Relaciones con la [[fosa axilar]]
-- La fascia del [[Músculo subescapular]] forma parte de la **pared posterior** de la [[fosa axilar]]
-- Se encuentra en relación con el [[plexo braquial]] y la [[arteria axilar]]
+- La fascia del [[MÃºsculo subescapular]] forma parte de la **pared posterior** de la [[fosa axilar]]
+- Se encuentra en relaciÃ³n con el [[plexo braquial]] y la [[arteria axilar]]
 
-## 🔗 Fuente
-- Rouvier-Anatomía Humana, Tomo 3
+## ðŸ”— Fuente
+- Rouvier-AnatomÃ­a Humana, Tomo 3
 
-## 🔗 Enlaces
+## ðŸ”— Enlaces
 - [[Fascia axilar]]
-- [[Músculo subescapular]]
+- [[MÃºsculo subescapular]]
 - [[Nervio subescapular]]

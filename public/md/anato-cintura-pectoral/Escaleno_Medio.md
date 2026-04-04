@@ -1,46 +1,46 @@
-# Escaleno Medio
+﻿# Escaleno Medio
 
-> MÃºsculo profundo del cuello, situado entre el escaleno anterior y posterior
+> MÃƒÂºsculo profundo del cuello, situado entre el escaleno anterior y posterior
 
 #musculo #cintura-pectoral
 
-## ðŸ“‹ Datos Clave
-- **Grupo:** MÃºsculos escalenos
-- **FunciÃ³n principal:** FlexiÃ³n lateral del cuello y elevaciÃ³n de la primera costilla
-- **InervaciÃ³n:** Ramos anteriores de C3-C8
+## Ã°Å¸â€œâ€¹ Datos Clave
+- **Grupo:** MÃƒÂºsculos escalenos
+- **FunciÃƒÂ³n principal:** FlexiÃƒÂ³n lateral del cuello y elevaciÃƒÂ³n de la primera costilla
+- **InervaciÃƒÂ³n:** Ramos anteriores de C3-C8
 
-## ðŸ“· ImÃ¡genes de Referencia
+## Ã°Å¸â€œÂ· ImÃƒÂ¡genes de Referencia
 
-![[imgs/Escaleno_Medio/Escaleno_medio_vista_anterior.png|400]]
+![Escaleno_medio_vista_anterior.png](imgs/musculos/Escaleno_medio_vista_anterior.png)
 *Vista anterior del escaleno medio*
 
-![[imgs/Escaleno_Medio/Escaleno_medio_vista_superior.png|400]]
+![Escaleno_medio_vista_superior.png](imgs/musculos/Escaleno_medio_vista_superior.png)
 *Vista superior del escaleno medio*
 
 ## Origen
-- ApÃ³fisis transversas de C2-C7
+- ApÃƒÂ³fisis transversas de C2-C7
 
-## InserciÃ³n
+## InserciÃƒÂ³n
 - Primera costilla (posterior al surco de la arteria subclavia)
 
 ## Relaciones
 - Entre [[Escaleno Anterior]] y [[Escaleno Posterior]]
-- Forma el triÃ¡ngulo interescaleno con [[Escaleno Anterior]]
+- Forma el triÃƒÂ¡ngulo interescaleno con [[Escaleno Anterior]]
 - La [[Arteria subclavia]] pasa entre escaleno anterior y medio
 
-## VascularizaciÃ³n
+## VascularizaciÃƒÂ³n
 - [[Arteria cervical ascendente]]
 - [[Arteria vertebral]]
 
-## InervaciÃ³n
+## InervaciÃƒÂ³n
 - Ramos anteriores de los nervios cervicales C3-C8
 
 ## Funciones
-- FlexiÃ³n lateral del cuello (unilateral)
-- RotaciÃ³n contralateral del cuello (unilateral)
-- FlexiÃ³n del cuello (bilateral)
-- ElevaciÃ³n de la primera costilla (inspiraciÃ³n accesoria)
-- EstabilizaciÃ³n del cuello durante los movimientos
+- FlexiÃƒÂ³n lateral del cuello (unilateral)
+- RotaciÃƒÂ³n contralateral del cuello (unilateral)
+- FlexiÃƒÂ³n del cuello (bilateral)
+- ElevaciÃƒÂ³n de la primera costilla (inspiraciÃƒÂ³n accesoria)
+- EstabilizaciÃƒÂ³n del cuello durante los movimientos
 
-## ðŸ”— Fuente
-- Rouvier-AnatomÃ­a Humana, Tomo 3
+## Ã°Å¸â€â€” Fuente
+- Rouvier-AnatomÃƒÂ­a Humana, Tomo 3

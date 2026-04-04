@@ -1,44 +1,46 @@
-# Nervio Subescapular Inferior
+﻿# Nervio Subescapular Inferior
 
-> Nervio que inerva las porciones media e inferior del músculo subescapular
+> Nervio que inerva las porciones media e inferior del mÃºsculo subescapular
 
-## 📋 Datos Clave
+## ðŸ“‹ Datos Clave
 - **Etiquetas:** #nervio #colateral-posterior #cintura-pectoral
-- **Origen:** Fascículo posterior del [[plexo braquial]] (C5-C6)
-- **Tipo:** Somático motor
-- **Región:** #cintura-pectoral #axila
+- **Origen:** FascÃ­culo posterior del [[plexo braquial]] (C5-C6)
+- **Tipo:** SomÃ¡tico motor
+- **RegiÃ³n:** #cintura-pectoral #axila
 
-## 📷 Imágenes de Referencia
+## ðŸ“· ImÃ¡genes de Referencia
 
-*[Imágenes por agregar]*
+*[ImÃ¡genes por agregar]*
 
 ## Origen
-Nace del **fascículo posterior** del [[plexo braquial]] (Ruvier: "nace del fascículo posterior, desciende anterior al músculo subescapular").
+Nace del **fascÃ­culo posterior** del [[plexo braquial]] (Ruvier: "nace del fascÃ­culo posterior, desciende anterior al mÃºsculo subescapular").
 
 ## Recorrido
-1. **Descenso:** Anterior al [[músculo subescapular]]
-2. **Penetración:** Penetra en la **parte media** del [[músculo subescapular]]
-3. **Distribución:** Inerva las porciones media e inferior del músculo
+1. **Descenso:** Anterior al [[mÃºsculo subescapular]]
+2. **PenetraciÃ³n:** Penetra en la **parte media** del [[mÃºsculo subescapular]]
+3. **DistribuciÃ³n:** Inerva las porciones media e inferior del mÃºsculo
 
-## Territorio de inervación
-### Músculos:
-- [[Músculo subescapular]] (porciones media e inferior)
+## Territorio de inervaciÃ³n
+### MÃºsculos:
+- [[MÃºsculo subescapular]] (porciones media e inferior)
 
-### Función del músculo:
-- **Rotación interna** del brazo
-- **Estabilización anterior** de la articulación glenohumeral
+### FunciÃ³n del mÃºsculo:
+- **RotaciÃ³n interna** del brazo
+- **EstabilizaciÃ³n anterior** de la articulaciÃ³n glenohumeral
 
-## Relaciones anatómicas importantes
-- **Anterior al [[músculo subescapular]]**
-- **Cercano a la [[arteria axilar]] y el [[nervio radial]]** (el nervio subescapular inferior se encuentra separado del músculo por la arteria axilar y el nervio radial según Ruvier)
+## Relaciones anatÃ³micas importantes
+- **Anterior al [[mÃºsculo subescapular]]**
+- **Cercano a la [[arteria axilar]] y el [[nervio radial]]** (el nervio subescapular inferior se encuentra separado del mÃºsculo por la arteria axilar y el nervio radial segÃºn Ruvier)
 
 ## Lesiones
-- Debilidad en rotación interna del brazo
+- Debilidad en rotaciÃ³n interna del brazo
 - Rara vez aislada
 
 
-## 🔗 Enlaces
+## ðŸ”— Enlaces
 - [[Plexo braquial]]
 
-## 🔗 Fuente
-- Rouvier-Anatomía Humana, Tomo 3
+## ðŸ”— Fuente
+- Rouvier-AnatomÃ­a Humana, Tomo 3
+
+

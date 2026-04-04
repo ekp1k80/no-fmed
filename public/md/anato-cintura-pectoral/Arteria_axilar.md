@@ -1,31 +1,36 @@
-# Arteria Axilar
+﻿# Arteria Axilar
 
 > #arteria #axila #cintura-pectoral
 
-## Clasificación por porciones
+## ðŸ“· ImÃ¡genes de Referencia
 
-### 1ra porción (medial al pectoral menor)
-- **Arteria torácica superior**
+![Diagrama](imgs/arterias/Arteria_axilar_diagrama.jpg)
+*Diagrama de la arteria axilar y sus ramas*
 
-### 2da porción (posterior al pectoral menor)
+## ClasificaciÃ³n por porciones
+
+### 1ra porciÃ³n (medial al pectoral menor)
+- **Arteria torÃ¡cica superior**
+
+### 2da porciÃ³n (posterior al pectoral menor)
 - **Arteria toracoacromial (tronco toracoacromial)**
 	- Rama clavicular
-		- Irriga principalmente al músculo subclavio
+		- Irriga principalmente al mÃºsculo subclavio
 	- Rama acromial
 		- Se anastomosa con la rama ascendente de la arteria circunfleja humeral posterior
 	- Rama deltoidea
 		- Perfora la aponeurosis clavipectoral
 	- Rama pectoral
 		- Irriga al pectoral mayor y menor
-- **Arteria torácica lateral (mamaria externa)**
-	- Ayuda a irrigar la pared torácica y la mama
+- **Arteria torÃ¡cica lateral (mamaria externa)**
+	- Ayuda a irrigar la pared torÃ¡cica y la mama
 
-### 3ra porción (lateral al pectoral menor)
-- **Arteria subescapular** (la más gruesa de toda la axilar)
+### 3ra porciÃ³n (lateral al pectoral menor)
+- **Arteria subescapular** (la mÃ¡s gruesa de toda la axilar)
 	- **Arteria toracodorsal**
-		- Acompaña al nervio y al músculo dorsal ancho
-	- **Arteria circunfleja de la escápula**
-		- Bordea el borde lateral de la escápula
+		- AcompaÃ±a al nervio y al mÃºsculo dorsal ancho
+	- **Arteria circunfleja de la escÃ¡pula**
+		- Bordea el borde lateral de la escÃ¡pula
 		- Pasa por el **espacio triangular (omotricipital)**
 - **Arteria circunfleja humeral anterior**
 - **Arteria circunfleja humeral posterior**
@@ -35,9 +40,9 @@
 		- Rama descendente: se anastomosa con una rama de la arteria braquial, la arteria braquial profunda
 
 ## Anastomosis relevantes
-- Rama acromial de la toracoacromial ↔ Rama ascendente de la circunfleja humeral posterior
-- Rama descendente de la circunfleja humeral posterior ↔ Arteria braquial profunda
-- Arteria circunfleja de la escápula ↔ Arterias supraescapular y dorsal de la escápula (de la subclavia) 
+- Rama acromial de la toracoacromial â†” Rama ascendente de la circunfleja humeral posterior
+- Rama descendente de la circunfleja humeral posterior â†” Arteria braquial profunda
+- Arteria circunfleja de la escÃ¡pula â†” Arterias supraescapular y dorsal de la escÃ¡pula (de la subclavia) 
 
 ## Enlaces
 - [[Toracica superior]]
@@ -52,7 +57,8 @@
 - [[Nervio axilar]]
 - [[Nervio radial]]
 - [[Nervio mediano]]
-- [[Nervio musculocutáneo]]
+- [[Nervio musculocutÃ¡neo]]
 - [[Nervio cubital]]
+
 
 

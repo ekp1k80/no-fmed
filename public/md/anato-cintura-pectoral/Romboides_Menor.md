@@ -1,53 +1,53 @@
-# Romboides Menor
+﻿# Romboides Menor
 
-> MÃºsculo aplanado y cuadrilÃ¡tero situado superior al romboides mayor
+> MÃƒÂºsculo aplanado y cuadrilÃƒÂ¡tero situado superior al romboides mayor
 
 #musculo #cintura-pectoral #escapula
 
-## ðŸ“‹ Datos Clave
-- **Grupo:** MÃºsculos profundos de la espalda
-- **FunciÃ³n principal:** RetracciÃ³n y elevaciÃ³n de la escÃ¡pula
-- **InervaciÃ³n:** [[Nervio dorsal de la escÃ¡pula]] (C4-C5)
+## Ã°Å¸â€œâ€¹ Datos Clave
+- **Grupo:** MÃƒÂºsculos profundos de la espalda
+- **FunciÃƒÂ³n principal:** RetracciÃƒÂ³n y elevaciÃƒÂ³n de la escÃƒÂ¡pula
+- **InervaciÃƒÂ³n:** [[Nervio dorsal de la escÃƒÂ¡pula]] (C4-C5)
 
-## ðŸ“· ImÃ¡genes de Referencia
+## Ã°Å¸â€œÂ· ImÃƒÂ¡genes de Referencia
 
-![[imgs/Romboides_Menor/Romboides_menor_posterior.png|400]]
-*Vista posterior del mÃºsculo*
+![Romboides_menor_posterior.png](imgs/musculos/Romboides_menor_posterior.png)
+*Vista posterior del mÃƒÂºsculo*
 
-![[imgs/Romboides_Menor/Romboides_menor_posterior_seleccionado.png|400]]
+![Romboides_menor_posterior_seleccionado.png](imgs/musculos/Romboides_menor_posterior_seleccionado.png)
 *Vista posterior seleccionada*
 
 ## Origen
-[por completar - segÃºn Rouvier]
+[por completar - segÃƒÂºn Rouvier]
 
-## InserciÃ³n
-[por completar - segÃºn Rouvier]
+## InserciÃƒÂ³n
+[por completar - segÃƒÂºn Rouvier]
 
 ## Relaciones
-- Situado profundamente al mÃºsculo trapecio
-- Superior al mÃºsculo romboides mayor
-- Inferior al mÃºsculo elevador de la escÃ¡pula
-- Forma parte de la capa profunda de los mÃºsculos de la espalda
+- Situado profundamente al mÃƒÂºsculo trapecio
+- Superior al mÃƒÂºsculo romboides mayor
+- Inferior al mÃƒÂºsculo elevador de la escÃƒÂ¡pula
+- Forma parte de la capa profunda de los mÃƒÂºsculos de la espalda
 
-## VascularizaciÃ³n
-- Arteria dorsal de la escÃ¡pula
+## VascularizaciÃƒÂ³n
+- Arteria dorsal de la escÃƒÂ¡pula
 - Arterias intercostales
 
-## InervaciÃ³n
-- Nervio dorsal de la escÃ¡pula (C4-C5)
+## InervaciÃƒÂ³n
+- Nervio dorsal de la escÃƒÂ¡pula (C4-C5)
 - Rama del plexo braquial
 
 ## Funciones
-1. **RetracciÃ³n de la escÃ¡pula:** Aproxima la escÃ¡pula a la lÃ­nea media
-2. **ElevaciÃ³n de la escÃ¡pula:** Eleva el hombro
-3. **RotaciÃ³n de la escÃ¡pula:** Gira la escÃ¡pula para deprimir el hombro
-4. **FijaciÃ³n de la escÃ¡pula:** Mantiene la escÃ¡pula aplicada contra el tÃ³rax
+1. **RetracciÃƒÂ³n de la escÃƒÂ¡pula:** Aproxima la escÃƒÂ¡pula a la lÃƒÂ­nea media
+2. **ElevaciÃƒÂ³n de la escÃƒÂ¡pula:** Eleva el hombro
+3. **RotaciÃƒÂ³n de la escÃƒÂ¡pula:** Gira la escÃƒÂ¡pula para deprimir el hombro
+4. **FijaciÃƒÂ³n de la escÃƒÂ¡pula:** Mantiene la escÃƒÂ¡pula aplicada contra el tÃƒÂ³rax
 
-## CaracterÃ­sticas especiales
-- Trabaja en sinergia con el mÃºsculo romboides mayor
-- Forma parte del grupo de mÃºsculos que fijan la escÃ¡pula al tronco
-- Participa en movimientos de retracciÃ³n y elevaciÃ³n de los hombros
-- MÃ¡s pequeÃ±o que el romboides mayor
+## CaracterÃƒÂ­sticas especiales
+- Trabaja en sinergia con el mÃƒÂºsculo romboides mayor
+- Forma parte del grupo de mÃƒÂºsculos que fijan la escÃƒÂ¡pula al tronco
+- Participa en movimientos de retracciÃƒÂ³n y elevaciÃƒÂ³n de los hombros
+- MÃƒÂ¡s pequeÃƒÂ±o que el romboides mayor
 
-## ðŸ”— Fuente
-- Rouvier-AnatomÃ­a Humana, Tomo 3
+## Ã°Å¸â€â€” Fuente
+- Rouvier-AnatomÃƒÂ­a Humana, Tomo 3

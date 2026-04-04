@@ -1,33 +1,33 @@
-# Rama Acromial de la Arteria Toracoacromial
+﻿# Rama Acromial de la Arteria Toracoacromial
 
-> Rama lateral de la arteria toracoacromial que irriga la región deltoidea y las articulaciones del hombro.
+> Rama lateral de la arteria toracoacromial que irriga la regiÃ³n deltoidea y las articulaciones del hombro.
 
-## 📋 Datos Clave
-- **Porción:** Rama de la 2da porción de la arteria axilar (a través de la arteria toracoacromial)
+## ðŸ“‹ Datos Clave
+- **PorciÃ³n:** Rama de la 2da porciÃ³n de la arteria axilar (a travÃ©s de la arteria toracoacromial)
 - **Origen:** Arteria toracoacromial
-- **Región:** #arteria #colateral #2da-porcion #axila
-- **Estructuras relacionadas:** [[Arteria toracoacromial]], [[Músculo deltoides]], [[Articulación acromioclavicular]], [[Articulación del hombro]]
+- **RegiÃ³n:** #arteria #colateral #2da-porcion #axila
+- **Estructuras relacionadas:** [[Arteria toracoacromial]], [[MÃºsculo deltoides]], [[ArticulaciÃ³n acromioclavicular]], [[ArticulaciÃ³n del hombro]]
 
 ## Origen
-Nace como rama de la arteria toracoacromial, después de que ésta perfora la fascia clavipectoral.
+Nace como rama de la arteria toracoacromial, despuÃ©s de que Ã©sta perfora la fascia clavipectoral.
 
 ## Trayecto
-Se dirige lateralmente bajo el músculo deltoides.
+Se dirige lateralmente bajo el mÃºsculo deltoides.
 
-## Distribución / Ramas terminales
-Proporciona ramas al músculo deltoides y a las articulaciones acromioclavicular y del hombro.
+## DistribuciÃ³n / Ramas terminales
+Proporciona ramas al mÃºsculo deltoides y a las articulaciones acromioclavicular y del hombro.
 
 ## Anastomosis
 Se anastomosa con otras ramas de la arteria axilar, especialmente con las arterias circunflejas humerales.
 
 ## Espacio que atraviesa (si aplica)
-Transcurre bajo el músculo deltoides.
+Transcurre bajo el mÃºsculo deltoides.
 
-## Importancia clínica
-Importante en la vascularización de las articulaciones del hombro. En fracturas o cirugías del hombro, su preservación ayuda a prevenir necrosis ósea.
+## Importancia clÃ­nica
+Importante en la vascularizaciÃ³n de las articulaciones del hombro. En fracturas o cirugÃ­as del hombro, su preservaciÃ³n ayuda a prevenir necrosis Ã³sea.
 
-## 🔗 Fuente
-- Rouvier-Anatomía Humana, Tomo 3
+## ðŸ”— Fuente
+- Rouvier-AnatomÃ­a Humana, Tomo 3
 
 ## Enlaces
 - [[Arteria toracoacromial]]
@@ -41,5 +41,7 @@ Importante en la vascularización de las articulaciones del hombro. En fracturas
 - [[Nervio radial]]
 - [[Nervio cubital]]
 - [[Vena toracoacromial]]
+
+
 
 

@@ -1,44 +1,46 @@
-# Nervio Subescapular Superior
+﻿# Nervio Subescapular Superior
 
-> Nervio que inerva la porción superior del músculo subescapular
+> Nervio que inerva la porciÃ³n superior del mÃºsculo subescapular
 
-## 📋 Datos Clave
+## ðŸ“‹ Datos Clave
 - **Etiquetas:** #nervio #colateral-posterior #cintura-pectoral
-- **Origen:** Fascículo posterior o división posterior del tronco superior del [[plexo braquial]] (C5-C6)
-- **Tipo:** Somático motor
-- **Región:** #cintura-pectoral #axila
+- **Origen:** FascÃ­culo posterior o divisiÃ³n posterior del tronco superior del [[plexo braquial]] (C5-C6)
+- **Tipo:** SomÃ¡tico motor
+- **RegiÃ³n:** #cintura-pectoral #axila
 
-## 📷 Imágenes de Referencia
+## ðŸ“· ImÃ¡genes de Referencia
 
-*[Imágenes por agregar]*
+*[ImÃ¡genes por agregar]*
 
 ## Origen
-Se destaca del **fascículo posterior** o de la **división posterior del tronco superior** del [[plexo braquial]] (Ruvier: "se destaca del fascículo posterior o de la división posterior del tronco superior").
+Se destaca del **fascÃ­culo posterior** o de la **divisiÃ³n posterior del tronco superior** del [[plexo braquial]] (Ruvier: "se destaca del fascÃ­culo posterior o de la divisiÃ³n posterior del tronco superior").
 
 ## Recorrido
-1. **Descenso:** Verticalmente posterior y lateral al fascículo posterior
-2. **Penetración:** Penetra en el [[músculo subescapular]] cerca de su borde superior
-3. **Distribución:** Se distribuye por los fascículos superiores del músculo
+1. **Descenso:** Verticalmente posterior y lateral al fascÃ­culo posterior
+2. **PenetraciÃ³n:** Penetra en el [[mÃºsculo subescapular]] cerca de su borde superior
+3. **DistribuciÃ³n:** Se distribuye por los fascÃ­culos superiores del mÃºsculo
 
-## Territorio de inervación
-### Músculos:
-- [[Músculo subescapular]] (fascículos superiores)
+## Territorio de inervaciÃ³n
+### MÃºsculos:
+- [[MÃºsculo subescapular]] (fascÃ­culos superiores)
 
-### Función del músculo:
-- **Rotación interna** del brazo
-- **Estabilización** de la articulación glenohumeral
+### FunciÃ³n del mÃºsculo:
+- **RotaciÃ³n interna** del brazo
+- **EstabilizaciÃ³n** de la articulaciÃ³n glenohumeral
 
-## Relaciones anatómicas importantes
-- **Posterior y lateral al fascículo posterior** del [[plexo braquial]]
-- **Penetra en la cara anterior del [[músculo subescapular]]** cerca del borde superior
+## Relaciones anatÃ³micas importantes
+- **Posterior y lateral al fascÃ­culo posterior** del [[plexo braquial]]
+- **Penetra en la cara anterior del [[mÃºsculo subescapular]]** cerca del borde superior
 
 ## Lesiones
-- Debilidad en rotación interna del brazo
-- Rara vez aislada; puede afectarse en lesiones del fascículo posterior
+- Debilidad en rotaciÃ³n interna del brazo
+- Rara vez aislada; puede afectarse en lesiones del fascÃ­culo posterior
 
 
-## 🔗 Enlaces
+## ðŸ”— Enlaces
 - [[Plexo braquial]]
 
-## 🔗 Fuente
-- Rouvier-Anatomía Humana, Tomo 3
+## ðŸ”— Fuente
+- Rouvier-AnatomÃ­a Humana, Tomo 3
+
+

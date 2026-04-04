@@ -1,26 +1,26 @@
-# Fascia del Antebrazo
+﻿# Fascia del Antebrazo
 
-> Vaina fibrosa continua con la fascia del brazo, que recubre los músculos del antebrazo
+> Vaina fibrosa continua con la fascia del brazo, que recubre los mÃºsculos del antebrazo
 
-## 📋 Datos Clave
-- **Región:** #fascia #brazo #cintura-pectoral #antebrazo
-- **Estructuras relacionadas:** [[fascia del brazo]], [[Músculo flexor superficial del antebrazo]]
+## ðŸ“‹ Datos Clave
+- **RegiÃ³n:** #fascia #brazo #cintura-pectoral #antebrazo
+- **Estructuras relacionadas:** [[fascia del brazo]], [[MÃºsculo flexor superficial del antebrazo]]
 
-## Descripción
-Según Ruvier (Tomo 3, p. 153):
-- Continuación inferior de la [[fascia del brazo]]
-- Recubre los músculos del antebrazo en sus dos caras (anterior y posterior)
-- Se fija en las apófisis estiloides del radio y del cúbito
+## DescripciÃ³n
+SegÃºn Ruvier (Tomo 3, p. 153):
+- ContinuaciÃ³n inferior de la [[fascia del brazo]]
+- Recubre los mÃºsculos del antebrazo en sus dos caras (anterior y posterior)
+- Se fija en las apÃ³fisis estiloides del radio y del cÃºbito
 
-## Características
+## CaracterÃ­sticas
 - Delgada en la cara anterior del antebrazo
-- Gruesa en la cara posterior (donde se refuerza con expansiones del tríceps braquial)
-- Se fija en los bordes anterior y posterior del cúbito
+- Gruesa en la cara posterior (donde se refuerza con expansiones del trÃ­ceps braquial)
+- Se fija en los bordes anterior y posterior del cÃºbito
 
-## Importancia clínica
+## Importancia clÃ­nica
 - Forma compartimentos en el antebrazo (anterior/flexores y posterior/extensores)
 - Las infecciones en el antebrazo pueden extenderse entre compartimientos
-- Se continúa con el retináculo de flexores en la muñeca
+- Se continÃºa con el retinÃ¡culo de flexores en la muÃ±eca
 
-## 🔗 Fuente
-- Rouvier-Anatomía Humana, Tomo 3
+## ðŸ”— Fuente
+- Rouvier-AnatomÃ­a Humana, Tomo 3

@@ -1,34 +1,35 @@
-# Vena toracoacromial axilar
+﻿# Vena toracoacromial axilar
 
-> Vena correspondiente a la arteria toracoacromial. Suelen desembocar en la vena cefálica.
+> Vena correspondiente a la arteria toracoacromial. Suelen desembocar en la vena cefÃ¡lica.
 
-## 📋 Datos Clave
-- **Drena en:** [[Vena cefálica]] (generalmente)
-- **Región:** #vena #colateral #axila
-- **Acompaña a:** [[Arteria toracoacromial]]
+## ðŸ“‹ Datos Clave
+- **Drena en:** [[Vena cefÃ¡lica]] (generalmente)
+- **RegiÃ³n:** #vena #colateral #axila
+- **AcompaÃ±a a:** [[Arteria toracoacromial]]
 
 ## Origen/Drenaje
 La vena toracoacromial drena las ramas de la arteria toracoacromial: acromial, clavicular, deltoidea y pectoral.
 
 ## Trayecto
-Acompaña a la arteria toracoacromial, emergiendo por detrás del músculo pectoral menor para dirigirse hacia la vena cefálica.
+AcompaÃ±a a la arteria toracoacromial, emergiendo por detrÃ¡s del mÃºsculo pectoral menor para dirigirse hacia la vena cefÃ¡lica.
 
-## Relaciones anatómicas
-- **Profundo:** Músculo pectoral menor
+## Relaciones anatÃ³micas
+- **Profundo:** MÃºsculo pectoral menor
 - **Superficial:** Fascia deltoidea y clavipectoral
-- **Cercana:** Vena cefálica en el surco deltopectoral
-- **Ramas:** Sigue las ramas de la arteria homónima
+- **Cercana:** Vena cefÃ¡lica en el surco deltopectoral
+- **Ramas:** Sigue las ramas de la arteria homÃ³nima
 
-## Importancia clínica
-- **Cirugía de hombro:** Consideración en abordajes delto-pectorales
-- **Drenaje venoso:** Importante en patologías de la región delto-pectoral
+## Importancia clÃ­nica
+- **CirugÃ­a de hombro:** ConsideraciÃ³n en abordajes delto-pectorales
+- **Drenaje venoso:** Importante en patologÃ­as de la regiÃ³n delto-pectoral
 - **Variaciones:** Puede desembocar directamente en la vena axilar en algunos casos
 
-## 🔗 Fuente
-- Rouvier-Anatomía Humana, Tomo 3
+## ðŸ”— Fuente
+- Rouvier-AnatomÃ­a Humana, Tomo 3
 
-## 🔗 Enlaces
+## ðŸ”— Enlaces
 - **Vena padre:** [[Venas axilares]]
-- **Ramas hermanas:** [[Vena torácica superior]], [[Vena torácica lateral]], [[Vena subescapular]], [[Vena circunfleja humeral anterior]], [[Vena circunfleja humeral posterior]]
+- **Ramas hermanas:** [[Vena torÃ¡cica superior]], [[Vena torÃ¡cica lateral]], [[Vena subescapular]], [[Vena circunfleja humeral anterior]], [[Vena circunfleja humeral posterior]]
 - **Arteria correspondiente:** [[Arteria toracoacromial]]
-- **Estructuras relacionadas:** [[Vena cefálica]], [[Vena basílica]], [[Triángulo deltopectoral]], [[Fascia clavipectoral]]
+- **Estructuras relacionadas:** [[Vena cefÃ¡lica]], [[Vena basÃ­lica]], [[TriÃ¡ngulo deltopectoral]], [[Fascia clavipectoral]]
+

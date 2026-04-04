@@ -1,53 +1,54 @@
-# Venas subclavias
+﻿# Venas subclavias
 
-> Sistema venoso que drena la extremidad superior y regiones adyacentes a través de la vena subclavia.
+> Sistema venoso que drena la extremidad superior y regiones adyacentes a travÃ©s de la vena subclavia.
 
-## 📋 Datos Clave
+## ðŸ“‹ Datos Clave
 - **Forma parte de:** Sistema venoso del miembro superior
-- **Región:** #vena #cintura-pectoral
-- **Continuación:** De la vena axilar a la vena braquiocefálica
+- **RegiÃ³n:** #vena #cintura-pectoral
+- **ContinuaciÃ³n:** De la vena axilar a la vena braquiocefÃ¡lica
 
 ## Estructura
-La vena subclavia es la continuación de la vena axilar, comenzando en el borde externo de la primera costilla y terminando en la unión con la vena yugular interna para formar la vena braquiocefálica.
+La vena subclavia es la continuaciÃ³n de la vena axilar, comenzando en el borde externo de la primera costilla y terminando en la uniÃ³n con la vena yugular interna para formar la vena braquiocefÃ¡lica.
 
 ## Ramas principales
 Las venas subclavias reciben las siguientes tributarias:
 
-### Venas de la región cervical
+### Venas de la regiÃ³n cervical
 - [[Vena yugular externa]]
 - [[Vena vertebral]]
 - [[Vena cervical profunda]]
 
-### Venas de la región torácica
-- [[Vena torácica interna]]
+### Venas de la regiÃ³n torÃ¡cica
+- [[Vena torÃ¡cica interna]]
 - [[Vena supraescapular]]
 
 ## Trayecto
-La vena subclavia pasa por delante de la arteria subclavia, separada por el músculo escaleno anterior. Se sitúa en el triángulo supraclavicular antes de unirse a la vena yugular interna.
+La vena subclavia pasa por delante de la arteria subclavia, separada por el mÃºsculo escaleno anterior. Se sitÃºa en el triÃ¡ngulo supraclavicular antes de unirse a la vena yugular interna.
 
-## Relaciones anatómicas
-- **Anterior:** Clavícula, músculo subclavio
+## Relaciones anatÃ³micas
+- **Anterior:** ClavÃ­cula, mÃºsculo subclavio
 - **Posterior:** Arteria subclavia, plexo braquial
 - **Medial:** Vena yugular interna
 - **Lateral:** Vena axilar
 
-## Importancia clínica
-- **Acceso venoso central:** Sitio común para catéteres venosos centrales
-- **Síndrome de salida torácica:** Compresión neurovascular
-- **Trombosis:** Puede ocurrir por catéteres o compresión
+## Importancia clÃ­nica
+- **Acceso venoso central:** Sitio comÃºn para catÃ©teres venosos centrales
+- **SÃ­ndrome de salida torÃ¡cica:** CompresiÃ³n neurovascular
+- **Trombosis:** Puede ocurrir por catÃ©teres o compresiÃ³n
 
-## 🔗 Enlaces
+## ðŸ”— Enlaces
 ### Ramas individuales
 - [[Vena yugular externa]]
 - [[Vena vertebral]]
-- [[Vena torácica interna]]
+- [[Vena torÃ¡cica interna]]
 - [[Vena supraescapular]]
 - [[Vena cervical profunda]]
 
 ### Estructuras relacionadas
-- [[Vena cefálica]]
-- [[Vena basílica]]
-- [[Triángulo deltopectoral]]
+- [[Vena cefÃ¡lica]]
+- [[Vena basÃ­lica]]
+- [[TriÃ¡ngulo deltopectoral]]
 - [[Fascia clavipectoral]]
-- [[Venas axilares]] (continuación distal)
+- [[Venas axilares]] (continuaciÃ³n distal)
 - [[Venas braquiales]] (origen proximal)
+

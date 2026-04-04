@@ -1,41 +1,41 @@
-# Arteria Torácica Interna (Mamaria Interna)
+﻿# Arteria TorÃ¡cica Interna (Mamaria Interna)
 
-> Rama de la arteria subclavia que desciende posterior al cartílago costal. Da ramas para la mama, pared torácica y diafragma. Termina como arterias torácicas superior e inferior.
+> Rama de la arteria subclavia que desciende posterior al cartÃ­lago costal. Da ramas para la mama, pared torÃ¡cica y diafragma. Termina como arterias torÃ¡cicas superior e inferior.
 
-## 📋 Datos Clave
+## ðŸ“‹ Datos Clave
 - **Origen:** Arteria subclavia
-- **Región:** #arteria #colateral #cintura-pectoral #tórax #pared-torácica
-- **Vena correspondiente:** [[Vena torácica interna]]
-- **Estructuras relacionadas:** [[Arteria subclavia]], [[Cartílagos costales]], [[Mama]], [[Diafragma]]
+- **RegiÃ³n:** #arteria #colateral #cintura-pectoral #tÃ³rax #pared-torÃ¡cica
+- **Vena correspondiente:** [[Vena torÃ¡cica interna]]
+- **Estructuras relacionadas:** [[Arteria subclavia]], [[CartÃ­lagos costales]], [[Mama]], [[Diafragma]]
 
 ## Origen
-La arteria torácica interna nace de la cara inferior de la arteria subclavia, opuesta al origen de la arteria vertebral.
+La arteria torÃ¡cica interna nace de la cara inferior de la arteria subclavia, opuesta al origen de la arteria vertebral.
 
 ## Trayecto
-1. **Descenso:** Desciende verticalmente a lo largo del borde esternal, aproximadamente 1-2 cm lateral al borde del esternón.
-2. **Relaciones:** Se sitúa posterior a los cartílagos costales y anterior a la pleura parietal.
-3. **Terminación:** En el sexto espacio intercostal se divide en sus ramas terminales: arteria torácica superior y arteria torácica inferior.
+1. **Descenso:** Desciende verticalmente a lo largo del borde esternal, aproximadamente 1-2 cm lateral al borde del esternÃ³n.
+2. **Relaciones:** Se sitÃºa posterior a los cartÃ­lagos costales y anterior a la pleura parietal.
+3. **TerminaciÃ³n:** En el sexto espacio intercostal se divide en sus ramas terminales: arteria torÃ¡cica superior y arteria torÃ¡cica inferior.
 
-## Distribución / Ramas terminales
-- **Ramas perforantes:** Emergen a través de los espacios intercostales para irrigar la piel y tejido subcutáneo del tórax.
+## DistribuciÃ³n / Ramas terminales
+- **Ramas perforantes:** Emergen a travÃ©s de los espacios intercostales para irrigar la piel y tejido subcutÃ¡neo del tÃ³rax.
 - **Ramas intercostales anteriores:** Se anastomosan con las arterias intercostales posteriores.
-- **Ramas mediastínicas:** Para el timo, pericardio y mediastino anterior.
-- **Ramas pericárdico-frénicas:** Para el pericardio y diafragma.
-- **Ramas musculofrénicas:** Para los músculos intercostales y diafragma.
-- **Arterias torácicas superior e inferior:** Ramas terminales que irrigan la pared abdominal anterior.
+- **Ramas mediastÃ­nicas:** Para el timo, pericardio y mediastino anterior.
+- **Ramas pericÃ¡rdico-frÃ©nicas:** Para el pericardio y diafragma.
+- **Ramas musculofrÃ©nicas:** Para los mÃºsculos intercostales y diafragma.
+- **Arterias torÃ¡cicas superior e inferior:** Ramas terminales que irrigan la pared abdominal anterior.
 
 ## Anastomosis
-- Con las arterias intercostales posteriores (sistema aórtico)
-- Con las arterias epigástricas superiores e inferiores (pared abdominal)
-- Con las arterias frénicas inferiores (diafragma)
+- Con las arterias intercostales posteriores (sistema aÃ³rtico)
+- Con las arterias epigÃ¡stricas superiores e inferiores (pared abdominal)
+- Con las arterias frÃ©nicas inferiores (diafragma)
 
-## Importancia clínica
-- **Cirugía de revascularización miocárdica:** La arteria torácica interna izquierda es frecuentemente utilizada como injerto en la cirugía de bypass coronario (CABG).
-- **Mastectomía radical:** Debe preservarse durante la cirugía mamaria para mantener la irrigación del colgajo cutáneo.
-- **Punción pleural:** Debe evitarse su lesión durante procedimientos como la toracocentesis.
+## Importancia clÃ­nica
+- **CirugÃ­a de revascularizaciÃ³n miocÃ¡rdica:** La arteria torÃ¡cica interna izquierda es frecuentemente utilizada como injerto en la cirugÃ­a de bypass coronario (CABG).
+- **MastectomÃ­a radical:** Debe preservarse durante la cirugÃ­a mamaria para mantener la irrigaciÃ³n del colgajo cutÃ¡neo.
+- **PunciÃ³n pleural:** Debe evitarse su lesiÃ³n durante procedimientos como la toracocentesis.
 
-## 🔗 Fuente
-- Rouvier-Anatomía Humana, Tomo 3
+## ðŸ”— Fuente
+- Rouvier-AnatomÃ­a Humana, Tomo 3
 
 ## Enlaces
 - [[Arteria subclavia]]
@@ -43,5 +43,6 @@ La arteria torácica interna nace de la cara inferior de la arteria subclavia, o
 - [[Cervical_profunda]]
 - [[Supraescapular]]
 - [[Dorsal_de_la_escapula]]
-- [[Vena torácica interna]]
+- [[Vena torÃ¡cica interna]]
 - [[Vena yugular externa]]
+

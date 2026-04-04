@@ -1,44 +1,44 @@
-# Infraespinoso
+﻿# Infraespinoso
 
-> MÃºsculo triangular que ocupa la mayor parte de la fosa infraespinosa
+> MÃƒÂºsculo triangular que ocupa la mayor parte de la fosa infraespinosa
 
 #musculo #cintura-pectoral #escapula #hombro
 
-## ðŸ“‹ Datos Clave
-- **Grupo:** MÃºsculos del manguito rotador
-- **FunciÃ³n principal:** RotaciÃ³n lateral del brazo
-- **InervaciÃ³n:** [[Nervio supraescapular]]
+## Ã°Å¸â€œâ€¹ Datos Clave
+- **Grupo:** MÃƒÂºsculos del manguito rotador
+- **FunciÃƒÂ³n principal:** RotaciÃƒÂ³n lateral del brazo
+- **InervaciÃƒÂ³n:** [[Nervio supraescapular]]
 
-## ðŸ“· ImÃ¡genes de Referencia
+## Ã°Å¸â€œÂ· ImÃƒÂ¡genes de Referencia
 
-![[imgs/Infraespinoso/Infraespinoso_posterior.png|400]]
+![Infraespinoso_posterior.png](imgs/musculos/Infraespinoso_posterior.png)
 *Vista posterior del infraespinoso*
 
 ## Origen
-- Fosa infraespinosa de la escÃ¡pula
+- Fosa infraespinosa de la escÃƒÂ¡pula
 - Fascia infraespinosa
 
-## InserciÃ³n
-- Faceta media del tubÃ©rculo mayor del hÃºmero
-- CÃ¡psula de la articulaciÃ³n glenohumeral
+## InserciÃƒÂ³n
+- Faceta media del tubÃƒÂ©rculo mayor del hÃƒÂºmero
+- CÃƒÂ¡psula de la articulaciÃƒÂ³n glenohumeral
 
 ## Relaciones
 - Ocupa la fosa infraespinosa
 - Cubierto por [[Deltoides]] y [[Trapecio]]
 - Superior a [[Redondo Menor]] y [[Redondo Mayor]]
 
-## VascularizaciÃ³n
+## VascularizaciÃƒÂ³n
 - [[Arteria supraescapular]]
 - [[Arteria circunfleja escapular]]
 
-## InervaciÃ³n
+## InervaciÃƒÂ³n
 - [[Nervio supraescapular]] (C5-C6)
 
 ## Funciones
-- RotaciÃ³n lateral del brazo
-- AbducciÃ³n del brazo (asistente)
-- EstabilizaciÃ³n de la articulaciÃ³n glenohumeral
-- Previene la luxaciÃ³n anterior del hÃºmero
+- RotaciÃƒÂ³n lateral del brazo
+- AbducciÃƒÂ³n del brazo (asistente)
+- EstabilizaciÃƒÂ³n de la articulaciÃƒÂ³n glenohumeral
+- Previene la luxaciÃƒÂ³n anterior del hÃƒÂºmero
 
-## ðŸ”— Fuente
-- Rouvier-AnatomÃ­a Humana, Tomo 3
+## Ã°Å¸â€â€” Fuente
+- Rouvier-AnatomÃƒÂ­a Humana, Tomo 3

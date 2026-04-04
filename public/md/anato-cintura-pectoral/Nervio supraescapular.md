@@ -1,86 +1,87 @@
-# Nervio Supraescapular
+﻿# Nervio Supraescapular
 
-> Nervio que inerva los músculos supraespinoso e infraespinoso
+> Nervio que inerva los mÃºsculos supraespinoso e infraespinoso
 
-## 📋 Datos Clave
+## ðŸ“‹ Datos Clave
 - **Etiquetas:** #nervio #colateral-posterior #cintura-pectoral
 - **Origen:** Tronco superior del plexo braquial (C5-C6)
-- **Tipo:** Somático motor y sensitivo
-- **Región:** #cintura-pectoral #escapula
+- **Tipo:** SomÃ¡tico motor y sensitivo
+- **RegiÃ³n:** #cintura-pectoral #escapula
 
-## 📷 Imágenes de Referencia
+## ðŸ“· ImÃ¡genes de Referencia
 
-*[Imágenes por agregar - Recorrido del nervio supraescapular]*
+*[ImÃ¡genes por agregar - Recorrido del nervio supraescapular]*
 
 ## Origen
-El nervio supraescapular se origina del **tronco superior** del [[plexo braquial]], específicamente de las raíces **C5 y C6**.
+El nervio supraescapular se origina del **tronco superior** del [[plexo braquial]], especÃ­ficamente de las raÃ­ces **C5 y C6**.
 
 ## Recorrido
-1. **Porción cervical:** Desciende por el triángulo posterior del cuello
-2. **Paso por la escotadura supraescapular:** Atraviesa la escotadura supraescapular de la [[escápula]], por debajo del ligamento transverso superior de la escápula
-3. **Fosa supraespinosa:** Se dirige a la fosa supraespinosa para inervar el [[músculo supraespinoso]]
-4. **Paso por la espina de la escápula:** Rodea el borde lateral de la espina de la escápula
-5. **Fosa infraespinosa:** Desciende a la fosa infraespinosa para inervar el [[músculo infraespinoso]]
+1. **PorciÃ³n cervical:** Desciende por el triÃ¡ngulo posterior del cuello
+2. **Paso por la escotadura supraescapular:** Atraviesa la escotadura supraescapular de la [[escÃ¡pula]], por debajo del ligamento transverso superior de la escÃ¡pula
+3. **Fosa supraespinosa:** Se dirige a la fosa supraespinosa para inervar el [[mÃºsculo supraespinoso]]
+4. **Paso por la espina de la escÃ¡pula:** Rodea el borde lateral de la espina de la escÃ¡pula
+5. **Fosa infraespinosa:** Desciende a la fosa infraespinosa para inervar el [[mÃºsculo infraespinoso]]
 
 ## Ramas
-- **Ramas para el músculo supraespinoso**
-- **Ramas para el músculo infraespinoso**
-- **Ramas articulares:** Para la articulación glenohumeral
-- **Ramas sensitivas:** Para el ligamento acromioclavicular y parte de la cápsula articular del hombro
+- **Ramas para el mÃºsculo supraespinoso**
+- **Ramas para el mÃºsculo infraespinoso**
+- **Ramas articulares:** Para la articulaciÃ³n glenohumeral
+- **Ramas sensitivas:** Para el ligamento acromioclavicular y parte de la cÃ¡psula articular del hombro
 
-## Territorio de inervación
-### Músculos:
-- [[Músculo supraespinoso]]
-- [[Músculo infraespinoso]]
+## Territorio de inervaciÃ³n
+### MÃºsculos:
+- [[MÃºsculo supraespinoso]]
+- [[MÃºsculo infraespinoso]]
 
 ### Articulaciones:
-- Articulación glenohumeral (ramas articulares)
-- Articulación acromioclavicular (ramas sensitivas)
+- ArticulaciÃ³n glenohumeral (ramas articulares)
+- ArticulaciÃ³n acromioclavicular (ramas sensitivas)
 
 ### Sensibilidad:
-- Parte de la cápsula articular del hombro
+- Parte de la cÃ¡psula articular del hombro
 - Ligamento acromioclavicular
 
-## Función
-- **Supraespinoso:** Inicio de la abducción del brazo (primeros 15°)
-- **Infraespinoso:** Rotación externa del brazo
+## FunciÃ³n
+- **Supraespinoso:** Inicio de la abducciÃ³n del brazo (primeros 15Â°)
+- **Infraespinoso:** RotaciÃ³n externa del brazo
 
-## Relaciones anatómicas importantes
-- **En la escotadura supraescapular:** Pasa por debajo del ligamento transverso superior de la escápula
-- **En la fosa supraespinosa:** Acompañado por la arteria supraescapular
-- **Alrededor de la espina:** Relación estrecha con el borde lateral de la espina de la escápula
+## Relaciones anatÃ³micas importantes
+- **En la escotadura supraescapular:** Pasa por debajo del ligamento transverso superior de la escÃ¡pula
+- **En la fosa supraespinosa:** AcompaÃ±ado por la arteria supraescapular
+- **Alrededor de la espina:** RelaciÃ³n estrecha con el borde lateral de la espina de la escÃ¡pula
 
-## Variaciones anatómicas
+## Variaciones anatÃ³micas
 [por completar]
 
 ## Lesiones
-### 1. Compresión en la escotadura supraescapular
-- Dolor en la región posterior del hombro
-- Debilidad para la abducción inicial y rotación externa
-- Atrofia de los músculos supraespinoso e infraespinoso
+### 1. CompresiÃ³n en la escotadura supraescapular
+- Dolor en la regiÃ³n posterior del hombro
+- Debilidad para la abducciÃ³n inicial y rotaciÃ³n externa
+- Atrofia de los mÃºsculos supraespinoso e infraespinoso
 
-### 2. Síndrome del supraescapular
-- Dolor crónico en el hombro
-- Limitación de la abducción y rotación externa
+### 2. SÃ­ndrome del supraescapular
+- Dolor crÃ³nico en el hombro
+- LimitaciÃ³n de la abducciÃ³n y rotaciÃ³n externa
 - Atrofia muscular visible en fosa infraespinosa
 
 ### 3. Causas comunes:
-- Gangliones quísticos
+- Gangliones quÃ­sticos
 - Traumatismos directos
 - Microtraumatismos repetitivos (deportes de lanzamiento)
 
-## Examen clínico
-1. **Fuerza de abducción inicial:** Evaluar función del supraespinoso
-2. **Fuerza de rotación externa:** Evaluar función del infraespinoso
-3. **Signo de la lata vacía:** Dolor y debilidad al resistir la abducción con el brazo en rotación interna
+## Examen clÃ­nico
+1. **Fuerza de abducciÃ³n inicial:** Evaluar funciÃ³n del supraespinoso
+2. **Fuerza de rotaciÃ³n externa:** Evaluar funciÃ³n del infraespinoso
+3. **Signo de la lata vacÃ­a:** Dolor y debilidad al resistir la abducciÃ³n con el brazo en rotaciÃ³n interna
 
-## Importancia clínica
+## Importancia clÃ­nica
 El nervio supraescapular es vulnerable a atrapamiento en la escotadura supraescapular, especialmente en deportistas que realizan movimientos repetitivos por encima de la cabeza.
 
 
-## 🔗 Enlaces
+## ðŸ”— Enlaces
 - [[Plexo braquial]]
 - [[Nervio axilar]]
 
-## 🔗 Fuente
-- Rouvier-Anatomía Humana, Tomo 3
+## ðŸ”— Fuente
+- Rouvier-AnatomÃ­a Humana, Tomo 3
+

@@ -1,218 +1,218 @@
-# Húmero
+﻿# HÃºmero
 
-> Descripción breve: hueso largo que constituye el esqueleto del brazo. Articulado con la escápula superiormente, y con el cúbito y el radio inferiormente. Presenta un cuerpo y dos extremos. (Rouvier)
+> DescripciÃ³n breve: hueso largo que constituye el esqueleto del brazo. Articulado con la escÃ¡pula superiormente, y con el cÃºbito y el radio inferiormente. Presenta un cuerpo y dos extremos. (Rouvier)
 
-## 📋 Datos Clave
+## ðŸ“‹ Datos Clave
 
 - **Tipo:** largo
-- **Región:** #brazo
+- **RegiÃ³n:** #brazo
 - **Elemento del esqueleto:** apendicular
-- **Formación:** endoescondral
-- **Función principal:** soporte del brazo, inserción muscular, articulación del hombro y codo
+- **FormaciÃ³n:** endoescondral
+- **FunciÃ³n principal:** soporte del brazo, inserciÃ³n muscular, articulaciÃ³n del hombro y codo
 
 #hueso #cintura-pectoral
 
 ---
 
-## 📷 Imágenes de Referencia
+## ðŸ“· ImÃ¡genes de Referencia
 
-![Vista anterior](imgs/Humero/anterior.png)
-*Vista anterior del húmero*
+![Vista anterior](imgs/huesos/Humero_anterior.png)
+*Vista anterior del hÃºmero*
 
-![Vista posterior](imgs/Humero/posterior.png)
-*Vista posterior del húmero*
+![Vista posterior](imgs/huesos/Humero_posterior.png)
+*Vista posterior del hÃºmero*
 
 ---
 
-## Partes / Accidentes Óseos (Rouvier)
+## Partes / Accidentes Ã“seos (Rouvier)
 
-### Cuerpo (Diáfisis)
-- Más o menos rectilíneo, ligeramente torcido sobre su eje hacia la parte media
-- Irregularmente cilíndrico superiormente y prismático triangular en su parte inferior
+### Cuerpo (DiÃ¡fisis)
+- MÃ¡s o menos rectilÃ­neo, ligeramente torcido sobre su eje hacia la parte media
+- Irregularmente cilÃ­ndrico superiormente y prismÃ¡tico triangular en su parte inferior
 - Presenta **tres caras** y **tres bordes**
 
 #### Caras del Cuerpo
 1. **Cara anterolateral:** orientada lateral y un poco anteriormente
-   - **Tuberosidad deltoidea:** cresta rugosa oblicua para inserción del [[Deltoides]]
-   - Superficie lisa inferior para inserción del [[Braquial]]
+   - **Tuberosidad deltoidea:** cresta rugosa oblicua para inserciÃ³n del [[Deltoides]]
+   - Superficie lisa inferior para inserciÃ³n del [[Braquial]]
 
 2. **Cara anteromedial:** orientada anterior y medialmente
    - Parte inferior del surco intertubercular
-   - Impresión del [[Coracobraquial]]
+   - ImpresiÃ³n del [[Coracobraquial]]
    - Agujero nutricio del hueso
-   - Superficie para fascículos mediales del [[Braquial]]
-   - Posible **apófisis supraepicondílea** (5-6 cm superior al epicóndilo medial)
+   - Superficie para fascÃ­culos mediales del [[Braquial]]
+   - Posible **apÃ³fisis supraepicondÃ­lea** (5-6 cm superior al epicÃ³ndilo medial)
 
 3. **Cara posterior:** orientada posteriormente
    - **Surco del nervio radial:** canal oblicuo para el nervio radial y arteria braquial profunda
-   - Superficies para [[Tríceps braquial]] y [[Ancóneo]]
+   - Superficies para [[TrÃ­ceps braquial]] y [[AncÃ³neo]]
 
 #### Bordes del Cuerpo
 1. **Borde anterior:** redondeado superiormente, saliente inferiormente
-   - Inserción del [[Braquial]] y [[Pronador redondo]]
+   - InserciÃ³n del [[Braquial]] y [[Pronador redondo]]
 
-2. **Borde lateral:** redondeado superiormente, muy saliente inferiormente (cresta supracondílea lateral)
-   - Inserción del tabique intermuscular lateral, [[Braquiorradial]] y [[Extensor radial largo del carpo]]
+2. **Borde lateral:** redondeado superiormente, muy saliente inferiormente (cresta supracondÃ­lea lateral)
+   - InserciÃ³n del tabique intermuscular lateral, [[Braquiorradial]] y [[Extensor radial largo del carpo]]
 
 3. **Borde medial:** redondeado superiormente, saliente inferiormente
-   - Inserción del tabique intermuscular medial
+   - InserciÃ³n del tabique intermuscular medial
 
 ### Extremo Superior
 
-#### Cabeza del Húmero
+#### Cabeza del HÃºmero
 - Redondeada, lisa y regular (casi 1/3 de esfera de 30 mm de radio)
-- Diámetro vertical > diámetro anteroposterior
-- Orientación: medial, posterior y superior (en posición anatómica)
-- Ángulo con el cuerpo: ~130°
-- Separada de los tubérculos por el **cuello anatómico**
+- DiÃ¡metro vertical > diÃ¡metro anteroposterior
+- OrientaciÃ³n: medial, posterior y superior (en posiciÃ³n anatÃ³mica)
+- Ãngulo con el cuerpo: ~130Â°
+- Separada de los tubÃ©rculos por el **cuello anatÃ³mico**
 - **Fosita supratubercular:** escotadura triangular/semilunar para ligamento glenohumeral superior
 
-#### Tubérculo Mayor
+#### TubÃ©rculo Mayor
 - Situado lateralmente a la cabeza
 - Tres carillas (de anterior a posterior):
-  1. **Superior:** inserción del [[Supraespinoso]]
-  2. **Media:** inserción del [[Infraespinoso]]
-  3. **Posterior:** inserción del [[Redondo Menor]]
+  1. **Superior:** inserciÃ³n del [[Supraespinoso]]
+  2. **Media:** inserciÃ³n del [[Infraespinoso]]
+  3. **Posterior:** inserciÃ³n del [[Redondo Menor]]
 
-#### Tubérculo Menor
-- Situado anteriormente, medial al tubérculo mayor
-- Inserción del [[Subescapular]]
+#### TubÃ©rculo Menor
+- Situado anteriormente, medial al tubÃ©rculo mayor
+- InserciÃ³n del [[Subescapular]]
 
 #### Surco Intertubercular
-- Canal entre tubérculos mayor y menor
-- Contiene tendón de la cabeza larga del [[Bíceps Braquial]] y rama de arteria circunfleja humeral anterior
-- **Labio lateral (cresta del tubérculo mayor):** inserción del [[Pectoral Mayor]]
-- **Labio medial (cresta del tubérculo menor):** inserción del [[Redondo Mayor]]
-- **Fondo del surco:** inserción del [[Dorsal Ancho]]
+- Canal entre tubÃ©rculos mayor y menor
+- Contiene tendÃ³n de la cabeza larga del [[BÃ­ceps Braquial]] y rama de arteria circunfleja humeral anterior
+- **Labio lateral (cresta del tubÃ©rculo mayor):** inserciÃ³n del [[Pectoral Mayor]]
+- **Labio medial (cresta del tubÃ©rculo menor):** inserciÃ³n del [[Redondo Mayor]]
+- **Fondo del surco:** inserciÃ³n del [[Dorsal Ancho]]
 
-#### Cuello Quirúrgico
+#### Cuello QuirÃºrgico
 - Segmento que une cuerpo con extremo superior
-- Nota de Rouvier: "ficción anatómica inventada por los cirujanos"
+- Nota de Rouvier: "ficciÃ³n anatÃ³mica inventada por los cirujanos"
 
 ### Extremo Inferior
 - Aplanado de anterior a posterior
-- Diámetro transversal ≈ 3 × diámetro anteroposterior
+- DiÃ¡metro transversal â‰ˆ 3 Ã— diÃ¡metro anteroposterior
 - Curvado anteriormente
 
 #### Superficie Articular
-1. **Tróclea del húmero:** forma de polea (3/4 de círculo)
-   - Más ancha posterior que anteriormente
-   - Vertiente medial más amplia y desciende más
-   - Garganta inclinada como arco de hélice
-   - Articula con escotadura troclear del cúbito
+1. **TrÃ³clea del hÃºmero:** forma de polea (3/4 de cÃ­rculo)
+   - MÃ¡s ancha posterior que anteriormente
+   - Vertiente medial mÃ¡s amplia y desciende mÃ¡s
+   - Garganta inclinada como arco de hÃ©lice
+   - Articula con escotadura troclear del cÃºbito
 
-2. **Capítulo del húmero (cóndilo):** eminencia redondeada
+2. **CapÃ­tulo del hÃºmero (cÃ³ndilo):** eminencia redondeada
    - Orientado inferior y anteriormente
    - Articula con fosita articular de la cabeza del radio
 
-3. **Surco capitulotroclear:** entre tróclea y capítulo
+3. **Surco capitulotroclear:** entre trÃ³clea y capÃ­tulo
    - Vertiente capitular y vertiente troclear (zona conoide)
 
 #### Fosas
-- **Fosa coronoidea:** anterior, para apófisis coronoides del cúbito (flexión)
-- **Fosa olecraniana:** posterior, más profunda, para olécranon (extensión)
-- **Fosa radial:** superior al capítulo, para borde anterior de cabeza del radio (flexión)
+- **Fosa coronoidea:** anterior, para apÃ³fisis coronoides del cÃºbito (flexiÃ³n)
+- **Fosa olecraniana:** posterior, mÃ¡s profunda, para olÃ©cranon (extensiÃ³n)
+- **Fosa radial:** superior al capÃ­tulo, para borde anterior de cabeza del radio (flexiÃ³n)
 
-#### Epicóndilos
-1. **Epicóndilo medial:** superior y medial a la tróclea
+#### EpicÃ³ndilos
+1. **EpicÃ³ndilo medial:** superior y medial a la trÃ³clea
    - Muy saliente, aplanado anterior-posterior
-   - Inserción de ligamento colateral cubital y músculos epitrocleares
+   - InserciÃ³n de ligamento colateral cubital y mÃºsculos epitrocleares
 
-2. **Epicóndilo lateral:** superior y lateral al capítulo
+2. **EpicÃ³ndilo lateral:** superior y lateral al capÃ­tulo
    - Menos saliente que el medial
-   - Inserción de ligamento colateral radial y músculos epicondíleos laterales
+   - InserciÃ³n de ligamento colateral radial y mÃºsculos epicondÃ­leos laterales
 
 ---
 
 ## Articulaciones
 
-| Extremidad | Articulación | Tipo | Movimientos |
+| Extremidad | ArticulaciÃ³n | Tipo | Movimientos |
 |------------|-------------|------|-------------|
-| Superior | [[Glenohumeral]] | enartrosis | flexión, extensión, abducción, aducción, rotación |
-| Inferior | Articulación del codo | [por completar] | flexión, extensión |
+| Superior | [[Glenohumeral]] | enartrosis | flexiÃ³n, extensiÃ³n, abducciÃ³n, aducciÃ³n, rotaciÃ³n |
+| Inferior | ArticulaciÃ³n del codo | [por completar] | flexiÃ³n, extensiÃ³n |
 
 ---
 
 ## Inserciones Musculares (Rouvier)
 
 ### Extremo Superior
-| Músculo | Localización |
+| MÃºsculo | LocalizaciÃ³n |
 |---------|-------------|
-| [[Supraespinoso]] | carilla superior del tubérculo mayor |
-| [[Infraespinoso]] | carilla media del tubérculo mayor |
-| [[Redondo Menor]] | carilla posterior del tubérculo mayor |
-| [[Subescapular]] | tubérculo menor |
+| [[Supraespinoso]] | carilla superior del tubÃ©rculo mayor |
+| [[Infraespinoso]] | carilla media del tubÃ©rculo mayor |
+| [[Redondo Menor]] | carilla posterior del tubÃ©rculo mayor |
+| [[Subescapular]] | tubÃ©rculo menor |
 | [[Pectoral Mayor]] | labio lateral del surco intertubercular |
 | [[Redondo Mayor]] | labio medial del surco intertubercular |
 | [[Dorsal Ancho]] | fondo del surco intertubercular |
-| [[Bíceps Braquial]] (cabeza larga) | surco intertubercular (recorre) |
+| [[BÃ­ceps Braquial]] (cabeza larga) | surco intertubercular (recorre) |
 
 ### Cuerpo
-| Músculo | Localización |
+| MÃºsculo | LocalizaciÃ³n |
 |---------|-------------|
 | [[Deltoides]] | tuberosidad deltoidea |
 | [[Braquial]] | cara anterolateral inferior y cara anteromedial inferior |
-| [[Coracobraquial]] | impresión en cara anteromedial |
-| [[Tríceps Braquial]] | cara posterior |
-| [[Ancóneo]] | cara posterior inferior |
+| [[Coracobraquial]] | impresiÃ³n en cara anteromedial |
+| [[TrÃ­ceps Braquial]] | cara posterior |
+| [[AncÃ³neo]] | cara posterior inferior |
 
 ### Extremo Inferior
-| Músculo | Localización |
+| MÃºsculo | LocalizaciÃ³n |
 |---------|-------------|
-| Músculos epitrocleares | epicóndilo medial |
-| Músculos epicondíleos laterales | epicóndilo lateral |
-| [[Pronador Redondo]] | epicóndilo medial |
-| [[Braquiorradial]] | cresta supracondílea lateral |
-| [[Extensor radial largo del carpo]] | cresta supracondílea lateral |
+| MÃºsculos epitrocleares | epicÃ³ndilo medial |
+| MÃºsculos epicondÃ­leos laterales | epicÃ³ndilo lateral |
+| [[Pronador Redondo]] | epicÃ³ndilo medial |
+| [[Braquiorradial]] | cresta supracondÃ­lea lateral |
+| [[Extensor radial largo del carpo]] | cresta supracondÃ­lea lateral |
 
 ---
 
-## Vascularización
+## VascularizaciÃ³n
 
 | Arteria | Territorio |
 |---------|-----------|
 | Arteria circunfleja humeral anterior | rama por surco intertubercular |
-| Arteria braquial profunda | acompaña al nervio radial en surco |
+| Arteria braquial profunda | acompaÃ±a al nervio radial en surco |
 | [por completar] | [por completar] |
 
 ---
 
-## Inervación
+## InervaciÃ³n
 
-| Nervio | Territorio / Relación |
+| Nervio | Territorio / RelaciÃ³n |
 |--------|----------------------|
 | [[Nervio radial]] | recorre surco del nervio radial |
 | [por completar] | [por completar] |
 
 ---
 
-## Relaciones Anatómicas
+## Relaciones AnatÃ³micas
 
-- **Anterior:** [[Bíceps Braquial]], [[Braquial]], [[Coracobraquial]]
-- **Posterior:** [[Tríceps Braquial]], [[Nervio radial]]
-- **Medial:** [[Plexo braquial]], [[Arteria braquial]], [[Vena basílica]]
+- **Anterior:** [[BÃ­ceps Braquial]], [[Braquial]], [[Coracobraquial]]
+- **Posterior:** [[TrÃ­ceps Braquial]], [[Nervio radial]]
+- **Medial:** [[Plexo braquial]], [[Arteria braquial]], [[Vena basÃ­lica]]
 - **Lateral:** [[Deltoides]], [[Nervio radial]]
 
 ---
 
-## Notas Clínicas
+## Notas ClÃ­nicas
 
-- **Fractura del cuello quirúrgico:** común en caídas sobre el hombro
-- **Fractura del surco del nervio radial:** riesgo de lesión del nervio radial
-- **Epicondilitis lateral (codo de tenista):** inflamación de inserciones epicondíleas
-- **Epicondilitis medial (codo de golfista):** inflamación de inserciones epitrocleares
+- **Fractura del cuello quirÃºrgico:** comÃºn en caÃ­das sobre el hombro
+- **Fractura del surco del nervio radial:** riesgo de lesiÃ³n del nervio radial
+- **Epicondilitis lateral (codo de tenista):** inflamaciÃ³n de inserciones epicondÃ­leas
+- **Epicondilitis medial (codo de golfista):** inflamaciÃ³n de inserciones epitrocleares
 
 ---
 
-## Tabla de Imágenes
+## Tabla de ImÃ¡genes
 
-| Imagen | Vista | Descripción |
+| Imagen | Vista | DescripciÃ³n |
 |--------|-------|-------------|
-| ![Anterior](imgs/Humero/anterior.png) | Anterior | Vista anterior del húmero |
-| ![Posterior](imgs/Humero/posterior.png) | Posterior | Vista posterior del húmero |
-| *[Agregar más imágenes según disponibilidad]* | | |
+| ![Anterior](imgs/huesos/Humero_anterior.png) | Anterior | Vista anterior del hÃºmero |
+| ![Posterior](imgs/huesos/Humero_posterior.png) | Posterior | Vista posterior del hÃºmero |
+| *[Agregar mÃ¡s imÃ¡genes segÃºn disponibilidad]* | | |
 
 ---
 
-## 🔗 Fuente
-- Rouvier-Anatomía Humana, Tomo 3
+## ðŸ”— Fuente
+- Rouvier-AnatomÃ­a Humana, Tomo 3

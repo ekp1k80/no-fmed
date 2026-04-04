@@ -1,22 +1,22 @@
-# Fascia del Músculo Supraespinoso
+﻿# Fascia del MÃºsculo Supraespinoso
 
-> Lámina fibrosa que recubre el [[Músculo supraespinoso]]; gruesa medialmente y delgada lateralmente
+> LÃ¡mina fibrosa que recubre el [[MÃºsculo supraespinoso]]; gruesa medialmente y delgada lateralmente
 
-## 📋 Datos Clave
-- **Región:** #fascia #cintura-pectoral #escapula
-- **Estructuras relacionadas:** [[Músculo supraespinoso]], [[fascia del [[músculo infraespinoso]]]]
+## ðŸ“‹ Datos Clave
+- **RegiÃ³n:** #fascia #cintura-pectoral #escapula
+- **Estructuras relacionadas:** [[MÃºsculo supraespinoso]], [[fascia del [[mÃºsculo infraespinoso]]]]
 
-## Descripción
-Según Ruvier (Tomo 3, p. 152):
+## DescripciÃ³n
+SegÃºn Ruvier (Tomo 3, p. 152):
 - Es **gruesa medialmente** y **delgada lateralmente**
 - Recubre la fosa supraespinosa
 
-## Características
-- Se continúa inferiormente con la [[fascia del [[músculo infraespinoso]]]]
-- Recubre el músculo supraespinoso que se inserta en la fosa supraespinosa de la escápula
+## CaracterÃ­sticas
+- Se continÃºa inferiormente con la [[fascia del [[mÃºsculo infraespinoso]]]]
+- Recubre el mÃºsculo supraespinoso que se inserta en la fosa supraespinosa de la escÃ¡pula
 
-## Importancia clínica
+## Importancia clÃ­nica
 - El [[nervio supraescapular]] y la [[arteria supraescapular]] discurren cerca de esta fascia al penetrar en la fosa supraespinosa
 
-## 🔗 Fuente
-- Rouvier-Anatomía Humana, Tomo 3
+## ðŸ”— Fuente
+- Rouvier-AnatomÃ­a Humana, Tomo 3

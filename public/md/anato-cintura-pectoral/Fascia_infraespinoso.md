@@ -1,23 +1,23 @@
-# Fascia del Músculo Infraespinoso (y Redondos)
+﻿# Fascia del MÃºsculo Infraespinoso (y Redondos)
 
-> Lámina fibrosa que recubre los [[Músculo infraespinoso]], [[Músculo redondo menor]] y [[Músculo redondo mayor]]; presenta continuidad con la [[fascia del [[músculo dorsal ancho]]]]
+> LÃ¡mina fibrosa que recubre los [[MÃºsculo infraespinoso]], [[MÃºsculo redondo menor]] y [[MÃºsculo redondo mayor]]; presenta continuidad con la [[fascia del [[mÃºsculo dorsal ancho]]]]
 
-## 📋 Datos Clave
-- **Región:** #fascia #cintura-pectoral #escapula #hombro
-- **Estructuras relacionadas:** [[Músculo infraespinoso]], [[Músculo redondo menor]], [[Músculo redondo mayor]], [[fascia del [[músculo dorsal ancho]]]]
+## ðŸ“‹ Datos Clave
+- **RegiÃ³n:** #fascia #cintura-pectoral #escapula #hombro
+- **Estructuras relacionadas:** [[MÃºsculo infraespinoso]], [[MÃºsculo redondo menor]], [[MÃºsculo redondo mayor]], [[fascia del [[mÃºsculo dorsal ancho]]]]
 
-## Descripción
-Según Ruvier (Tomo 3, p. 152):
-- Recubre los músculos infraespinoso, redondo menor y redondo mayor
-- Presenta **continuidad con la [[fascia del [[músculo dorsal ancho]]]]**
+## DescripciÃ³n
+SegÃºn Ruvier (Tomo 3, p. 152):
+- Recubre los mÃºsculos infraespinoso, redondo menor y redondo mayor
+- Presenta **continuidad con la [[fascia del [[mÃºsculo dorsal ancho]]]]**
 
 ## Continuidades
-- **Inferiormente** se continúa con la [[fascia del [[músculo dorsal ancho]]]]
-- Se adhiere a los bordes de la escápula
+- **Inferiormente** se continÃºa con la [[fascia del [[mÃºsculo dorsal ancho]]]]
+- Se adhiere a los bordes de la escÃ¡pula
 
-## Importancia clínica
-- El [[nervio toracodorsal]] y la [[arteria toracodorsal]] discurren en relación con esta fascia
-- Los [[músculo redondo mayor]] y [[Músculo redondo menor]] forman parte del manguito rotador posterior
+## Importancia clÃ­nica
+- El [[nervio toracodorsal]] y la [[arteria toracodorsal]] discurren en relaciÃ³n con esta fascia
+- Los [[mÃºsculo redondo mayor]] y [[MÃºsculo redondo menor]] forman parte del manguito rotador posterior
 
-## 🔗 Fuente
-- Rouvier-Anatomía Humana, Tomo 3
+## ðŸ”— Fuente
+- Rouvier-AnatomÃ­a Humana, Tomo 3

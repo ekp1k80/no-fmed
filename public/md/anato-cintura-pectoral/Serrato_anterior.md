@@ -1,90 +1,90 @@
-# Serrato Anterior
+﻿# Serrato Anterior
 
-> MÃºsculo ancho, aplanado, delgado y cuadrilÃ¡tero aplicado a la pared lateral del tÃ³rax
+> MÃƒÂºsculo ancho, aplanado, delgado y cuadrilÃƒÂ¡tero aplicado a la pared lateral del tÃƒÂ³rax
 
 #musculo #cintura-pectoral #axila
 
-## ðŸ“‹ Datos Clave
-- **Grupo:** MÃºsculos de la cintura escapular
-- **FunciÃ³n principal:** ProtracciÃ³n y rotaciÃ³n de la escÃ¡pula
-- **InervaciÃ³n:** [[Nervio torÃ¡cico largo]] (C5-C7)
+## Ã°Å¸â€œâ€¹ Datos Clave
+- **Grupo:** MÃƒÂºsculos de la cintura escapular
+- **FunciÃƒÂ³n principal:** ProtracciÃƒÂ³n y rotaciÃƒÂ³n de la escÃƒÂ¡pula
+- **InervaciÃƒÂ³n:** [[Nervio torÃƒÂ¡cico largo]] (C5-C7)
 
-## ðŸ“· ImÃ¡genes de Referencia
+## Ã°Å¸â€œÂ· ImÃƒÂ¡genes de Referencia
 
-![[imgs/Serrato_anterior/Serrato_anterior_escapula.png|400]]
-*Vista con escÃ¡pula*
+![Serrato_anterior_escapula.png](imgs/musculos/Serrato_anterior_escapula.png)
+*Vista con escÃƒÂ¡pula*
 
-![[imgs/Serrato_anterior/Serrato_anterior_solo.png|400]]
-*Vista aislada del mÃºsculo*
+![Serrato_anterior_solo.png](imgs/musculos/Serrato_anterior_solo.png)
+*Vista aislada del mÃƒÂºsculo*
 
-![[imgs/Serrato_anterior/Serrato_anterior_subescapular.png|400]]
+![Serrato_anterior_subescapular.png](imgs/musculos/Serrato_anterior_subescapular.png)
 *Vista con subescapular*
 
-![[imgs/Serrato_anterior/Serrato_anterior_tapado.png|400]]
+![Serrato_anterior_tapado.png](imgs/musculos/Serrato_anterior_tapado.png)
 *Vista tapada*
 
-![[imgs/Serrato_anterior/Serrato_anterior_todos_los_huesos.png|400]]
+![Serrato_anterior_todos_los_huesos.png](imgs/musculos/Serrato_anterior_todos_los_huesos.png)
 *Vista con todos los huesos*
 
 ## Origen
 **Inserciones costales mediante distintas digitaciones:**
-1. **PorciÃ³n superior:** 
-   - Borde lateral de la primera costilla (inserciÃ³n inconstante)
+1. **PorciÃƒÂ³n superior:** 
+   - Borde lateral de la primera costilla (inserciÃƒÂ³n inconstante)
    - Cara externa de la segunda costilla
-   - Arco fascial intermedio a dichas inserciones Ã³seas
+   - Arco fascial intermedio a dichas inserciones ÃƒÂ³seas
 
-2. **PorciÃ³n media:** 
+2. **PorciÃƒÂ³n media:** 
    - Cara externa de las costillas segunda, tercera y cuarta
-   - Siguiendo una lÃ­nea oblicua inferior y anterior
+   - Siguiendo una lÃƒÂ­nea oblicua inferior y anterior
 
-3. **PorciÃ³n inferior:**
-   - Cara externa de las costillas quinta a dÃ©cima
-   - Por medio de seis digitaciones distintas que encajan con las digitaciones del mÃºsculo oblicuo externo del abdomen
+3. **PorciÃƒÂ³n inferior:**
+   - Cara externa de las costillas quinta a dÃƒÂ©cima
+   - Por medio de seis digitaciones distintas que encajan con las digitaciones del mÃƒÂºsculo oblicuo externo del abdomen
 
-## InserciÃ³n
-1. **PorciÃ³n superior:** 
-   - PequeÃ±a carilla triangular, larga y estrecha en el Ã¡ngulo superomedial de la cara anterior de la escÃ¡pula
+## InserciÃƒÂ³n
+1. **PorciÃƒÂ³n superior:** 
+   - PequeÃƒÂ±a carilla triangular, larga y estrecha en el ÃƒÂ¡ngulo superomedial de la cara anterior de la escÃƒÂ¡pula
 
-2. **PorciÃ³n media:**
-   - Casi toda la extensiÃ³n del labio anterior del borde medial de la escÃ¡pula
+2. **PorciÃƒÂ³n media:**
+   - Casi toda la extensiÃƒÂ³n del labio anterior del borde medial de la escÃƒÂ¡pula
    - Por medio de cortas fibras tendinosas
 
-3. **PorciÃ³n inferior:**
-   - PequeÃ±a carilla triangular alargada de superior a inferior
-   - Situada en la parte inferomedial de la cara anterior de la escÃ¡pula
+3. **PorciÃƒÂ³n inferior:**
+   - PequeÃƒÂ±a carilla triangular alargada de superior a inferior
+   - Situada en la parte inferomedial de la cara anterior de la escÃƒÂ¡pula
 
 ## Relaciones
-- Aplicado a la pared lateral del tÃ³rax
-- Separado de la pared torÃ¡cica por el espacio celular toracodentado
-- Anterior a la escÃ¡pula
-- Posterior a los mÃºsculos pectorales
+- Aplicado a la pared lateral del tÃƒÂ³rax
+- Separado de la pared torÃƒÂ¡cica por el espacio celular toracodentado
+- Anterior a la escÃƒÂ¡pula
+- Posterior a los mÃƒÂºsculos pectorales
 
-## VascularizaciÃ³n
-- Arteria torÃ¡cica lateral
+## VascularizaciÃƒÂ³n
+- Arteria torÃƒÂ¡cica lateral
 - Arterias intercostales
 - Arteria toracodorsal
 
-## InervaciÃ³n
-- Nervio torÃ¡cico largo (C5-C7)
+## InervaciÃƒÂ³n
+- Nervio torÃƒÂ¡cico largo (C5-C7)
 - Rama del plexo braquial
 
 ## Funciones
-1. **ProtracciÃ³n de la escÃ¡pula:** Desplaza la escÃ¡pula anterior y lateralmente
-2. **RotaciÃ³n de la escÃ¡pula:** Gira la escÃ¡pula para elevar el hombro
-3. **FijaciÃ³n de la escÃ¡pula:** Mantiene la escÃ¡pula aplicada contra el tÃ³rax
-4. **InspiraciÃ³n forzada:** Eleva las costillas cuando la escÃ¡pula estÃ¡ fija
+1. **ProtracciÃƒÂ³n de la escÃƒÂ¡pula:** Desplaza la escÃƒÂ¡pula anterior y lateralmente
+2. **RotaciÃƒÂ³n de la escÃƒÂ¡pula:** Gira la escÃƒÂ¡pula para elevar el hombro
+3. **FijaciÃƒÂ³n de la escÃƒÂ¡pula:** Mantiene la escÃƒÂ¡pula aplicada contra el tÃƒÂ³rax
+4. **InspiraciÃƒÂ³n forzada:** Eleva las costillas cuando la escÃƒÂ¡pula estÃƒÂ¡ fija
 
-## CaracterÃ­sticas especiales
-- TambiÃ©n conocido como "serrato mayor"
+## CaracterÃƒÂ­sticas especiales
+- TambiÃƒÂ©n conocido como "serrato mayor"
 - Presenta digitaciones que se insertan en las costillas
 - Forma la pared medial de la axila
-- Su parÃ¡lisis produce "escÃ¡pula alada"
+- Su parÃƒÂ¡lisis produce "escÃƒÂ¡pula alada"
 - Participa en movimientos de empuje y lanzamiento
-- Es esencial para la abducciÃ³n del brazo mÃ¡s allÃ¡ de 90Â°
+- Es esencial para la abducciÃƒÂ³n del brazo mÃƒÂ¡s allÃƒÂ¡ de 90Ã‚Â°
 
-## ðŸ”— Fuente
-- Rouvier-AnatomÃ­a Humana, Tomo 3
+## Ã°Å¸â€â€” Fuente
+- Rouvier-AnatomÃƒÂ­a Humana, Tomo 3
 
-## ðŸ”— Enlaces
+## Ã°Å¸â€â€” Enlaces
 - [[Fascia del serrato anterior]]
-- [[Nervio torÃ¡cico largo]]
+- [[Nervio torÃƒÂ¡cico largo]]

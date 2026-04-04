@@ -1,47 +1,47 @@
-# Manguito Rotador Anterior
+﻿# Manguito Rotador Anterior
 
-> Conjunto de mÃºsculos que estabilizan la articulaciÃ³n glenohumeral por su cara anterior
+> Conjunto de mÃƒÂºsculos que estabilizan la articulaciÃƒÂ³n glenohumeral por su cara anterior
 
 #musculo #cintura-pectoral #escapula #hombro
 
-## ðŸ“‹ Datos Clave
-- **Grupo:** MÃºsculos del manguito rotador
-- **FunciÃ³n principal:** RotaciÃ³n medial y estabilizaciÃ³n del hombro
-- **InervaciÃ³n:** [[Nervio subescapular]]
+## Ã°Å¸â€œâ€¹ Datos Clave
+- **Grupo:** MÃƒÂºsculos del manguito rotador
+- **FunciÃƒÂ³n principal:** RotaciÃƒÂ³n medial y estabilizaciÃƒÂ³n del hombro
+- **InervaciÃƒÂ³n:** [[Nervio subescapular]]
 
-## ðŸ“· ImÃ¡genes de Referencia
+## Ã°Å¸â€œÂ· ImÃƒÂ¡genes de Referencia
 
-![[imgs/Manguito_Rotador_Anterior/Manguito_rotador_anterior.png|400]]
+![Manguito_rotador_anterior.png](imgs/musculos/Manguito_rotador_anterior.png)
 *Vista anterior del manguito rotador*
 
 ## Componentes
 - [[Subescapular]] (principal componente anterior)
 
 ## Origen
-- Fosa subescapular de la escÃ¡pula
+- Fosa subescapular de la escÃƒÂ¡pula
 
-## InserciÃ³n
-- TubÃ©rculo menor del hÃºmero
-- CÃ¡psula articular glenohumeral
+## InserciÃƒÂ³n
+- TubÃƒÂ©rculo menor del hÃƒÂºmero
+- CÃƒÂ¡psula articular glenohumeral
 
 ## Relaciones
-- Entre la escÃ¡pula y la cabeza humeral
+- Entre la escÃƒÂ¡pula y la cabeza humeral
 - Forma la pared posterior de la axila
 - Relacionado con [[Serrato Anterior]] y [[Pectoral Menor]]
 
-## VascularizaciÃ³n
+## VascularizaciÃƒÂ³n
 - [[Arteria subescapular]]
 - [[Arteria circunfleja escapular]]
 
-## InervaciÃ³n
+## InervaciÃƒÂ³n
 - [[Nervio subescapular superior]] e [[inferior]] (C5-C6)
 
 ## Funciones
-- RotaciÃ³n medial del brazo
-- AducciÃ³n del brazo
-- EstabilizaciÃ³n anterior de la articulaciÃ³n glenohumeral
-- Previene la luxaciÃ³n anterior del hÃºmero
+- RotaciÃƒÂ³n medial del brazo
+- AducciÃƒÂ³n del brazo
+- EstabilizaciÃƒÂ³n anterior de la articulaciÃƒÂ³n glenohumeral
+- Previene la luxaciÃƒÂ³n anterior del hÃƒÂºmero
 - Centra la cabeza humeral en la cavidad glenoidea
 
-## ðŸ”— Fuente
-- Rouvier-AnatomÃ­a Humana, Tomo 3
+## Ã°Å¸â€â€” Fuente
+- Rouvier-AnatomÃƒÂ­a Humana, Tomo 3

@@ -1,66 +1,67 @@
-# Arteria Braquial
+﻿# Arteria Braquial
 
-> Arteria principal del brazo, continuación de la arteria axilar
+> Arteria principal del brazo, continuaciÃ³n de la arteria axilar
 
-## 📋 Datos Clave
-- **Origen:** Continuación de la arteria axilar a nivel del borde inferior del músculo redondo mayor
-- **Tipo:** Arteria sistémica
-- **Región:** #arteria #cintura-pectoral #brazo
+## ðŸ“‹ Datos Clave
+- **Origen:** ContinuaciÃ³n de la arteria axilar a nivel del borde inferior del mÃºsculo redondo mayor
+- **Tipo:** Arteria sistÃ©mica
+- **RegiÃ³n:** #arteria #cintura-pectoral #brazo
 
-## 📷 Imágenes de Referencia
+## ðŸ“· ImÃ¡genes de Referencia
 
-*[Imágenes por agregar - Diagrama de la arteria braquial y sus ramas]*
+![Diagrama](imgs/arterias/Arteria_axilar_diagrama.jpg)
+*Diagrama de la arteria axilar y sus ramas (relacionado con la arteria braquial)*
 
 ## Origen
-La arteria braquial comienza como continuación de la [[arteria axilar]] a nivel del borde inferior del [[músculo pectoral mayor]].
+La arteria braquial comienza como continuaciÃ³n de la [[arteria axilar]] a nivel del borde inferior del [[mÃºsculo pectoral mayor]].
 
 ## Recorrido
 La arteria braquial desciende por la cara medial del brazo, en el surco bicipital medial:
 
-1. **Porción superior:** Se relaciona medialmente con el [[nervio mediano]] que la cruza por delante de lateral a medial
-2. **Porción media:** Acompañada por las venas braquiales, desciende entre el [[músculo bíceps braquial]] (anterior) y el [[músculo braquial]] (posterior)
-3. **Porción inferior:** Se sitúa medial al [[tendón del bíceps braquial]] y se divide en sus ramas terminales a nivel de la fosa cubital, aproximadamente a 1 cm por debajo del pliegue del codo
+1. **PorciÃ³n superior:** Se relaciona medialmente con el [[nervio mediano]] que la cruza por delante de lateral a medial
+2. **PorciÃ³n media:** AcompaÃ±ada por las venas braquiales, desciende entre el [[mÃºsculo bÃ­ceps braquial]] (anterior) y el [[mÃºsculo braquial]] (posterior)
+3. **PorciÃ³n inferior:** Se sitÃºa medial al [[tendÃ³n del bÃ­ceps braquial]] y se divide en sus ramas terminales a nivel de la fosa cubital, aproximadamente a 1 cm por debajo del pliegue del codo
 
 ## Ramas
 Las ramas principales de la arteria braquial son:
 
-1. **Arteria braquial profunda:** Rama principal, acompaña al [[nervio radial]]
+1. **Arteria braquial profunda:** Rama principal, acompaÃ±a al [[nervio radial]]
 2. **Arteria colateral superior ulnar:** Se anastomosa con la arteria recurrente ulnar posterior
 3. **Arteria colateral inferior ulnar:** Se anastomosa con la arteria recurrente ulnar anterior
-4. **Ramas musculares:** Para los músculos del brazo
-5. **Rama nutricia del húmero:** Para la irrigación del hueso
+4. **Ramas musculares:** Para los mÃºsculos del brazo
+5. **Rama nutricia del hÃºmero:** Para la irrigaciÃ³n del hueso
 
 ## Ramas terminales
 A nivel de la fosa cubital, la arteria braquial se divide en:
 - **Arteria radial**
 - **Arteria ulnar (cubital)**
 
-## Territorio de irrigación
-- Músculos del brazo ([[bíceps braquial]], [[braquial]], [[tríceps braquial]])
-- Húmero
-- Articulación del codo
+## Territorio de irrigaciÃ³n
+- MÃºsculos del brazo ([[bÃ­ceps braquial]], [[braquial]], [[trÃ­ceps braquial]])
+- HÃºmero
+- ArticulaciÃ³n del codo
 - Parte de la piel del brazo
 
-## Relaciones anatómicas importantes
-- **Anterior:** Piel, fascia, [[músculo bíceps braquial]]
-- **Posterior:** [[Músculo tríceps braquial]], [[nervio radial]]
-- **Medial:** [[Nervio ulnar]], [[nervio cutáneo medial del antebrazo]]
-- **Lateral:** [[Nervio mediano]] (en la porción superior), [[músculo coracobraquial]]
+## Relaciones anatÃ³micas importantes
+- **Anterior:** Piel, fascia, [[mÃºsculo bÃ­ceps braquial]]
+- **Posterior:** [[MÃºsculo trÃ­ceps braquial]], [[nervio radial]]
+- **Medial:** [[Nervio ulnar]], [[nervio cutÃ¡neo medial del antebrazo]]
+- **Lateral:** [[Nervio mediano]] (en la porciÃ³n superior), [[mÃºsculo coracobraquial]]
 
-## Variaciones anatómicas
+## Variaciones anatÃ³micas
 [por completar]
 
 ## Lesiones
-La lesión de la arteria braquial puede causar:
+La lesiÃ³n de la arteria braquial puede causar:
 - Isquemia del antebrazo y mano
-- Síndrome compartimental
+- SÃ­ndrome compartimental
 - Hematoma en la fosa cubital (especialmente en venopunciones)
 
-## Examen clínico
+## Examen clÃ­nico
 El pulso braquial se palpa en la cara medial del brazo, a mitad de camino entre el hombro y el codo.
 
-## 🔗 Fuente
-- Rouvier-Anatomía Humana, Tomo 3
+## ðŸ”— Fuente
+- Ruvier-AnatomÃ­a Humana, Tomo 3
 
 ## Enlaces
 - [[Braquial profunda]]
@@ -72,7 +73,8 @@ El pulso braquial se palpa en la cara medial del brazo, a mitad de camino entre 
 - [[Nervio mediano]]
 - [[Nervio radial]]
 - [[Nervio cubital]]
-- [[Nervio cutáneo medial del antebrazo]]
+- [[Nervio cutÃ¡neo medial del antebrazo]]
 - [[Plexo braquial]]
+
 
 

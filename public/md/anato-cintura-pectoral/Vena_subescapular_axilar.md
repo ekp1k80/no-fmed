@@ -1,36 +1,37 @@
-# Vena subescapular axilar
+﻿# Vena subescapular axilar
 
-> Vena correspondiente a la arteria subescapular. Se divide en vena toracodorsal y vena circunfleja escápula.
+> Vena correspondiente a la arteria subescapular. Se divide en vena toracodorsal y vena circunfleja escÃ¡pula.
 
-## 📋 Datos Clave
+## ðŸ“‹ Datos Clave
 - **Drena en:** [[Vena axilar]]
-- **Región:** #vena #colateral #axila
-- **Acompaña a:** [[Arteria subescapular]]
+- **RegiÃ³n:** #vena #colateral #axila
+- **AcompaÃ±a a:** [[Arteria subescapular]]
 
 ## Origen/Drenaje
-La vena subescapular drena el músculo subescapular, porción posterior de la axila y región dorsal del tórax.
+La vena subescapular drena el mÃºsculo subescapular, porciÃ³n posterior de la axila y regiÃ³n dorsal del tÃ³rax.
 
 ## Trayecto
-Acompaña a la arteria subescapular, descendiendo por la pared posterior de la axila. Se divide en:
-1. **Vena toracodorsal:** Acompaña a la arteria toracodorsal
-2. **Vena circunfleja escápula:** Acompaña a la arteria circunfleja escápula
+AcompaÃ±a a la arteria subescapular, descendiendo por la pared posterior de la axila. Se divide en:
+1. **Vena toracodorsal:** AcompaÃ±a a la arteria toracodorsal
+2. **Vena circunfleja escÃ¡pula:** AcompaÃ±a a la arteria circunfleja escÃ¡pula
 
-## Relaciones anatómicas
+## Relaciones anatÃ³micas
 - **Anterior:** [[Vena axilar]]
-- **Posterior:** Músculo subescapular
-- **Medial:** Pared torácica
-- **Lateral:** Húmero
+- **Posterior:** MÃºsculo subescapular
+- **Medial:** Pared torÃ¡cica
+- **Lateral:** HÃºmero
 
-## Importancia clínica
-- **Cirugía axilar:** Consideración en disección de ganglios linfáticos
-- **Reconstrucción mamaria:** La arteria toracodorsal se usa para colgajos
-- **Drenaje venoso:** Importante en patologías de la región escapular
+## Importancia clÃ­nica
+- **CirugÃ­a axilar:** ConsideraciÃ³n en disecciÃ³n de ganglios linfÃ¡ticos
+- **ReconstrucciÃ³n mamaria:** La arteria toracodorsal se usa para colgajos
+- **Drenaje venoso:** Importante en patologÃ­as de la regiÃ³n escapular
 
-## 🔗 Fuente
-- Rouvier-Anatomía Humana, Tomo 3
+## ðŸ”— Fuente
+- Rouvier-AnatomÃ­a Humana, Tomo 3
 
-## 🔗 Enlaces
+## ðŸ”— Enlaces
 - **Vena padre:** [[Venas axilares]]
-- **Ramas hermanas:** [[Vena torácica superior]], [[Vena toracoacromial]], [[Vena torácica lateral]], [[Vena circunfleja humeral anterior]], [[Vena circunfleja humeral posterior]]
+- **Ramas hermanas:** [[Vena torÃ¡cica superior]], [[Vena toracoacromial]], [[Vena torÃ¡cica lateral]], [[Vena circunfleja humeral anterior]], [[Vena circunfleja humeral posterior]]
 - **Arteria correspondiente:** [[Arteria subescapular]]
-- **Estructuras relacionadas:** [[Vena cefálica]], [[Vena basílica]], [[Triángulo deltopectoral]], [[Fascia clavipectoral]]
+- **Estructuras relacionadas:** [[Vena cefÃ¡lica]], [[Vena basÃ­lica]], [[TriÃ¡ngulo deltopectoral]], [[Fascia clavipectoral]]
+

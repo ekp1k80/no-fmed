@@ -1,34 +1,35 @@
-# Vena torácica interna
+﻿# Vena torÃ¡cica interna
 
-> También llamada vena mamaria interna. Desemboca en la cara anterior de la vena subclavia. Drena la pared torácica anterior, mama y diafragma.
+> TambiÃ©n llamada vena mamaria interna. Desemboca en la cara anterior de la vena subclavia. Drena la pared torÃ¡cica anterior, mama y diafragma.
 
-## 📋 Datos Clave
+## ðŸ“‹ Datos Clave
 - **Drena en:** [[Vena subclavia]] (cara anterior)
-- **Región:** #vena #colateral #cintura-pectoral
-- **Acompaña a:** [[Arteria torácica interna]]
+- **RegiÃ³n:** #vena #colateral #cintura-pectoral
+- **AcompaÃ±a a:** [[Arteria torÃ¡cica interna]]
 
 ## Origen/Drenaje
-La vena torácica interna se forma por la unión de las venas musculofrénica y epigástrica superior. Recoge sangre de los espacios intercostales anteriores, músculos pectorales, diafragma y pared torácica anterior.
+La vena torÃ¡cica interna se forma por la uniÃ³n de las venas musculofrÃ©nica y epigÃ¡strica superior. Recoge sangre de los espacios intercostales anteriores, mÃºsculos pectorales, diafragma y pared torÃ¡cica anterior.
 
 ## Trayecto
-Acompaña a la arteria torácica interna, discurriendo por detrás de los cartílagos costales, aproximadamente 1-2 cm lateral al borde esternal. Asciende verticalmente para desembocar en la vena subclavia.
+AcompaÃ±a a la arteria torÃ¡cica interna, discurriendo por detrÃ¡s de los cartÃ­lagos costales, aproximadamente 1-2 cm lateral al borde esternal. Asciende verticalmente para desembocar en la vena subclavia.
 
-## Relaciones anatómicas
+## Relaciones anatÃ³micas
 - **Posterior:** Pleura parietal, pericardio
-- **Anterior:** Cartílagos costales, músculos intercostales
+- **Anterior:** CartÃ­lagos costales, mÃºsculos intercostales
 - **Medial:** Borde esternal
-- **Lateral:** Arteria torácica interna (generalmente medial a la vena)
+- **Lateral:** Arteria torÃ¡cica interna (generalmente medial a la vena)
 
-## Importancia clínica
-- **Cirugía cardíaca:** Usada como injerto en bypass coronario
-- **Drenaje linfático:** Importante en cáncer de mama
-- **Trauma:** Vulnerable en traumatismos torácicos
+## Importancia clÃ­nica
+- **CirugÃ­a cardÃ­aca:** Usada como injerto en bypass coronario
+- **Drenaje linfÃ¡tico:** Importante en cÃ¡ncer de mama
+- **Trauma:** Vulnerable en traumatismos torÃ¡cicos
 
-## 🔗 Fuente
-- Rouvier-Anatomía Humana, Tomo 3
+## ðŸ”— Fuente
+- Rouvier-AnatomÃ­a Humana, Tomo 3
 
-## 🔗 Enlaces
+## ðŸ”— Enlaces
 - **Vena padre:** [[Venas subclavias]]
 - **Ramas hermanas:** [[Vena yugular externa]], [[Vena vertebral]], [[Vena supraescapular]], [[Vena cervical profunda]]
-- **Arteria correspondiente:** [[Arteria torácica interna]]
-- **Estructuras relacionadas:** [[Vena cefálica]], [[Vena basílica]], [[Triángulo deltopectoral]], [[Fascia clavipectoral]]
+- **Arteria correspondiente:** [[Arteria torÃ¡cica interna]]
+- **Estructuras relacionadas:** [[Vena cefÃ¡lica]], [[Vena basÃ­lica]], [[TriÃ¡ngulo deltopectoral]], [[Fascia clavipectoral]]
+

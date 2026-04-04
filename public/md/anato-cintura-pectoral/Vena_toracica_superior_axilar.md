@@ -1,34 +1,35 @@
-# Vena torácica superior axilar
+﻿# Vena torÃ¡cica superior axilar
 
-> Vena correspondiente a la arteria torácica superior. Afluente de la vena axilar.
+> Vena correspondiente a la arteria torÃ¡cica superior. Afluente de la vena axilar.
 
-## 📋 Datos Clave
+## ðŸ“‹ Datos Clave
 - **Drena en:** [[Vena axilar]]
-- **Región:** #vena #colateral #axila
-- **Acompaña a:** [[Arteria torácica superior]]
+- **RegiÃ³n:** #vena #colateral #axila
+- **AcompaÃ±a a:** [[Arteria torÃ¡cica superior]]
 
 ## Origen/Drenaje
-La vena torácica superior drena los dos primeros espacios intercostales, porción superior del músculo serrato anterior y estructuras adyacentes de la pared torácica.
+La vena torÃ¡cica superior drena los dos primeros espacios intercostales, porciÃ³n superior del mÃºsculo serrato anterior y estructuras adyacentes de la pared torÃ¡cica.
 
 ## Trayecto
-Acompaña a la arteria torácica superior, descendiendo por la pared torácica para desembocar en la vena axilar.
+AcompaÃ±a a la arteria torÃ¡cica superior, descendiendo por la pared torÃ¡cica para desembocar en la vena axilar.
 
-## Relaciones anatómicas
+## Relaciones anatÃ³micas
 - **Medial:** Primera y segunda costillas
-- **Lateral:** Músculo pectoral menor
-- **Profundo:** Músculo serrato anterior
+- **Lateral:** MÃºsculo pectoral menor
+- **Profundo:** MÃºsculo serrato anterior
 - **Superficial:** Fascia pectoral
 
-## Importancia clínica
-- **Cirugía axilar:** Consideración en disección de ganglios linfáticos
+## Importancia clÃ­nica
+- **CirugÃ­a axilar:** ConsideraciÃ³n en disecciÃ³n de ganglios linfÃ¡ticos
 - **Trauma:** Puede lesionarse en fracturas de primeras costillas
-- **Drenaje venoso:** Contribuye al drenaje de la pared torácica superior
+- **Drenaje venoso:** Contribuye al drenaje de la pared torÃ¡cica superior
 
-## 🔗 Fuente
-- Rouvier-Anatomía Humana, Tomo 3
+## ðŸ”— Fuente
+- Rouvier-AnatomÃ­a Humana, Tomo 3
 
-## 🔗 Enlaces
+## ðŸ”— Enlaces
 - **Vena padre:** [[Venas axilares]]
-- **Ramas hermanas:** [[Vena toracoacromial]], [[Vena torácica lateral]], [[Vena subescapular]], [[Vena circunfleja humeral anterior]], [[Vena circunfleja humeral posterior]]
-- **Arteria correspondiente:** [[Arteria torácica superior]]
-- **Estructuras relacionadas:** [[Vena cefálica]], [[Vena basílica]], [[Triángulo deltopectoral]], [[Fascia clavipectoral]]
+- **Ramas hermanas:** [[Vena toracoacromial]], [[Vena torÃ¡cica lateral]], [[Vena subescapular]], [[Vena circunfleja humeral anterior]], [[Vena circunfleja humeral posterior]]
+- **Arteria correspondiente:** [[Arteria torÃ¡cica superior]]
+- **Estructuras relacionadas:** [[Vena cefÃ¡lica]], [[Vena basÃ­lica]], [[TriÃ¡ngulo deltopectoral]], [[Fascia clavipectoral]]
+

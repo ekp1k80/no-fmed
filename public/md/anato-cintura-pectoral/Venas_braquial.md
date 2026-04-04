@@ -1,14 +1,14 @@
-# Venas braquiales
+﻿# Venas braquiales
 
-> Sistema venoso que drena el brazo, formado por venas profundas que acompañan a la arteria braquial.
+> Sistema venoso que drena el brazo, formado por venas profundas que acompaÃ±an a la arteria braquial.
 
-## 📋 Datos Clave
+## ðŸ“‹ Datos Clave
 - **Forma parte de:** Sistema venoso del miembro superior
-- **Región:** #vena #brazo #cintura-pectoral
-- **Continuación:** De las venas cubitales y radiales a la vena axilar
+- **RegiÃ³n:** #vena #brazo #cintura-pectoral
+- **ContinuaciÃ³n:** De las venas cubitales y radiales a la vena axilar
 
 ## Estructura
-Las venas braquiales son venas profundas que acompañan a la arteria braquial, generalmente formando un sistema de venas comitantes que se unen para formar la vena axilar.
+Las venas braquiales son venas profundas que acompaÃ±an a la arteria braquial, generalmente formando un sistema de venas comitantes que se unen para formar la vena axilar.
 
 ## Componentes principales
 El sistema venoso braquial incluye:
@@ -17,34 +17,35 @@ El sistema venoso braquial incluye:
 - [[Vena basibraquial]]
 
 ### Sistemas venosos
-- [[Venas satélites braquial]]
+- [[Venas satÃ©lites braquial]]
 - [[Venas comitantes colaterales]]
 
 ## Trayecto
-Las venas braquiales acompañan a la arteria braquial desde el pliegue del codo hasta el borde inferior del músculo redondo mayor, donde se unen para formar la vena axilar.
+Las venas braquiales acompaÃ±an a la arteria braquial desde el pliegue del codo hasta el borde inferior del mÃºsculo redondo mayor, donde se unen para formar la vena axilar.
 
-## Relaciones anatómicas
-- **Acompañan:** Arteria braquial
-- **Profundas:** En relación con la fascia braquial
-- **Superficiales:** Relacionadas con las venas cefálica y basílica
+## Relaciones anatÃ³micas
+- **AcompaÃ±an:** Arteria braquial
+- **Profundas:** En relaciÃ³n con la fascia braquial
+- **Superficiales:** Relacionadas con las venas cefÃ¡lica y basÃ­lica
 - **Nervios:** Cercanas al nervio mediano, cubital y radial
 
-## Importancia clínica
-- **Flebitis:** Inflamación de las venas del brazo
-- **Trombosis:** Puede ocurrir por catéteres intravenosos
-- **Cirugía:** Consideración en procedimientos del brazo
-- **Acceso venoso:** Para administración de medicamentos
+## Importancia clÃ­nica
+- **Flebitis:** InflamaciÃ³n de las venas del brazo
+- **Trombosis:** Puede ocurrir por catÃ©teres intravenosos
+- **CirugÃ­a:** ConsideraciÃ³n en procedimientos del brazo
+- **Acceso venoso:** Para administraciÃ³n de medicamentos
 
-## 🔗 Enlaces
+## ðŸ”— Enlaces
 ### Componentes principales
 - [[Vena basibraquial]]
-- [[Venas satélites braquial]]
+- [[Venas satÃ©lites braquial]]
 - [[Venas comitantes colaterales]]
 
 ### Estructuras relacionadas
-- [[Vena cefálica]]
-- [[Vena basílica]]
-- [[Triángulo deltopectoral]]
+- [[Vena cefÃ¡lica]]
+- [[Vena basÃ­lica]]
+- [[TriÃ¡ngulo deltopectoral]]
 - [[Fascia clavipectoral]]
-- [[Venas axilares]] (continuación proximal)
-- [[Venas subclavias]] (continuación distal)
+- [[Venas axilares]] (continuaciÃ³n proximal)
+- [[Venas subclavias]] (continuaciÃ³n distal)
+

@@ -1,36 +1,36 @@
-# Arteria Toracodorsal
+﻿# Arteria Toracodorsal
 
-> Rama descendente de la arteria subescapular que irriga músculos de la pared torácica y espalda.
+> Rama descendente de la arteria subescapular que irriga mÃºsculos de la pared torÃ¡cica y espalda.
 
-## 📋 Datos Clave
-- **Porción:** Rama de la 3ra porción de la arteria axilar (a través de la arteria subescapular)
+## ðŸ“‹ Datos Clave
+- **PorciÃ³n:** Rama de la 3ra porciÃ³n de la arteria axilar (a travÃ©s de la arteria subescapular)
 - **Origen:** Arteria subescapular
-- **Región:** #arteria #colateral #3ra-porcion #axila
-- **Estructuras relacionadas:** [[Arteria subescapular]], [[Músculo serrato anterior]], [[Músculo dorsal ancho]], [[Músculos intercostales]]
+- **RegiÃ³n:** #arteria #colateral #3ra-porcion #axila
+- **Estructuras relacionadas:** [[Arteria subescapular]], [[MÃºsculo serrato anterior]], [[MÃºsculo dorsal ancho]], [[MÃºsculos intercostales]]
 
 ## Origen
 Nace como rama de la arteria subescapular.
 
 ## Trayecto
-Desciende sobre el músculo serrato anterior.
+Desciende sobre el mÃºsculo serrato anterior.
 
-## Distribución / Ramas terminales
+## DistribuciÃ³n / Ramas terminales
 Distribuye en:
-- Músculos intercostales
-- Músculo serrato anterior
-- Músculo dorsal ancho
+- MÃºsculos intercostales
+- MÃºsculo serrato anterior
+- MÃºsculo dorsal ancho
 
 ## Anastomosis
 Se anastomosa con ramas de las arterias intercostales.
 
 ## Espacio que atraviesa (si aplica)
-Transcurre sobre la superficie del músculo serrato anterior.
+Transcurre sobre la superficie del mÃºsculo serrato anterior.
 
-## Importancia clínica
-Importante en la vascularización del músculo dorsal ancho, utilizado en colgajos musculares para reconstrucción mamaria. Su preservación es crucial en cirugías de la axila.
+## Importancia clÃ­nica
+Importante en la vascularizaciÃ³n del mÃºsculo dorsal ancho, utilizado en colgajos musculares para reconstrucciÃ³n mamaria. Su preservaciÃ³n es crucial en cirugÃ­as de la axila.
 
-## 🔗 Fuente
-- Rouvier-Anatomía Humana, Tomo 3
+## ðŸ”— Fuente
+- Rouvier-AnatomÃ­a Humana, Tomo 3
 
 ## Enlaces
 - [[Arteria subescapular]]
@@ -44,5 +44,7 @@ Importante en la vascularización del músculo dorsal ancho, utilizado en colgaj
 - [[Nervio radial]]
 - [[Nervio cubital]]
 - [[Vena toracodorsal]]
+
+
 
 

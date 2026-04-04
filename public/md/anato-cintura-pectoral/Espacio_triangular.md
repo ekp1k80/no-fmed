@@ -1,58 +1,60 @@
-# Espacio Triangular (Omotricipital)
+﻿# Espacio Triangular (Omotricipital)
 
-> Parte medial del triángulo escapulohumeral; por él pasa la [[arteria circunfleja de la escápula]]
+> Parte medial del triÃ¡ngulo escapulohumeral; por Ã©l pasa la [[arteria circunfleja de la escÃ¡pula]]
 
-## 📋 Datos Clave
-- **Región:** #espacio #hombro #cintura-pectoral #axila
-- **Contenido:** [[arteria circunfleja de la escápula]]
-- **Relación clínica:** Anastomosis escapular
+## ðŸ“‹ Datos Clave
+- **RegiÃ³n:** #cintura-pectoral #hombro #axila
+- **Contenido:** [[arteria circunfleja de la escÃ¡pula]]
+- **RelaciÃ³n clÃ­nica:** Anastomosis escapular
 
-## 📷 Imágenes de Referencia
+## ðŸ“· ImÃ¡genes de Referencia
 
-*[Imágenes por agregar]*
+*[ImÃ¡genes por agregar]*
 
-## Límites
-Según Ruvier (Tomo 3, p. 230), el espacio triangular está limitado por:
+## LÃ­mites
+SegÃºn Ruvier (Tomo 3, p. 230), el espacio triangular estÃ¡ limitado por:
 
-| Límite | Estructura |
+| LÃ­mite | Estructura |
 |--------|------------|
-| **Superior** | [[Músculo subescapular]] + [[Músculo redondo menor]] |
-| **Inferior** | [[Músculo redondo mayor]] + [[músculo dorsal ancho]] |
-| **Lateral** | Cabeza larga del [[músculo tríceps braquial]] |
+| **Superior** | [[MÃºsculo subescapular]] + [[MÃºsculo redondo menor]] |
+| **Inferior** | [[MÃºsculo redondo mayor]] + [[mÃºsculo dorsal ancho]] |
+| **Lateral** | Cabeza larga del [[mÃºsculo trÃ­ceps braquial]] |
 
-Presenta un **vértice cercano al borde lateral de la escápula**.
+Presenta un **vÃ©rtice cercano al borde lateral de la escÃ¡pula**.
 
 ## Contenido
-- **[[Arteria circunfleja de la escápula]]** — atraviesa el espacio para dirigirse a la fosa infraespinosa
+- **[[Arteria circunfleja de la escÃ¡pula]]** â€” atraviesa el espacio para dirigirse a la fosa infraespinosa
 
-## Recorrido de la [[Arteria Circunfleja de la Escápula]]
+## Recorrido de la [[Arteria Circunfleja de la EscÃ¡pula]]
 1. Nace de la [[arteria subescapular]]
 2. Se dirige posterior y lateralmente
 3. **Atraviesa el espacio triangular** (omotricipital)
-4. Se distribuye en los músculos de la fosa infraespinosa
-5. Se anastomosa con la [[arteria dorsal de la escápula]]
+4. Se distribuye en los mÃºsculos de la fosa infraespinosa
+5. Se anastomosa con la [[arteria dorsal de la escÃ¡pula]]
 
 ## Anastomosis escapular
-La [[arteria circunfleja de la escápula]] forma parte de la **anastomosis alrededor de la escápula** junto con:
-- [[Arteria dorsal de la escápula]] (rama de la arteria subclavia/transversa del cuello)
+La [[arteria circunfleja de la escÃ¡pula]] forma parte de la **anastomosis alrededor de la escÃ¡pula** junto con:
+- [[Arteria dorsal de la escÃ¡pula]] (rama de la arteria subclavia/transversa del cuello)
 - [[Arteria supraescapular]] (rama de la arteria subclavia)
 - [[Arteria circunfleja humeral posterior]]
 
-Esta anastomosis es fundamental para el **colateralismo** en caso de oclusión de la arteria axilar.
+Esta anastomosis es fundamental para el **colateralismo** en caso de oclusiÃ³n de la arteria axilar.
 
-## Relación con el triángulo escapulohumeral
-El espacio triangular es la **parte medial** del triángulo escapulohumeral. El triángulo escapulohumeral completo está limitado por:
-- **Superior y posteriormente:** [[Músculo redondo menor]]
-- **Anterior e inferiormente:** [[Músculo redondo mayor]] + [[músculo dorsal ancho]]
-- **Lateralmente:** [[Húmero]]
+## RelaciÃ³n con el triÃ¡ngulo escapulohumeral
+El espacio triangular es la **parte medial** del triÃ¡ngulo escapulohumeral. El triÃ¡ngulo escapulohumeral completo estÃ¡ limitado por:
+- **Superior y posteriormente:** [[MÃºsculo redondo menor]]
+- **Anterior e inferiormente:** [[MÃºsculo redondo mayor]] + [[mÃºsculo dorsal ancho]]
+- **Lateralmente:** [[HÃºmero]]
 
-La cabeza larga del [[músculo tríceps braquial]] lo divide en:
-- **Espacio cuadrangular** (lateral) → nervio axilar + vasos circunflejos humerales posteriores
-- **Espacio triangular** (medial) → arteria circunfleja de la escápula
+La cabeza larga del [[mÃºsculo trÃ­ceps braquial]] lo divide en:
+- **Espacio cuadrangular** (lateral) â†’ nervio axilar + vasos circunflejos humerales posteriores
+- **Espacio triangular** (medial) â†’ arteria circunfleja de la escÃ¡pula
 
-## 🔗 Fuente
-- Rouvier-Anatomía Humana, Tomo 3
+## ðŸ”— Fuente
+- Rouvier-AnatomÃ­a Humana, Tomo 3
 
-## 🔗 Enlaces
-- [[Arteria circunfleja de la escápula]]
+## ðŸ”— Enlaces
+- [[Arteria circunfleja de la escÃ¡pula]]
 - [[Nervio toracodorsal]]
+
+

@@ -1,30 +1,30 @@
-# Articulación Acromioclavicular
+﻿# ArticulaciÃ³n Acromioclavicular
 
-> Descripción breve: articulación plana que une el acromion con la extremidad acromial de la clavícula. Forma parte de la unión entre la clavícula y la escápula. (Rouvier)
+> DescripciÃ³n breve: articulaciÃ³n plana que une el acromion con la extremidad acromial de la clavÃ­cula. Forma parte de la uniÃ³n entre la clavÃ­cula y la escÃ¡pula. (Rouvier)
 
-## 📋 Datos Clave
+## ðŸ“‹ Datos Clave
 
 - **Tipo:** sinovial, plana (artrodia)
-- **Clasificación:** diartrosis
+- **ClasificaciÃ³n:** diartrosis
 - **Movimientos:** deslizamiento
 - **Estabilidad:** moderada, reforzada por ligamentos
-- **Función:** unir clavícula a escápula, permitir movimientos de la cintura escapular
+- **FunciÃ³n:** unir clavÃ­cula a escÃ¡pula, permitir movimientos de la cintura escapular
 
 #articulacion #hombro #cintura-pectoral
 
 ---
 
-## 📷 Imágenes de Referencia
+## ðŸ“· ImÃ¡genes de Referencia
 
-![Vista superior-posterior](imgs/AcromioClavicular/Acromio_clavicular_superior_posterior.png)
-*Vista superior-posterior de la articulación acromioclavicular*
+![Vista superior-posterior](imgs/articulaciones/huesos/Acromio_clavicular_superior_posterior.png)
+*Vista superior-posterior de la articulaciÃ³n acromioclavicular*
 
-![Vista lateral-anterior](imgs/AcromioClavicular/Acromio_clavicular_lateral_anterior.png)
-*Vista lateral-anterior de la articulación acromioclavicular*
+![Vista lateral-anterior](imgs/articulaciones/huesos/Acromio_clavicular_lateral_anterior.png)
+*Vista lateral-anterior de la articulaciÃ³n acromioclavicular*
 
 ---
 
-## Anatomía Descriptiva (Rouvier)
+## AnatomÃ­a Descriptiva (Rouvier)
 
 ### Superficies Articulares
 
@@ -32,38 +32,38 @@
 - Ocupa la parte anterior del borde medial del acromion
 - Tallada en bisel a expensas de la cara superior del acromion
 - Orientada **superior y medialmente**
-- Revestida por fibrocartílago (más grueso inferior que superiormente)
+- Revestida por fibrocartÃ­lago (mÃ¡s grueso inferior que superiormente)
 
 #### Superficie Clavicular
-- Situada en la extremidad acromial de la clavícula
-- Casi plana, elíptica, alargada de anterior a posterior
+- Situada en la extremidad acromial de la clavÃ­cula
+- Casi plana, elÃ­ptica, alargada de anterior a posterior
 - Orientada **inversamente a la superficie acromial** (se apoya sobre ella)
-- Revestida por fibrocartílago (más grueso superior que inferiormente)
+- Revestida por fibrocartÃ­lago (mÃ¡s grueso superior que inferiormente)
 
-### Características
-- Las dos superficies son **casi planas, elípticas**
+### CaracterÃ­sticas
+- Las dos superficies son **casi planas, elÃ­pticas**
 - Alargadas de **anterior a posterior** y un poco de **medial a lateral**
-- La orientación inversa explica por qué la **luxación superior de la clavícula** es la más frecuente
+- La orientaciÃ³n inversa explica por quÃ© la **luxaciÃ³n superior de la clavÃ­cula** es la mÃ¡s frecuente
 
 ---
 
-## Medios de Unión (Rouvier)
+## Medios de UniÃ³n (Rouvier)
 
-### Cápsula Articular
+### CÃ¡psula Articular
 - Manguito fibroso bastante grueso
 - Se inserta en ambos huesos muy cerca del revestimiento fibrocartilaginoso
 - Reforzada en su cara superior por el **ligamento acromioclavicular**
 
 ### Ligamento Acromioclavicular
-- Muy fuerte, ocupa la cara superior de la articulación
+- Muy fuerte, ocupa la cara superior de la articulaciÃ³n
 - Comprende **dos planos fibrosos**:
-  1. **Plano profundo:** engrosamiento de la propia cápsula articular
-  2. **Plano superficial:** fascículos fibrosos oblicuos (anterior→posterior, lateral→medial)
-- Puede separarse fácilmente de la cápsula en la mayoría de los casos
+  1. **Plano profundo:** engrosamiento de la propia cÃ¡psula articular
+  2. **Plano superficial:** fascÃ­culos fibrosos oblicuos (anteriorâ†’posterior, lateralâ†’medial)
+- Puede separarse fÃ¡cilmente de la cÃ¡psula en la mayorÃ­a de los casos
 
 ### Disco Articular
 - No siempre presente
-- Cuando existe, divide la articulación en dos cavidades
+- Cuando existe, divide la articulaciÃ³n en dos cavidades
 - De forma variable: completo, perforado o ausente
 
 ---
@@ -71,42 +71,42 @@
 ## Ligamento Coracoclavicular (Rouvier)
 
 ### Generalidades
-- Une la clavícula a la apófisis coracoides
+- Une la clavÃ­cula a la apÃ³fisis coracoides
 - Presenta **dos porciones bien diferenciadas**:
   1. **Ligamento trapezoideo** (anterior)
   2. **Ligamento conoideo** (posterior)
 
 ### Ligamento Trapezoideo
-- **Inserción inferior:** mitad o tercio posterior del borde medial del segmento horizontal de la apófisis coracoides (cara superior y parte próxima)
-- **Inserción superior:** segmento anterior de la línea trapezoidea de la clavícula
-- **Forma:** lámina fibrosa cuadrilátera
-- **Orientación:** plano oblicuo (superior→inferior, lateral→medial)
+- **InserciÃ³n inferior:** mitad o tercio posterior del borde medial del segmento horizontal de la apÃ³fisis coracoides (cara superior y parte prÃ³xima)
+- **InserciÃ³n superior:** segmento anterior de la lÃ­nea trapezoidea de la clavÃ­cula
+- **Forma:** lÃ¡mina fibrosa cuadrilÃ¡tera
+- **OrientaciÃ³n:** plano oblicuo (superiorâ†’inferior, lateralâ†’medial)
 - **Caras:** anteromedial (orientada medial, anterior y superior) y posterolateral
 
 ### Ligamento Conoideo
-- **Inserción inferior:** vértice de la apófisis coracoides
-- **Inserción superior:** tubérculo conoideo de la clavícula
-- **Forma:** cono fibroso con base inferior y vértice superior
-- Más posterior y medial que el trapezoideo
+- **InserciÃ³n inferior:** vÃ©rtice de la apÃ³fisis coracoides
+- **InserciÃ³n superior:** tubÃ©rculo conoideo de la clavÃ­cula
+- **Forma:** cono fibroso con base inferior y vÃ©rtice superior
+- MÃ¡s posterior y medial que el trapezoideo
 
 ---
 
-## Vascularización
+## VascularizaciÃ³n
 
 | Arteria | Territorio |
 |---------|-----------|
-| Ramas acromiales de la [[Arteria toracoacromial]] | irrigación principal |
-| Ramas de la [[Arteria supraescapular]] | contribución |
+| Ramas acromiales de la [[Arteria toracoacromial]] | irrigaciÃ³n principal |
+| Ramas de la [[Arteria supraescapular]] | contribuciÃ³n |
 | [por completar] | [por completar] |
 
 ---
 
-## Inervación
+## InervaciÃ³n
 
-| Nervio | Función |
+| Nervio | FunciÃ³n |
 |--------|---------|
-| Ramos del [[Nervio supraescapular]] | inervación articular |
-| Ramos del [[Plexo cervical]] | contribución |
+| Ramos del [[Nervio supraescapular]] | inervaciÃ³n articular |
+| Ramos del [[Plexo cervical]] | contribuciÃ³n |
 | [por completar] | [por completar] |
 
 ---
@@ -114,107 +114,107 @@
 ## Movimientos
 
 ### Tipo de Movimientos
-- **Principal:** deslizamiento (traslación)
+- **Principal:** deslizamiento (traslaciÃ³n)
 - **Amplitud:** limitada
-- **Ejes:** múltiples debido a superficie plana
+- **Ejes:** mÃºltiples debido a superficie plana
 
 ### Movimientos Asociados
-1. **Elevación/Descenso** de la escápula
-2. **Protractión/Retractión** escapular
-3. **Rotación** de la escápula
+1. **ElevaciÃ³n/Descenso** de la escÃ¡pula
+2. **ProtractiÃ³n/RetractiÃ³n** escapular
+3. **RotaciÃ³n** de la escÃ¡pula
 
-### Relación con Movimientos del Hombro
-- Permite ajustes finos de la posición escapular
+### RelaciÃ³n con Movimientos del Hombro
+- Permite ajustes finos de la posiciÃ³n escapular
 - Contribuye a la amplitud total del movimiento del hombro
-- Estabiliza la relación clavícula-escápula durante movimientos del brazo
+- Estabiliza la relaciÃ³n clavÃ­cula-escÃ¡pula durante movimientos del brazo
 
 ---
 
-## Relaciones Anatómicas
+## Relaciones AnatÃ³micas
 
 ### Superficiales
-- **Piel** y **tejido celular subcutáneo**
+- **Piel** y **tejido celular subcutÃ¡neo**
 - **Fascia** del [[Deltoides]] y [[Trapecio]]
 
 ### Profundas
 - **Bursa subacromial** (inferior)
-- **Tendón del [[Supraespinoso]]** (inferior)
-- **Articulación glenohumeral** (inferior y lateral)
+- **TendÃ³n del [[Supraespinoso]]** (inferior)
+- **ArticulaciÃ³n glenohumeral** (inferior y lateral)
 
 ### Laterales
-- [[Deltoides]] (fascículos anteriores)
+- [[Deltoides]] (fascÃ­culos anteriores)
 - [[Acromion]]
 
 ### Mediales
-- [[Clavícula]]
-- [[Músculo trapecio]] (fascículos claviculares)
+- [[ClavÃ­cula]]
+- [[MÃºsculo trapecio]] (fascÃ­culos claviculares)
 
 ---
 
-## Biomecánica
+## BiomecÃ¡nica
 
 ### Estabilidad
 - **Estabilidad primaria:** ligamento coracoclavicular (especialmente conoideo)
-- **Estabilidad secundaria:** cápsula y ligamento acromioclavicular
-- **Mínima congruencia ósea** → dependencia ligamentosa
+- **Estabilidad secundaria:** cÃ¡psula y ligamento acromioclavicular
+- **MÃ­nima congruencia Ã³sea** â†’ dependencia ligamentosa
 
 ### Fuerzas
-- **Tracción superior:** ligamento conoideo (principal estabilizador vertical)
-- **Tracción anterior:** ligamento trapezoideo
-- **Compresión:** superficies articulares y cápsula
+- **TracciÃ³n superior:** ligamento conoideo (principal estabilizador vertical)
+- **TracciÃ³n anterior:** ligamento trapezoideo
+- **CompresiÃ³n:** superficies articulares y cÃ¡psula
 
 ---
 
-## Variaciones Anatómicas
+## Variaciones AnatÃ³micas
 
 ### Disco Articular
-- **Tipo I:** disco completo (divide articulación)
+- **Tipo I:** disco completo (divide articulaciÃ³n)
 - **Tipo II:** disco incompleto/perforado
 - **Tipo III:** ausencia de disco
 
-### Inserción Ligamentosa
-- Variaciones en tamaño y orientación del ligamento coracoclavicular
-- Diferencias en el desarrollo del tubérculo conoideo
+### InserciÃ³n Ligamentosa
+- Variaciones en tamaÃ±o y orientaciÃ³n del ligamento coracoclavicular
+- Diferencias en el desarrollo del tubÃ©rculo conoideo
 
 ### Superficies Articulares
-- Variaciones en el grado de inclinación
-- Diferencias en el tamaño y forma
+- Variaciones en el grado de inclinaciÃ³n
+- Diferencias en el tamaÃ±o y forma
 
 ---
 
-## Notas Clínicas
+## Notas ClÃ­nicas
 
-### Luxación Acromioclavicular
-- **Mecanismo:** caída sobre hombro o brazo aducido
+### LuxaciÃ³n Acromioclavicular
+- **Mecanismo:** caÃ­da sobre hombro o brazo aducido
 - **Grados:**
   - **Grado I:** esguince ligamentoso (AC)
   - **Grado II:** ruptura ligamento AC, estiramiento CC
   - **Grado III:** ruptura completa AC y CC
   - **Grados IV-VI:** desplazamientos mayores
-- **Signo de la tecla:** elevación de extremidad clavicular al presionar
+- **Signo de la tecla:** elevaciÃ³n de extremidad clavicular al presionar
 
 ### Artrosis Acromioclavicular
-- **Causa:** degeneración articular por uso/edad
-- **Síntomas:** dolor localizado, crepitación, limitación movimiento
-- **Diagnóstico:** radiografía, dolor a la palpación, prueba de cross-arm
+- **Causa:** degeneraciÃ³n articular por uso/edad
+- **SÃ­ntomas:** dolor localizado, crepitaciÃ³n, limitaciÃ³n movimiento
+- **DiagnÃ³stico:** radiografÃ­a, dolor a la palpaciÃ³n, prueba de cross-arm
 
-### Osteólisis Distal de Clavícula
+### OsteÃ³lisis Distal de ClavÃ­cula
 - **Causa:** microtraumatismos repetidos (levantadores de peso)
-- **Hallazgo:** reabsorción ósea de extremidad distal de clavícula
-- **Tratamiento:** reposo, modificación actividad, eventual resección distal
+- **Hallazgo:** reabsorciÃ³n Ã³sea de extremidad distal de clavÃ­cula
+- **Tratamiento:** reposo, modificaciÃ³n actividad, eventual resecciÃ³n distal
 
 ---
 
-## Tabla de Imágenes
+## Tabla de ImÃ¡genes
 
-| Imagen | Vista | Descripción |
+| Imagen | Vista | DescripciÃ³n |
 |--------|-------|-------------|
-| ![Superior-posterior](imgs/AcromioClavicular/Acromio_clavicular_superior_posterior.png) | Superior-posterior | Vista superior-posterior de la articulación |
-| ![Lateral-anterior](imgs/AcromioClavicular/Acromio_clavicular_lateral_anterior.png) | Lateral-anterior | Vista lateral-anterior de la articulación |
-| ![Lateral-anterior sin cápsula](imgs/AcromioClavicular/Acromio_clavicular_lateral_anterior_sin_capsula.png) | Lateral-anterior sin cápsula | Vista lateral-anterior sin cápsula articular |
-| ![Posterior-lateral](imgs/AcromioClavicular/Acromio_clavicular_posterior_lateral.png) | Posterior-lateral | Vista posterior-lateral de la articulación |
+| ![Superior-posterior](imgs/articulaciones/huesos/Acromio_clavicular_superior_posterior.png) | Superior-posterior | Vista superior-posterior de la articulaciÃ³n |
+| ![Lateral-anterior](imgs/articulaciones/huesos/Acromio_clavicular_lateral_anterior.png) | Lateral-anterior | Vista lateral-anterior de la articulaciÃ³n |
+| ![Lateral-anterior sin cÃ¡psula](imgs/articulaciones/huesos/Acromio_clavicular_lateral_anterior_sin_capsula.png) | Lateral-anterior sin cÃ¡psula | Vista lateral-anterior sin cÃ¡psula articular |
+| ![Posterior-lateral](imgs/articulaciones/huesos/Acromio_clavicular_posterior_lateral.png) | Posterior-lateral | Vista posterior-lateral de la articulaciÃ³n |
 
 ---
 
-## 🔗 Fuente
-- Rouvier-Anatomía Humana, Tomo 3
+## ðŸ”— Fuente
+- Rouvier-AnatomÃ­a Humana, Tomo 3

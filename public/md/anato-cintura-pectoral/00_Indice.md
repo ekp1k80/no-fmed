@@ -1,20 +1,20 @@
-# Cintura Pectoral — Índice
+﻿# Cintura Pectoral â€” Ãndice
 
-> Notas de Anatomía basadas en **Ruvier-Anatomía Humana** (Tomo 3)
+> Notas de AnatomÃ­a basadas en **Ruvier-AnatomÃ­a Humana** (Tomo 3)
 
 ---
 
-## 📚 Huesos
+## ðŸ“š Huesos
 - [[Escapula]]
 - [[Clavicula]]
 - [[Humero]]
 
-## 🔗 Articulaciones
+## ðŸ”— Articulaciones
 - [[Acromioclavicular]]
 - [[Esternoclavicular]]
 - [[Glenohumeral]]
 
-## 💪 Músculos
+## ðŸ’ª MÃºsculos
 
 ### Hombro
 - [[Deltoides]]
@@ -45,7 +45,7 @@
 - [[Subclavio]]
 - [[Omohioideo]]
 
-## 🩸 Arterias
+## ðŸ©¸ Arterias
 
 ### Arteria Subclavia
 - [[Arteria_subclavia]] (padre)
@@ -57,9 +57,9 @@
 
 ### Arteria Axilar
 - [[Arteria_axilar]] (padre)
-- **1ra porción:** [[Toracica_superior]]
-- **2da porción:** [[Toracoacromial]], [[Toracica_lateral]]
-- **3ra porción:** [[Subescapular]], [[Circunfleja_humeral_posterior]], [[Circunfleja_humeral_anterior]]
+- **1ra porciÃ³n:** [[Toracica_superior]]
+- **2da porciÃ³n:** [[Toracoacromial]], [[Toracica_lateral]]
+- **3ra porciÃ³n:** [[Subescapular]], [[Circunfleja_humeral_posterior]], [[Circunfleja_humeral_anterior]]
 
 ### Arteria Braquial
 - [[Arteria_braquial]] (padre)
@@ -67,7 +67,7 @@
 - [[Colateral_cubital_superior]]
 - [[Colateral_cubital_inferior]]
 
-## 💧 Venas
+## ðŸ’§ Venas
 
 ### Vena Subclavia
 - [[Venas_subclavia]] (padre)
@@ -84,7 +84,7 @@
 ### Vena Braquial
 - [[Venas_braquial]]
 
-## 🧠 Nervios (Plexo Braquial)
+## ðŸ§  Nervios (Plexo Braquial)
 
 ### Plexo
 - [[Plexo braquial]]
@@ -93,25 +93,25 @@
 - [[Nervio pectoral lateral]]
 - [[Nervio pectoral medial]]
 - [[Nervio subclavio]]
-- [[Nervio cutáneo medial del brazo]]
-- [[Nervio cutáneo medial del antebrazo]]
+- [[Nervio cutÃ¡neo medial del brazo]]
+- [[Nervio cutÃ¡neo medial del antebrazo]]
 
 ### Colaterales Posteriores
-- [[Nervio dorsal de la escápula]]
+- [[Nervio dorsal de la escÃ¡pula]]
 - [[Nervio supraescapular]]
-- [[Nervio torácico largo]]
+- [[Nervio torÃ¡cico largo]]
 - [[Nervio subescapular superior]]
 - [[Nervio subescapular inferior]]
 - [[Nervio toracodorsal]]
 
 ### Terminales
-- [[Nervio musculocutáneo]]
+- [[Nervio musculocutÃ¡neo]]
 - [[Nervio mediano]]
 - [[Nervio cubital]]
 - [[Nervio axilar]]
 - [[Nervio radial]]
 
-## 🧵 Fascias
+## ðŸ§µ Fascias
 - [[Fascia_pectoral]]
 - [[Fascia_clavipectoral]]
 - [[Fascia_axilar]]
@@ -124,7 +124,7 @@
 - [[Fascia_del_brazo]]
 - [[Fascia_del_antebrazo]]
 
-## 📍 Espacios y Estructuras
+## ðŸ“ Espacios y Estructuras
 - [[Fosa axilar]]
 - [[Triangulo_deltopectoral]]
 - [[Espacio_cuadrangular]]
@@ -134,4 +134,5 @@
 
 ---
 
-*Fuente: Rouvier-Anatomía Humana, Tomo 3*
+*Fuente: Ruvier-AnatomÃ­a Humana, Tomo 3*
+

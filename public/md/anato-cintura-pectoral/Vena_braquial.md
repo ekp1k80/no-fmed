@@ -1,74 +1,74 @@
-# Vena braquial
+﻿# Vena braquial
 
-> Vena profunda del brazo formada por la reunión de la vena basílica con las venas satélites de la arteria braquial.
+> Vena profunda del brazo formada por la reuniÃ³n de la vena basÃ­lica con las venas satÃ©lites de la arteria braquial.
 
-## 📋 Datos Clave
-- **Región:** #miembro-superior
-- **Relaciones:** [[Arteria braquial]], [[Vena basílica]], [[Vena axilar]], [[Músculo redondo mayor]]
+## ðŸ“‹ Datos Clave
+- **RegiÃ³n:** #miembro-superior
+- **Relaciones:** [[Arteria braquial]], [[Vena basÃ­lica]], [[Vena axilar]], [[MÃºsculo redondo mayor]]
 
-## Descripción
+## DescripciÃ³n
 
 ### Origen
-- **Origen:** Formada por la reunión de la [[Vena basílica]] con las venas satélites de la [[Arteria braquial]]
+- **Origen:** Formada por la reuniÃ³n de la [[Vena basÃ­lica]] con las venas satÃ©lites de la [[Arteria braquial]]
 
 ### Trayecto
 - **Trayecto:** Medial a la [[Arteria braquial]], en el conducto braquial
 - Asciende por la cara medial del brazo
-- Mantiene una relación estrecha con la arteria braquial
+- Mantiene una relaciÃ³n estrecha con la arteria braquial
 
-### Terminación
-- **Terminación:** Se convierte en [[Vena axilar]] a nivel del borde inferior del [[Músculo redondo mayor]]
+### TerminaciÃ³n
+- **TerminaciÃ³n:** Se convierte en [[Vena axilar]] a nivel del borde inferior del [[MÃºsculo redondo mayor]]
 
 ## Ramas/Afluentes
 
 ### Afluentes principales
-- **[[Vena basílica]]:** Se une en la parte superior de la vena braquial
-- **Venas satélites de la arteria braquial:** Acompañan a la arteria braquial como venas comitantes
+- **[[Vena basÃ­lica]]:** Se une en la parte superior de la vena braquial
+- **Venas satÃ©lites de la arteria braquial:** AcompaÃ±an a la arteria braquial como venas comitantes
 - **Venas comitantes de las arterias colaterales:** Drenan las regiones irrigadas por las arterias colaterales del brazo
 
 ### Sistema venoso profundo
 - Forma parte del sistema venoso profundo del miembro superior
-- Generalmente presenta dos venas braquiales que acompañan a la arteria braquial
+- Generalmente presenta dos venas braquiales que acompaÃ±an a la arteria braquial
 
-## Relaciones anatómicas
+## Relaciones anatÃ³micas
 
 ### Con estructuras vasculares
-- **Arteria braquial:** Se sitúa medial a la arteria braquial
-- **Venas satélites:** Generalmente hay dos venas braquiales que acompañan a la arteria
+- **Arteria braquial:** Se sitÃºa medial a la arteria braquial
+- **Venas satÃ©lites:** Generalmente hay dos venas braquiales que acompaÃ±an a la arteria
 
 ### Con estructuras musculares
-- **Músculo bíceps braquial:** Se relaciona anteriormente
-- **Músculo tríceps braquial:** Se relaciona posteriormente
-- **Músculo redondo mayor:** Marca el límite de terminación
+- **MÃºsculo bÃ­ceps braquial:** Se relaciona anteriormente
+- **MÃºsculo trÃ­ceps braquial:** Se relaciona posteriormente
+- **MÃºsculo redondo mayor:** Marca el lÃ­mite de terminaciÃ³n
 
 ### Con estructuras nerviosas
 - **Nervio mediano:** Cruza anterior a la arteria braquial, relacionado con las venas
-- **Nervio cubital:** Se sitúa posterior a las estructuras vasculares
+- **Nervio cubital:** Se sitÃºa posterior a las estructuras vasculares
 - **Nervio radial:** Se relaciona posterior y lateralmente
 
-## Importancia clínica
+## Importancia clÃ­nica
 
 ### Accesos venosos
-- **Acceso venoso periférico:** Aunque profunda, puede utilizarse para acceso venoso en casos específicos
-- **Flebotomía:** No es el sitio primario para flebotomía debido a su profundidad
+- **Acceso venoso perifÃ©rico:** Aunque profunda, puede utilizarse para acceso venoso en casos especÃ­ficos
+- **FlebotomÃ­a:** No es el sitio primario para flebotomÃ­a debido a su profundidad
 
 ### Procedimientos
-- **Cateterización:** Puede utilizarse para cateterización venosa central por vía periférica (PICC)
-- **Monitoreo hemodinámico:** Acceso para medición de presión venosa central
+- **CateterizaciÃ³n:** Puede utilizarse para cateterizaciÃ³n venosa central por vÃ­a perifÃ©rica (PICC)
+- **Monitoreo hemodinÃ¡mico:** Acceso para mediciÃ³n de presiÃ³n venosa central
 
-### Patologías
-- **Trombosis venosa profunda:** Puede afectar a la vena braquial, especialmente en pacientes con catéteres prolongados
-- **Lesiones traumáticas:** Puede lesionarse en traumatismos del brazo
-- **Compresión:** Rara, pero posible en síndromes compartimentales
+### PatologÃ­as
+- **Trombosis venosa profunda:** Puede afectar a la vena braquial, especialmente en pacientes con catÃ©teres prolongados
+- **Lesiones traumÃ¡ticas:** Puede lesionarse en traumatismos del brazo
+- **CompresiÃ³n:** Rara, pero posible en sÃ­ndromes compartimentales
 
-### Consideraciones quirúrgicas
-- **Exposición quirúrgica:** Requiere disección cuidadosa debido a su relación con estructuras nerviosas importantes
-- **Anastomosis vasculares:** Utilizada en procedimientos de reconstrucción microvascular
-- **By-pass arterial:** Puede utilizarse como injerto venoso en cirugía vascular
+### Consideraciones quirÃºrgicas
+- **ExposiciÃ³n quirÃºrgica:** Requiere disecciÃ³n cuidadosa debido a su relaciÃ³n con estructuras nerviosas importantes
+- **Anastomosis vasculares:** Utilizada en procedimientos de reconstrucciÃ³n microvascular
+- **By-pass arterial:** Puede utilizarse como injerto venoso en cirugÃ­a vascular
 
-### Consideraciones diagnósticas
-- **Ecografía Doppler:** Método de elección para evaluar la permeabilidad venosa
-- **Flebografía:** Estudio de contraste para evaluar el sistema venoso profundo
+### Consideraciones diagnÃ³sticas
+- **EcografÃ­a Doppler:** MÃ©todo de elecciÃ³n para evaluar la permeabilidad venosa
+- **FlebografÃ­a:** Estudio de contraste para evaluar el sistema venoso profundo
 
-## 🔗 Fuente
-- Rouvier-Anatomía Humana, Tomo 3
+## ðŸ”— Fuente
+- Rouvier-AnatomÃ­a Humana, Tomo 3

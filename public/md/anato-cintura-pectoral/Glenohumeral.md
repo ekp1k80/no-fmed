@@ -1,91 +1,91 @@
-# Articulación Glenohumeral
+﻿# ArticulaciÃ³n Glenohumeral
 
-> Descripción breve: articulación esferoidea que une el húmero a la escápula. También conocida como articulación del hombro. Es la articulación más móvil del cuerpo humano. (Rouvier)
+> DescripciÃ³n breve: articulaciÃ³n esferoidea que une el hÃºmero a la escÃ¡pula. TambiÃ©n conocida como articulaciÃ³n del hombro. Es la articulaciÃ³n mÃ¡s mÃ³vil del cuerpo humano. (Rouvier)
 
-## 📋 Datos Clave
+## ðŸ“‹ Datos Clave
 
 - **Tipo:** sinovial, esferoidea (enartrosis)
-- **Clasificación:** diartrosis
-- **Movimientos:** flexión, extensión, abducción, aducción, rotación medial y lateral, circunducción
-- **Estabilidad:** baja (depende de músculos y ligamentos)
-- **Función:** máxima movilidad del miembro superior
+- **ClasificaciÃ³n:** diartrosis
+- **Movimientos:** flexiÃ³n, extensiÃ³n, abducciÃ³n, aducciÃ³n, rotaciÃ³n medial y lateral, circunducciÃ³n
+- **Estabilidad:** baja (depende de mÃºsculos y ligamentos)
+- **FunciÃ³n:** mÃ¡xima movilidad del miembro superior
 
 #articulacion #hombro #cintura-pectoral
 
 ---
 
-## 📷 Imágenes de Referencia
+## ðŸ“· ImÃ¡genes de Referencia
 
-![Vista anterior](imgs/GlenoHumeral/Gleno_humeral_anterior.png)
-*Vista anterior de la articulación glenohumeral*
+![Vista anterior](imgs/articulaciones/Gleno_humeral_anterior.png)
+*Vista anterior de la articulaciÃ³n glenohumeral*
 
-![Cavidad glenoidea vista lateral](imgs/GlenoHumeral/Cavidad_glenoidea_vista_lateral.png)
+![Cavidad glenoidea vista lateral](imgs/articulaciones/Gleno_humeral_Cavidad_glenoidea_vista_lateral.png)
 *Cavidad glenoidea vista lateral*
 
 ---
 
-## Anatomía Descriptiva (Rouvier)
+## AnatomÃ­a Descriptiva (Rouvier)
 
 ### Superficies Articulares
 
-#### Cabeza del Húmero
+#### Cabeza del HÃºmero
 - Representa la **tercera parte de una esfera** de 30 mm de radio
-- Ligeramente más extensa en sentido **vertical** que anteroposterior
-- Revestida por capa uniforme de cartílago de ~2 mm de espesor
-- Limitada por el labio medial del cuello anatómico
-- **Fosita supratubercular:** escotadura angular/medialuna superior al tubérculo menor, para ligamento glenohumeral superior
-- **Orientación** (posición anatómica): medial, superior y posterior
-- **Ángulo con el cuerpo del húmero:** ~130°
+- Ligeramente mÃ¡s extensa en sentido **vertical** que anteroposterior
+- Revestida por capa uniforme de cartÃ­lago de ~2 mm de espesor
+- Limitada por el labio medial del cuello anatÃ³mico
+- **Fosita supratubercular:** escotadura angular/medialuna superior al tubÃ©rculo menor, para ligamento glenohumeral superior
+- **OrientaciÃ³n** (posiciÃ³n anatÃ³mica): medial, superior y posterior
+- **Ãngulo con el cuerpo del hÃºmero:** ~130Â°
 
-#### Cavidad Glenoidea de la Escápula
-- Mucho **menos extensa** que la cabeza del húmero
-- **Orientación inversa** a la cabeza humeral
+#### Cavidad Glenoidea de la EscÃ¡pula
+- Mucho **menos extensa** que la cabeza del hÃºmero
+- **OrientaciÃ³n inversa** a la cabeza humeral
 - Forma **oval** con extremo ancho inferior
 - Irregularmente excavada en hueso seco
-- **Tubérculo glenoideo:** eminencia central
-- **Concavidad más pronunciada** en parte inferior
-- Cartílago en estado fresco regulariza la concavidad
-- **Espesor cartilaginoso desigual:** más grueso en mitad inferior, muy delgado a nivel del tubérculo
+- **TubÃ©rculo glenoideo:** eminencia central
+- **Concavidad mÃ¡s pronunciada** en parte inferior
+- CartÃ­lago en estado fresco regulariza la concavidad
+- **Espesor cartilaginoso desigual:** mÃ¡s grueso en mitad inferior, muy delgado a nivel del tubÃ©rculo
 
 ### Labrum Glenoidal
 - Rodete fibrocartilaginoso que profundiza la cavidad glenoidea
 - Aumenta la congruencia articular
-- Proporciona inserción a la cápsula articular y ligamentos glenohumerales
+- Proporciona inserciÃ³n a la cÃ¡psula articular y ligamentos glenohumerales
 
 ---
 
-## Medios de Unión (Rouvier)
+## Medios de UniÃ³n (Rouvier)
 
-### Cápsula Articular
+### CÃ¡psula Articular
 - **Manguito fibroso laxo y amplio**
 - Se inserta:
-  - **Escápula:** alrededor del labrum glenoidal
-  - **Húmero:** cuello anatómico (excepto medialmente donde desciende más)
-- **Recesos sinoviales:** permiten distensión en movimientos extremos
-- Más laxa inferiormente (zona de debilidad)
+  - **EscÃ¡pula:** alrededor del labrum glenoidal
+  - **HÃºmero:** cuello anatÃ³mico (excepto medialmente donde desciende mÃ¡s)
+- **Recesos sinoviales:** permiten distensiÃ³n en movimientos extremos
+- MÃ¡s laxa inferiormente (zona de debilidad)
 
 ### Ligamentos Glenohumerales
 1. **Ligamento Glenohumeral Superior**
    - Desde borde superior de la cavidad glenoidea hasta fosita supratubercular
-   - Refuerza cápsula superiormente
+   - Refuerza cÃ¡psula superiormente
 
 2. **Ligamento Glenohumeral Medio**
-   - Desde borde anterior de la cavidad glenoidea hasta cuello anatómico
-   - Limita la rotación lateral y traslación anterior
+   - Desde borde anterior de la cavidad glenoidea hasta cuello anatÃ³mico
+   - Limita la rotaciÃ³n lateral y traslaciÃ³n anterior
 
 3. **Ligamento Glenohumeral Inferior**
    - En forma de hamaca (complejo ligamentoso)
-   - Desde borde anterior-inferior de la cavidad glenoidea hasta cuello anatómico
+   - Desde borde anterior-inferior de la cavidad glenoidea hasta cuello anatÃ³mico
    - Principal estabilizador anterior-inferior
 
 ### Ligamento Coracohumeral
-- Desde apófisis coracoides hasta tubérculo mayor
-- Refuerza cápsula superiormente
-- Limita la traslación inferior del húmero
+- Desde apÃ³fisis coracoides hasta tubÃ©rculo mayor
+- Refuerza cÃ¡psula superiormente
+- Limita la traslaciÃ³n inferior del hÃºmero
 
 ### Ligamento Coracoacromial
-- Forma el **arco coracoacromial** con acromion y apófisis coracoides
-- Limita la elevación superior del brazo
+- Forma el **arco coracoacromial** con acromion y apÃ³fisis coracoides
+- Limita la elevaciÃ³n superior del brazo
 - Protege estructuras subyacentes
 
 ---
@@ -94,185 +94,185 @@
 
 ### Bolsa Subacromial/Subdeltoidea
 - Entre arco coracoacromial y manguito rotador
-- Reduce fricción durante elevación del brazo
-- Comunicada con articulación en 10% de casos
+- Reduce fricciÃ³n durante elevaciÃ³n del brazo
+- Comunicada con articulaciÃ³n en 10% de casos
 
 ### Bolsa Subcoracoidea
-- Entre apófisis coracoides y cápsula articular
+- Entre apÃ³fisis coracoides y cÃ¡psula articular
 - A veces comunicada con cavidad articular
 
 ### Otras Bolsas
-- **Bolsa del subescapular:** entre tendón subescapular y cuello de la escápula
-- **Bolsa infraspinosa:** entre tendón infraespinoso y cápsula
+- **Bolsa del subescapular:** entre tendÃ³n subescapular y cuello de la escÃ¡pula
+- **Bolsa infraspinosa:** entre tendÃ³n infraespinoso y cÃ¡psula
 
 ---
 
-## Vascularización
+## VascularizaciÃ³n
 
 | Arteria | Territorio |
 |---------|-----------|
-| [[Arteria circunfleja humeral anterior]] | porción anterior |
-| [[Arteria circunfleja humeral posterior]] | porción posterior |
-| [[Arteria supraescapular]] | porción superior |
-| [[Arteria subescapular]] | porción anterior-inferior |
-| [[Arteria toracoacromial]] | porción superior-anterior |
+| [[Arteria circunfleja humeral anterior]] | porciÃ³n anterior |
+| [[Arteria circunfleja humeral posterior]] | porciÃ³n posterior |
+| [[Arteria supraescapular]] | porciÃ³n superior |
+| [[Arteria subescapular]] | porciÃ³n anterior-inferior |
+| [[Arteria toracoacromial]] | porciÃ³n superior-anterior |
 
 ---
 
-## Inervación
+## InervaciÃ³n
 
-| Nervio | Función |
+| Nervio | FunciÃ³n |
 |--------|---------|
-| [[Nervio axilar]] (C5-C6) | inervación principal |
-| [[Nervio supraescapular]] (C5-C6) | porción superior |
-| Ramos del [[Plexo braquial]] | contribución |
+| [[Nervio axilar]] (C5-C6) | inervaciÃ³n principal |
+| [[Nervio supraescapular]] (C5-C6) | porciÃ³n superior |
+| Ramos del [[Plexo braquial]] | contribuciÃ³n |
 
 ---
 
-## Movimientos y Músculos
+## Movimientos y MÃºsculos
 
-### Flexión (0-180°)
-- **Músculos principales:** [[Deltoides]] (porción anterior), [[Pectoral Mayor]] (porción clavicular), [[Coracobraquial]]
-- **Amplitud:** 180°
+### FlexiÃ³n (0-180Â°)
+- **MÃºsculos principales:** [[Deltoides]] (porciÃ³n anterior), [[Pectoral Mayor]] (porciÃ³n clavicular), [[Coracobraquial]]
+- **Amplitud:** 180Â°
 - **Eje:** transversal
 
-### Extensión (0-60°)
-- **Músculos principales:** [[Deltoides]] (porción posterior), [[Redondo Mayor]], [[Dorsal Ancho]]
-- **Amplitud:** 60°
+### ExtensiÃ³n (0-60Â°)
+- **MÃºsculos principales:** [[Deltoides]] (porciÃ³n posterior), [[Redondo Mayor]], [[Dorsal Ancho]]
+- **Amplitud:** 60Â°
 - **Eje:** transversal
 
-### Abducción (0-180°)
-- **0-90°:** [[Supraespinoso]], [[Deltoides]]
-- **>90°:** rotación escapular ([[Trapecio]], [[Serrato Anterior]])
-- **Amplitud:** 180°
+### AbducciÃ³n (0-180Â°)
+- **0-90Â°:** [[Supraespinoso]], [[Deltoides]]
+- **>90Â°:** rotaciÃ³n escapular ([[Trapecio]], [[Serrato Anterior]])
+- **Amplitud:** 180Â°
 - **Eje:** anteroposterior
 
-### Aducción (0°)
-- **Músculos principales:** [[Pectoral Mayor]], [[Dorsal Ancho]], [[Redondo Mayor]]
-- **Amplitud:** desde abducción hasta línea media
+### AducciÃ³n (0Â°)
+- **MÃºsculos principales:** [[Pectoral Mayor]], [[Dorsal Ancho]], [[Redondo Mayor]]
+- **Amplitud:** desde abducciÃ³n hasta lÃ­nea media
 - **Eje:** anteroposterior
 
-### Rotación Medial (0-70°)
-- **Músculos principales:** [[Subescapular]], [[Pectoral Mayor]], [[Dorsal Ancho]], [[Redondo Mayor]]
-- **Amplitud:** 70°
+### RotaciÃ³n Medial (0-70Â°)
+- **MÃºsculos principales:** [[Subescapular]], [[Pectoral Mayor]], [[Dorsal Ancho]], [[Redondo Mayor]]
+- **Amplitud:** 70Â°
 - **Eje:** vertical
 
-### Rotación Lateral (0-90°)
-- **Músculos principales:** [[Infraespinoso]], [[Redondo Menor]]
-- **Amplitud:** 90°
+### RotaciÃ³n Lateral (0-90Â°)
+- **MÃºsculos principales:** [[Infraespinoso]], [[Redondo Menor]]
+- **Amplitud:** 90Â°
 - **Eje:** vertical
 
-### Circunducción
-- **Combinación** de todos los movimientos anteriores
-- **Trayectoria** cónica
+### CircunducciÃ³n
+- **CombinaciÃ³n** de todos los movimientos anteriores
+- **Trayectoria** cÃ³nica
 
 ---
 
-## Biomecánica
+## BiomecÃ¡nica
 
 ### Estabilidad Articular
-- **Baja estabilidad ósea** (cavidad glenoidea pequeña)
-- **Estabilidad dinámica:** manguito rotador ([[Supraespinoso]], [[Infraespinoso]], [[Redondo Menor]], [[Subescapular]])
-- **Estabilidad estática:** cápsula, ligamentos, labrum
-- **Presión negativa intraarticular** contribuye a la estabilidad
+- **Baja estabilidad Ã³sea** (cavidad glenoidea pequeÃ±a)
+- **Estabilidad dinÃ¡mica:** manguito rotador ([[Supraespinoso]], [[Infraespinoso]], [[Redondo Menor]], [[Subescapular]])
+- **Estabilidad estÃ¡tica:** cÃ¡psula, ligamentos, labrum
+- **PresiÃ³n negativa intraarticular** contribuye a la estabilidad
 
-### Cinemática
-- **Movimiento combinado** con articulación escapulotorácica
-- **Ritmo escapulohumeral:** 2:1 (por cada 3° de abducción: 2° glenohumeral, 1° escapular)
-- **Centro instantáneo de rotación:** dentro de la cabeza humeral
+### CinemÃ¡tica
+- **Movimiento combinado** con articulaciÃ³n escapulotorÃ¡cica
+- **Ritmo escapulohumeral:** 2:1 (por cada 3Â° de abducciÃ³n: 2Â° glenohumeral, 1Â° escapular)
+- **Centro instantÃ¡neo de rotaciÃ³n:** dentro de la cabeza humeral
 
 ### Fuerzas Articulares
-- **Fuerza de compresión:** manguito rotador centraliza cabeza humeral
+- **Fuerza de compresiÃ³n:** manguito rotador centraliza cabeza humeral
 - **Fuerzas de cizallamiento:** desestabilizadoras, contrarrestadas por ligamentos
-- **Máxima carga:** en abducción 90° con rotación lateral
+- **MÃ¡xima carga:** en abducciÃ³n 90Â° con rotaciÃ³n lateral
 
 ---
 
-## Relaciones Anatómicas
+## Relaciones AnatÃ³micas
 
 ### Superiores
-- **Arco coracoacromial** (acromion + ligamento coracoacromial + apófisis coracoides)
+- **Arco coracoacromial** (acromion + ligamento coracoacromial + apÃ³fisis coracoides)
 - [[Bolsa subacromial]]
 - [[Deltoides]]
 
 ### Anteriores
-- [[Músculo subescapular]]
-- [[Tendón de la cabeza larga del bíceps]]
+- [[MÃºsculo subescapular]]
+- [[TendÃ³n de la cabeza larga del bÃ­ceps]]
 - [[Proceso coracoides]]
 - [[Plexo braquial]]
 - [[Arteria axilar]]
 
 ### Posteriores
-- [[Músculo infraespinoso]]
-- [[Músculo redondo menor]]
+- [[MÃºsculo infraespinoso]]
+- [[MÃºsculo redondo menor]]
 - [[Nervio axilar]]
 
 ### Inferiores
-- **Zona más débil** de la cápsula
-- [[Nervio axilar]] (relación estrecha)
+- **Zona mÃ¡s dÃ©bil** de la cÃ¡psula
+- [[Nervio axilar]] (relaciÃ³n estrecha)
 - [[Arteria circunfleja humeral posterior]]
 
 ### Mediales
-- [[Escápula]]
-- [[Músculo serrato anterior]]
+- [[EscÃ¡pula]]
+- [[MÃºsculo serrato anterior]]
 
 ---
 
-## Variaciones Anatómicas
+## Variaciones AnatÃ³micas
 
 ### Cavidad Glenoidea
-- **Versión glenoidea:** ángulo de inclinación anteroposterior
-- **Inclinación glenoidea:** ángulo de inclinación superior-inferior
+- **VersiÃ³n glenoidea:** Ã¡ngulo de inclinaciÃ³n anteroposterior
+- **InclinaciÃ³n glenoidea:** Ã¡ngulo de inclinaciÃ³n superior-inferior
 - **Profundidad glenoidea:** variable
 
 ### Labrum
-- **Variaciones de inserción**
+- **Variaciones de inserciÃ³n**
 - **Desgarros normales** (SLAP lesions variantes)
-- **Foramen sublabral** (comunicación con receso subescapular)
+- **Foramen sublabral** (comunicaciÃ³n con receso subescapular)
 
 ### Ligamentos
-- **Variaciones en grosor** y número de fascículos
+- **Variaciones en grosor** y nÃºmero de fascÃ­culos
 - **Ligamento glenohumeral medio** ausente en 30% de casos
 
 ---
 
-## Notas Clínicas
+## Notas ClÃ­nicas
 
-### Luxación Glenohumeral
-- **Mecanismo:** abducción + rotación lateral + extensión
-- **Dirección:** anterior (95%), posterior (2-4%), inferior (0.5%)
-- **Lesión de Bankart:** desinserción anteroinferior del labrum
-- **Lesión de Hill-Sachs:** impresión posterolateral de cabeza humeral
+### LuxaciÃ³n Glenohumeral
+- **Mecanismo:** abducciÃ³n + rotaciÃ³n lateral + extensiÃ³n
+- **DirecciÃ³n:** anterior (95%), posterior (2-4%), inferior (0.5%)
+- **LesiÃ³n de Bankart:** desinserciÃ³n anteroinferior del labrum
+- **LesiÃ³n de Hill-Sachs:** impresiÃ³n posterolateral de cabeza humeral
 
-### Síndrome de Pinzamiento Subacromial
-- **Causa:** compresión del manguito rotador bajo arco coracoacromial
+### SÃ­ndrome de Pinzamiento Subacromial
+- **Causa:** compresiÃ³n del manguito rotador bajo arco coracoacromial
 - **Estadios:** I (edema/hemorragia), II (tendinosis/fibrosis), III (rotura)
-- **Prueba de Neer:** dolor en elevación pasiva forzada
-- **Prueba de Hawkins:** dolor en rotación medial con brazo en flexión 90°
+- **Prueba de Neer:** dolor en elevaciÃ³n pasiva forzada
+- **Prueba de Hawkins:** dolor en rotaciÃ³n medial con brazo en flexiÃ³n 90Â°
 
 ### Artrosis Glenohumeral
-- **Causa:** degeneración articular primaria o postraumática
+- **Causa:** degeneraciÃ³n articular primaria o postraumÃ¡tica
 - **Hallazgos:** estrechamiento articular, osteofitos, esclerosis
-- **Tratamiento:** conservador → artroplastia
+- **Tratamiento:** conservador â†’ artroplastia
 
 ### Rotura del Manguito Rotador
-- **Mecanismo:** degenerativo (edad) o traumático
-- **Localización:** supraespinoso más frecuente
-- **Signos:** dolor nocturno, debilidad en abducción, signo del brazo caído
+- **Mecanismo:** degenerativo (edad) o traumÃ¡tico
+- **LocalizaciÃ³n:** supraespinoso mÃ¡s frecuente
+- **Signos:** dolor nocturno, debilidad en abducciÃ³n, signo del brazo caÃ­do
 - **Pruebas:** Jobe (supraespinoso), Patte (infraespinoso), lift-off (subescapular)
 
 ---
 
-## Tabla de Imágenes
+## Tabla de ImÃ¡genes
 
-| Imagen | Vista | Descripción |
+| Imagen | Vista | DescripciÃ³n |
 |--------|-------|-------------|
-| ![Anterior](imgs/GlenoHumeral/Gleno_humeral_anterior.png) | Anterior | Vista anterior de la articulación glenohumeral |
-| ![Cavidad glenoidea lateral](imgs/GlenoHumeral/Cavidad_glenoidea_vista_lateral.png) | Cavidad glenoidea lateral | Cavidad glenoidea vista lateral |
-| ![Ligamentos anteriores seleccionados](imgs/GlenoHumeral/Gleno_humeral_ligamentos_anteriores_seleccionados.png) | Ligamentos anteriores | Ligamentos anteriores de la articulación glenohumeral |
-| ![Ligamento posterior seleccionado](imgs/GlenoHumeral/Gleno_humeral_ligamento_posterior_seleccionado.png) | Ligamento posterior | Ligamento posterior de la articulación glenohumeral |
+| ![Anterior](imgs/articulaciones/Gleno_humeral_anterior.png) | Anterior | Vista anterior de la articulaciÃ³n glenohumeral |
+| ![Cavidad glenoidea lateral](imgs/articulaciones/Gleno_humeral_Cavidad_glenoidea_vista_lateral.png) | Cavidad glenoidea lateral | Cavidad glenoidea vista lateral |
+| ![Ligamentos anteriores seleccionados](imgs/articulaciones/Gleno_humeral_ligamentos_anteriores_seleccionados.png) | Ligamentos anteriores | Ligamentos anteriores de la articulaciÃ³n glenohumeral |
+| ![Ligamento posterior seleccionado](imgs/articulaciones/Gleno_humeral_ligamento_posterior_seleccionado.png) | Ligamento posterior | Ligamento posterior de la articulaciÃ³n glenohumeral |
 
 ---
 
-## 🔗 Fuente
-- Rouvier-Anatomía Humana, Tomo 3
+## ðŸ”— Fuente
+- Rouvier-AnatomÃ­a Humana, Tomo 3

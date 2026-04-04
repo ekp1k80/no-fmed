@@ -1,33 +1,33 @@
-# Rama Pectoral de la Arteria Toracoacromial
+﻿# Rama Pectoral de la Arteria Toracoacromial
 
-> Rama medial de la arteria toracoacromial que irriga los músculos pectorales y la región mamaria.
+> Rama medial de la arteria toracoacromial que irriga los mÃºsculos pectorales y la regiÃ³n mamaria.
 
-## 📋 Datos Clave
-- **Porción:** Rama de la 2da porción de la arteria axilar (a través de la arteria toracoacromial)
+## ðŸ“‹ Datos Clave
+- **PorciÃ³n:** Rama de la 2da porciÃ³n de la arteria axilar (a travÃ©s de la arteria toracoacromial)
 - **Origen:** Arteria toracoacromial
-- **Región:** #arteria #colateral #2da-porcion #axila
-- **Estructuras relacionadas:** [[Arteria toracoacromial]], [[Músculo pectoral mayor]], [[Músculo pectoral menor]], [[Región mamaria]]
+- **RegiÃ³n:** #arteria #colateral #2da-porcion #axila
+- **Estructuras relacionadas:** [[Arteria toracoacromial]], [[MÃºsculo pectoral mayor]], [[MÃºsculo pectoral menor]], [[RegiÃ³n mamaria]]
 
 ## Origen
-Nace como rama de la arteria toracoacromial, después de que ésta perfora la fascia clavipectoral.
+Nace como rama de la arteria toracoacromial, despuÃ©s de que Ã©sta perfora la fascia clavipectoral.
 
 ## Trayecto
-Se dirige medialmente hacia los músculos pectorales.
+Se dirige medialmente hacia los mÃºsculos pectorales.
 
-## Distribución / Ramas terminales
-Distribuye en los músculos pectorales (mayor y menor) y la región mamaria.
+## DistribuciÃ³n / Ramas terminales
+Distribuye en los mÃºsculos pectorales (mayor y menor) y la regiÃ³n mamaria.
 
 ## Anastomosis
-Se anastomosa con la arteria torácica interna (rama de la arteria subclavia).
+Se anastomosa con la arteria torÃ¡cica interna (rama de la arteria subclavia).
 
 ## Espacio que atraviesa (si aplica)
-Transcurre entre los músculos pectorales.
+Transcurre entre los mÃºsculos pectorales.
 
-## Importancia clínica
-Proporciona irrigación a los músculos pectorales, importantes en movimientos del hombro y brazo. En cirugía mamaria, su preservación es relevante.
+## Importancia clÃ­nica
+Proporciona irrigaciÃ³n a los mÃºsculos pectorales, importantes en movimientos del hombro y brazo. En cirugÃ­a mamaria, su preservaciÃ³n es relevante.
 
-## 🔗 Fuente
-- Rouvier-Anatomía Humana, Tomo 3
+## ðŸ”— Fuente
+- Rouvier-AnatomÃ­a Humana, Tomo 3
 
 ## Enlaces
 - [[Arteria toracoacromial]]
@@ -41,5 +41,7 @@ Proporciona irrigación a los músculos pectorales, importantes en movimientos d
 - [[Nervio radial]]
 - [[Nervio cubital]]
 - [[Vena toracoacromial]]
+
+
 
 
