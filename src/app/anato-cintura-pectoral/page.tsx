@@ -1,4 +1,4 @@
-"use client";
+﻿"use client";
 
 import { useState, useEffect, useCallback } from "react";
 import { marked } from "marked";
@@ -70,7 +70,7 @@ const FILES = [
   { id: "Venas_subclavia", label: "Venas Subclavia", section: "Venas" },
   { id: "Vena_yugular_externa", label: "Vena Yugular Externa", section: "Venas" },
   { id: "Vena_vertebral", label: "Vena Vertebral", section: "Venas" },
-  { id: "Vena_toracica_interna", label: "Vena Torácica Interna", section: "Venas" },
+  { id: "Vena_Toracica_interna", label: "Vena Torácica Interna", section: "Venas" },
   { id: "Vena_supraescapular", label: "Vena Supraescapular", section: "Venas" },
   { id: "Vena_cervical_profunda", label: "Vena Cervical Profunda", section: "Venas" },
   { id: "Venas_axilares", label: "Venas Axilares", section: "Venas" },
@@ -81,15 +81,15 @@ const FILES = [
   { id: "Nervio pectoral lateral", label: "Pectoral Lateral", section: "Nervios" },
   { id: "Nervio pectoral medial", label: "Pectoral Medial", section: "Nervios" },
   { id: "Nervio subclavio", label: "Subclavio (nervio)", section: "Nervios" },
-  { id: "Nervio cutáneo medial del brazo", label: "Cutáneo Medial del Brazo", section: "Nervios" },
-  { id: "Nervio cutáneo medial del antebrazo", label: "Cutáneo Medial del Antebrazo", section: "Nervios" },
-  { id: "Nervio dorsal de la escápula", label: "Dorsal de la Escápula", section: "Nervios" },
+  { id: "Nervio cutaneo medial del brazo", label: "Cutáneo Medial del Brazo", section: "Nervios" },
+  { id: "Nervio cutaneo medial del antebrazo", label: "Cutáneo Medial del Antebrazo", section: "Nervios" },
+  { id: "Nervio dorsal de la escapula", label: "Dorsal de la Escápula", section: "Nervios" },
   { id: "Nervio supraescapular", label: "Supraescapular (nervio)", section: "Nervios" },
-  { id: "Nervio torácico largo", label: "Torácico Largo", section: "Nervios" },
+  { id: "Nervio toracico largo", label: "Torácico Largo", section: "Nervios" },
   { id: "Nervio subescapular superior", label: "Subescapular Superior", section: "Nervios" },
   { id: "Nervio subescapular inferior", label: "Subescapular Inferior", section: "Nervios" },
   { id: "Nervio toracodorsal", label: "Toracodorsal", section: "Nervios" },
-  { id: "Nervio musculocutáneo", label: "Musculocutáneo", section: "Nervios" },
+  { id: "Nervio musculocutaneo", label: "Musculocutáneo", section: "Nervios" },
   { id: "Nervio mediano", label: "Mediano", section: "Nervios" },
   { id: "Nervio cubital", label: "Cubital", section: "Nervios" },
   { id: "Nervio axilar", label: "Axilar", section: "Nervios" },
@@ -123,26 +123,25 @@ const FILE_IDS = new Set(FILES.map((f) => f.id));
 const SECTIONS = [...new Set(FILES.map((f) => f.section))];
 
 function preprocessMd(md: string): string {
-  let clean = md.replace(/^---[\s\S]*?---\n/, "");
-  // Reemplazar ![[img/path]] con img tag
-  clean = clean.replace(/!\[\[(imgs\/[^\]]+)\]\]/g, '<img src="/md/anato-cintura-pectoral/$1" style="max-width:100%;border-radius:8px;margin:1rem 0" />');
-  // Reemplazar [[links]] con links internos
-  clean = clean.replace(/\[\[([^\]]+)\]\]/g, (match, name) => {
-    // Buscar el archivo correspondiente
-    const found = FILES.find((f) => {
-      const fileId = f.id.toLowerCase().replace(/_/g, ' ');
-      const searchName = name.toLowerCase().replace(/_/g, ' ');
-      return fileId === searchName || f.label.toLowerCase() === searchName;
+    let clean = md.replace(/^---[\s\S]*?---\n/, "");
+    // Reemplazar ![[imgs/path]] o ![[imgs/path|400]] con img tag
+    clean = clean.replace(/!\[\[(imgs\/[^\]|]+?)(?:\|[^\]]+)?\]\]/g, '<img src="/md/anato-cintura-pectoral/$1" style="max-width:100%;border-radius:8px;margin:1rem 0" />');
+    // Reemplazar [[links]] con links internos
+    clean = clean.replace(/\[\[([^\]]+)\]\]/g, (match, name) => {
+      const found = FILES.find((f) => {
+        const fileId = f.id.toLowerCase().replace(/_/g, ' ');
+        const searchName = name.toLowerCase().replace(/_/g, ' ');
+        return fileId === searchName || f.label.toLowerCase() === searchName;
+      });
+      if (found) {
+        return `<a href="#" class="internal-link" data-id="${found.id}">${name}</a>`;
+      }
+      return match;
     });
-    if (found) {
-      return `<a href="#" class="internal-link" data-id="${found.id}">${name}</a>`;
-    }
-    return match;
-  });
-  // Reemplazar ![[otras imgs]] con imgs en carpeta raíz
-  clean = clean.replace(/!\[\[([^\]]+)\]\]/g, '<img src="/md/anato-cintura-pectoral/imgs/$1" style="max-width:100%;border-radius:8px;margin:1rem 0" />');
-  return clean;
-}
+    // Reemplazar ![[nombre]] sin imgs/ prefix
+    clean = clean.replace(/!\[\[([^\]|]+?)(?:\|[^\]]+)?\]\]/g, '<img src="/md/anato-cintura-pectoral/imgs/$1" style="max-width:100%;border-radius:8px;margin:1rem 0" />');
+    return clean;
+  }
 
 export default function AnatoCinturaPectoral() {
   const [active, setActive] = useState("00_Indice");
@@ -308,20 +307,131 @@ export default function AnatoCinturaPectoral() {
         {/* Main content */}
         <main className="flex-1 overflow-y-auto p-4 lg:p-6">
           <div
-            className="prose prose-invert max-w-none
-              prose-headings:text-gray-100 prose-headings:font-bold
-              prose-h1:text-2xl prose-h2:text-xl prose-h3:text-lg
-              prose-p:text-gray-300 prose-p:leading-relaxed
-              prose-strong:text-gray-100
-              prose-a:text-blue-400 prose-a:no-underline hover:prose-a:underline
-              prose-li:text-gray-300
-              prose-table:border-[#2a2a4e]
-              prose-th:bg-[#1a1a2e] prose-th:text-white prose-th:border-[#2a2a4e]
-              prose-td:border-[#2a2a4e] prose-td:text-gray-300"
+            className="anato-content"
             dangerouslySetInnerHTML={{ __html: content }}
           />
         </main>
       </div>
+
+      <style jsx global>{`
+        .anato-content h1 {
+          font-size: 1.5rem;
+          font-weight: 500;
+          color: #e2e8f0;
+          border-bottom: 1px solid #2a2a4e;
+          padding-bottom: 0.75rem;
+          margin-bottom: 1rem;
+          word-wrap: break-word;
+        }
+        .anato-content h2 {
+          font-size: 1.25rem;
+          font-weight: 500;
+          color: #cbd5e0;
+          margin-top: 2rem;
+          margin-bottom: 1rem;
+          padding-bottom: 0.5rem;
+          border-bottom: 1px solid #2a2a4e;
+          word-wrap: break-word;
+        }
+        .anato-content h3 {
+          font-size: 1.125rem;
+          font-weight: 500;
+          color: #a0aec0;
+          margin-top: 1.5rem;
+          margin-bottom: 0.75rem;
+          word-wrap: break-word;
+        }
+        .anato-content p {
+          color: #cbd5e0;
+          margin-bottom: 0.75rem;
+          line-height: 1.75;
+          word-wrap: break-word;
+        }
+        .anato-content ul, .anato-content ol {
+          color: #cbd5e0;
+          margin-bottom: 0.75rem;
+          padding-left: 1.5rem;
+        }
+        .anato-content li {
+          margin-bottom: 0.25rem;
+          line-height: 1.75;
+          color: #cbd5e0;
+        }
+        .anato-content blockquote {
+          border-left: 4px solid #3182ce;
+          padding: 1rem;
+          margin: 1rem 0;
+          background: rgba(49, 130, 206, 0.1);
+          border-radius: 0 0.5rem 0.5rem 0;
+          color: #a0aec0;
+          font-style: italic;
+        }
+        .anato-content blockquote p {
+          color: #a0aec0;
+          margin-bottom: 0;
+        }
+        .anato-content table {
+          width: 100%;
+          border-collapse: collapse;
+          margin: 1.5rem 0;
+          overflow-x: auto;
+          display: block;
+        }
+        .anato-content th {
+          background: #1a1a2e;
+          color: #e2e8f0;
+          padding: 0.75rem;
+          text-align: left;
+          font-weight: 600;
+          border: 1px solid #2a2a4e;
+        }
+        .anato-content td {
+          color: #cbd5e0;
+          padding: 0.75rem;
+          border: 1px solid #2a2a4e;
+        }
+        .anato-content strong {
+          color: #e2e8f0;
+          font-weight: 600;
+        }
+        .anato-content a {
+          color: #63b3ed;
+          text-decoration: none;
+          cursor: pointer;
+        }
+        .anato-content a:hover {
+          text-decoration: underline;
+        }
+        .anato-content img {
+          max-width: 100%;
+          border-radius: 0.5rem;
+          margin: 1rem 0;
+        }
+        .anato-content hr {
+          border: none;
+          border-top: 1px solid #2a2a4e;
+          margin: 2rem 0;
+        }
+        .anato-content code {
+          background: #1a1a2e;
+          color: #e2e8f0;
+          padding: 0.2rem 0.4rem;
+          border-radius: 0.25rem;
+          font-size: 0.875rem;
+        }
+        .anato-content a.internal-link {
+          color: #63b3ed;
+          text-decoration: none;
+          cursor: pointer;
+          border-bottom: 1px dashed #63b3ed;
+        }
+        .anato-content a.internal-link:hover {
+          text-decoration: none;
+          color: #90cdf4;
+        }
+      `}</style>
     </div>
   );
 }
+
+
