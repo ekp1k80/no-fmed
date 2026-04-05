@@ -28,7 +28,7 @@ export function treeFilter(entry: TreeEntry): TreeEntry | null {
             .filter((c): c is TreeEntry => c !== null)
         entry = { ...entry, children: filtered }
     }
-    return entry.children.length > 0 ? entry : null
+    return entry.children && entry.children.length > 0 ? entry : null
 }
 
 // ─── Parser ─────────────────────────────────────────────────────────────────

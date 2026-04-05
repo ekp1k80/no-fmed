@@ -1,6 +1,6 @@
 import fs from 'fs/promises'
 import path from 'path'
-import { buildDocTree, treeFilter, treeParser } from '@/lib/doc-tree'
+import { buildDocTree, treeFilter, treeParser, TreeEntry } from '@/lib/doc-tree'
 import DocShell from '@/components/DocShell'
 import DocRenderer from '@/components/DocRenderer'
 
