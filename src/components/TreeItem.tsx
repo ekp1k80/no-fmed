@@ -79,8 +79,8 @@ function FileItem({ entry, depth, currentUrl, indentPx, onItemClick, renderItem 
     }
 
     const handleClick = (e: React.MouseEvent) => {
-        const result = onItemClick?.(entry)
-        if (result === false) e.preventDefault()
+        e.preventDefault()
+        onItemClick?.(entry)
     }
 
     return (
