@@ -299,32 +299,5 @@
         "preguntas": 14
       }
     ]
-  },
-  "miembro-superior": {
-    "titulo": "Miembro Superior",
-    "descripcion": "Huesos, articulaciones y músculos del miembro superior",
-    "totalPreguntas": 113,
-    "partes": [
-      {
-        "id": 1,
-        "nombre": "Cintura Pectoral",
-        "preguntas": 113
-      },
-      {
-        "id": 2,
-        "nombre": "Clavícula",
-        "preguntas": 0
-      },
-      {
-        "id": 3,
-        "nombre": "Articulaciones",
-        "preguntas": 0
-      },
-      {
-        "id": 4,
-        "nombre": "Músculos",
-        "preguntas": 0
-      }
-    ]
   }
 }
