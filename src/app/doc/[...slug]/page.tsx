@@ -1,8 +1,7 @@
 import fs from 'fs/promises'
 import path from 'path'
-import { notFound } from 'next/navigation'
 import { buildDocTree, treeFilter, treeParser } from '@/lib/doc-tree'
-import Sidebar from '@/components/Sidebar'
+import DocShell from '@/components/DocShell'
 import DocRenderer from '@/components/DocRenderer'
 
 interface Props {
@@ -40,7 +39,7 @@ export default async function DocPage({ params }: Props) {
 
     return (
         <div style={{ display: 'flex', minHeight: '100vh', background: '#121220' }}>
-            <Sidebar tree={parsedTree.children ?? []} indentPx={12} currentUrl={`/doc/${slugPath}`} />
+            <DocShell tree={parsedTree.children ?? []} initialUrl={`/doc/${slugPath}`} />
             <main style={{ flex: 1, padding: '2rem', overflowY: 'auto' }}>
                 {content ? (
                     <DocRenderer content={content} mdBaseUrl={mdCategoryUrl} docBaseUrl={categoryUrl} />
