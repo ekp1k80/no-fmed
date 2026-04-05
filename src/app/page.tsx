@@ -13,7 +13,7 @@ export default function Home() {
       </div>
 
       {/* Sección: Histología */}
-      <Link href="/tejido-muscular" target="_blank">
+      <Link href="/doc/histo/Tejido_muscular/00_Indice">
         <div className="bg-white rounded-xl shadow-sm hover:shadow-md transition-all p-4 mb-6 cursor-pointer hover:-translate-y-0.5 border border-green-200">
           <div className="flex justify-between items-center">
             <div>
@@ -25,13 +25,26 @@ export default function Home() {
         </div>
       </Link>
 
+      {/* Sección: Histología — Tejido Conectivo */}
+      <Link href="/doc/histo/Tejido_conectivo/00_Indice">
+        <div className="bg-white rounded-xl shadow-sm hover:shadow-md transition-all p-4 mb-6 cursor-pointer hover:-translate-y-0.5 border border-orange-200">
+          <div className="flex justify-between items-center">
+            <div>
+              <h2 className="text-lg font-bold text-gray-800">🔬 Tejido Conectivo</h2>
+              <p className="text-gray-500 text-xs">Notas e imágenes de Histología — Brusco & Belingeri</p>
+            </div>
+            <span className="bg-orange-100 text-orange-700 text-xs font-bold px-3 py-1 rounded-full">Ver</span>
+          </div>
+        </div>
+      </Link>
+
       {/* Sección: Anatomía — Cintura Pectoral */}
-      <Link href="/anato-cintura-pectoral" target="_blank">
+      <Link href="/doc/anato/cintura-pectoral/huesos/Escapula">
         <div className="bg-white rounded-xl shadow-sm hover:shadow-md transition-all p-4 mb-6 cursor-pointer hover:-translate-y-0.5 border border-purple-200">
           <div className="flex justify-between items-center">
             <div>
               <h2 className="text-lg font-bold text-gray-800">🦴 Cintura Pectoral</h2>
-              <p className="text-gray-500 text-xs">Notas de Anatomía — Ruvier-Anatomía Humana (107 archivos)</p>
+              <p className="text-gray-500 text-xs">Notas de Anatomía — Ruvier-Anatomía Humana</p>
             </div>
             <span className="bg-purple-100 text-purple-700 text-xs font-bold px-3 py-1 rounded-full">Ver</span>
           </div>

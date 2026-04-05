@@ -3,7 +3,7 @@ import path from 'path'
 
 // ─── Roots ──────────────────────────────────────────────────────────────────
 
-export const DOC_ROOTS = ['public/md/anato'] as const
+export const DOC_ROOTS = ['public/md/anato', 'public/md/histo'] as const
 
 // ─── Types ──────────────────────────────────────────────────────────────────
 
