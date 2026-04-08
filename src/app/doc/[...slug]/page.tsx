@@ -27,7 +27,10 @@ export default async function DocPage({ params }: Props) {
 
     let content = ''
     try {
-        const res = await fetch(r2Url, { next: { revalidate: 3600 } })
+        const res = await fetch(r2Url, {
+            next: { revalidate: 604800 }, // 7 days
+            cache: 'force-cache', // default cache in production
+        })
         if (res.ok) content = await res.text()
     } catch { /* R2 not reachable */ }
 
