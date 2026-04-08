@@ -1,6 +1,8 @@
-import { buildDocTree, treeFilter, treeParser, TreeEntry } from '@/lib/doc-tree'
+import docSlugs from '@/lib/doc-slugs.json'
+import docTree from '@/lib/doc-tree.json'
 import DocShell from '@/components/DocShell'
 import DocRenderer from '@/components/DocRenderer'
+import type { TreeEntry } from '@/lib/doc-tree'
 
 const R2_BASE = 'https://pub-48b3fe45b5644de3a07fba0a1408a720.r2.dev'
 const R2_MD_BASE = R2_BASE + '/public/md'
@@ -9,33 +11,8 @@ interface Props {
     params: { slug: string[] }
 }
 
-async function getDocTree() {
-    try {
-        const rawTree = await buildDocTree()
-        const filteredTree = rawTree
-            .map((e: TreeEntry) => treeFilter(e))
-            .filter((e: TreeEntry | null): e is TreeEntry => e !== null)
-        const tree = { name: '', slug: '', path: '', kind: 'dir' as const, children: filteredTree }
-        return treeParser(tree)
-    } catch {
-        return null
-    }
-}
-
-export async function generateStaticParams(): Promise<{ slug: string[] }[]> {
-    const parsedTree = await getDocTree()
-    if (!parsedTree) return []
-
-    const slugs: { slug: string[] }[] = []
-    function collectFiles(entry: TreeEntry) {
-        if (entry.kind === 'file') {
-            const urlPath = entry.path.replace(/^public\/md\//, '').replace(/\.md$/, '')
-            slugs.push({ slug: urlPath.split('/') })
-        }
-        entry.children?.forEach(collectFiles)
-    }
-    parsedTree.children?.forEach(collectFiles)
-    return slugs
+export async function generateStaticParams() {
+    return docSlugs as { slug: string[] }[]
 }
 
 export default async function DocPage({ params }: Props) {
@@ -51,21 +28,13 @@ export default async function DocPage({ params }: Props) {
     try {
         const res = await fetch(r2Url, { next: { revalidate: 3600 } })
         if (res.ok) content = await res.text()
-    } catch {
-        // fallback: try local file in dev
-        try {
-            const fs = await import('fs/promises')
-            const path = await import('path')
-            const localPath = path.join(process.cwd(), 'public/md', `${slugPath}.md`)
-            content = await fs.readFile(localPath, 'utf8')
-        } catch { /* no local file either */ }
-    }
+    } catch { /* R2 not reachable */ }
 
-    const parsedTree = await getDocTree()
+    const tree = docTree as TreeEntry[]
 
     return (
         <div style={{ display: 'flex', minHeight: '100vh', background: '#121220' }}>
-            <DocShell tree={parsedTree?.children ?? []} initialUrl={`/doc/${slugPath}`} />
+            <DocShell tree={tree} initialUrl={`/doc/${slugPath}`} />
             <main style={{ flex: 1, padding: '2rem', overflowY: 'auto' }}>
                 {content ? (
                     <DocRenderer content={content} mdBaseUrl={mdCategoryUrl} docBaseUrl={categoryUrl} />

@@ -1,0 +1,1418 @@
+[
+  {
+    "name": "Anato",
+    "slug": "anato",
+    "path": "public/md/anato",
+    "kind": "dir",
+    "children": [
+      {
+        "name": "Cintura Pectoral",
+        "slug": "cintura-pectoral",
+        "path": "public/md/anato/cintura-pectoral",
+        "kind": "dir",
+        "children": [
+          {
+            "name": "Arterias",
+            "slug": "arterias",
+            "path": "public/md/anato/cintura-pectoral/arterias",
+            "kind": "dir",
+            "children": [
+              {
+                "name": "Arteria Axilar",
+                "slug": "Arteria_axilar",
+                "path": "public/md/anato/cintura-pectoral/arterias/Arteria_axilar",
+                "kind": "dir",
+                "children": [
+                  {
+                    "name": "Arteria Axilar",
+                    "slug": "Arteria_axilar",
+                    "path": "public/md/anato/cintura-pectoral/arterias/Arteria_axilar/Arteria_axilar.md",
+                    "kind": "file",
+                    "url": "/doc/anato/cintura-pectoral/arterias/Arteria_axilar/Arteria_axilar"
+                  },
+                  {
+                    "name": "Circunfleja Humeral Anterior",
+                    "slug": "Circunfleja_humeral_anterior",
+                    "path": "public/md/anato/cintura-pectoral/arterias/Arteria_axilar/Circunfleja_humeral_anterior.md",
+                    "kind": "file",
+                    "url": "/doc/anato/cintura-pectoral/arterias/Arteria_axilar/Circunfleja_humeral_anterior"
+                  },
+                  {
+                    "name": "Circunfleja Humeral Posterior",
+                    "slug": "Circunfleja_humeral_posterior",
+                    "path": "public/md/anato/cintura-pectoral/arterias/Arteria_axilar/Circunfleja_humeral_posterior.md",
+                    "kind": "file",
+                    "url": "/doc/anato/cintura-pectoral/arterias/Arteria_axilar/Circunfleja_humeral_posterior"
+                  },
+                  {
+                    "name": "Subescapular",
+                    "slug": "Subescapular",
+                    "path": "public/md/anato/cintura-pectoral/arterias/Arteria_axilar/Subescapular.md",
+                    "kind": "file",
+                    "url": "/doc/anato/cintura-pectoral/arterias/Arteria_axilar/Subescapular"
+                  },
+                  {
+                    "name": "Toracica Lateral",
+                    "slug": "Toracica_lateral",
+                    "path": "public/md/anato/cintura-pectoral/arterias/Arteria_axilar/Toracica_lateral.md",
+                    "kind": "file",
+                    "url": "/doc/anato/cintura-pectoral/arterias/Arteria_axilar/Toracica_lateral"
+                  },
+                  {
+                    "name": "Toracica Superior",
+                    "slug": "Toracica_superior",
+                    "path": "public/md/anato/cintura-pectoral/arterias/Arteria_axilar/Toracica_superior.md",
+                    "kind": "file",
+                    "url": "/doc/anato/cintura-pectoral/arterias/Arteria_axilar/Toracica_superior"
+                  },
+                  {
+                    "name": "Toracoacromial",
+                    "slug": "Toracoacromial",
+                    "path": "public/md/anato/cintura-pectoral/arterias/Arteria_axilar/Toracoacromial.md",
+                    "kind": "file",
+                    "url": "/doc/anato/cintura-pectoral/arterias/Arteria_axilar/Toracoacromial"
+                  },
+                  {
+                    "name": "Subescapular",
+                    "slug": "subescapular",
+                    "path": "public/md/anato/cintura-pectoral/arterias/Arteria_axilar/subescapular",
+                    "kind": "dir",
+                    "children": [
+                      {
+                        "name": "Subescapular Circunfleja Escapula",
+                        "slug": "Subescapular_circunfleja_escapula",
+                        "path": "public/md/anato/cintura-pectoral/arterias/Arteria_axilar/subescapular/Subescapular_circunfleja_escapula.md",
+                        "kind": "file",
+                        "url": "/doc/anato/cintura-pectoral/arterias/Arteria_axilar/subescapular/Subescapular_circunfleja_escapula"
+                      },
+                      {
+                        "name": "Subescapular Toracodorsal",
+                        "slug": "Subescapular_toracodorsal",
+                        "path": "public/md/anato/cintura-pectoral/arterias/Arteria_axilar/subescapular/Subescapular_toracodorsal.md",
+                        "kind": "file",
+                        "url": "/doc/anato/cintura-pectoral/arterias/Arteria_axilar/subescapular/Subescapular_toracodorsal"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Toracoacromial",
+                    "slug": "toracoacromial",
+                    "path": "public/md/anato/cintura-pectoral/arterias/Arteria_axilar/toracoacromial",
+                    "kind": "dir",
+                    "children": [
+                      {
+                        "name": "Toracoacromial Acromial",
+                        "slug": "Toracoacromial_acromial",
+                        "path": "public/md/anato/cintura-pectoral/arterias/Arteria_axilar/toracoacromial/Toracoacromial_acromial.md",
+                        "kind": "file",
+                        "url": "/doc/anato/cintura-pectoral/arterias/Arteria_axilar/toracoacromial/Toracoacromial_acromial"
+                      },
+                      {
+                        "name": "Toracoacromial Pectoral",
+                        "slug": "Toracoacromial_pectoral",
+                        "path": "public/md/anato/cintura-pectoral/arterias/Arteria_axilar/toracoacromial/Toracoacromial_pectoral.md",
+                        "kind": "file",
+                        "url": "/doc/anato/cintura-pectoral/arterias/Arteria_axilar/toracoacromial/Toracoacromial_pectoral"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Arteria Braquial",
+                "slug": "Arteria_braquial",
+                "path": "public/md/anato/cintura-pectoral/arterias/Arteria_braquial",
+                "kind": "dir",
+                "children": [
+                  {
+                    "name": "Arteria Braquial",
+                    "slug": "Arteria_braquial",
+                    "path": "public/md/anato/cintura-pectoral/arterias/Arteria_braquial/Arteria_braquial.md",
+                    "kind": "file",
+                    "url": "/doc/anato/cintura-pectoral/arterias/Arteria_braquial/Arteria_braquial"
+                  },
+                  {
+                    "name": "Braquial Profunda",
+                    "slug": "Braquial_profunda",
+                    "path": "public/md/anato/cintura-pectoral/arterias/Arteria_braquial/Braquial_profunda.md",
+                    "kind": "file",
+                    "url": "/doc/anato/cintura-pectoral/arterias/Arteria_braquial/Braquial_profunda"
+                  },
+                  {
+                    "name": "Colateral Cubital Inferior",
+                    "slug": "Colateral_cubital_inferior",
+                    "path": "public/md/anato/cintura-pectoral/arterias/Arteria_braquial/Colateral_cubital_inferior.md",
+                    "kind": "file",
+                    "url": "/doc/anato/cintura-pectoral/arterias/Arteria_braquial/Colateral_cubital_inferior"
+                  },
+                  {
+                    "name": "Colateral Cubital Superior",
+                    "slug": "Colateral_cubital_superior",
+                    "path": "public/md/anato/cintura-pectoral/arterias/Arteria_braquial/Colateral_cubital_superior.md",
+                    "kind": "file",
+                    "url": "/doc/anato/cintura-pectoral/arterias/Arteria_braquial/Colateral_cubital_superior"
+                  },
+                  {
+                    "name": "Nutricia Del Humero",
+                    "slug": "Nutricia_del_humero",
+                    "path": "public/md/anato/cintura-pectoral/arterias/Arteria_braquial/Nutricia_del_humero.md",
+                    "kind": "file",
+                    "url": "/doc/anato/cintura-pectoral/arterias/Arteria_braquial/Nutricia_del_humero"
+                  }
+                ]
+              },
+              {
+                "name": "Arteria Subclavia",
+                "slug": "Arteria_subclavia",
+                "path": "public/md/anato/cintura-pectoral/arterias/Arteria_subclavia",
+                "kind": "dir",
+                "children": [
+                  {
+                    "name": "Arteria Subclavia",
+                    "slug": "Arteria_subclavia",
+                    "path": "public/md/anato/cintura-pectoral/arterias/Arteria_subclavia/Arteria_subclavia.md",
+                    "kind": "file",
+                    "url": "/doc/anato/cintura-pectoral/arterias/Arteria_subclavia/Arteria_subclavia"
+                  },
+                  {
+                    "name": "Cervical Profunda",
+                    "slug": "Cervical_profunda",
+                    "path": "public/md/anato/cintura-pectoral/arterias/Arteria_subclavia/Cervical_profunda.md",
+                    "kind": "file",
+                    "url": "/doc/anato/cintura-pectoral/arterias/Arteria_subclavia/Cervical_profunda"
+                  },
+                  {
+                    "name": "Dorsal De La Escapula",
+                    "slug": "Dorsal_de_la_escapula",
+                    "path": "public/md/anato/cintura-pectoral/arterias/Arteria_subclavia/Dorsal_de_la_escapula.md",
+                    "kind": "file",
+                    "url": "/doc/anato/cintura-pectoral/arterias/Arteria_subclavia/Dorsal_de_la_escapula"
+                  },
+                  {
+                    "name": "Supraescapular",
+                    "slug": "Supraescapular",
+                    "path": "public/md/anato/cintura-pectoral/arterias/Arteria_subclavia/Supraescapular.md",
+                    "kind": "file",
+                    "url": "/doc/anato/cintura-pectoral/arterias/Arteria_subclavia/Supraescapular"
+                  },
+                  {
+                    "name": "Toracica Interna",
+                    "slug": "Toracica_interna",
+                    "path": "public/md/anato/cintura-pectoral/arterias/Arteria_subclavia/Toracica_interna.md",
+                    "kind": "file",
+                    "url": "/doc/anato/cintura-pectoral/arterias/Arteria_subclavia/Toracica_interna"
+                  },
+                  {
+                    "name": "Vertebral",
+                    "slug": "Vertebral",
+                    "path": "public/md/anato/cintura-pectoral/arterias/Arteria_subclavia/Vertebral.md",
+                    "kind": "file",
+                    "url": "/doc/anato/cintura-pectoral/arterias/Arteria_subclavia/Vertebral"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Articulaciones",
+            "slug": "articulaciones",
+            "path": "public/md/anato/cintura-pectoral/articulaciones",
+            "kind": "dir",
+            "children": [
+              {
+                "name": "Acromioclavicular",
+                "slug": "Acromioclavicular",
+                "path": "public/md/anato/cintura-pectoral/articulaciones/Acromioclavicular.md",
+                "kind": "file",
+                "url": "/doc/anato/cintura-pectoral/articulaciones/Acromioclavicular"
+              },
+              {
+                "name": "Esternoclavicular",
+                "slug": "Esternoclavicular",
+                "path": "public/md/anato/cintura-pectoral/articulaciones/Esternoclavicular.md",
+                "kind": "file",
+                "url": "/doc/anato/cintura-pectoral/articulaciones/Esternoclavicular"
+              },
+              {
+                "name": "Glenohumeral",
+                "slug": "Glenohumeral",
+                "path": "public/md/anato/cintura-pectoral/articulaciones/Glenohumeral.md",
+                "kind": "file",
+                "url": "/doc/anato/cintura-pectoral/articulaciones/Glenohumeral"
+              }
+            ]
+          },
+          {
+            "name": "Fascias",
+            "slug": "fascias",
+            "path": "public/md/anato/cintura-pectoral/fascias",
+            "kind": "dir",
+            "children": [
+              {
+                "name": "Fascia Axilar",
+                "slug": "Fascia_axilar",
+                "path": "public/md/anato/cintura-pectoral/fascias/Fascia_axilar.md",
+                "kind": "file",
+                "url": "/doc/anato/cintura-pectoral/fascias/Fascia_axilar"
+              },
+              {
+                "name": "Fascia Clavipectoral",
+                "slug": "Fascia_clavipectoral",
+                "path": "public/md/anato/cintura-pectoral/fascias/Fascia_clavipectoral.md",
+                "kind": "file",
+                "url": "/doc/anato/cintura-pectoral/fascias/Fascia_clavipectoral"
+              },
+              {
+                "name": "Fascia Del Antebrazo",
+                "slug": "Fascia_del_antebrazo",
+                "path": "public/md/anato/cintura-pectoral/fascias/Fascia_del_antebrazo.md",
+                "kind": "file",
+                "url": "/doc/anato/cintura-pectoral/fascias/Fascia_del_antebrazo"
+              },
+              {
+                "name": "Fascia Del Brazo",
+                "slug": "Fascia_del_brazo",
+                "path": "public/md/anato/cintura-pectoral/fascias/Fascia_del_brazo.md",
+                "kind": "file",
+                "url": "/doc/anato/cintura-pectoral/fascias/Fascia_del_brazo"
+              },
+              {
+                "name": "Fascia Deltoides",
+                "slug": "Fascia_deltoides",
+                "path": "public/md/anato/cintura-pectoral/fascias/Fascia_deltoides.md",
+                "kind": "file",
+                "url": "/doc/anato/cintura-pectoral/fascias/Fascia_deltoides"
+              },
+              {
+                "name": "Fascia Dorsal Ancho",
+                "slug": "Fascia_dorsal_ancho",
+                "path": "public/md/anato/cintura-pectoral/fascias/Fascia_dorsal_ancho.md",
+                "kind": "file",
+                "url": "/doc/anato/cintura-pectoral/fascias/Fascia_dorsal_ancho"
+              },
+              {
+                "name": "Fascia Infraespinoso",
+                "slug": "Fascia_infraespinoso",
+                "path": "public/md/anato/cintura-pectoral/fascias/Fascia_infraespinoso.md",
+                "kind": "file",
+                "url": "/doc/anato/cintura-pectoral/fascias/Fascia_infraespinoso"
+              },
+              {
+                "name": "Fascia Pectoral",
+                "slug": "Fascia_pectoral",
+                "path": "public/md/anato/cintura-pectoral/fascias/Fascia_pectoral.md",
+                "kind": "file",
+                "url": "/doc/anato/cintura-pectoral/fascias/Fascia_pectoral"
+              },
+              {
+                "name": "Fascia Serrato Anterior",
+                "slug": "Fascia_serrato_anterior",
+                "path": "public/md/anato/cintura-pectoral/fascias/Fascia_serrato_anterior.md",
+                "kind": "file",
+                "url": "/doc/anato/cintura-pectoral/fascias/Fascia_serrato_anterior"
+              },
+              {
+                "name": "Fascia Subescapular",
+                "slug": "Fascia_subescapular",
+                "path": "public/md/anato/cintura-pectoral/fascias/Fascia_subescapular.md",
+                "kind": "file",
+                "url": "/doc/anato/cintura-pectoral/fascias/Fascia_subescapular"
+              },
+              {
+                "name": "Fascia Supraespinoso",
+                "slug": "Fascia_supraespinoso",
+                "path": "public/md/anato/cintura-pectoral/fascias/Fascia_supraespinoso.md",
+                "kind": "file",
+                "url": "/doc/anato/cintura-pectoral/fascias/Fascia_supraespinoso"
+              }
+            ]
+          },
+          {
+            "name": "Huesos",
+            "slug": "huesos",
+            "path": "public/md/anato/cintura-pectoral/huesos",
+            "kind": "dir",
+            "children": [
+              {
+                "name": "Clavicula",
+                "slug": "Clavicula",
+                "path": "public/md/anato/cintura-pectoral/huesos/Clavicula.md",
+                "kind": "file",
+                "url": "/doc/anato/cintura-pectoral/huesos/Clavicula"
+              },
+              {
+                "name": "Escapula",
+                "slug": "Escapula",
+                "path": "public/md/anato/cintura-pectoral/huesos/Escapula.md",
+                "kind": "file",
+                "url": "/doc/anato/cintura-pectoral/huesos/Escapula"
+              },
+              {
+                "name": "Humero",
+                "slug": "Humero",
+                "path": "public/md/anato/cintura-pectoral/huesos/Humero.md",
+                "kind": "file",
+                "url": "/doc/anato/cintura-pectoral/huesos/Humero"
+              }
+            ]
+          },
+          {
+            "name": "Limites Triangulos Fosa Axilar",
+            "slug": "limites_triangulos_fosa_axilar",
+            "path": "public/md/anato/cintura-pectoral/limites_triangulos_fosa_axilar",
+            "kind": "dir",
+            "children": [
+              {
+                "name": "Espacio Cuadrangular",
+                "slug": "Espacio_cuadrangular",
+                "path": "public/md/anato/cintura-pectoral/limites_triangulos_fosa_axilar/Espacio_cuadrangular.md",
+                "kind": "file",
+                "url": "/doc/anato/cintura-pectoral/limites_triangulos_fosa_axilar/Espacio_cuadrangular"
+              },
+              {
+                "name": "Espacio Triangular",
+                "slug": "Espacio_triangular",
+                "path": "public/md/anato/cintura-pectoral/limites_triangulos_fosa_axilar/Espacio_triangular.md",
+                "kind": "file",
+                "url": "/doc/anato/cintura-pectoral/limites_triangulos_fosa_axilar/Espacio_triangular"
+              },
+              {
+                "name": "Fosa Axilar",
+                "slug": "Fosa_axilar",
+                "path": "public/md/anato/cintura-pectoral/limites_triangulos_fosa_axilar/Fosa_axilar.md",
+                "kind": "file",
+                "url": "/doc/anato/cintura-pectoral/limites_triangulos_fosa_axilar/Fosa_axilar"
+              },
+              {
+                "name": "Triangulo Deltopectoral",
+                "slug": "Triangulo_deltopectoral",
+                "path": "public/md/anato/cintura-pectoral/limites_triangulos_fosa_axilar/Triangulo_deltopectoral.md",
+                "kind": "file",
+                "url": "/doc/anato/cintura-pectoral/limites_triangulos_fosa_axilar/Triangulo_deltopectoral"
+              },
+              {
+                "name": "Triangulo Humerotriopital",
+                "slug": "Triangulo_humerotriopital",
+                "path": "public/md/anato/cintura-pectoral/limites_triangulos_fosa_axilar/Triangulo_humerotriopital.md",
+                "kind": "file",
+                "url": "/doc/anato/cintura-pectoral/limites_triangulos_fosa_axilar/Triangulo_humerotriopital"
+              }
+            ]
+          },
+          {
+            "name": "Linfaticos",
+            "slug": "linfaticos",
+            "path": "public/md/anato/cintura-pectoral/linfaticos",
+            "kind": "dir",
+            "children": [
+              {
+                "name": "Linfaticos Axilares",
+                "slug": "Linfaticos_axilares",
+                "path": "public/md/anato/cintura-pectoral/linfaticos/Linfaticos_axilares.md",
+                "kind": "file",
+                "url": "/doc/anato/cintura-pectoral/linfaticos/Linfaticos_axilares"
+              }
+            ]
+          },
+          {
+            "name": "Mamaria",
+            "slug": "mamaria",
+            "path": "public/md/anato/cintura-pectoral/mamaria",
+            "kind": "dir",
+            "children": [
+              {
+                "name": "Region Mamaria",
+                "slug": "Region_mamaria",
+                "path": "public/md/anato/cintura-pectoral/mamaria/Region_mamaria.md",
+                "kind": "file",
+                "url": "/doc/anato/cintura-pectoral/mamaria/Region_mamaria"
+              }
+            ]
+          },
+          {
+            "name": "Musculos",
+            "slug": "musculos",
+            "path": "public/md/anato/cintura-pectoral/musculos",
+            "kind": "dir",
+            "children": [
+              {
+                "name": "Anconeo",
+                "slug": "Anconeo",
+                "path": "public/md/anato/cintura-pectoral/musculos/Anconeo.md",
+                "kind": "file",
+                "url": "/doc/anato/cintura-pectoral/musculos/Anconeo"
+              },
+              {
+                "name": "Biceps Braquial",
+                "slug": "Biceps_braquial",
+                "path": "public/md/anato/cintura-pectoral/musculos/Biceps_braquial.md",
+                "kind": "file",
+                "url": "/doc/anato/cintura-pectoral/musculos/Biceps_braquial"
+              },
+              {
+                "name": "Braquial",
+                "slug": "Braquial",
+                "path": "public/md/anato/cintura-pectoral/musculos/Braquial.md",
+                "kind": "file",
+                "url": "/doc/anato/cintura-pectoral/musculos/Braquial"
+              },
+              {
+                "name": "Coracobraquial",
+                "slug": "Coracobraquial",
+                "path": "public/md/anato/cintura-pectoral/musculos/Coracobraquial.md",
+                "kind": "file",
+                "url": "/doc/anato/cintura-pectoral/musculos/Coracobraquial"
+              },
+              {
+                "name": "Deltoides",
+                "slug": "Deltoides",
+                "path": "public/md/anato/cintura-pectoral/musculos/Deltoides.md",
+                "kind": "file",
+                "url": "/doc/anato/cintura-pectoral/musculos/Deltoides"
+              },
+              {
+                "name": "Dorsal Ancho",
+                "slug": "Dorsal_Ancho",
+                "path": "public/md/anato/cintura-pectoral/musculos/Dorsal_Ancho.md",
+                "kind": "file",
+                "url": "/doc/anato/cintura-pectoral/musculos/Dorsal_Ancho"
+              },
+              {
+                "name": "Elevador De La Escapula",
+                "slug": "Elevador_de_la_escapula",
+                "path": "public/md/anato/cintura-pectoral/musculos/Elevador_de_la_escapula.md",
+                "kind": "file",
+                "url": "/doc/anato/cintura-pectoral/musculos/Elevador_de_la_escapula"
+              },
+              {
+                "name": "Escaleno Anterior",
+                "slug": "Escaleno_Anterior",
+                "path": "public/md/anato/cintura-pectoral/musculos/Escaleno_Anterior.md",
+                "kind": "file",
+                "url": "/doc/anato/cintura-pectoral/musculos/Escaleno_Anterior"
+              },
+              {
+                "name": "Escaleno Medio",
+                "slug": "Escaleno_Medio",
+                "path": "public/md/anato/cintura-pectoral/musculos/Escaleno_Medio.md",
+                "kind": "file",
+                "url": "/doc/anato/cintura-pectoral/musculos/Escaleno_Medio"
+              },
+              {
+                "name": "Escaleno Posterior",
+                "slug": "Escaleno_Posterior",
+                "path": "public/md/anato/cintura-pectoral/musculos/Escaleno_Posterior.md",
+                "kind": "file",
+                "url": "/doc/anato/cintura-pectoral/musculos/Escaleno_Posterior"
+              },
+              {
+                "name": "Infraespinoso",
+                "slug": "Infraespinoso",
+                "path": "public/md/anato/cintura-pectoral/musculos/Infraespinoso.md",
+                "kind": "file",
+                "url": "/doc/anato/cintura-pectoral/musculos/Infraespinoso"
+              },
+              {
+                "name": "Manguito Rotador Anterior",
+                "slug": "Manguito_Rotador_Anterior",
+                "path": "public/md/anato/cintura-pectoral/musculos/Manguito_Rotador_Anterior.md",
+                "kind": "file",
+                "url": "/doc/anato/cintura-pectoral/musculos/Manguito_Rotador_Anterior"
+              },
+              {
+                "name": "Manguito Rotador Posterior",
+                "slug": "Manguito_Rotador_Posterior",
+                "path": "public/md/anato/cintura-pectoral/musculos/Manguito_Rotador_Posterior.md",
+                "kind": "file",
+                "url": "/doc/anato/cintura-pectoral/musculos/Manguito_Rotador_Posterior"
+              },
+              {
+                "name": "Omohioideo",
+                "slug": "Omohioideo",
+                "path": "public/md/anato/cintura-pectoral/musculos/Omohioideo.md",
+                "kind": "file",
+                "url": "/doc/anato/cintura-pectoral/musculos/Omohioideo"
+              },
+              {
+                "name": "Pectoral Mayor",
+                "slug": "Pectoral_Mayor",
+                "path": "public/md/anato/cintura-pectoral/musculos/Pectoral_Mayor.md",
+                "kind": "file",
+                "url": "/doc/anato/cintura-pectoral/musculos/Pectoral_Mayor"
+              },
+              {
+                "name": "Pectoral Menor",
+                "slug": "Pectoral_Menor",
+                "path": "public/md/anato/cintura-pectoral/musculos/Pectoral_Menor.md",
+                "kind": "file",
+                "url": "/doc/anato/cintura-pectoral/musculos/Pectoral_Menor"
+              },
+              {
+                "name": "Redondo Mayor",
+                "slug": "Redondo_Mayor",
+                "path": "public/md/anato/cintura-pectoral/musculos/Redondo_Mayor.md",
+                "kind": "file",
+                "url": "/doc/anato/cintura-pectoral/musculos/Redondo_Mayor"
+              },
+              {
+                "name": "Redondo Menor",
+                "slug": "Redondo_Menor",
+                "path": "public/md/anato/cintura-pectoral/musculos/Redondo_Menor.md",
+                "kind": "file",
+                "url": "/doc/anato/cintura-pectoral/musculos/Redondo_Menor"
+              },
+              {
+                "name": "Romboides Mayor",
+                "slug": "Romboides_Mayor",
+                "path": "public/md/anato/cintura-pectoral/musculos/Romboides_Mayor.md",
+                "kind": "file",
+                "url": "/doc/anato/cintura-pectoral/musculos/Romboides_Mayor"
+              },
+              {
+                "name": "Romboides Menor",
+                "slug": "Romboides_Menor",
+                "path": "public/md/anato/cintura-pectoral/musculos/Romboides_Menor.md",
+                "kind": "file",
+                "url": "/doc/anato/cintura-pectoral/musculos/Romboides_Menor"
+              },
+              {
+                "name": "Serrato Anterior",
+                "slug": "Serrato_anterior",
+                "path": "public/md/anato/cintura-pectoral/musculos/Serrato_anterior.md",
+                "kind": "file",
+                "url": "/doc/anato/cintura-pectoral/musculos/Serrato_anterior"
+              },
+              {
+                "name": "Subclavio",
+                "slug": "Subclavio",
+                "path": "public/md/anato/cintura-pectoral/musculos/Subclavio.md",
+                "kind": "file",
+                "url": "/doc/anato/cintura-pectoral/musculos/Subclavio"
+              },
+              {
+                "name": "Subescapular",
+                "slug": "Subescapular",
+                "path": "public/md/anato/cintura-pectoral/musculos/Subescapular.md",
+                "kind": "file",
+                "url": "/doc/anato/cintura-pectoral/musculos/Subescapular"
+              },
+              {
+                "name": "Supraespinoso",
+                "slug": "Supraespinoso",
+                "path": "public/md/anato/cintura-pectoral/musculos/Supraespinoso.md",
+                "kind": "file",
+                "url": "/doc/anato/cintura-pectoral/musculos/Supraespinoso"
+              },
+              {
+                "name": "Trapecio",
+                "slug": "Trapecio",
+                "path": "public/md/anato/cintura-pectoral/musculos/Trapecio.md",
+                "kind": "file",
+                "url": "/doc/anato/cintura-pectoral/musculos/Trapecio"
+              },
+              {
+                "name": "Triceps Braquial",
+                "slug": "Triceps_braquial",
+                "path": "public/md/anato/cintura-pectoral/musculos/Triceps_braquial.md",
+                "kind": "file",
+                "url": "/doc/anato/cintura-pectoral/musculos/Triceps_braquial"
+              }
+            ]
+          },
+          {
+            "name": "Nervios",
+            "slug": "nervios",
+            "path": "public/md/anato/cintura-pectoral/nervios",
+            "kind": "dir",
+            "children": [
+              {
+                "name": "Nervio Axilar",
+                "slug": "Nervio_axilar",
+                "path": "public/md/anato/cintura-pectoral/nervios/Nervio_axilar",
+                "kind": "dir",
+                "children": [
+                  {
+                    "name": "Nervio Axilar",
+                    "slug": "Nervio_axilar",
+                    "path": "public/md/anato/cintura-pectoral/nervios/Nervio_axilar/Nervio_axilar.md",
+                    "kind": "file",
+                    "url": "/doc/anato/cintura-pectoral/nervios/Nervio_axilar/Nervio_axilar"
+                  }
+                ]
+              },
+              {
+                "name": "Nervio Cubital",
+                "slug": "Nervio_cubital",
+                "path": "public/md/anato/cintura-pectoral/nervios/Nervio_cubital",
+                "kind": "dir",
+                "children": [
+                  {
+                    "name": "Nervio Cubital",
+                    "slug": "Nervio_cubital",
+                    "path": "public/md/anato/cintura-pectoral/nervios/Nervio_cubital/Nervio_cubital.md",
+                    "kind": "file",
+                    "url": "/doc/anato/cintura-pectoral/nervios/Nervio_cubital/Nervio_cubital"
+                  }
+                ]
+              },
+              {
+                "name": "Nervio Cutaneo Medial Antebrazo",
+                "slug": "Nervio_cutaneo_medial_antebrazo",
+                "path": "public/md/anato/cintura-pectoral/nervios/Nervio_cutaneo_medial_antebrazo",
+                "kind": "dir",
+                "children": [
+                  {
+                    "name": "Nervio Cutaneo Medial Del Antebrazo",
+                    "slug": "Nervio_cutaneo_medial_del_antebrazo",
+                    "path": "public/md/anato/cintura-pectoral/nervios/Nervio_cutaneo_medial_antebrazo/Nervio_cutaneo_medial_del_antebrazo.md",
+                    "kind": "file",
+                    "url": "/doc/anato/cintura-pectoral/nervios/Nervio_cutaneo_medial_antebrazo/Nervio_cutaneo_medial_del_antebrazo"
+                  }
+                ]
+              },
+              {
+                "name": "Nervio Cutaneo Medial Brazo",
+                "slug": "Nervio_cutaneo_medial_brazo",
+                "path": "public/md/anato/cintura-pectoral/nervios/Nervio_cutaneo_medial_brazo",
+                "kind": "dir",
+                "children": [
+                  {
+                    "name": "Nervio Cutaneo Medial Del Brazo",
+                    "slug": "Nervio_cutaneo_medial_del_brazo",
+                    "path": "public/md/anato/cintura-pectoral/nervios/Nervio_cutaneo_medial_brazo/Nervio_cutaneo_medial_del_brazo.md",
+                    "kind": "file",
+                    "url": "/doc/anato/cintura-pectoral/nervios/Nervio_cutaneo_medial_brazo/Nervio_cutaneo_medial_del_brazo"
+                  }
+                ]
+              },
+              {
+                "name": "Nervio Dorsal Escapula",
+                "slug": "Nervio_dorsal_escapula",
+                "path": "public/md/anato/cintura-pectoral/nervios/Nervio_dorsal_escapula",
+                "kind": "dir",
+                "children": [
+                  {
+                    "name": "Nervio Dorsal De La Escapula",
+                    "slug": "Nervio_dorsal_de_la_escapula",
+                    "path": "public/md/anato/cintura-pectoral/nervios/Nervio_dorsal_escapula/Nervio_dorsal_de_la_escapula.md",
+                    "kind": "file",
+                    "url": "/doc/anato/cintura-pectoral/nervios/Nervio_dorsal_escapula/Nervio_dorsal_de_la_escapula"
+                  }
+                ]
+              },
+              {
+                "name": "Nervio Mediano",
+                "slug": "Nervio_mediano",
+                "path": "public/md/anato/cintura-pectoral/nervios/Nervio_mediano",
+                "kind": "dir",
+                "children": [
+                  {
+                    "name": "Nervio Mediano",
+                    "slug": "Nervio_mediano",
+                    "path": "public/md/anato/cintura-pectoral/nervios/Nervio_mediano/Nervio_mediano.md",
+                    "kind": "file",
+                    "url": "/doc/anato/cintura-pectoral/nervios/Nervio_mediano/Nervio_mediano"
+                  }
+                ]
+              },
+              {
+                "name": "Nervio Musculocutaneo",
+                "slug": "Nervio_musculocutaneo",
+                "path": "public/md/anato/cintura-pectoral/nervios/Nervio_musculocutaneo",
+                "kind": "dir",
+                "children": [
+                  {
+                    "name": "Nervio Musculocutaneo",
+                    "slug": "Nervio_musculocutaneo",
+                    "path": "public/md/anato/cintura-pectoral/nervios/Nervio_musculocutaneo/Nervio_musculocutaneo.md",
+                    "kind": "file",
+                    "url": "/doc/anato/cintura-pectoral/nervios/Nervio_musculocutaneo/Nervio_musculocutaneo"
+                  }
+                ]
+              },
+              {
+                "name": "Nervio Pectoral Lateral",
+                "slug": "Nervio_pectoral_lateral",
+                "path": "public/md/anato/cintura-pectoral/nervios/Nervio_pectoral_lateral",
+                "kind": "dir",
+                "children": [
+                  {
+                    "name": "Nervio Pectoral Lateral",
+                    "slug": "Nervio_pectoral_lateral",
+                    "path": "public/md/anato/cintura-pectoral/nervios/Nervio_pectoral_lateral/Nervio_pectoral_lateral.md",
+                    "kind": "file",
+                    "url": "/doc/anato/cintura-pectoral/nervios/Nervio_pectoral_lateral/Nervio_pectoral_lateral"
+                  }
+                ]
+              },
+              {
+                "name": "Nervio Pectoral Medial",
+                "slug": "Nervio_pectoral_medial",
+                "path": "public/md/anato/cintura-pectoral/nervios/Nervio_pectoral_medial",
+                "kind": "dir",
+                "children": [
+                  {
+                    "name": "Nervio Pectoral Medial",
+                    "slug": "Nervio_pectoral_medial",
+                    "path": "public/md/anato/cintura-pectoral/nervios/Nervio_pectoral_medial/Nervio_pectoral_medial.md",
+                    "kind": "file",
+                    "url": "/doc/anato/cintura-pectoral/nervios/Nervio_pectoral_medial/Nervio_pectoral_medial"
+                  }
+                ]
+              },
+              {
+                "name": "Nervio Radial",
+                "slug": "Nervio_radial",
+                "path": "public/md/anato/cintura-pectoral/nervios/Nervio_radial",
+                "kind": "dir",
+                "children": [
+                  {
+                    "name": "Nervio Radial",
+                    "slug": "Nervio_radial",
+                    "path": "public/md/anato/cintura-pectoral/nervios/Nervio_radial/Nervio_radial.md",
+                    "kind": "file",
+                    "url": "/doc/anato/cintura-pectoral/nervios/Nervio_radial/Nervio_radial"
+                  }
+                ]
+              },
+              {
+                "name": "Nervio Subclavio",
+                "slug": "Nervio_subclavio",
+                "path": "public/md/anato/cintura-pectoral/nervios/Nervio_subclavio",
+                "kind": "dir",
+                "children": [
+                  {
+                    "name": "Nervio Subclavio",
+                    "slug": "Nervio_subclavio",
+                    "path": "public/md/anato/cintura-pectoral/nervios/Nervio_subclavio/Nervio_subclavio.md",
+                    "kind": "file",
+                    "url": "/doc/anato/cintura-pectoral/nervios/Nervio_subclavio/Nervio_subclavio"
+                  }
+                ]
+              },
+              {
+                "name": "Nervio Subescapular Inferior",
+                "slug": "Nervio_subescapular_inferior",
+                "path": "public/md/anato/cintura-pectoral/nervios/Nervio_subescapular_inferior",
+                "kind": "dir",
+                "children": [
+                  {
+                    "name": "Nervio Subescapular Inferior",
+                    "slug": "Nervio_subescapular_inferior",
+                    "path": "public/md/anato/cintura-pectoral/nervios/Nervio_subescapular_inferior/Nervio_subescapular_inferior.md",
+                    "kind": "file",
+                    "url": "/doc/anato/cintura-pectoral/nervios/Nervio_subescapular_inferior/Nervio_subescapular_inferior"
+                  }
+                ]
+              },
+              {
+                "name": "Nervio Subescapular Superior",
+                "slug": "Nervio_subescapular_superior",
+                "path": "public/md/anato/cintura-pectoral/nervios/Nervio_subescapular_superior",
+                "kind": "dir",
+                "children": [
+                  {
+                    "name": "Nervio Subescapular Superior",
+                    "slug": "Nervio_subescapular_superior",
+                    "path": "public/md/anato/cintura-pectoral/nervios/Nervio_subescapular_superior/Nervio_subescapular_superior.md",
+                    "kind": "file",
+                    "url": "/doc/anato/cintura-pectoral/nervios/Nervio_subescapular_superior/Nervio_subescapular_superior"
+                  }
+                ]
+              },
+              {
+                "name": "Nervio Supraescapular",
+                "slug": "Nervio_supraescapular",
+                "path": "public/md/anato/cintura-pectoral/nervios/Nervio_supraescapular",
+                "kind": "dir",
+                "children": [
+                  {
+                    "name": "Nervio Supraescapular",
+                    "slug": "Nervio_supraescapular",
+                    "path": "public/md/anato/cintura-pectoral/nervios/Nervio_supraescapular/Nervio_supraescapular.md",
+                    "kind": "file",
+                    "url": "/doc/anato/cintura-pectoral/nervios/Nervio_supraescapular/Nervio_supraescapular"
+                  }
+                ]
+              },
+              {
+                "name": "Nervio Toracico Largo",
+                "slug": "Nervio_toracico_largo",
+                "path": "public/md/anato/cintura-pectoral/nervios/Nervio_toracico_largo",
+                "kind": "dir",
+                "children": [
+                  {
+                    "name": "Nervio Toracico Largo",
+                    "slug": "Nervio_toracico_largo",
+                    "path": "public/md/anato/cintura-pectoral/nervios/Nervio_toracico_largo/Nervio_toracico_largo.md",
+                    "kind": "file",
+                    "url": "/doc/anato/cintura-pectoral/nervios/Nervio_toracico_largo/Nervio_toracico_largo"
+                  }
+                ]
+              },
+              {
+                "name": "Nervio Toracodorsal",
+                "slug": "Nervio_toracodorsal",
+                "path": "public/md/anato/cintura-pectoral/nervios/Nervio_toracodorsal",
+                "kind": "dir",
+                "children": [
+                  {
+                    "name": "Nervio Toracodorsal",
+                    "slug": "Nervio_toracodorsal",
+                    "path": "public/md/anato/cintura-pectoral/nervios/Nervio_toracodorsal/Nervio_toracodorsal.md",
+                    "kind": "file",
+                    "url": "/doc/anato/cintura-pectoral/nervios/Nervio_toracodorsal/Nervio_toracodorsal"
+                  }
+                ]
+              },
+              {
+                "name": "Plexo Braquial",
+                "slug": "Plexo_braquial",
+                "path": "public/md/anato/cintura-pectoral/nervios/Plexo_braquial",
+                "kind": "dir",
+                "children": [
+                  {
+                    "name": "Plexo Braquial",
+                    "slug": "Plexo_braquial",
+                    "path": "public/md/anato/cintura-pectoral/nervios/Plexo_braquial/Plexo_braquial.md",
+                    "kind": "file",
+                    "url": "/doc/anato/cintura-pectoral/nervios/Plexo_braquial/Plexo_braquial"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Venas",
+            "slug": "venas",
+            "path": "public/md/anato/cintura-pectoral/venas",
+            "kind": "dir",
+            "children": [
+              {
+                "name": "Vena Axilar",
+                "slug": "Vena_axilar",
+                "path": "public/md/anato/cintura-pectoral/venas/Vena_axilar",
+                "kind": "dir",
+                "children": [
+                  {
+                    "name": "Vena Circunfleja Humeral Anterior Axilar",
+                    "slug": "Vena_circunfleja_humeral_anterior_axilar",
+                    "path": "public/md/anato/cintura-pectoral/venas/Vena_axilar/Vena_circunfleja_humeral_anterior_axilar.md",
+                    "kind": "file",
+                    "url": "/doc/anato/cintura-pectoral/venas/Vena_axilar/Vena_circunfleja_humeral_anterior_axilar"
+                  },
+                  {
+                    "name": "Vena Circunfleja Humeral Posterior Axilar",
+                    "slug": "Vena_circunfleja_humeral_posterior_axilar",
+                    "path": "public/md/anato/cintura-pectoral/venas/Vena_axilar/Vena_circunfleja_humeral_posterior_axilar.md",
+                    "kind": "file",
+                    "url": "/doc/anato/cintura-pectoral/venas/Vena_axilar/Vena_circunfleja_humeral_posterior_axilar"
+                  },
+                  {
+                    "name": "Vena Subescapular Axilar",
+                    "slug": "Vena_subescapular_axilar",
+                    "path": "public/md/anato/cintura-pectoral/venas/Vena_axilar/Vena_subescapular_axilar.md",
+                    "kind": "file",
+                    "url": "/doc/anato/cintura-pectoral/venas/Vena_axilar/Vena_subescapular_axilar"
+                  },
+                  {
+                    "name": "Vena Toracica Lateral Axilar",
+                    "slug": "Vena_toracica_lateral_axilar",
+                    "path": "public/md/anato/cintura-pectoral/venas/Vena_axilar/Vena_toracica_lateral_axilar.md",
+                    "kind": "file",
+                    "url": "/doc/anato/cintura-pectoral/venas/Vena_axilar/Vena_toracica_lateral_axilar"
+                  },
+                  {
+                    "name": "Vena Toracica Superior Axilar",
+                    "slug": "Vena_toracica_superior_axilar",
+                    "path": "public/md/anato/cintura-pectoral/venas/Vena_axilar/Vena_toracica_superior_axilar.md",
+                    "kind": "file",
+                    "url": "/doc/anato/cintura-pectoral/venas/Vena_axilar/Vena_toracica_superior_axilar"
+                  },
+                  {
+                    "name": "Vena Toracoacromial Axilar",
+                    "slug": "Vena_toracoacromial_axilar",
+                    "path": "public/md/anato/cintura-pectoral/venas/Vena_axilar/Vena_toracoacromial_axilar.md",
+                    "kind": "file",
+                    "url": "/doc/anato/cintura-pectoral/venas/Vena_axilar/Vena_toracoacromial_axilar"
+                  }
+                ]
+              },
+              {
+                "name": "Vena Braquial",
+                "slug": "Vena_braquial",
+                "path": "public/md/anato/cintura-pectoral/venas/Vena_braquial",
+                "kind": "dir",
+                "children": [
+                  {
+                    "name": "Vena Basibraquial",
+                    "slug": "Vena_basibraquial",
+                    "path": "public/md/anato/cintura-pectoral/venas/Vena_braquial/Vena_basibraquial.md",
+                    "kind": "file",
+                    "url": "/doc/anato/cintura-pectoral/venas/Vena_braquial/Vena_basibraquial"
+                  },
+                  {
+                    "name": "Venas Comitantes Colaterales",
+                    "slug": "Venas_comitantes_colaterales",
+                    "path": "public/md/anato/cintura-pectoral/venas/Vena_braquial/Venas_comitantes_colaterales.md",
+                    "kind": "file",
+                    "url": "/doc/anato/cintura-pectoral/venas/Vena_braquial/Venas_comitantes_colaterales"
+                  },
+                  {
+                    "name": "Venas Satelites Braquial",
+                    "slug": "Venas_satelites_braquial",
+                    "path": "public/md/anato/cintura-pectoral/venas/Vena_braquial/Venas_satelites_braquial.md",
+                    "kind": "file",
+                    "url": "/doc/anato/cintura-pectoral/venas/Vena_braquial/Venas_satelites_braquial"
+                  }
+                ]
+              },
+              {
+                "name": "Vena Subclavia",
+                "slug": "Vena_subclavia",
+                "path": "public/md/anato/cintura-pectoral/venas/Vena_subclavia",
+                "kind": "dir",
+                "children": [
+                  {
+                    "name": "Vena Cervical Profunda",
+                    "slug": "Vena_cervical_profunda",
+                    "path": "public/md/anato/cintura-pectoral/venas/Vena_subclavia/Vena_cervical_profunda.md",
+                    "kind": "file",
+                    "url": "/doc/anato/cintura-pectoral/venas/Vena_subclavia/Vena_cervical_profunda"
+                  },
+                  {
+                    "name": "Vena Supraescapular",
+                    "slug": "Vena_supraescapular",
+                    "path": "public/md/anato/cintura-pectoral/venas/Vena_subclavia/Vena_supraescapular.md",
+                    "kind": "file",
+                    "url": "/doc/anato/cintura-pectoral/venas/Vena_subclavia/Vena_supraescapular"
+                  },
+                  {
+                    "name": "Vena Toracica Interna",
+                    "slug": "Vena_toracica_interna",
+                    "path": "public/md/anato/cintura-pectoral/venas/Vena_subclavia/Vena_toracica_interna.md",
+                    "kind": "file",
+                    "url": "/doc/anato/cintura-pectoral/venas/Vena_subclavia/Vena_toracica_interna"
+                  },
+                  {
+                    "name": "Vena Vertebral",
+                    "slug": "Vena_vertebral",
+                    "path": "public/md/anato/cintura-pectoral/venas/Vena_subclavia/Vena_vertebral.md",
+                    "kind": "file",
+                    "url": "/doc/anato/cintura-pectoral/venas/Vena_subclavia/Vena_vertebral"
+                  },
+                  {
+                    "name": "Vena Yugular Externa",
+                    "slug": "Vena_yugular_externa",
+                    "path": "public/md/anato/cintura-pectoral/venas/Vena_subclavia/Vena_yugular_externa.md",
+                    "kind": "file",
+                    "url": "/doc/anato/cintura-pectoral/venas/Vena_subclavia/Vena_yugular_externa"
+                  }
+                ]
+              },
+              {
+                "name": "Venas Axilares",
+                "slug": "Venas_axilares",
+                "path": "public/md/anato/cintura-pectoral/venas/Venas_axilares.md",
+                "kind": "file",
+                "url": "/doc/anato/cintura-pectoral/venas/Venas_axilares"
+              },
+              {
+                "name": "Venas Braquial",
+                "slug": "Venas_braquial",
+                "path": "public/md/anato/cintura-pectoral/venas/Venas_braquial.md",
+                "kind": "file",
+                "url": "/doc/anato/cintura-pectoral/venas/Venas_braquial"
+              },
+              {
+                "name": "Venas Subclavia",
+                "slug": "Venas_subclavia",
+                "path": "public/md/anato/cintura-pectoral/venas/Venas_subclavia.md",
+                "kind": "file",
+                "url": "/doc/anato/cintura-pectoral/venas/Venas_subclavia"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Histo",
+    "slug": "histo",
+    "path": "public/md/histo",
+    "kind": "dir",
+    "children": [
+      {
+        "name": "Tejido Conectivo",
+        "slug": "Tejido_conectivo",
+        "path": "public/md/histo/Tejido_conectivo",
+        "kind": "dir",
+        "children": [
+          {
+            "name": "00 Indice",
+            "slug": "00_Indice",
+            "path": "public/md/histo/Tejido_conectivo/00_Indice.md",
+            "kind": "file",
+            "url": "/doc/histo/Tejido_conectivo/00_Indice"
+          },
+          {
+            "name": "Clasificaciones",
+            "slug": "Clasificaciones",
+            "path": "public/md/histo/Tejido_conectivo/Clasificaciones",
+            "kind": "dir",
+            "children": [
+              {
+                "name": "01 TC Colageno Laxo",
+                "slug": "01_TC_Colageno_Laxo",
+                "path": "public/md/histo/Tejido_conectivo/Clasificaciones/01_TC_Colageno_Laxo.md",
+                "kind": "file",
+                "url": "/doc/histo/Tejido_conectivo/Clasificaciones/01_TC_Colageno_Laxo"
+              },
+              {
+                "name": "02 TC Colageno Denso No Modelado",
+                "slug": "02_TC_Colageno_Denso_No_Modelado",
+                "path": "public/md/histo/Tejido_conectivo/Clasificaciones/02_TC_Colageno_Denso_No_Modelado.md",
+                "kind": "file",
+                "url": "/doc/histo/Tejido_conectivo/Clasificaciones/02_TC_Colageno_Denso_No_Modelado"
+              },
+              {
+                "name": "03 TC Denso Modelado Tendinoso",
+                "slug": "03_TC_Denso_Modelado_Tendinoso",
+                "path": "public/md/histo/Tejido_conectivo/Clasificaciones/03_TC_Denso_Modelado_Tendinoso.md",
+                "kind": "file",
+                "url": "/doc/histo/Tejido_conectivo/Clasificaciones/03_TC_Denso_Modelado_Tendinoso"
+              },
+              {
+                "name": "04 TC Denso Modelado Laminar",
+                "slug": "04_TC_Denso_Modelado_Laminar",
+                "path": "public/md/histo/Tejido_conectivo/Clasificaciones/04_TC_Denso_Modelado_Laminar.md",
+                "kind": "file",
+                "url": "/doc/histo/Tejido_conectivo/Clasificaciones/04_TC_Denso_Modelado_Laminar"
+              },
+              {
+                "name": "05 TC Denso Modelado Membranoso",
+                "slug": "05_TC_Denso_Modelado_Membranoso",
+                "path": "public/md/histo/Tejido_conectivo/Clasificaciones/05_TC_Denso_Modelado_Membranoso.md",
+                "kind": "file",
+                "url": "/doc/histo/Tejido_conectivo/Clasificaciones/05_TC_Denso_Modelado_Membranoso"
+              },
+              {
+                "name": "06 TC Elastico",
+                "slug": "06_TC_Elastico",
+                "path": "public/md/histo/Tejido_conectivo/Clasificaciones/06_TC_Elastico.md",
+                "kind": "file",
+                "url": "/doc/histo/Tejido_conectivo/Clasificaciones/06_TC_Elastico"
+              },
+              {
+                "name": "07 TC Reticular",
+                "slug": "07_TC_Reticular",
+                "path": "public/md/histo/Tejido_conectivo/Clasificaciones/07_TC_Reticular.md",
+                "kind": "file",
+                "url": "/doc/histo/Tejido_conectivo/Clasificaciones/07_TC_Reticular"
+              },
+              {
+                "name": "08 TC Mucoso",
+                "slug": "08_TC_Mucoso",
+                "path": "public/md/histo/Tejido_conectivo/Clasificaciones/08_TC_Mucoso.md",
+                "kind": "file",
+                "url": "/doc/histo/Tejido_conectivo/Clasificaciones/08_TC_Mucoso"
+              },
+              {
+                "name": "09 Matriz Extracelular",
+                "slug": "09_Matriz_Extracelular",
+                "path": "public/md/histo/Tejido_conectivo/Clasificaciones/09_Matriz_Extracelular.md",
+                "kind": "file",
+                "url": "/doc/histo/Tejido_conectivo/Clasificaciones/09_Matriz_Extracelular"
+              },
+              {
+                "name": "10 Tejido Hematopoyetico",
+                "slug": "10_Tejido_Hematopoyetico",
+                "path": "public/md/histo/Tejido_conectivo/Clasificaciones/10_Tejido_Hematopoyetico.md",
+                "kind": "file",
+                "url": "/doc/histo/Tejido_conectivo/Clasificaciones/10_Tejido_Hematopoyetico"
+              }
+            ]
+          },
+          {
+            "name": "Migrantes",
+            "slug": "Migrantes",
+            "path": "public/md/histo/Tejido_conectivo/Migrantes",
+            "kind": "dir",
+            "children": [
+              {
+                "name": "01 Macrofagos",
+                "slug": "01_Macrofagos",
+                "path": "public/md/histo/Tejido_conectivo/Migrantes/01_Macrofagos.md",
+                "kind": "file",
+                "url": "/doc/histo/Tejido_conectivo/Migrantes/01_Macrofagos"
+              },
+              {
+                "name": "02 Mastocitos",
+                "slug": "02_Mastocitos",
+                "path": "public/md/histo/Tejido_conectivo/Migrantes/02_Mastocitos.md",
+                "kind": "file",
+                "url": "/doc/histo/Tejido_conectivo/Migrantes/02_Mastocitos"
+              },
+              {
+                "name": "03 Plasmocitos",
+                "slug": "03_Plasmocitos",
+                "path": "public/md/histo/Tejido_conectivo/Migrantes/03_Plasmocitos.md",
+                "kind": "file",
+                "url": "/doc/histo/Tejido_conectivo/Migrantes/03_Plasmocitos"
+              },
+              {
+                "name": "04 Linfocitos",
+                "slug": "04_Linfocitos",
+                "path": "public/md/histo/Tejido_conectivo/Migrantes/04_Linfocitos.md",
+                "kind": "file",
+                "url": "/doc/histo/Tejido_conectivo/Migrantes/04_Linfocitos"
+              },
+              {
+                "name": "05 Neutrofilos",
+                "slug": "05_Neutrofilos",
+                "path": "public/md/histo/Tejido_conectivo/Migrantes/05_Neutrofilos.md",
+                "kind": "file",
+                "url": "/doc/histo/Tejido_conectivo/Migrantes/05_Neutrofilos"
+              },
+              {
+                "name": "06 Eosinofilos",
+                "slug": "06_Eosinofilos",
+                "path": "public/md/histo/Tejido_conectivo/Migrantes/06_Eosinofilos.md",
+                "kind": "file",
+                "url": "/doc/histo/Tejido_conectivo/Migrantes/06_Eosinofilos"
+              },
+              {
+                "name": "07 Basofilos",
+                "slug": "07_Basofilos",
+                "path": "public/md/histo/Tejido_conectivo/Migrantes/07_Basofilos.md",
+                "kind": "file",
+                "url": "/doc/histo/Tejido_conectivo/Migrantes/07_Basofilos"
+              },
+              {
+                "name": "08 Monocitos",
+                "slug": "08_Monocitos",
+                "path": "public/md/histo/Tejido_conectivo/Migrantes/08_Monocitos.md",
+                "kind": "file",
+                "url": "/doc/histo/Tejido_conectivo/Migrantes/08_Monocitos"
+              },
+              {
+                "name": "09 Eritrocitos",
+                "slug": "09_Eritrocitos",
+                "path": "public/md/histo/Tejido_conectivo/Migrantes/09_Eritrocitos.md",
+                "kind": "file",
+                "url": "/doc/histo/Tejido_conectivo/Migrantes/09_Eritrocitos"
+              },
+              {
+                "name": "10 Megacariocitos",
+                "slug": "10_Megacariocitos",
+                "path": "public/md/histo/Tejido_conectivo/Migrantes/10_Megacariocitos.md",
+                "kind": "file",
+                "url": "/doc/histo/Tejido_conectivo/Migrantes/10_Megacariocitos"
+              },
+              {
+                "name": "11 Plaquetas",
+                "slug": "11_Plaquetas",
+                "path": "public/md/histo/Tejido_conectivo/Migrantes/11_Plaquetas.md",
+                "kind": "file",
+                "url": "/doc/histo/Tejido_conectivo/Migrantes/11_Plaquetas"
+              }
+            ]
+          },
+          {
+            "name": "Residentes",
+            "slug": "Residentes",
+            "path": "public/md/histo/Tejido_conectivo/Residentes",
+            "kind": "dir",
+            "children": [
+              {
+                "name": "01 Fibroblastos",
+                "slug": "01_Fibroblastos",
+                "path": "public/md/histo/Tejido_conectivo/Residentes/01_Fibroblastos.md",
+                "kind": "file",
+                "url": "/doc/histo/Tejido_conectivo/Residentes/01_Fibroblastos"
+              },
+              {
+                "name": "02 Miofibroblastos",
+                "slug": "02_Miofibroblastos",
+                "path": "public/md/histo/Tejido_conectivo/Residentes/02_Miofibroblastos.md",
+                "kind": "file",
+                "url": "/doc/histo/Tejido_conectivo/Residentes/02_Miofibroblastos"
+              },
+              {
+                "name": "03 Fibrocitos",
+                "slug": "03_Fibrocitos",
+                "path": "public/md/histo/Tejido_conectivo/Residentes/03_Fibrocitos.md",
+                "kind": "file",
+                "url": "/doc/histo/Tejido_conectivo/Residentes/03_Fibrocitos"
+              },
+              {
+                "name": "04 Adipocitos",
+                "slug": "04_Adipocitos",
+                "path": "public/md/histo/Tejido_conectivo/Residentes/04_Adipocitos.md",
+                "kind": "file",
+                "url": "/doc/histo/Tejido_conectivo/Residentes/04_Adipocitos"
+              },
+              {
+                "name": "05 Pericitos",
+                "slug": "05_Pericitos",
+                "path": "public/md/histo/Tejido_conectivo/Residentes/05_Pericitos.md",
+                "kind": "file",
+                "url": "/doc/histo/Tejido_conectivo/Residentes/05_Pericitos"
+              },
+              {
+                "name": "06 Celulas Mesenquimaticas",
+                "slug": "06_Celulas_Mesenquimaticas",
+                "path": "public/md/histo/Tejido_conectivo/Residentes/06_Celulas_Mesenquimaticas.md",
+                "kind": "file",
+                "url": "/doc/histo/Tejido_conectivo/Residentes/06_Celulas_Mesenquimaticas"
+              },
+              {
+                "name": "07 Celulas Reticulares",
+                "slug": "07_Celulas_Reticulares",
+                "path": "public/md/histo/Tejido_conectivo/Residentes/07_Celulas_Reticulares.md",
+                "kind": "file",
+                "url": "/doc/histo/Tejido_conectivo/Residentes/07_Celulas_Reticulares"
+              },
+              {
+                "name": "08 Histocitos",
+                "slug": "08_Histocitos",
+                "path": "public/md/histo/Tejido_conectivo/Residentes/08_Histocitos.md",
+                "kind": "file",
+                "url": "/doc/histo/Tejido_conectivo/Residentes/08_Histocitos"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Tejido Muscular",
+        "slug": "Tejido_muscular",
+        "path": "public/md/histo/Tejido_muscular",
+        "kind": "dir",
+        "children": [
+          {
+            "name": "00 Indice",
+            "slug": "00_Indice",
+            "path": "public/md/histo/Tejido_muscular/00_Indice.md",
+            "kind": "file",
+            "url": "/doc/histo/Tejido_muscular/00_Indice"
+          },
+          {
+            "name": "01 Musculo Esqueletico",
+            "slug": "01_Musculo_Esqueletico",
+            "path": "public/md/histo/Tejido_muscular/01_Musculo_Esqueletico.md",
+            "kind": "file",
+            "url": "/doc/histo/Tejido_muscular/01_Musculo_Esqueletico"
+          },
+          {
+            "name": "02 Musculo Cardiaco",
+            "slug": "02_Musculo_Cardiaco",
+            "path": "public/md/histo/Tejido_muscular/02_Musculo_Cardiaco.md",
+            "kind": "file",
+            "url": "/doc/histo/Tejido_muscular/02_Musculo_Cardiaco"
+          },
+          {
+            "name": "03 Musculo Liso",
+            "slug": "03_Musculo_Liso",
+            "path": "public/md/histo/Tejido_muscular/03_Musculo_Liso.md",
+            "kind": "file",
+            "url": "/doc/histo/Tejido_muscular/03_Musculo_Liso"
+          },
+          {
+            "name": "04 Fibras Tipo I",
+            "slug": "04_Fibras_Tipo_I",
+            "path": "public/md/histo/Tejido_muscular/04_Fibras_Tipo_I.md",
+            "kind": "file",
+            "url": "/doc/histo/Tejido_muscular/04_Fibras_Tipo_I"
+          },
+          {
+            "name": "05 Fibras Tipo II",
+            "slug": "05_Fibras_Tipo_II",
+            "path": "public/md/histo/Tejido_muscular/05_Fibras_Tipo_II.md",
+            "kind": "file",
+            "url": "/doc/histo/Tejido_muscular/05_Fibras_Tipo_II"
+          },
+          {
+            "name": "06 Fibras Tipo III",
+            "slug": "06_Fibras_Tipo_III",
+            "path": "public/md/histo/Tejido_muscular/06_Fibras_Tipo_III.md",
+            "kind": "file",
+            "url": "/doc/histo/Tejido_muscular/06_Fibras_Tipo_III"
+          },
+          {
+            "name": "07 Sarcomero",
+            "slug": "07_Sarcomero",
+            "path": "public/md/histo/Tejido_muscular/07_Sarcomero.md",
+            "kind": "file",
+            "url": "/doc/histo/Tejido_muscular/07_Sarcomero"
+          },
+          {
+            "name": "08 Proteinas Contractiles",
+            "slug": "08_Proteinas_Contractiles",
+            "path": "public/md/histo/Tejido_muscular/08_Proteinas_Contractiles.md",
+            "kind": "file",
+            "url": "/doc/histo/Tejido_muscular/08_Proteinas_Contractiles"
+          },
+          {
+            "name": "09 Contraccion Muscular",
+            "slug": "09_Contraccion_Muscular",
+            "path": "public/md/histo/Tejido_muscular/09_Contraccion_Muscular.md",
+            "kind": "file",
+            "url": "/doc/histo/Tejido_muscular/09_Contraccion_Muscular"
+          },
+          {
+            "name": "10 Neuromuscular",
+            "slug": "10_Neuromuscular",
+            "path": "public/md/histo/Tejido_muscular/10_Neuromuscular.md",
+            "kind": "file",
+            "url": "/doc/histo/Tejido_muscular/10_Neuromuscular"
+          },
+          {
+            "name": "11 Organizacion Muscular",
+            "slug": "11_Organizacion_Muscular",
+            "path": "public/md/histo/Tejido_muscular/11_Organizacion_Muscular.md",
+            "kind": "file",
+            "url": "/doc/histo/Tejido_muscular/11_Organizacion_Muscular"
+          },
+          {
+            "name": "Notas",
+            "slug": "Notas",
+            "path": "public/md/histo/Tejido_muscular/Notas.md",
+            "kind": "file",
+            "url": "/doc/histo/Tejido_muscular/Notas"
+          },
+          {
+            "name": "Seminario",
+            "slug": "Seminario",
+            "path": "public/md/histo/Tejido_muscular/Seminario.md",
+            "kind": "file",
+            "url": "/doc/histo/Tejido_muscular/Seminario"
+          },
+          {
+            "name": "Seminario Original",
+            "slug": "Seminario_original",
+            "path": "public/md/histo/Tejido_muscular/Seminario_original.md",
+            "kind": "file",
+            "url": "/doc/histo/Tejido_muscular/Seminario_original"
+          },
+          {
+            "name": "Imgs",
+            "slug": "imgs",
+            "path": "public/md/histo/Tejido_muscular/imgs",
+            "kind": "dir",
+            "children": [
+              {
+                "name": "MAPA ORGANIZACION",
+                "slug": "MAPA-ORGANIZACION",
+                "path": "public/md/histo/Tejido_muscular/imgs/MAPA-ORGANIZACION.md",
+                "kind": "file",
+                "url": "/doc/histo/Tejido_muscular/imgs/MAPA-ORGANIZACION"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
