@@ -16,7 +16,8 @@ export async function generateStaticParams() {
 }
 
 export default async function DocPage({ params }: Props) {
-    const slugArray: string[] = Array.isArray(params.slug) ? params.slug : []
+    const { slug } = await params
+    const slugArray: string[] = Array.isArray(slug) ? slug : []
     if (!slugArray.length) return <p style={{ color: '#64748b' }}>Cargando…</p>
     const slugPath = slugArray.join('/')
     const r2Url = `${R2_BASE}/public/md/${slugPath}.md`
