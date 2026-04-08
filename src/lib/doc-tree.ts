@@ -10,30 +10,31 @@ export const DOC_ROOTS = ['public/md/anato', 'public/md/histo'] as const
 export interface TreeEntry {
     name: string
     slug: string
-    path: string          // relative path from repo root, e.g. "public/md/anato/cintura-pectoral/arterias"
+    path: string
     kind: 'file' | 'dir'
-    url?: string          // set by treeParser: "/anato/cintura-pectoral/arterias/Arteria_axilar/Circunfleja_humeral_anterior"
+    url?: string
     children?: TreeEntry[]
 }
 
 // ─── Filter ─────────────────────────────────────────────────────────────────
 
-export function treeFilter(entry: TreeEntry): TreeEntry | null {
+export function treeFilter(entry: TreeEntry | undefined | null): TreeEntry | null {
+    if (!entry) return null
     if (entry.kind === 'file') {
         return entry.name.endsWith('.md') ? entry : null
     }
-    if (entry.children) {
-        const filtered = entry.children
-            .map(treeFilter)
-            .filter((c): c is TreeEntry => c !== null)
-        entry = { ...entry, children: filtered }
-    }
-    return entry.children && entry.children.length > 0 ? entry : null
+    if (!entry.children) return null
+    const filtered = entry.children
+        .map(treeFilter)
+        .filter((c): c is TreeEntry => c !== null)
+    entry = { ...entry, children: filtered }
+    return filtered.length > 0 ? entry : null
 }
 
 // ─── Parser ─────────────────────────────────────────────────────────────────
 
 export function treeParser(entry: TreeEntry): TreeEntry {
+    if (!entry || !entry.path) return entry
     if (entry.kind === 'file') {
         const url = '/doc/' + entry.path.replace(/^public\/md\//, '').replace(/\.md$/, '')
         const displayName = entry.path
@@ -47,7 +48,7 @@ export function treeParser(entry: TreeEntry): TreeEntry {
     }
     return {
         ...entry,
-        children: entry.children?.map(treeParser),
+        children: entry.children?.map(treeParser) ?? [],
     }
 }
 
@@ -57,10 +58,6 @@ function isHidden(name: string) {
     return name.startsWith('.') ||
         name.toLowerCase().includes('sync-conflict') ||
         name.toLowerCase().includes('chequeo')
-}
-
-function nameToDisplay(name: string) {
-    return name.replace(/\.md$/, '').replace(/_/g, ' ').replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase())
 }
 
 async function walkDir(dirPath: string, relPath: string[]): Promise<TreeEntry[]> {
@@ -76,7 +73,7 @@ async function walkDir(dirPath: string, relPath: string[]): Promise<TreeEntry[]>
         if (entry.isDirectory()) {
             const children = await walkDir(childPath, childRel)
             result.push({
-                name: nameToDisplay(entry.name),
+                name: entry.name.replace(/\.md$/, '').replace(/_/g, ' ').replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase()),
                 slug: entry.name,
                 path: childRel.join('/'),
                 kind: 'dir',
@@ -100,12 +97,13 @@ async function walkDir(dirPath: string, relPath: string[]): Promise<TreeEntry[]>
 export async function buildDocTree(): Promise<TreeEntry[]> {
     const roots = await Promise.all(
         DOC_ROOTS.map(async (root) => {
+            const fullRoot = path.join(process.cwd(), root)
             const relRoot = root.split('/')
-            const name = relRoot[relRoot.length - 1]
-            const children = await walkDir(path.join(process.cwd(), root), relRoot)
+            const name = relRoot[relRoot.length - 1].replace(/_/g, ' ').replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase())
+            const children = await walkDir(fullRoot, relRoot)
             return {
-                name: nameToDisplay(name),
-                slug: name,
+                name,
+                slug: relRoot[relRoot.length - 1],
                 path: relRoot.join('/'),
                 kind: 'dir' as const,
                 children,

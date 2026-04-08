@@ -1,45 +1,44 @@
-import fs from 'fs/promises'
-import path from 'path'
-import { buildDocTree, treeFilter, treeParser, TreeEntry } from '@/lib/doc-tree'
+import docSlugs from '@/lib/doc-slugs.json'
+import docTree from '@/lib/doc-tree.json'
 import DocShell from '@/components/DocShell'
 import DocRenderer from '@/components/DocRenderer'
+import type { TreeEntry } from '@/lib/doc-tree'
+
+const R2_BASE = 'https://pub-48b3fe45b5644de3a07fba0a1408a720.r2.dev'
+const R2_MD_BASE = R2_BASE + '/public/md'
 
 interface Props {
-    params: Promise<{ slug: string[] }>
+    params: { slug: string[] }
+}
+
+export async function generateStaticParams() {
+    return docSlugs as { slug: string[] }[]
 }
 
 export default async function DocPage({ params }: Props) {
     const { slug } = await params
-
-    // Build, filter and parse tree
-    const rawTree = await buildDocTree()
-    const filteredTree = rawTree
-        .map((e: any) => treeFilter(e))
-        .filter((e: any): e is TreeEntry => e !== null)
-    const tree = { name: '', slug: '', path: '', kind: 'dir' as const, children: filteredTree }
-    const parsedTree = treeParser(tree)
-
-    // Current file path from URL slug
-    // URL: /doc/anato/cintura-pectoral/arterias/Arteria_axilar/Circunfleja_humeral_anterior
-    // File: public/md/anato/cintura-pectoral/arterias/Arteria_axilar/Circunfleja_humeral_anterior.md
-    const slugPath = slug.join('/')
-    const filePath = path.join(process.cwd(), 'public/md', `${slugPath}.md`)
-    // categoryUrl = "/doc/anato/cintura-pectoral/arterias/Arteria_axilar" (without last slug segment)
-    const categorySlug = slug.slice(0, -1).join('/')
+    const slugArray: string[] = Array.isArray(slug) ? slug : []
+    if (!slugArray.length) return <p style={{ color: '#64748b' }}>Cargando…</p>
+    const slugPath = slugArray.join('/')
+    const r2Url = `${R2_BASE}/public/md/${slugPath}.md`
+    const categorySlug = slugArray.slice(0, -1).join('/')
     const categoryUrl = `/doc/${categorySlug}`
-    const mdCategoryUrl = `/md/${categorySlug}`
+    const mdCategoryUrl = `${R2_MD_BASE}/${categorySlug}`
 
     let content = ''
-
     try {
-        content = await fs.readFile(filePath, 'utf8')
-    } catch {
-        // No file for this URL — just show sidebar
-    }
+        const res = await fetch(r2Url, {
+            next: { revalidate: 604800 }, // 7 days
+            cache: 'force-cache', // default cache in production
+        })
+        if (res.ok) content = await res.text()
+    } catch { /* R2 not reachable */ }
+
+    const tree = docTree as TreeEntry[]
 
     return (
         <div style={{ display: 'flex', minHeight: '100vh', background: '#121220' }}>
-            <DocShell tree={parsedTree.children ?? []} initialUrl={`/doc/${slugPath}`} />
+            <DocShell tree={tree} initialUrl={`/doc/${slugPath}`} />
             <main style={{ flex: 1, padding: '2rem', overflowY: 'auto' }}>
                 {content ? (
                     <DocRenderer content={content} mdBaseUrl={mdCategoryUrl} docBaseUrl={categoryUrl} />
