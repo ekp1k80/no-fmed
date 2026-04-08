@@ -9,13 +9,22 @@ interface Props {
     params: { slug: string[] }
 }
 
+async function getDocTree() {
+    try {
+        const rawTree = await buildDocTree()
+        const filteredTree = rawTree
+            .map((e: TreeEntry) => treeFilter(e))
+            .filter((e: TreeEntry | null): e is TreeEntry => e !== null)
+        const tree = { name: '', slug: '', path: '', kind: 'dir' as const, children: filteredTree }
+        return treeParser(tree)
+    } catch {
+        return null
+    }
+}
+
 export async function generateStaticParams(): Promise<{ slug: string[] }[]> {
-    const rawTree = await buildDocTree()
-    const filteredTree = rawTree
-        .map((e: TreeEntry) => treeFilter(e))
-        .filter((e: TreeEntry | null): e is TreeEntry => e !== null)
-    const tree = { name: '', slug: '', path: '', kind: 'dir' as const, children: filteredTree }
-    const parsedTree = treeParser(tree)
+    const parsedTree = await getDocTree()
+    if (!parsedTree) return []
 
     const slugs: { slug: string[] }[] = []
     function collectFiles(entry: TreeEntry) {
@@ -30,9 +39,11 @@ export async function generateStaticParams(): Promise<{ slug: string[] }[]> {
 }
 
 export default async function DocPage({ params }: Props) {
-    const slugPath = params.slug.join('/')
+    const slugArray: string[] = Array.isArray(params.slug) ? params.slug : []
+    if (!slugArray.length) return <p style={{ color: '#64748b' }}>Cargando…</p>
+    const slugPath = slugArray.join('/')
     const r2Url = `${R2_BASE}/public/md/${slugPath}.md`
-    const categorySlug = params.slug.slice(0, -1).join('/')
+    const categorySlug = slugArray.slice(0, -1).join('/')
     const categoryUrl = `/doc/${categorySlug}`
     const mdCategoryUrl = `${R2_MD_BASE}/${categorySlug}`
 
@@ -50,16 +61,11 @@ export default async function DocPage({ params }: Props) {
         } catch { /* no local file either */ }
     }
 
-    const rawTree = await buildDocTree()
-    const filteredTree = rawTree
-        .map((e: TreeEntry) => treeFilter(e))
-        .filter((e: TreeEntry | null): e is TreeEntry => e !== null)
-    const tree = { name: '', slug: '', path: '', kind: 'dir' as const, children: filteredTree }
-    const parsedTree = treeParser(tree)
+    const parsedTree = await getDocTree()
 
     return (
         <div style={{ display: 'flex', minHeight: '100vh', background: '#121220' }}>
-            <DocShell tree={parsedTree.children ?? []} initialUrl={`/doc/${slugPath}`} />
+            <DocShell tree={parsedTree?.children ?? []} initialUrl={`/doc/${slugPath}`} />
             <main style={{ flex: 1, padding: '2rem', overflowY: 'auto' }}>
                 {content ? (
                     <DocRenderer content={content} mdBaseUrl={mdCategoryUrl} docBaseUrl={categoryUrl} />

@@ -18,22 +18,23 @@ export interface TreeEntry {
 
 // ─── Filter ─────────────────────────────────────────────────────────────────
 
-export function treeFilter(entry: TreeEntry): TreeEntry | null {
+export function treeFilter(entry: TreeEntry | undefined | null): TreeEntry | null {
+    if (!entry) return null
     if (entry.kind === 'file') {
         return entry.name.endsWith('.md') ? entry : null
     }
-    if (entry.children) {
-        const filtered = entry.children
-            .map(treeFilter)
-            .filter((c): c is TreeEntry => c !== null)
-        entry = { ...entry, children: filtered }
-    }
-    return entry.children && entry.children.length > 0 ? entry : null
+    if (!entry.children) return null
+    const filtered = entry.children
+        .map(treeFilter)
+        .filter((c): c is TreeEntry => c !== null)
+    entry = { ...entry, children: filtered }
+    return filtered.length > 0 ? entry : null
 }
 
 // ─── Parser ─────────────────────────────────────────────────────────────────
 
 export function treeParser(entry: TreeEntry): TreeEntry {
+    if (!entry || !entry.path) return entry
     if (entry.kind === 'file') {
         const url = '/doc/' + entry.path.replace(/^public\/md\//, '').replace(/\.md$/, '')
         const displayName = entry.path
